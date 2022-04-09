@@ -2,6 +2,8 @@
   "private": true,
   "dependencies": {
     "fs-extra": "^10.0.1",
-    "prettier": "^2.6.2"
+    "jimp": "^0.16.1",
+    "prettier": "^2.6.2",
+    "sharp": "^0.30.3"
   }
 }
