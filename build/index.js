@@ -80,6 +80,8 @@ async function run() {
     timestamp: new Date().toISOString(),
     nodeTypes: ["universe"],
   });
+
+  await fs.copy("build/static", "dist");
 }
 
 run();

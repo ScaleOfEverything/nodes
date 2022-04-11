@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SOE Data Viewer</title>
+  </head>
+  <body>
+    <h1>Scale of Everything Data Source</h1>
+    <p>Version ID: <span id="version"></span></p>
+    <p>Built on: <span id="build-date"></span></p>
+
+    <script>
+      async function main() {
+        const data = await fetch("/build.json").then((r) => r.json());
+        document.getElementById("version").textContent = data.id;
+        document.getElementById("build-date").textContent = data.timestamp;
+
+        for (const type of data.nodeTypes) {
+          console.log(type);
+        }
+      }
+      main();
+    </script>
+  </body>
+</html>

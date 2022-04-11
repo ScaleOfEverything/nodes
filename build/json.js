@@ -7,6 +7,7 @@ export function stringify(value, k = undefined) {
     return (
       "{" +
       Object.keys(value)
+        .sort()
         .map((k) => `"${escapeString(k)}":${stringify(value[k], k)}`)
         .join(",") +
       "}"
