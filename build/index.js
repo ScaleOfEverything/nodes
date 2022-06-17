@@ -32,6 +32,14 @@ async function run() {
         const image = sharp(`universe/${id}/node.png`);
         const meta = await image.metadata();
         image.resize(Math.ceil(meta.width / 4), Math.ceil(meta.height / 4));
+        image.stats()
+          .then(({ channels: [rc, gc, bc] }) => {
+            const r = Math.round(rc.mean);
+            const g = Math.round(gc.mean);
+            const b = Math.round(bc.mean);
+            const color = '#' + [r, g, b].map((c) => c.toString(16).padStart(2, "0")).join("");
+            universeNodes[id].c = color;
+          });
         await image.toFile(`dist/universe/assets/${id}-lq.png`);
       } else {
         console.log(`No node image for ${id}`);
