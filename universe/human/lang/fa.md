@@ -1,5 +1,6 @@
-# Inimene
+# Human
 
-Ma eeldan, et sa oled inimene. Ma olen ka inimene! Kas teadsid, et meid on 7
-miljardit? Seda on palju. Muideks, kui sa kohtaksid iga sekund üht inimest, siis
-sul võtaks 200 aastat, et nende kõigiga kohtuda. Nii et alusta varakult!
+I'm going to assume you are a human. I am a human too! Did you know that there
+are over 7 billion of us? That's a lot. In fact, if you met each person for one
+second, it would take you about 200 years to meet all of them! Better get
+started now!

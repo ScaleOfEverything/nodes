@@ -1,5 +1,5 @@
-# Elefanto
+# Elefantul
 
-La elefanto estas la plej granda tera besto. Nur tri specioj de elefantoj
-ekzistas. Ili povas pezi 8 tunojn, kio proksimume estas 10-foje la pezo kiun
-nenian homo iam atingis!
+Elefantul este cel mai mare animal terestru. Se cunosc doar trei specii de
+elefanti. Cîntaresc pîna la 8 tone, aproximativ de 10 ori greutatea atinsa de
+vreun om!

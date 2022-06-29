@@ -1,6 +1,5 @@
-# T-kvarko
+# Cuarcul top
 
-La T-kvarko estas la plej malgranda kvarko, kion signifas, gi estas la plej
-amasa. Estas preskau 100.000 foje amasa kiel la U-kvarko, kiu estas la plej
-legera el la kvarkoj. La amaso de la T-kvarko estas 173 miliardoj da
-elektronvoltoj!
+Cuarcul top este mai mic, ceea ce înseamna ca este si cel mai masiv! Are de
+aproape 100.000 de ori mai multa masa decît cuarcul up, care este cel mai usor
+dintre cuarci. Cuarcul top are o masa de 173 de miliarde de electron-volti!

@@ -1,5 +1,5 @@
-# Merkuro
+# Mercur
 
-Merkuro estas la plej proksima planedo al la Suno. Gi ne havas atmosferon. Dum
-tago, temperaturoj atingas 400° C, sed nokte, la temperaturoj falas gis -180° C.
-Unu Merkura jaro havas 88 Terajn tagojn.
+Mercur este planeta cea mai apropiata de Soare. Ea nu are atmosfera. În timpul
+zilei, temperatura ajunge la 400 ° C, dar pe timp de noapte, temperaturile scad
+pîna la -180 ° C. Un an pe Mercur are 88 de zile terestre

@@ -1,4 +1,5 @@
-# Nebuloasa Clepsidra
+# Туманність Пісковий Годинник
 
-Nebuloasa Clepsidra are forma unei clepsidre. Dupa cum poti vedea, are doi lobi.
-Lobul superior este înclinat spre noi
+Туманність Пісковий Годинник насправді схожа на пісковий годинник. Як ви можете
+побачити, на ній є дві пелюстки. Верхня пелюстка спрямована до нас, а нижня – в
+протилежну сторону.

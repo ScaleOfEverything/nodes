@@ -1,5 +1,5 @@
-# Spuma Quantica
+# Квантова Піна
 
-Conform teoriei spatio-temporale, spuma cuantica, sau spuma spatio-temporala
-este fundamentul universului. E imposibil de observat în mod direct sau masurat,
-deoarece este extrem de mica.
+Відповідно до теорії простору-часу, квантова піна, яку також називають піною
+простору-часу, є основою матерії Всесвіту. Неможливо безпосередньо побачити або
+виміряти її, тому що вона настільки мала.

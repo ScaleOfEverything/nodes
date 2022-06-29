@@ -1,6 +1,5 @@
-# Karihiir
+# Shrew
 
-Karihiired on suurepärased väiksed tegelased. Nende ainevahetuse kiirus on nii
-suur, et nad peavad iga päev sööma oma kehakaaluga võrdse koguse toitu. Samuti
-moodustab aju 10% kogu nende kehakaalust. See on suurim protsent loomade hulgas,
-kuhu kuuluvad ka inimesed.
+Shrews are great little thingies. Their metabolism rate is so high they must eat
+their body weight every single day! Also, 10% of their body weight is their
+brain. That's the highest of any animal's, including humans!

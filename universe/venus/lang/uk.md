@@ -1,6 +1,5 @@
-# Venus
+# Венера
 
-Mai demult se credea ca Venus si Pamîntul sînt planete surori. Asta e însa
-departe de adevar! Temperatura suprafetei pe Venus este de peste 450 ° C,
-cauzata de efectul de sera - atmosfera sa,în mare parte dioxid de carbon,
-pastreaza caldura Soarelui!
+Були часи, коли вважалося, що Венера та Земля є планетами-сестрами. Це зовсім не
+так! Температура поверхні Венери завжди вище 450° C, тому що її атмосфера
+поглинає спеку Сонця. Вона в-основному складається з вуглекислого газу!

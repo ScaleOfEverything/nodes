@@ -1,5 +1,5 @@
-# Luyteni täht
+# Luyten's Star
 
-Luyteni täht on meist 12 valgusaasta kaugusel olev punane kääbus. See on
-Prooküonile nii lähedal, et Prooküon paistaks 10 korda heledam Luyteni tähele
-kui Siirius paistab meile.
+Luyten's Star is a red dwarf star 12 light-years away from us. It is so close to
+Procyon that Procyon would appear 10 times brighter to Luyten's Star than Sirius
+appears to us.

@@ -1,5 +1,5 @@
-# 오르트구름
+# Öpiku-Oorti pilv
 
-오르트구름은 태양계의 가장 바깥쪽을 이루고 있습니다. 고체상태의 물, 암모니아, 메
-테인과 혜성이 듬성듬성 분포합니다. 오르트구름의 바깥쪽 경계는 태양의 중력이 미치
-는 범위와 같습니다.
+Öpiku-Oorti pilv on kõige välimine Päikesesüsteemi piirkond. Vee jää, ammoniaagi
+jää, metaani jää ja komeedid täidavad selle piirkonna vabalt. Öpiku-Oorti pilve
+piir on ka Päikese gravitatsioonilise tõmbe piir.

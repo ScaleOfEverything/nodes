@@ -1,5 +1,4 @@
-# VV Cephei A
+# A قیفاووس V V
 
-Mõnda aega peeti VV Cephei A-d suurimaks teadaolevaks täheks. Nüüd kuulub see
-tiitel VY Canis Majorisele. Uusi tähti avastatakse pidevalt ja seepärast võib
-tiitli omanik vahetuda.
+برای مدتی VV قیفاووس A بزرگترین ستاره ی شناخته شده بود. هم اکنون این عنوان متعلق
+است به سگ بزرگ VY است. به این دلیل که همواره ستارگان جدید در حال کشف شدن هستند!

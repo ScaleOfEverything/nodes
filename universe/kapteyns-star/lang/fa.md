@@ -1,5 +1,5 @@
-# Kapteyni täht
+# Kapteyn's Star
 
-Kapteyni täht on ainult kolmeteistkümne valgusaasta kaugusel. Sellegi poolest on
-selle suhteline tähesuurus +9 ja seda näeb ainult binokliga. 10 000 tagasi oli
-Kapteyni täht ainult seitsme valgusaasta kaugusel.
+Kapteyn's Star is only thirteen light-years away. Even so, its magnitude is +9,
+so you need binoculars to see it. Around 10,000 years ago, Kapteyn's Star was
+only seven light-years away!

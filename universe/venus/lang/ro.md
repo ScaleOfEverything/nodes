@@ -1,5 +1,6 @@
-# Venuso
+# Venus
 
-Iam oni kredis, ke Venuso kaj Tero estis frataj planedoj. Tio ja estas tute
-nevere! La temperatura surfaco de Venuso ciam estas super 450° C, car gia
-atmosfero, kiu estas plejparte karbon-dioksido, kaptas la Sunan varmon!
+Mai demult se credea ca Venus si Pamîntul sînt planete surori. Asta e însa
+departe de adevar! Temperatura suprafetei pe Venus este de peste 450 ° C,
+cauzata de efectul de sera - atmosfera sa,în mare parte dioxid de carbon,
+pastreaza caldura Soarelui!

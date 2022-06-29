@@ -1,5 +1,5 @@
-# C-kvark
+# Charm Quark
 
-C-kvark ja s-kvark on teise põlvkonna aineosakesed. Need lagunevad lühikese aja
-jooksul u- ja d-kvargiks, mis on esimese põlvkonna aineosakesed. C-kvark on oma
-nime saanud inglisekeelsest sõnast charm (võlu).
+The charm quark and the strange quark are the second generation of matter. They
+will quickly decay into up and down quarks, which are the first generation of
+matter. The charm quark is charming.

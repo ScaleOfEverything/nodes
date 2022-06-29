@@ -1,6 +1,6 @@
-# Neutrinii
+# Нейтріно
 
-Neutrinii strabat tot timpul materia obisnuita din care suntem alcatuiti toti.
-De fapt ei trec prin noi chiar acum! Neutrinii nu au încarcatura electrica,
-astfel încît sunt influentati doar de gravitatie si de forta slaba. Cu toate
-acestea, ei sunt atît de mici încît influenta este minima.
+Нейтріно проходить повз звичайну матерію увесь час, як ти і я! Насправді, саме
+зараз вони це роблять! У нейтріно немає заряду, тому на них можуть впливати лише
+гравітація та слабка взаємодія. Однак, вони такі малі, що на них майже ніщо не
+може вплинути.

@@ -1,5 +1,5 @@
 # NGC 1232
 
-NGC 1232 on üpris suur galaktika. See on suurem kui meie oma, aga ei ole suurim.
-Muidugi ei ole suurim galaktika ka IC 1101, see on ainult suurim, millest me
-teadlikud oleme. Tõenäoliselt on seal veel palju selliseid!
+NGC 1232 is a pretty big galaxy. It's bigger than ours, but it's not the
+biggest. Of course, IC 1101 is not the biggest galaxy, it's only the biggest
+galaxy we know of. There are probably many more!

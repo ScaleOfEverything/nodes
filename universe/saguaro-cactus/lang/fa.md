@@ -1,5 +1,5 @@
-# Saguaro kaktus
+# Saguaro Cactus
 
-Mitte kõik Saguaro kaktused ei kasva 14 meetri kõrguseks. Mõned neist võivad
-ainult hädised viis meetrit kõrged olla. Osadel neist on harud, mida nimetatakse
-odadeks. Saguaro kaktusel võtab üle 75 aasta, et kasvatada haru.
+Not all Saguaro cacti grow to be 14 meters tall, unfortunately. Some may only be
+a measly five meters tall. Some are armless– those are called spears. It takes
+saguaro cacti 75 years to fully grow an arm, while it takes humans less than 20.

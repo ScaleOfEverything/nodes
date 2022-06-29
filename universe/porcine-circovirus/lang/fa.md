@@ -1,5 +1,6 @@
-# Sigade tsirkoviirus
+# Porcine circovirus
 
-Sigade tsirkoviirus on üks väiksematest viirustest. Ta vajab ainult kolme valku,
-et ennast kopeerida. Üldiselt sigade tsirkoviirus looma haigestumist ei põhjusta
-(ainult koos võõrutusjärgse multisüsteemse kurnatuse sündroomiga).
+The Porcine circovirus is one of the smallest viruses. It only requires three
+proteins to replicate. If you consider viruses to be alive, then the Porcine
+circovirus is the smallest living thing. However, most people agree that viruses
+are not alive.

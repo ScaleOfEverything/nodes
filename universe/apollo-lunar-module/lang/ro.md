@@ -1,5 +1,5 @@
-# Apola Luna Modulo
+# Modulul Apollo
 
-Ci tiu ajo pezas 15,000 kilogramojn! Tio estas multe! Gi ankau alterigis sur la
-Luno. Sia alterigo inspiris la arkajejan ludon "Lunan Alterigilon", kiu ne estas
-facila. Kiam mi ludas, min ciam restas sen brulajon!
+Modulul cîntareste 15.000 de kilograme! De asemenea, a aterizat pe Luna.
+Aterizarea sa a inspirat un joc numit " Lunar Lander ", care nu-i deloc usor. De
+cîte ori îl joc, ramîn fara combustibil!

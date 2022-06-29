@@ -1,4 +1,5 @@
-# Amebo
+# Amoeba
 
-Ameboj estas unucelaj, kion signifas, ke estas nur unu celo. Iuj ameboj povas
-kreski je nekredeblaj 700 mikrometroj, kio estas preskau kompleta milimetro.
+Amoeba este unicelulara, înseamna ca este alcatuita doar dintr-o o singura
+celula! Unele amoebe pot creste pîna la 700 de micrometri, adica aproape un
+milimetru întreg.

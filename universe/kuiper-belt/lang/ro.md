@@ -1,5 +1,5 @@
-# Kuiperzonajo
+# Centura Kuiper
 
-La Kuiperzonajo estas regiono de la Sunsistemo ekster la orbito de Neptuno, kie
-malgrandaj korpoj orbitas. Multaj nanaj planedoj ekzistas tie ci. Estas tre
-granda asteroid-zonejo.
+Centura Kuiper este o regiune a Sistemului Solar în afara orbitei lui Neptun
+unde orbiteaza multe obiecte de mici dimensiuni. Este ca o a doua centura de
+asteroizi (mai larga)

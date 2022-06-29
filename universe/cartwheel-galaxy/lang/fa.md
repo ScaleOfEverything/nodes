@@ -1,6 +1,6 @@
-# Cartwheel galaktika
+# Cartwheel Galaxy
 
-Astronoomid arvavad, Cartwheel galaktika põrkus kahe lähedase galaktikaga 200
-miljonit aastat tagasi. Tegelikult 700 miljonit aastat tagasi, sest Cartwheel
-galaktika on 500 miljoni valgusaasta kaugusel nii, et mida me sellest näeme on
-juba 500 miljonit aastat vana.
+Astronomers think the Cartwheel Galaxy had a collision with two nearby galaxies
+200 million years ago. Actually, 700 million years ago, because the Cartwheel
+Galaxy is 500 million light-years away, so what we see of it is already 500
+million years old.

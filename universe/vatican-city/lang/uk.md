@@ -1,6 +1,6 @@
-# Vatican
+# Місто Ватикан
 
-Vaticanul este cea mai mica tara. Desi foarte mica, este mai mare decît tine.
-Daca ti s-ar întinde în mod egal corpul peste întregul Vatican, suprafata de
-acoperire va fi de aproximativ 200 nanometrii grosime, mai putin decît o singura
-celula de piele!
+Місто Ватикан є найменшою країною. Хоча воно й дуже мале, воно більше за вас.
+Якщо б ви розтянули свою плоть по місту Ватикан так, щоб вона розподілялася
+рівно, покриття б складало близько 200 нанометрів у товщину, що є менше, ніж
+навіть одна кожна клітина!

@@ -1,5 +1,6 @@
-# Mitochondrion
+# Мітохондрія
 
-Aceste organite pot transforma energia chimica din glucoza în ATP, care poate
-genera usor energie. Cam 120.000.000.000.000.000.000.000.000 moleculele de ATP
-sunt create în fiecare zi în corpul tau de catre mitocondrii.
+Ці органоїди можуть перетворювати хімічну енергію із глюкози в
+аденозинтрифосфорну кислоту, яку можна з легкістю використовувати для енергії.
+Близько 120,000,000,000,000,000,000,000,000 молекул аденозинтрифосфорної кислоти
+створюються щодня у вашому тілі мітохондрією.

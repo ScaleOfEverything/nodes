@@ -1,5 +1,5 @@
-# Virga Galaksia Amaso
+# Virgo Cluster
 
-La Virga Galaksia Amaso estas la plej granda galaksia amaso en la Virga
-Supergalaksia Amaso, kaj lokigas ce gia mezo. Gi estis malkovrita en la malfruaj
-1770-jaroj, kiam siaj galaksioj estis katalogita kiel Messier-objektoj.
+Cluster Fecioara este în centrul si cel mai mare cluster din supercluster-ul
+Fecioara. A fost descoperit în 1770, cînd galaxiile sale au fost catalogate ca
+obiecte Messier.

@@ -1,5 +1,5 @@
-# X-Kromosomo
+# Cromozom X
 
-X-kromosomoj estas absolute mirindaj. Plej kromosomoj aspektas kiel X-oj ec se
-ili ne estas seksaj kromosomoj, tiuj estas autosomoj. Virinoj havas du
-X-kromosomojn dum viroj havas unu X- kaj unu Y-kromosomo.
+Cromozomii X sunt absolut minunati! Cei mai multi cromozomi X arata asa, chiar
+daca nu sunt cromozomi sexuali - aceia sunt autozomii. Femeile au doi cromozomi
+X în timp ce masculii au un cromozom X si un cromozom Y.

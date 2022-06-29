@@ -1,5 +1,5 @@
-# Nebuloasa Pestera
+# Туманність Печера
 
-Nebuloasa Pestera este o nebuloasa foarte difuza. Cele mai multe nebuloase de
-mari dimensiuni sunt asa difuze, ai nevoie de timpi de expunere mari pentru a le
-vedea. Nebuloasa Pestera este numita si SH2-155 sau Caldwell 9
+Туманність Печера – дуже розсіяна туманність. Звичайно, більшість туманностей
+настільки ж великі, як і ця, нечіткі, тому вам знадобиться більшій час витримки,
+щоб їх побачити. Туманність Печеру також називають Sh2-155 або Колдуелл 9.

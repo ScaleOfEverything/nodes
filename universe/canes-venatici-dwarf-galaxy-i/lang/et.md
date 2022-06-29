@@ -1,5 +1,4 @@
-# 사냥개자리 왜소은하 I
+# Canes Venatici I kääbusgalaktika
 
-사냥개자리 왜소은하 I 는 우리로부터 720,000 광년 떨어져 있습니다. 지금 스크롤해
-서 여기서 720,000 광년만큼 멀어진다면, 이 그림의 크기는 2 픽셀밖에 되지 않을거에
-요.
+Canes Venatici I kääbusgalaktika on meist 720 000 valgusaasta kaugusel. Kui nii
+palju välja suumida, siis oleks selle galaktika suurus paar pikslit.

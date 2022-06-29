@@ -1,5 +1,4 @@
-# Kapelo
+# Capella
 
-Kapelo estas fakte binara stelo. Ambau steloj estas tipo-G gigantaj steloj. La
-pli granda estas tiu, kiun vi vidas maldekstre. La Suno ankau estas tipo-G
-stelo, sed gi estas en la precipa sekvenco.
+Capella e de fapt o stea binara; avînd ambele stele de tip G. Cea mai mare e cea
+din stînga. Soarele este tot o stea de tip G

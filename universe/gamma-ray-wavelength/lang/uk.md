@@ -1,5 +1,5 @@
-# lungimea de unda a razelor Gamma
+# Довжина Гамма-Променю
 
-Desi razele gamma nu o frecventa foarte înalta, provin de obicei din
-dezintegrare radioactiva. Apropo, nu sunt de fapt albastre, asa cum par a fi în
-stînga.
+Гамма-промені мають дуже високу частоту. Вони можуть виникати із радіоактивного
+розпаду. О, і до речі, насправді вони не світло-блакитного кольору, як видається
+зліва.

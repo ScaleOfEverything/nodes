@@ -1,4 +1,4 @@
-# Distanco de la Tero al la Luno
+# Distanta de la Pamînt la Luna
 
-La Tero kaj la Luno ci tie ne estas skale. Se la distanco estu unu metro, La
-Tero havus grandecon de la kvarono de usona dolar-monero, dum Luno estus pizo.
+Pamîntul si Luna aici nu sunt la scala. Daca distanta ar fi un metru, Pamîntul
+ar fi dimensiunea unui banut, iar luna ar fi un bob de mazare

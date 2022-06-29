@@ -1,5 +1,5 @@
-# S-kvark
+# Strange Quark
 
-S-kvark on oma nime saanud inglisekeelsest sõnast strange (veider). Kuigi need
-on väiksemad kui u-kvargid, on need 50 korda suurema massiga. Kas pole veider?
-Veider, et aine koosneb u-, d,- ja s-kvarkidest.
+Strange quarks are very strange. They are 50 times as massive as up quarks, but
+are still smaller! Isn't that strange? Very much so! "Strange matter" is made up
+of up, down, and strange quarks!

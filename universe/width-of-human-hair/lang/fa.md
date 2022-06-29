@@ -1,5 +1,6 @@
-# Inimese juuksekarva laius
+# Width of Human Hair
 
-Sirged juuksed on peaaegu täiuslikud silindrid. Lokkis juuksed on lamedamad, mis
-võimaldab juustel ka lokki minna. Kas teadsid, et sul on tõenäoliselt peas 50
-000 kuni 200 000 juuksekarva? Proovi lugeda!
+Human hair is amazing. Straight hair is almost perfectly cylindrical. On the
+other hand, curly hair is flatter, which allows it to curl, like a ribbon. Did
+you know that you probably have 50,000 to 200,000 strands of hair on your head?
+You can count!

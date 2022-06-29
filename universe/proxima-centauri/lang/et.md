@@ -1,6 +1,6 @@
-# 프록시마 센타우리
+# Proxima Centauri
 
-프록시마 센타우리는 지구에서 태양 다음으로 가장 가까운 별로 알려져있습니다. 이름
-은 가깝다는 뜻의 영어단어인 "proximity" 에서 유래되었다고 하네요. 프록시마 센타
-우리는 작은 붉은색의 별인데, 밝기가 태양의 0.16 % 밖에 되지 않아서 보려면 망원경
-이 필요합니다.
+Proxima Centauri on Päikese järel teine lähim täht Maale. Selle nimetus tuleneb
+ladina keelest,kus proxima tähendab lähimat või kõrval olevat. Proxima Centauri
+on punane kääbustäht. See on niivõrd tuhm, et palja silmaga ei ole võimalik seda
+vaadelda.

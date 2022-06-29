@@ -1,6 +1,5 @@
-# LCD-bildero
+# Pixel LCD
 
-Kvankam la grando de bilderoj diferencas ege, 300 mikrometroj cirkau estas la
-mezkvanto. Bilderoj enhavas tri subbilderojn, kiuj estas ruga, verda kaj blua.
-Bilderoj estas sufice mojosa, sed volumeneroj estas ec pli bona. Ili estas
-tridimensiaj bilderoj.
+Desi dimensiunea unui pixel nu este fixa, 300 de micrometri este media. Pixelii
+contin trei subpixeli; fiecare fiind rosu, verde si albastru. Pixelii sunt
+interesanti, voxelii însa sunt pixeli tridimensionali!

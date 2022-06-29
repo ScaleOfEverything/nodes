@@ -1,6 +1,5 @@
-# 트랜지스터 게이트
+# Transistor
 
-컴퓨터의 부속품인 트랜지스터는 점차로 작아지고 있습니다. 1971 년 당시에는 트랜지
-스터는 그 크기가 10 마이크로미터로, 지금보다 400 배나 컸었지만, 현재는 25 나노미
-터보다 작습니다! 게다가 미래에는 이보다 더 작아지겠지요. 트랜지스터는 과연 어디
-까지 작아질 수 있을까요?
+Transistorid arvutites muutuvad järjest väiksemaks ja väiksemaks. 1971. aastal
+nad olid ühe millimeetri suurused. Nüüd on need 25 nanomeetri suurused.
+Tulevikus võivad veelgi väiksemad olla. Huvitav, kui väikseks nad muutuvad?

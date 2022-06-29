@@ -1,5 +1,5 @@
-# Nor mic Magellan
+# Мала Магелланова Хмара
 
-Nor Magelanic mic este numit asa doar pentru ca este mai mic decît cea mai
-apropiata galaxie, norul Magelan mare. Daca norul Magelan mare ar fi fost mai
-mic, norul Magelan mic ar fi fost numit mare!
+Мала Магелланова Хмара лише зветься малою, тому що за розміром вона менша, ніж
+галактика поруч з нею, Велика Магелланова Хмара. Якщо б Велика Магелланова Хмара
+була меншою, Мала Магелланова Хмара називалася б Великою Магеллановою Хмарою!

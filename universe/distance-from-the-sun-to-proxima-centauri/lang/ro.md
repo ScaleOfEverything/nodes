@@ -1,5 +1,5 @@
-# Distanco el la Suno al Proksima Centauro
+# Distanta de la Soare la Proxima Centauri
 
-Proksima Centauro estas la plej proksima stelo al la Suno. Tamen, estas ankorau
-tre fore. 30 milionoj da Sunoj povus lokigi inter Proksima Centauro kaj la Suno
-lau rekta linio.
+Proxima Centauri este cea mai apropiata stea de Soare. Cu toate acestea, este
+destul de departe. 30 de milioane de sori s-ar încadra între Soare si Proxima
+Centauri în linie dreapta

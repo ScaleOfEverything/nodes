@@ -1,5 +1,6 @@
-# 샤프심
+# Pliiatsisüsi
 
-여러분 연필 많이 쓰시죠? 아, 그나저나, 이건 샤프심이에요. 여담으로, 지금까지 가
-장 컸던 연필의 흑연 무게는 2,000 kg 정도 였다고 하네요. 지금까지 가장 무거웠던사
-람의 3 배가 조금 안되는 무게에요!
+Pliiatsisütt kasutatakse palju. Muide, see on mehaanilise pliiatsi süsi. Suurim
+pliiats maailmas sisaldas 2000 kilogrammi grafiiti. See on kolm korda rohkem kui
+üks inimene ja ühe inimese all pean silmas kõige suuremat inimest, kes kunagi
+elanud.

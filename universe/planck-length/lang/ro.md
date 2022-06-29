@@ -1,5 +1,5 @@
-# Planck-a Longeco
+# Lungimea lui Planck
 
-La plancka longeco (lp) estas unuo de longeco. Ankau estas la plancka tempo, kiu
-estas la kvanto da tempo kiun necesas la lumo por vojagi tra unu plancka longeco
-en vakuo. (Super mallonga!)
+Lungimea lui Planck (lp) este o unitate de lungime. Exista si un timp Planck,
+care este necesarul de timp pentru ca lumina sa calatoreasca o lungime Planck în
+vid. (scurt, nu?)

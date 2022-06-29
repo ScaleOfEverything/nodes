@@ -1,5 +1,5 @@
-# Granda barilrifo
+# Marea Bariera de Corali
 
-La Granda barilrifo estas la plej granda korala rifo de la mondo. La rifo
-ciujare pligrandigas kaj kreskas elinterne kaj ekstere, car polipoj, kreantaj
-gin, sencese multigas kreante novajn unuopulojn.
+Marea Bariera de Corali este cel mai mare sistem de recif coraligen din lume
+cuprinzând aproximativ 3000 de recifuri ?i 300 de insule ce se întind de-a
+lungul a 2600 kilometri ?i acopera o suprafa?a de 344,400 km.

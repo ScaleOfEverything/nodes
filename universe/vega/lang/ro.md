@@ -1,5 +1,5 @@
-# Vego
+# Vega
 
-Vego trovigas en la konstelacio Liro. Kaj apartenas al la Somera Triangulo,
-farita el Vego, Altairo, kaj Denebo. Vego sinturnadas tiel rapide ke gi
-sveligas. Tamen, ni vidas gin polusen, pro tio gi sajnas ronda.
+Vega se afla în constelatia Lyra. Ea compune - alaturi de Altair si Deneb -
+Triunghiul de Vara. Vega se învîrte atît de repede încît este bombata! Cu toate
+acestea, noi o vedem de la poli, asa ca pentru noi pare circulara

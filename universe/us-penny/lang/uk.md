@@ -1,5 +1,5 @@
-# un cent SUA
+# Пенні США
 
-Stiai ca în 1912, un cent valora cît valoreaza acum un sfert de dolar? Daca ai
-topi un cent în elementele componente: zinc si cupru, valoarea lor ar fi de 1.79
-centi. Apropo, este ilegal, nu o fa!
+Ви знали про те, що у 1912 році, пенні мала ту ж саму вартість, яку зараз має 25
+центів? Також, якщо ви розплавите пенні у цинку та міді, вона буде коштувати
+1.79 центів. Це неправомірно, тому не робіть цього.

@@ -1,5 +1,5 @@
-# Profundeco de la Mariana Fosego
+# Adâncimea groapei Marianelor
 
-La Mariana Fosego estas sufice funda foso. Lokigas en la Pacifika Oceano. Cu vi
-scias, ke ci tiu bela tranceo estis proponita kiel loko por forjeti atomajn
-restajojn? Tio estas profunda temo!
+Groapa Marianelor este o fosa adînca în Oceanul Pacific. Stiai ca acesta fosa
+minunata a fost propusa ca depozit pentru deseuri nucleare? Tema e discutabila,
+nu?

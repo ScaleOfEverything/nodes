@@ -1,5 +1,5 @@
-# Rulglobeto
+# o bila de sticla
 
-La rulglobetoj estas rondaj, sed ili estas fakte tre malglataj se vi rigardas
-ilin sub mikroskopo. Ci tiu rulglobeto estas ekzemplo de dentopasta rulglobeto.
-Aliaj rulglobetoj povas esti el ligno, plasto, metalo, au ec el koto.
+Bilele de sticla par rotunde pîna cînd te uiti la ele cu un microscop. Aceasta
+sticla este un exemplu de marmura pasta de dinti. Alte bile pot fi facute din
+lemn, plastic, metal, sau chiar praf.

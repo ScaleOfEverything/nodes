@@ -1,5 +1,5 @@
 # DNA
 
-인간 세포 한개에 들어 있는 DNA 를 늘어놓으면, 3 m 에 육박한다고 하네요. 몇 나노
-미터밖에 안되는 DNA 하나가, 25,000 여개의 유전정보를 저장한다고 하네요. 아주 많
-은 거에요!
+Üks inimese rakk sisaldab kolm meetrit desoksüribonukleiinhapet. See DNA lõik,
+kuigi olles ise ainult paari nanomeetrise läbilõikega, sisaldab ligikaudu 25 000
+geeni koos kolme miljardi aluspaariga.

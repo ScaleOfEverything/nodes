@@ -1,5 +1,5 @@
-# Koopa udukogu
+# Cave Nebula
 
-Koopa udukogu on väga hajus udukogu. Muidugi on enamus nii suuri udukogusid
-tuhmid ja nende märkamine võtab palju aega. Koopa udukogu nimetatakse ka Sh2-155
-või Caldwell 9-ks.
+The Cave Nebula is a very diffuse nebula. Of course, most nebulae as large as
+this one are faint, so you need long exposure times to see them. The Cave Nebula
+is also called Sh2-155 or Caldwell 9.

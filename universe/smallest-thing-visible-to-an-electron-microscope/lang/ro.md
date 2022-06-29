@@ -1,5 +1,5 @@
-# Plej Eta Ajo Videbla tra Elektrona Mikroskopo
+# Cel mai mic lucru vizibil printr-un microscop electronic
 
-Elektrona mikroskopoj permesas al ni vidi tre malgrandaj ajoj (kiel atomoj) kiu
-devus alie esti nevideblaj, car ili estas pli malgrandaj ol la ondolongo de
-videbla lumo.
+Microscoapele electronice ne lasa sa vedem lucruri foarte mici (cum ar fi
+atomi), care altfel ar fi invizibile, deoarece sunt mai mici decît lungimea de
+unda a luminii!

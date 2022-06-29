@@ -1,4 +1,4 @@
-# Gammakiirte lainepikkus
+# Gamma Ray Wavelength
 
-Gammakiired on väga kõrge sagedusega. Need võivad tekkida radioaktiivsel
-lagunemisel. Muideks need ei ole helesinised nagu vasakul paistavad.
+Gamma rays have a very high frequency. They can come from radioactive decay. Oh,
+and by the way, it's not actually light blue as it appears to the left.

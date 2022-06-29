@@ -1,5 +1,5 @@
-# Regulus
+# قلب ااسد
 
-Regulus on oma kiire pöörlemise tõttu kumerdunud täpselt nagu Altair ja Veega.
-Kui Regulus pöörleks 16% kiiremini, siis see puruneks. Regulus on ka Lõvi
-tähtkuju heledaim täht. Regulusele lisaks on veel Regulus B ja C.
+قلب ااسد مانند نسر طائر و نسر واقع آنقدر سریع می چرخد که ورم می کند. اگر قلب 1سد
+16% بیشتر از سرعت فعلی می چرخید از هم گسیخته می شد! قلب ااسد همچنین درخشانترین
+ستاره در صورت فلکی شیر است. قلب ااسد B و C نیز وجود دارند.

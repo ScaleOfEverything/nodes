@@ -1,6 +1,5 @@
-# Intermitluma Nebulozo
+# Nebuloasa clipitoare
 
-La Intermitluma Nebulozo (NGC 6826) estas planeda nebulozo kiu nuntempe jam ne
-intermitlumas. Sajnas, tamen, aperi kaj malaperi de la vido. Estas du rugaj
-FLIERs (Fast Low-Ionization Emission Regions = Rapide Malaltaj Jonigaj Regionoj)
-sur la dorso de la nebulozo.
+Nebuloasa clipitoare este o nebuloasa planetara care de fapt nu clipeste; pare
+doar sa apara si sa dispara. Exista doua regiuni rosii (regiunile cu emisie de
+ionizare redusa), pe parti opuse

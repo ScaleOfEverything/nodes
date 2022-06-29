@@ -1,4 +1,5 @@
-# 에펠탑
+# Eifeli torn
 
-41 년동안, 에펠탑은 인간이 만든 건축물중에서 가장 높았습니다. 2 억명의 사람들이
-에펠탑을 왔다 갔는데, 미국의 인구랑 맞먹는 정도래요!
+41 aasta jooksul oli Eifeli torn kõrgeim inimese poolt ehitatud hoone maailmas.
+Eifeli tornis on käinud 200 miljonit inimest, mis moodustab peaaegu terve USA
+populatsiooni!

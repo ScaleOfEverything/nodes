@@ -1,5 +1,5 @@
-# Aasia
+# Asia
 
-Aasia on suurim maailmajagu, kus elab üle nelja miljardi inimese ehk üle poole
-inimkonna. Aafrika on asustatuse poolest teine maailmajagu, aga seal elab ainult
-üks miljard inimest.
+Asia is the Earth's largest continent, holding over four billion people – over
+half of the world's population. Africa is the second most populous continent,
+but only has one billion people.

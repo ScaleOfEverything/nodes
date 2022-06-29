@@ -1,5 +1,4 @@
-# Lemno
+# Lintita
 
-Tio estas akvaj lentoj, kiuj flosas en lagetoj kaj aliaj akvaj korpoj. Ili ne
-havas tigojn au radikojn. Aliflanke, ili kreas florojn, kiuj estas la plej
-malgrandaj de iu ajna planto sur la Tero.
+Lintita este ??lintea de apa care pluteste în iazuri si alte ape. Nu au tulpini
+sau radacini. În schimb ele creeze florile cele mai mici de pe Pamînt!

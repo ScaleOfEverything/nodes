@@ -1,5 +1,6 @@
-# 뾰족뒤쥐
+# Karihiir
 
-뾰족뒤쥐는 작지만 대단한 생물입니다. 이 쥐의 신진대사 속도는 엄청나게 빨라서, 하
-루에 자신의 몸무게만큼의 먹이를 섭취해야 한대요! 또, 이 쥐 몸무게의 10 % 는 뇌의
-무게인데, 어떠한 동물보다도 큰 비율이에요! 인간보다도요!
+Karihiired on suurepärased väiksed tegelased. Nende ainevahetuse kiirus on nii
+suur, et nad peavad iga päev sööma oma kehakaaluga võrdse koguse toitu. Samuti
+moodustab aju 10% kogu nende kehakaalust. See on suurim protsent loomade hulgas,
+kuhu kuuluvad ka inimesed.

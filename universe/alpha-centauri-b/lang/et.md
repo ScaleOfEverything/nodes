@@ -1,5 +1,5 @@
-# 알파 센타우리 B
+# Alpha Centauri B
 
-알파 센타우리 B 는 알파 센타우리 항성계에서 두번째로 큰 별입니다. 지름이 대략 백
-만 킬로미터 정도인데, 태양보다 약간 작습니다. 알파 센타우리 A, B 는 둘 사이의 거
-리가 워낙 가까운 탓에 지구에서는 하나로 보인다고 합니다.
+Alpha Centauri B on Alpha Centauri tähesüsteemi suuruselt teine täht. Selle
+läbimõõt on hinnanguliselt üks miljon kilomeetrit ja seega natuke väiksem kui
+Päike. Alpha Centauri A ja B on nii lähestikku, et paistavad meile ühe tähena.

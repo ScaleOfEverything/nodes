@@ -1,5 +1,5 @@
-# nebuloasa Mare în Carina
+# Туманність Киля у у Сузір’ї Кіль
 
-Aceasta este, de asemenea, numita nebuloasa Eta Carinae, a nu fi confundata cu
-nebuloasa Eta Carinae a lui Homunculusul (care la 0.002 ani lumina diametru este
-prea mica pentru a fi vazuta)
+Її також називають Туманністю Ета Киля, яку не варто плутати із Туманністю
+Гомункул із Ети Киля (яка імовірно доволі мала, щоб її можна було побачити
+просто зараз. Її розмір - 0.002 світлових років поперек).

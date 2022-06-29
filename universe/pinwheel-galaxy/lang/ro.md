@@ -1,5 +1,4 @@
-# Fajrajrada Galaksio
+# Pinwheel Galaxy
 
-Kiam ci tiu galaksio estis unue malkovrita oni kredis, ke gi estis nebulozo. Sed
-ne; gi estas galaksio. Ankau estas nomata Messier 101, car gi estis la 101-a
-Messier-objekto katalogita.
+Vazuta prima data, aceasta galaxie a fost confundata cu o nebuloasa. Este însa o
+galaxie, numita Messier 101, al 101-lea obiect clasificat Messier.

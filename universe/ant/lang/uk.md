@@ -1,5 +1,5 @@
-# Furnicile
+# Мураха
 
-Probabil ca nici tie nu-ti prea plac furnicile. Destul de rau, avînd în vedere
-ca 15-25% din toate animalele terestre sunt furnici! Fiecarui om îi corespund
-mai mult de un milion de furnici!
+Вам ймовірно не подобаються мурахи. Це доволі погано. 15-25% всіх земних істот
+складають мурахи! Уау! Це буде багато мурах! Для кожної людини на Землі, існує
+більше одного мільйона мурах!

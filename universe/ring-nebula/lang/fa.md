@@ -1,5 +1,5 @@
-# Rõngas udukogu
+# Ring Nebula
 
-Rõngas udukogu on sõrmuse kujuga. Vana uskumuse kohaselt olid kõik
-planetaarudukogud sarnased rõnga kujulised, kuid praeguseks on see väide ümber
-lükatud. Planetaarudu võib ka teise kujuga olla.
+The Ring Nebula looks a lot like a ring. The old belief was that all planetary
+nebulae were ring-shaped like this one, but that is now known to not be true.
+There are other shapes planetary nebulae can be.

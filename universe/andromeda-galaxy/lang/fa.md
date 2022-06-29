@@ -1,6 +1,5 @@
-# Andromeda galaktika
+# Andromeda Galaxy
 
-Andromeda galaktika on Linnutee lähedal. Kusjuures Andromeeda on kõige lähemal
-Linnuteele sarnastest galaktikatest. Mõne miljardi aasta pärast põrkuvad nad
-kokku ja moodustavad ühe suure galaktika. Huvitav, kuidas inimesed siis
-Linnuteed kutsuma hakkavad?
+The Andromeda Galaxy is the Milky Way's twin. It's the nearest galaxy that is a
+similar size and shape. In a few billion years, the two galaxies will collide
+and form one larger elliptical galaxy - Milkomeda.

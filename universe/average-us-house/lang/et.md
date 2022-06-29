@@ -1,5 +1,5 @@
-# 미국 가정집의 평균크기
+# Keskmine maja USA-s
 
-미국 가정집의 크기는 계속해서 커지고 있습니다. 지난 40 년 동안, 집 크기는 거의두
-배가 되었어요! 이 집들은 매우 커서, 1,000 명의 사람들이 들어갈 수 있대요! 꽤낑기
-긴 하겠지만요.
+Keskmine maja USA-s on pindalalt muutunud suuremaks ja suuremaks. Viimase 40
+aasta joooksul on keskmise maja pindala kahekordistunud. Praegu mahub
+keskmisesse majasse üle 1000 inimese!

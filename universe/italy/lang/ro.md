@@ -1,6 +1,5 @@
-# Italio
+# Italia
 
-Italio estis la naskigloko de Leonardo Da Vinci, kiu estis inventisto,
-matematikisto, ingeniero, pentristo, skulptoro, sciencisto, muzikisto, kaj multe
-pli. Multaj aliaj pentristoj, inkluzive Rafaelo kaj Mikel-Angelo, estis de
-Italio.
+Italia e tara natalal a Leonardo Da Vinci, un inventator, matematician, inginer,
+pictor, sculptor, om de stiinta, muzician, si mai mult mai multe. Multi alti
+pictori, printre care Rafael si Michelangelo, sunt de asemenea italieni

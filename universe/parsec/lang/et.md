@@ -1,5 +1,6 @@
-# 파섹
+# Parsek
 
-지구가 공전하면서 다른 별들이 움직이는 것처럼 보이게 되는데, 이를 시차라고 합니
-다. 만약 어떤 별이 태양계에 수직으로 1 파섹 밖에 있다면, 이 별의 시차는 1 초가됩
-니다 (1/3600°. Parallax(시차) + Arcsec(초) = Parsec(파섹)).
+Tänu Maa tiirlemisele ümber Päikese tunduvad lähemal olevad tähed liikuvat ja
+seda nimetatakse parallaksid. Kui lähedal olev täht on risti Päikesesüsteemiga
+ja on täpselt ühe parseki kaugusel, siis on selle parallaks täpselt üks
+kaaresekund (1/3600°). Parallaks+Kaaresekund=Parsek.

@@ -1,6 +1,6 @@
-# Celule albe din sînge
+# Біла Кров’яна Клітина
 
-Adevarati ucigasi în masa, celulele albe sînt sunt numite si leucocite. Exista
-mai multe tipuri de acest tip de celula de lupta împotriva bolilor. Tipul cel
-mai comun, neutrofile, au mai multe nuclee. Tipul cel mai mare, macrofage, au un
-diametru de un 21 de microni!
+Цих масових вбивць також називають лейкоцитами. Існує багато різних типів цієї
+клітини, яка бореться з хворобами. Найбільш розповсюджений тип, нейтрофіл, має
+декілька ядер. Найбільший з типів, макрофаг, має диаметр у величезні 21
+мікрометрів.

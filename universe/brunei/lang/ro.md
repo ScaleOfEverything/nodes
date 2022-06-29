@@ -1,5 +1,5 @@
-# Brunejo
+# Brunei
 
-Brunejo estas lando en Sudorienta Azio. Tute cirkauas gin Malajzio kaj la Suda
-Cina Maro. 400,000 homoj logas en ci tiu lando. Ili veturas sur la maldekstra
-vojflanko.
+Brunei este o tara în sud-estul Asiei, marginita de Malaezia si Marea Chinei de
+Sud. 400.000 de suflete traiesc în aceasta tara. Acolo se conduce pe partea
+stînga a drumului.

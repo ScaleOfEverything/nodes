@@ -1,5 +1,5 @@
-# Okcidenta Virginio
+# Virginia de Vest
 
-Okcidenta Virginio iam estis parto de Virginio. Ili fendis en 1863 pro la
-Interna Milito. Hodiau, Okcidenta Virginio ankorau estas stato! Multaj
-rulglobetoj estas faritaj en Okcidenta Virginio.
+Virginia de vest a fost o parte din statul Virginia. S-a despartit în 1863 din
+cauza razboiului civil si acum e stat separat! Bilele de sticla sunt produse în
+Virginia de Vest

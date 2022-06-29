@@ -1,4 +1,5 @@
-# S Dorado
+# S Doradus
 
-S Dorado estas hipergiganta, kaj ankau unu el la plej brilaj steloj en la Granda
-Magelana Nubo. Pli pri la Granda Magelana Nubo, zomi for 8.5 ordoj de grandeco.
+S Doradus este un hipergigant, precum si una dintre cele mai stralucitoare stele
+din Norul lui Magelan. Pentru a afla mai multe despre norul lui Magelan, da zoom
+out de 8,5 de ori!

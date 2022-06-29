@@ -1,5 +1,6 @@
-# Nebuloasa Eagle
+# Туманність Орла
 
-Nebuloasa Eagle este o adevarata pepiniera stelara. Poti vedea pilonii creatiei?
-De notat ca aceasta imagine are culorile alterate. În realitate, este un pic mai
-roz (precum toate nebuloasele mai mari)
+Туманність Орла – величезна зоряна дитяча кімната. Ви можете побачити Стовпи
+Створення усередині? Також варто зауважити, що це зображення базується на
+фотографії з фальшивими кольорами. В дійсній кольоропередачі, вона трохи більш
+блідо-рожева (як і більшість великих туманностей).

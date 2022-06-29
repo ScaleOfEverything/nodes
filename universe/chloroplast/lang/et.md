@@ -1,5 +1,7 @@
-# 엽록체
+# Kloroplast
 
-식물은 태양에너지를 화학적 에너지인 포도당으로 바꾸어 보관하기 위해서 엽록체를이
-용합니다! 엽록체는 식물이 초록빛을 띄게 되는 원인이 되는데, 초록빛을 띄게 되는이
-유는 엽록체의 틸라코이드 막 안에 엄청난 양의 엽록소가 있기 때문이지요!
+Kloroplastid on taimede organellid, mis võimaldavad päikese valguse energiat
+muuta keemiliseks energiaks. Saadud energiat salvestatakse glükoosi molekulides.
+Kloroplastid annavad ka taimedele nende rohelise värvuse. Kas teadsid, et
+kevadel on päriselt ka taimed rohelisemad, kuna siis taimed teiste ensüümide
+tööd ei ole vaja?

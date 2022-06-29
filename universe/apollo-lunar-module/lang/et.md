@@ -1,5 +1,3 @@
-# 아폴로 달 착륙선
+# Apollo kuumoodul
 
-이 착륙선은 무게가 15,000 kg 나 나갔습니다. 아주 무겁죠! 달에 착륙하는데에도 성
-공했어요. 이 달 착륙을 계기로 플래시 게임이 하나 만들어졌는데, "달 착륙선" 이라
-는 쉽지만은 않은 게임이죠. 전 할때마다 연료가 부족하더라구요!
+Esimene selline moodul maandus kuule juba 1969. aasta juulikuus.

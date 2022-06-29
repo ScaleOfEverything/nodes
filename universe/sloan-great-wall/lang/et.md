@@ -1,5 +1,6 @@
-# 슬론 장성
+# Sloani Suur Sein
 
-슬론 장성은 그림에 보이는 초록색 띠 부분을 말합니다. 지금까지 알려진 우주에서 가
-장 큰 물체죠. 슬론 장성은 많은 은하들로 이루어져 있는데, 은하 필라멘트 라고도 불
-립니다. 우리가 여기에 속하진 않습니다. 사실, 우리로부터 10 억 광년 떨어져있어요.
+Sloani Suurt Seina kujutab siin tihe roheline joon. See on suurim tuntud objekt
+universumis. See koosneb galaktikatest ja seda nimetatakse galaktikasüsteemiks.
+Meie ei asu sellesse. Tegelikult asub see meist ühe miljardi valgusaasta
+kaugusel.

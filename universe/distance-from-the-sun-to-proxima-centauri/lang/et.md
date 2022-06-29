@@ -1,5 +1,4 @@
-# 프록시마 센타우리에서 태양까지의 거리
+# Päikese ja Proxima Centauri vaheline kaugus
 
-프록시마 센타우리는 태양에서 가장 가까운 항성입니다. 그렇다 해도, 둘 사이의 거리
-는 꽤 멀어요. 어느 정도냐면, 두 천체 사이에 3 천만개의 태양을 줄지어 놓을 수 있
-을 정도의 거리라고 합니다.
+Proxima Centauri on Päikesele lähim täht. Samas on see ikkagi üpris kaugel. 30
+miljonit Päikest mahuks Proxima Centauri ja Päikese vahele.

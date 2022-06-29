@@ -1,5 +1,5 @@
-# Distanta de la Soare la Proxima Centauri
+# Відстань від Сонця до Проксима Центавра
 
-Proxima Centauri este cea mai apropiata stea de Soare. Cu toate acestea, este
-destul de departe. 30 de milioane de sori s-ar încadra între Soare si Proxima
-Centauri în linie dreapta
+Проксима Центавра – найближча зірка до Сонця. Однак, вона все ще доволі далеко.
+30 мільйонів Сонць могли б вміститися між Проксима Центавра та Сонцем у пряму
+лінію.

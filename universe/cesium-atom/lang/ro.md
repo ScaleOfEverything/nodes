@@ -1,5 +1,4 @@
-# Cezia Atomo
+# Atomului de cesiu
 
-La atoma grandeco estas mezurita lau la distanco de la kerno en valentaj ligoj.
-La seloj ne rigardeblas nun kiel ci tia. Cezio estas la plej granda atomo, sed
-gia atomnumero ne estas la plej alta. Kial? Vidu Heliuma Atomo.
+Cesiu are cel mai mare atom, dar numarul sau atomic nu este cea mai mare. De ce?
+Vezi atomul de heliu.

@@ -1,5 +1,5 @@
-# Lungimea de unda a luminii rosie
+# Довжина Хвилі Червоного Світла
 
-Rosul este prima culoare a curcubeului si stimuleaza pofta de mîncare. Acesta
-este si motivul pentru asa de multe companii alimentare au rosu în logo-ul lor.
-Ele te conving sa manînci! Pe scurt, îti pacalesc creierul.
+Червоний є першим кольором райдуги. Він стимулює апетит. Саме тому так багато
+харчових компаній використовують червоний у своїх логотипах. Вони хочуть, щоб ви
+їли! Стисло кажучи, вони намагаються обдурити ваш мозок.

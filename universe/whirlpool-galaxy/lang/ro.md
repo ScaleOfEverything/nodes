@@ -1,5 +1,5 @@
-# Kirlaj-Galaksio
+# Galaxia Whirlpool
 
-La spiralaj brakoj en la Kirlaja-Galaksio (NGC 5194) oni kredis, ke ili estis
-formitaj pro kolizio de apuda galaksio. Cu ne estus kurioze se vi kreskigus
-novajn brakojn ciam, kiam vi kolizius kontrau io?
+Bratele spiralate din Galaxia Whirlpool, se crede ca au fost formate într-o
+coliziune cu o galaxie din apropiere. Nu ar fi ciudat daca ti-ar creste brate
+noi de cîte ori s-au te-ai lovi de ceva?

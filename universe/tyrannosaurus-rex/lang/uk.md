@@ -1,6 +1,6 @@
-# Tyrannosaurus Rex
+# Тиранозавр
 
-T-Rex este extinct, dar se considera ca avea 7 metri lungime. Nu s-a stabilit
-înca daca T-Rex era un pradator sau se hranea cu hoituri. Desi T-Rex era mare,
-nu a fost cel mai mare dinozaur! Zoomeaza un pic înafara pentru a vedea cel mai
-mare dinozaur!
+Цей динозавр зараз є вимерлим, але колись він був 7 метрів у довжину. Досі
+обговорюється, чи був Ті-Рекс хижаком чи тварина, що харчується падлом. Хоча
+тиранозавр був дуже великим, він був не найбільшим! Віддальтесь трохи, щоб
+побачити ще більшого динозавра!

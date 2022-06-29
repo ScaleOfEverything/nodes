@@ -1,5 +1,5 @@
-# Cereso
+# Ceres
 
-Cereso ne estas sufice bona loko por ke homo logu tie. Cereso ankau estas la
-plej granda asteroido, kaj gi komencis la debaton pri la difino "planedo". Dum
-iom da tempo, Cereso estis konsiderata planedo, tamen gi jam ne estas.
+Ceres nu e prea primitor pentru oameni. Ceres este de asemenea si cel mai mare
+asteroid, si a declansat dezbaterea "ce este o planeta?". Pentru un timp, Ceres
+a fost considerat planeta

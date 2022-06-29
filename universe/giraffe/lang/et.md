@@ -1,5 +1,5 @@
-# 기린
+# Kaelkirjak
 
-기린은 6 미터라는 믿기 어려운 키를 가진 가장 키가 큰 육상동물입니다! 목이 전체체
-중의 절반을 차지합니다. 다 큰 기린은 키가 굉장히 커서, 천적들이 죽일 수 있는방법
-은 옆에서 밀어 넘어뜨리는 방법밖에 없다네요!
+Kaelkirjak on kõige kõrgem imetaja. Tema pikkuseks on 6 meetrit. Ainuüks kael
+moodustab poole tema kehapikkusest. Kas teadsid, et kaelkirjakul on sama palju
+kaelalülisid kui sul, aga nad moodustavad peaaegu 30 korda pikema kaela?

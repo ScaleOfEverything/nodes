@@ -1,5 +1,5 @@
-# Tarantli udukogu
+# Tarantula Nebula
 
-Tarantli udukogu on teadaolevalt suurim udukogu. See on leitav Suures Magalhãesi
-pilves. See on väga ere, absoluutse tugevusega -11. See on teadaolevalt kõige
-heledam mitte täheline objekt.
+The Tarantula Nebula is the largest known nebula. It can be found in the Large
+Magellanic cloud. It's very bright, with an absolute magnitude is -11. It is the
+brightest non-stellar object known.

@@ -1,6 +1,5 @@
-# Duonkupolo
+# Half Dome
 
-La Duonkupolo estas granda kupolo trovita en la Nacia Parko Yosemite. Gi estas
-farita el granito. La kruta flanko de la kupolo estas preskau vertikala. Ne falu
-de tia flanko krom se vi volas fali. Iuj emas grimpi gin, malgrau tio, ke estas
-tro malfacile!
+Half Dome este o forma naturala masiva, din granit, aflata în parcul national
+Yosemite. Partea abrupta este aproape verticala. Încearca sa nu cazi pe aceasta
+parte. Unora le place sa se catere, chiar daca e foarte solicitant!

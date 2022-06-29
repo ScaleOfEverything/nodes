@@ -1,5 +1,5 @@
-# Ahju (Fornax) galaktikaparv
+# Fornax Cluster
 
-Me elame Neitsi superparves. Me oleme osa väiksest võrgustikust, mis ulatub
-välja Ahju galaktikaparvest. See on suuruselt teine galaktika parv 100 miljoni
-valgusaasta ulatuses.
+We live in the Virgo Supercluster. We're actually part of a small filament
+extending off of the Fornax Cluster. It's the second largest cluster within 100
+million light-years!

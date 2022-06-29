@@ -1,5 +1,5 @@
-# Arcul Gateway
+# Ворота на Захід
 
-Arcul Gateway este cea mai înalta structura din St Louis. Are o platforma de
-observare în partea de sus, de acolo poti vedea râul Mississippi. Ar trebui sa o
-vizitezi cîndva cît de curînd!
+Ворота на Захід є найвищою будівлею у Сент-Луїсі. На самій вершині є район
+спостереження, і з нього ви можете побачити річку Міссісіпі. Вам варто піти
+побачити їх коли-небудь у близькому майбутньому!

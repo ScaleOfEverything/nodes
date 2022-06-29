@@ -1,4 +1,5 @@
-# 오메가 성단
+# Omega Centauri
 
-오메가 성단은 가장 밝은 구상성단입니다. 이 성단의 중심부는 매우 빽빽해서, 0.1 광
-년 간격 (태양과 근처 항성의 거리의 2 %) 으로 분포합니다. (아주 가까운거에요!)
+Omega Centauri on kerasparv. See on heledaim kerasparv. Selle keskosa on väga
+ülerahvastatud. Tähed on seal üksteisest 0,1 valgusaasta kaugusel, see on 2%
+vahemaast Päikesele lähima täheni. (See on tõepoolest lähedal!)

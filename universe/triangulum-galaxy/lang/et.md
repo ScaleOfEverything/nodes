@@ -1,6 +1,5 @@
-# 삼각형자리 은하
+# Kolmnurga galaktika
 
-이 은하는 모양이 삼각형이라 삼각형자리 은하라 불리는 게 아니라, 이 은하가 삼각형
-자리 근처에 있기 때문이라고 하네요. 근데 말이죠, 사실 삼각형자리 라는건 별 3개만
-있으면 다 되는거 아니었나요? 사실 굳이 따지자면 삼각형자리는 한두개가 아닐텐데말
-이죠!
+See galaktika pole kolmnurga kujuline; see on nime saanud oma asukoha järgi
+Kolmnurga tähtkujus. Muide, suvalised kolm tähte võivad moodustada kolmnurkse
+tähtkuju. See tähendab, et meil võiks olla miljoneid kolmnurk tähtkujusid.

@@ -1,6 +1,6 @@
-# Floarea soarelui
+# Соняшник
 
-Stiati ca" floarea "de floarea soarelui nu este o floare unica, dar, de fapt un
-cap de flori compus din mii de flori mici dimensiuni, aceste flori mici, sunt
-numite buchetelele.? Cele buchetelele din centrul deveni seminte de floarea
-soarelui, care sunt în prezent invizibil la aceasta scara
+Вам відомо, що "квітка" соняшника не є однією квіткою, а насправді є квітковою
+головкою, виробленою із тисяч маленьких квітів? Ці маленькі квітки називають
+флоретами. Флорети у центрі стають соняшниковим насінням, яке у даному масштабі
+в даний момент є невидимим.

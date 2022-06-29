@@ -1,5 +1,4 @@
-# 진드기
+# Tolmulest
 
-진드기는 각질과 같은 먼지를 주 먹이로 합니다. 많은 사람들이 진드기에 알레르기가
-있는데, 어떤 사람들은 진드기에 배설물에 알레르기가 있기도 합니다. 어느 쪽이던 간
-에, 사람들은 이 성가신 해충이 없어지길 원합니다.
+Tolmulestad söövad tolmu, mis on lihtsalt surnud naharakud. Paljud inimesed on
+allergilised tolmulestade vastu. Mõned on allergilised nende väljaheite vastu.

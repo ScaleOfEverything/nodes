@@ -1,5 +1,5 @@
-# Cuarc bottom
+# B-Кварк
 
-cuarcul bottom este numi si cuarcul frumusetii, pentru ca este atît de perfect!
-Este a treia generatie si se dezintegreaza rapid în cuarci din prima generatie,
-ca up si down.
+B-кварк також називають кварком краси, тому що він бездоганно красивий. Це є
+третє покоління, і він швидко розпадається на кварки першого покоління, такі, як
+верхній і нижній.

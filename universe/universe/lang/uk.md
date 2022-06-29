@@ -1,6 +1,6 @@
-# Universul
+# Всесвіт
 
-Universul este tot ceea ce putem cunoaste. Bineînteles, universul ar putea fi
-mult mai mare, chiar infinit! Nu exista nici o modalitate de a masura cu
-precizie dimensiunea lui. Pot exista, de asemenea,multi-universuri (multivers),
-nu vom sti sigur niciodata
+Всесвіт – це все, що нам відомо. Нам нічого не відомо про те, що лежить за його
+межами. О, і також всесвіт може бути набагато більшим, або навіть бути
+нескінченним! Просто немає способу точно виміряти його розмір. Також можуть
+існувати мультивсесвіти, однак ми ніколи не зможемо знати про це напевно.

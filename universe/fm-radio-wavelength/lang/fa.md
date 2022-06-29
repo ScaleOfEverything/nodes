@@ -1,7 +1,5 @@
-# FM raadiolaine lainepikkus
+# FM Radio Wavelength
 
-Looduslike raadiolainete allikaks on kosmilised kehad, näiteks tähed, planeedid,
-galaktikad, metagalaktikad ja õhuelektrilised nähtused. Raadiolaineid saab
-genereerida, muundada, edastada ja vastu võtta. Raadiolaineid rakendatakse
-raadiosides, ringhäälingus, televisioonis, raadiolokatsioonis,
-raadionavigatsioonis, raadiospektroskoopias, raadioastronoomias ja mujal.
+F and M are the sixth and thirteenth letters of the alphabet. Six is a perfect
+number, while thirteen is not. We all have our differences, and we have to learn
+to accept them. That's the only way we'll live in harmony.

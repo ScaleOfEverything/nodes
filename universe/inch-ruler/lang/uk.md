@@ -1,5 +1,5 @@
-# Un liniar în inch
+# Дюймова Лінійка
 
-Pentru cei dintre voi nefamiliarizati cu sistemul metric, aici este un liniar în
-inch, aproximativ de un picior lungime. Aproape tot altceva este în sistem
-metric.
+Для всіх тих, хто не звик до метричної системи, існує дюймова лінійка, довжина
+якої приблизно складає один фут. На жаль, майже все інше вимірюється у метричній
+системі.

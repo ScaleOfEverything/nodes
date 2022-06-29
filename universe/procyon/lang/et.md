@@ -1,5 +1,6 @@
-# 프로키온
+# Prooküon
 
-앞으로 천만년 안에 프로키온이 지금보다 100 배 가량 커져서 빨갛게 될거라는걸 알고
-계시나요? 프로키온의 수소가 이제는 전부 헬륨으로 바뀌어 버렸기 때문입니다. 20 억
-년 이내에 태양에서도 똑같은 일이 벌어질거에요.
+Kas teadsid, et järgmise 10 miljoni aastaga Prooküon kasvab 100 korda suuremaks
+kui selle praegune läbimõõt ja muutub punaseks? See juhtub kuna Prooküoni
+vesinikust on saanud heelium. Päikesega juhtub sama asi paari miljardi aasta
+pärast.

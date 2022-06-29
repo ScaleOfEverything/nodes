@@ -1,5 +1,5 @@
-# Suur osakeste põrguti
+# Large Hadron Collider
 
-Suur osakeste põrguti on maailma suurim kõrgeima energiaga osakeste kiirendi.
-See põrgatab prootoneid üksteisega! See on väga õel nagu koolikiusaja, kes
-lükkab väiksed lapsi üksteise vastu.
+The Large Hadron Collider is the world's largest and highest-energy particle
+accelerator. It smashes protons into protons, and studies some of the tiniest
+things in the universe: the quarks and leptons, and hopefully the Higgs boson.

@@ -1,5 +1,5 @@
-# Triangula Galaksio
+# Galaxia Triunghi
 
-Ci tiu galaksio ne havas triangulan formon; gi nur estas nomata tiel, car
-lokigas en la konstelacio Triangulo. Cu vi konscias, ke iu ajn tri steloj formas
-"triangulan konstelacion"? Vi povus havi milionojn da triangulajn konstelaciojn!
+Aceasta galaxie nu are forma unui triunghi, este doar numit asa pentru ca se
+gaseste în constelatia Triangulum. Îtii dai seama ca oricare trei stele formeaza
+o "Constelatie triunghi"; am putea avea milioane de constelatii triunghi!?

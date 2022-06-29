@@ -1,5 +1,5 @@
-# Arcturus
+# Арктур
 
-Arcturus este - dupa Sirius si Canopus - a treia cea mai stralucitoare stea de
-pe cerul noptii. Este cea mai stralucitoare stea din constelatia Boötes. Îl poti
-gasi urmînd Carul Mare
+Арктур - третя найяскравіша зірка у нічному небі, після Сіріуса та Канопуса.
+Вона є найяскравішою зіркою у сузір’ї Волопаса. Знайдіть її, слідуючи за ковшом
+Великої Ведмедиці.

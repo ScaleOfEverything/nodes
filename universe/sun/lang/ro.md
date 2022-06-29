@@ -1,6 +1,6 @@
-# La Suno
+# Soarele
 
-Ankau konata kiel Sol (latine), la Suno estas tio, kio donas al la Tero la
-energion, per kiu gi eblas havi vivon. La diametro de la Suno estas preskau
-100-oble pli granda ol tiu de la Tero! 20,000-oble pli da la sunenergio necesa
-de homaro frapas la Teron.
+Soarele, sau Sol, este steaua care da Pamîntului energia necesara vietii.
+Soarele este în diametru de peste 100 de ori mai mare decît Pamîntul! Soarele
+trimite pe an de 20.000 de ori mai multa energie solara Pamîntului decît are
+nevoie omenirea

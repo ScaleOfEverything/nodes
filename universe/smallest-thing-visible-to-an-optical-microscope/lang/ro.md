@@ -1,4 +1,4 @@
-# Plej Malgranda Ajo Videbla Tra Optika Mikroskopo
+# Cel mai mic lucru vizibil la un microscop optic
 
-Optikaj mikroskopoj ne povas vidi ajojn malgrandajn ol 200 nanometroj, car la
-ondolongoj de videbla lumo pasas rekte tra ili.
+Microscoape optice nu se pot vedea obiecte mai mici de 200 nanometri, pentru ca
+lungimile de unda ale luminii vizibile vor trece chiar prin ele.

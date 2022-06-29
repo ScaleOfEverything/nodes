@@ -1,5 +1,6 @@
-# Polluks
+# رأس پیکر پسین
 
-Kreeka mütoloogias oli Polydeukese (ladina Pollux) kaksikvend Kastor. Need on ka
-kaks tähte Kaksikute tähtkujus. Tegelikkuses on Polluks tõepoolest täht, aga
-Kastor koosneb kuuest tähest kolmes paaris tähesüsteemis. Kastor on kuuik.
+در اساطیر یونانی، دوقلوی رأس پیکر پسین، رأس پیکر پیشین است. همچنین این ستاره ها
+در صورت فلکی دوپیکر، به معنای "دوقلو" قرار دارند. با اینحال، در واقعیت رأس پیکر
+پسین یک ستاره ی تنهاست، در حالی که رأس پیکر پیشین سه تا دوتایی است، که جمعأ شش
+ستاره می شود. رأس پیکر پیشین یکی از شش تایی هاست!

@@ -1,5 +1,5 @@
-# Granda Nebulozo en Kareno
+# nebuloasa Mare în Carina
 
-Ci tiu ankau estas nomata Eta Karena Nebulozo, kiu ne devas esti konfuzita kun
-Eta Karena Homunkula (Vireta) Nebulozo (kiu estas versajne tro malgranda por
-vidi nun. Gi estas 0.002 lum-jaroj transe).
+Aceasta este, de asemenea, numita nebuloasa Eta Carinae, a nu fi confundata cu
+nebuloasa Eta Carinae a lui Homunculusul (care la 0.002 ani lumina diametru este
+prea mica pentru a fi vazuta)

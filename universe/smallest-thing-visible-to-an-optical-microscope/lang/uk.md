@@ -1,4 +1,4 @@
-# Cel mai mic lucru vizibil la un microscop optic
+# Найменша Річ Видима у Оптичний Мікроскоп
 
-Microscoape optice nu se pot vedea obiecte mai mici de 200 nanometri, pentru ca
-lungimile de unda ale luminii vizibile vor trece chiar prin ele.
+Оптичні мікроскопи не можуть бачити об’єкти менші, ніж 200 нанометрів, тому що
+довжина хвилі видимого світла пройде просто крізь них.

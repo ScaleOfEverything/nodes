@@ -1,5 +1,5 @@
-# 그랜드 캐니언
+# Suur kanjon
 
-그랜드 캐니언은 지구에서 가장 큰 협곡들 중 하나입니다. 콜로라도 강에 의해 침식되
-어 만들어졌는데, 그게 1,700 만년 동안 이루어졌대요! 노출된 바위층의 나이는 더 오
-래되었는데, 1,800 만 살이래요!
+Suur kanjon on üks suurimaid kanjone Maal. Selle uuristas Colorado jõgi. Kõik
+see uuristamine võttis aega umbes 17 miljonit aastat! Kivimikihid, mis avanesid
+on aga veel vanemad, kuni 1,8 miljardit aastat.

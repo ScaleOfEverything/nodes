@@ -1,5 +1,6 @@
-# Siriuso A
+# Sirius A
 
-Siriuso A estas la plej brila stelo en la nokta cielo. gi estas preskau dufoje
-plej brila ol Kanopo, la dua plej brila stelo. Tamen, Siriuso ne estas granda
-stelo. Gi nur sajnas esti brila car estas apud ni, ce nur ok lum-jaroj for.
+Sirius este cea mai stralucitoare stea de pe cerul de noapte. Este aproape de
+doua ori mai stralucitoare decît Canopus. Cu toate acestea, Sirius nu este o
+stea mare! Este doar pare mare din cauza apropierii de noi, la doar opt
+ani-lumina

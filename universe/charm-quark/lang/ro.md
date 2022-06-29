@@ -1,5 +1,5 @@
-# C-kvarko
+# cuarcul Charm
 
-La C-kvarko kaj la S-kvarko estas la dua generacio de materio. Ili rapide
-malintegrigos en U- kaj D-kvarkoj, kiuj estas la unua generacio de materio. La
-C-kvarko estas carma.
+Cuarc charm si cuarcul strange sunt a doua generatie a materiei. Ei se vor
+dezintegra rapid în cuarci up si down, care sunt prima generatie de materie.
+Cuarcul charm este fermecator.

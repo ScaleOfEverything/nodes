@@ -1,4 +1,4 @@
-# 황새치자리 S
+# S Doradus
 
-황새치자리 S 는 극대거성으로, 대 마젤란 운에서 가장 밝은 별들 중 하나입니다. 대
-마젤란 운에 대해 궁금하다면 배율을 10^20 까지 축소해 보세요.
+S Doradus on hüperhiid ja üks Suure Magalhãesi pilve heledamaid tähti. Suure
+Magalhãesi pilve kohta saad rohkem teada, kui suumid 8,5 suurusjärku välja.

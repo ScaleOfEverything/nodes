@@ -1,6 +1,6 @@
-# R Dorado
+# R Doradus
 
-R Dorado estas relative granda kaj trovigas nur je 200 lum-jaroj for de la Tero,
-tiel gia sajna grandeco estas la dua plej granda en la cielo! gi estas 0.05
-arksekundoj large. La Suno estas la plej larga, ce 1,920 arksekondoj -40,000
-oble pli larga.
+R Doradus este o stea destul de mare, la doar 200 de ani-lumina de Pamînt,
+dimensiunea ei aparenta o fac cel mai mare obiect vizibil de pe cer dupa soare!
+Aceasta este de 0,05 arcseconds; Soarele la 1.920 arcseconds e de 40.000 de ori
+mai mare

@@ -1,5 +1,6 @@
-# Nebuloasa Laguna
+# Туманність Лагуна
 
-Nebuloasa Laguna este o nebuloasa care a fost numita Nebuloasa Laguna din 1747.
-E situata la 5.000 de ani-lumina distanta de noi si include tornade care emit
-lumina ultravioleta
+Туманність Лагуна – це туманність, яка була названа Туманністю Лагуна у 1747
+році, в тому році, коли вона була винайдена. Вона знаходиться на відстані 5,000
+світлових років від нас і містить в собі торнадо, які випромінюють
+ультрафіолетове світло.

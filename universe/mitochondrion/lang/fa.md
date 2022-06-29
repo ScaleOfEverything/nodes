@@ -1,6 +1,5 @@
-# Mitokonder
+# Mitochondrion
 
-Mitokonder on raku organell, mille põhiline funktsioon on toota glükoosist
-ATP-d. ATP on rakule energiaks. Ühe päeva jooksul terves sinu kehas suudavad
-mitokondrid moodustada umbes 120 septillionit ehk 120 000 000 000 000 000 000
-000 000 ATP molekuli.
+These organelles can turn the chemical energy from glucose into ATP, which can
+easily be used for energy. About 120,000,000,000,000,000,000,000,000 ATP
+molecules are created every day in your body by mitochondria.

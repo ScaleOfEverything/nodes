@@ -1,4 +1,6 @@
-# Distanta de la Voyager 1 la Pamînt
+# Відстань від Вояджера 1 до Землі
 
-În ultimii 34 de ani, Voyager 1 a traversat 17 de miliarde de kilometri, cel mai
-departe pentru un obiect creat de om. Oricît ai incerca nu-l mai poti vedea!
+Протягом останніх 34 років, Вояджер 1 пройшов відстань у 17 мільярдів
+кілометрів, що є найбільшою відстанню, яку вдалося пройти будь-якому створеною
+людиною об’єкту. Ви не можете його побачити, навіть, якщо будете взиратися дуже,
+дуже сильно!

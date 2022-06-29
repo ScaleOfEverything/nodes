@@ -1,5 +1,5 @@
-# Distanco al la Andromeda Galaksio
+# Distanta pîna la Galaxy Andromeda
 
-Ce du milionoj da lum-jaroj for, la Andromeda Galaksio estas la plej fora
-objekto videbla al la nuda okulo. Tamen, sen binoklo au teleskopo, gi aperos
-kiel malhela malklarajo.
+La doua milioane de ani-lumina distanta, Galaxia Andromeda este cel mai
+îndepartat obiect vizibil cu ochiul liber. Totusi, fara binoclu sau telescop,
+acesta va aparea ca o pata neclara.

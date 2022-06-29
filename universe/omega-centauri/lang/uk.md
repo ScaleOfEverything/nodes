@@ -1,6 +1,5 @@
-# Omega Centauri
+# Омега Центавра
 
-Omega Centauri este un cluster globular, cel mai luminos. Centrul este foarte
-aglomerat, stelele acolo se afla doar la 0,1 ani-lumina distanta una de alta,
-cam 2% din distanta de la Soarele nostru la cea mai apropiata stea. (Deci foarte
-aproape!)
+Омега Центавра – кулясте скупчення. Це найбільше кулясте скупчення. Його центр
+дуже переповнений. Зірки на віддалі лише 0.1 світлових років від нас, що є 2%
+відстані від нашого Сонця до найближчої зірки. (Це дійсно близько!)

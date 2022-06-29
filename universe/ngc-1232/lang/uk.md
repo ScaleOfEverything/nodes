@@ -1,5 +1,5 @@
 # NGC 1232
 
-NGC 1232 este o galaxie marisoara. E mai mare decît a noastra. Dar nu e cea mai
-mare. Probabil nici IC 1101 nu este cel mai mare galaxie, e doar cea mai mare
-galaxie cunoscuta. Exista, probabil, galaxii mult mai mari!
+NGC 1232 – доволі велика галактика. Вона більша, ніж наша, але не найбільша.
+Звичайно, IC 1101 не є найбільшою галактикою, це лише найбільша з тих, що нам
+відомі. Ймовірно їх є багато більше!

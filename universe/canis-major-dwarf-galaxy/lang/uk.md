@@ -1,5 +1,5 @@
-# Galaxia pitic Canis Major
+# Карликова Галактика Великий Пес
 
-Galaxia pitic Canis Major este cea mai apropiata galaxie, daca nu consideram
-Calea Lactee. Se afla între bratele caii Lactee si este dislocata lent de
-gravitatia CaiiLactee.
+Карликова Галактика Великий Пес – це найближча галактика, якщо не враховувати
+самий Чумацький Шлях. Він знаходиться між рукавами Чумацького Шляху та
+розмежується на частини гравітацією Чумацького Шляху.

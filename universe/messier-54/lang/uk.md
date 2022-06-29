@@ -1,5 +1,5 @@
-# Messier 54
+# Мессьє 54
 
-Messier 54, sau M54, sau NGC 6715, este un alt cluster globular , situat în
-Galaxia pitica Sagetator, fiind si primul cluster globular descoperit în afara
-Caii Lactee.
+Мессьє 54, або M54, або NGC 6715 - це ще одне кулясте скупчення. Воно
+знаходиться у Карликовій Галактиці у Стрільці, що може означати, що це перше
+кулясте скупчення за межами Чумацького Шляху, яке варто дослідити.

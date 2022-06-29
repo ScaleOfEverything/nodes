@@ -1,5 +1,4 @@
-# La Plej Eta Objekto Nudokule Videbla.
+# Cel mai mic obiect vizibil cu ochiul liber
 
-Nur por viaj informo, 100 mikrometroj proksimume egalas unu milimetra dekono.
-Atendu momenton... gi estas GUSTE unu milimetra dekono. Ja tio estas tre juste,
-preskau timigebla!
+Este aproximativ 100 de micrometri, sau o zecime de milimetru pe ... Stai! Este
+exact o zecime de milimetru. Atît de exact e aproape înfricosator!

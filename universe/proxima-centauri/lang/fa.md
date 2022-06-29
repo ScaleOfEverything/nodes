@@ -1,6 +1,5 @@
-# Proxima Centauri
+# پروکسیما قنطورس
 
-Proxima Centauri on Päikese järel teine lähim täht Maale. Selle nimetus tuleneb
-ladina keelest,kus proxima tähendab lähimat või kõrval olevat. Proxima Centauri
-on punane kääbustäht. See on niivõrd tuhm, et palja silmaga ei ole võimalik seda
-vaadelda.
+پروکسیما قنطورس به عنوان نزدیکترین ستاره به زمین به غیر از خورشید شناخته می شود.
+اسم آن از “proximity” به معنای نزدیکی می آید. پروکسیما قنطورس یک ستاره ی کوچک و
+قرمز رنگ است. متأسفانه، آنچنان کم نور است، که برای دیدن آن به تلسکوپ نیاز دارید.

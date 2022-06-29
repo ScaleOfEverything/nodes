@@ -1,5 +1,6 @@
-# Väike Magalhãesi pilv
+# Small Magellanic Cloud
 
-Väikest Magalhãesi pilve nimetatakse väikseks ainult seetõttu, et see on väiksem
-kui sellele lähim galaktika Suur Magalhãesi pilv. Kui Suur Magalhãesi pilv oleks
-väiksem, siis nimetataks Väikest Magalhãesi pilve Suureks Magalhãesi pilveks.
+The Small Magellanic Cloud is only called small because it is smaller than the
+galaxy nearest to it, the Large Magellanic Cloud. If the Large Magellanic Cloud
+were smaller, the Small Magellanic Cloud would be called the Large Magellanic
+Cloud!

@@ -1,6 +1,5 @@
 # HIV
 
-HIV infektas 0.6% de la monda logantaro kaj kauzas AIDOSOn. Kvankam ununura
-HIV-viruso estas tre malgranda, fakte, sufice malgranda ke ec ne unu homo sur la
-faco de ci tiu planedo povas vidi gin kun iliaj nudaj okuloj, tamen, gi povas
-mortigi.
+HIV a infectat 0,6% din populatia lumii si provoaca SIDA. Desi un singur virus
+HIV este atît de mic încît nici o fiinta umana nu îl poate vedea cu ochiul lor
+liber, este un virus mortal.

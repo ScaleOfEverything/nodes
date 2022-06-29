@@ -1,5 +1,6 @@
 # Titanic
 
-La Titanik-o sinkis kiam gi frapis glacimonton. Kvankam gi estis kapabla surhavi
-suficajn savboatojn por 4,000 homoj, oni decidis meti nur la necesajn savboatojn
-por 1,178 homoj. Entute estis 2,228 homoj en la Titanik-o.
+Titanicul s-a scufundat lovit de un iceberg. Desi ar fi putut duce barci de
+salvare pentru 4.000 de persoane, s-a decis ca sunt suficiente barcile de
+salvare pentru doar 1,178 de oameni. Cînd s-a scufundat erau 2,228 de oameni de
+pe Titanic.

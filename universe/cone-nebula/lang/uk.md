@@ -1,5 +1,5 @@
-# Nebuloasa Cone
+# Туманність Конус
 
-Nebuloasa Cone a fost descoperit în 1785, a doua zi dupa Craciun. Stiai ca
-Nebuloasa Cone este o nebuloasa întunecata si difuza? Este între Betelgeuse si
-Procyon
+Туманність Конус була винайдена у 1785 році, наступного дня після Різдва. Ви
+знали про те, що туманність Конус є темною і розсіяною? Ви можете знайти її між
+Бетельгейзе та Проціоном.

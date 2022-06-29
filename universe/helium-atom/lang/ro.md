@@ -1,6 +1,5 @@
-# Heliuma Atomo
+# Atomul de heliu
 
-H atomoj estas pli grandaj ol He atomoj, car pli da protonoj en atoma kerno
-altiras la elektronojn al si. Tamen, suplementaj seloj pliigas la amplekson de
-la atomoj multe pli. Cezio, estas la plej granda atomo, gi havas la plej grandan
-kvanton da seloj kun la malplej granda kvanto da elektronoj. (Fr nemezurita)
+Atomii de hidrogen sunt mai mari decît cei de heliu pentru ca protonii din
+nucleul atomului atrag electronii mai aproape. Cel mai mare atom, CS, are cele
+mai multe straturi cu cei mai putini electroni. ( Fr nemasurat)

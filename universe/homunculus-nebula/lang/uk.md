@@ -1,5 +1,5 @@
-# nebuloasa Homunculus
+# Галактична туманність Гомункулус
 
-În centrul nebuloasei Homunculus se afla o stea. Steaua, numita Eta Carinae,
-avea o marire de -0.8 în 1841 (a doua cea mai stralucitoare stea de pe cer).
-Acum însa, este o stea fada
+У середині туманності Гомункулус знаходиться зірка. Ця зірка, а саме Ета Кіля, у
+1841 році мала величину -0.8 (друга найяскравіша зірка у небі). Тепер це дуже
+тьмяна зірка з величиною шість.

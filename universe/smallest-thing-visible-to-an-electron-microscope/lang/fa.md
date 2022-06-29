@@ -1,5 +1,5 @@
-# Väikseim objeks, mida näeb elektronmikroskoobiga
+# Smallest Thing Visible to an Electron Microscope
 
-Elektronmikroskoobiga on võimalik vaadelda väga väikesi objekte (nagu näiteks
-aatomid), mida teisiti poleks näha kuna need on väiksemad kui nähtava valguse
-lainepikkus.
+Electron microscopes allow us to see very small things (like atoms) that would
+otherwise be invisible because they are smaller than the wavelength of visible
+light.

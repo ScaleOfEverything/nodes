@@ -1,5 +1,5 @@
-# Tolmuosake
+# Silt Particle
 
-Vastavalt Udden-Wentworthi skaalale varieeruvad tolmuosakesed väikseimast 1/256
-mm kuni suurimateni 1/16 mm. See paremal olev tolmukübe mahub sellesse vahemikku
-väga hästi.
+According to the Udden-Wentworth scale, silt particles vary from the smallest of
+1/256 mm to the largest of 1/16 mm. This silt particle to the right falls into
+that range quite well.

@@ -1,5 +1,6 @@
-# Grosimea firului de matase
+# Ширина Шовкового Волокна
 
-Matasea este valoroasa, din ea se face îmbracaminte moale si comoda. Matasea
-naturala este produsa de larvele viermilor de matase. Exista însa si matase
-sintetica, care nu este produsa de acesti viermi dezgustatori!
+Шовк – дорога тканина, і він може бути переплетений у одяг, який як звичай
+виявляється доволі м’яким. Шовк виробляється личинкою шовкопряда, яких, як я
+гадаю, є доволі багато. Але також є синтетичний шовк, який не виробляється
+огидними черв’яками.

@@ -1,5 +1,5 @@
-# Leo II kääbusgalaktika
+# Leo II Dwarf Galaxy
 
-Leo II kääbusgalaktika on Linnutee galaktika kaaslane. See on üks kahekümne
-neljast Linnutee kaaslasest. Leo II tähed on metallivaesed. Need on ka
-suhteliselt vanad.
+The Leo II Dwarf Galaxy is a satellite of the Milky Way Galaxy. It is one of
+twenty-four known satellites of the Milky Way. The stars in Leo II are
+metal-poor. They're also relatively old.

@@ -1,5 +1,4 @@
-# Kanamuna
+# تخم مرغ
 
-Kanamuna tuntakse kõige rohkem hommikueinena. Samas õigetel tingimustel võib
-kanamunast ka tibu kooruda. Valgel ja pruunil kanamunal pole peale väljanägemise
-muud erinevust.
+تخم مرغ جایی است که جوجه ها از آن بیرون می جهند. بسیاری از انسان ها از خوردن تخم
+مرغ لذت می برند. برخاف ظاهر، بین تخم مرغ سفید و قهوه ای تفاوتی وجود ندارد.

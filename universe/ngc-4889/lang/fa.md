@@ -1,5 +1,6 @@
 # NGC 4889
 
-See väga suur galaktika, teise nimega tuntud kui Caldwell 35, on heledaim
-galaktika Coma parves. See eemaldub meist kiirusega 6500 kilomeetrit sekundis.
-Sellise kiirusega saaks see Maale tiiru teha seitsme sekundiga!.
+This very large galaxy, which is also known as Caldwell 35, is the brightest
+galaxy in the Coma cluster. It is going away from us at 6,500 kilometers per
+second. At that speed, it could circumnavigate the Earth in less than seven
+seconds!

@@ -1,5 +1,5 @@
-# 라플레시아
+# Rafflesia
 
-라플레시아는 세계에서 가장 큰 단화입니다. 무게는 10 kg 까지 나갈 수 있는데, 꽃치
-곤 상당히 무겁죠. 이 꽃에선 고기 썩은내가 나는데, 수분을 도와줄 파리를 유인하기
-위해서래요.
+Rafflesia on maailma kõige suurem ühe õiega lill. Ta võib kaaluda kuni 10
+kilogrammi ja tema läbimõõt võib olla kuni üks meeter. Lill haiseb nagu mädanev
+liha, aga kärbeste jaoks on see lõhn mõnus.

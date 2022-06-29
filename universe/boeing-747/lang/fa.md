@@ -1,4 +1,6 @@
 # Boeing 747
 
-Boeing 747 on lennuk. Selle tiivaulatus on suurem, kui Wright vendade esimene
-lend (37 meetrit).
+The Boeing 747, which flies, is an airplane. Since 1969, it's been shorter than
+a redwood tree. Before then, it didn't exist, so it wasn't shorter or longer.
+And yes, its wingspan is longer than the Wright brother's first flight (37
+meters).

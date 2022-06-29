@@ -1,4 +1,4 @@
-# Distanta pâna la marele atractor
+# Відстань до Великого Аттрактору
 
-Atractor-ul mare atrage mii de galaxii, printre care si Calea Lactee, spre sine;
-masa sa fiind de zeci de mii de ori mai mare decît a Caii Lactee.
+Великий Аттрактор притягує тисячі галактик, включаючи Чумацький Шлях, до себе.
+Його маса у десятки тисяч разів більша, ніж маса Чумацького Шляху.

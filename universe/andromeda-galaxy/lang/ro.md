@@ -1,6 +1,5 @@
-# Andromeda Galaksio
+# Andromeda Galaxy
 
-La Andromeda Galaksio estas la Lakta Voja gemelo. Estas la plej proksima
-galaksio, kiu havas similan amplekson kaj formon. En kelkaj miliardoj da jaroj,
-la du galaksioj kolizios kaj formos unu pli grandan elipsan galaksion -
-Laktomeda.
+Galaxia Andromeda este galaxia noastra geamana. E cea mai apropiata galaxie, are
+o dimensiune si forma similara si în cîteva miliarde de ani, cele doua galaxii
+vor colapsa si se va forma o galaxie mamut - numita Milkomeda

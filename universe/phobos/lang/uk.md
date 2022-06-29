@@ -1,5 +1,5 @@
-# Phobos
+# Фобос
 
-Phobos este satelitul cel mai mare al planetei Marte, fiind totusi destul de
-mic! Stiai ca, daca ai fi în picioare pe Phobos, gravitatia sa ar fi atît de
-slaba încît daca ai arunca o minge de baseball în sus, ea nu ar mai veni înapoi?
+Фобос є більшим з двох місяців Марсу. Однак, він невеликий за розміром! Ви знали
+про те, що якби ви стояли зараз на Фобосі, його гравітація була б настільки
+слабкою, що ви б могли кинути баскетбольний м’яч і він не впав би на Землю?

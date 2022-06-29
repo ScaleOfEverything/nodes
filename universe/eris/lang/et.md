@@ -1,5 +1,5 @@
-# 에리스
+# Eris
 
-에리스는 명왕성보다도 크고, 명왕성보다 태양에서 먼 아주 큰 왜소행성입니다. 에리
-스는 디스노미아라고 하는 위성을 가지고 있습니다. 디스노미아는 어디있냐구요? 이화
-살표가 있는 부분의 아랫쪽으로 내려가 보세요.　　　　　　　　　　　　 ▼
+Eris on suurim kääbusplaneet. See on isegi suurem kui Pluuto, mis on samuti
+kääbusplaneet. Ka Eris asub Päikesest väga kaugel. Erisel on kuu nimega
+Dysnomia. Kus on Dysnomia? See on siin all.

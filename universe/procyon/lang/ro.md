@@ -1,6 +1,6 @@
-# Prociono
+# Procyon
 
-Cu vi scias, ke dum la venontaj 10 milionoj da jaroj, la aktualan diamenron de
-Prociono kreskos 100-foje kaj farigos rugan? La kialo estas tia, ciu hidrogeno
-de Prociono nun estas heliumo. La Suno faros la saman aferon post paro da
-miliardoj da jaroj.
+Stiati ca în urmatorii 10 de milioane de ani, Procyon îsi va mari diametrul de
+100 de ori si va deveni rosu? Aceasta deoarece hidrogenul din Procyon este acum
+aproape tot heliu. Soarele va avea aceeasi transformare în cîteva miliarde de
+ani

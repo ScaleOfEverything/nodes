@@ -1,6 +1,7 @@
-# Albireo
+# Альбірео
 
-Albireo este format în total din trei stele; aici e cea mai mare. Doua stele
-sunt apropiate si formeaza un punct galben. A treia este albastra si e ceva mai
-departe. Stelele sunt atît de departate încît le ia 100.000 de ani sa finalizeze
-o orbita
+Альбірео загалом складається із трьох зірок. Саме тут ми зображуємо лише
+найбільшу. Дві з цих зірок розташовані близько одна до одної, та формують жовту
+крапку. Червона – блакитна, і розташована подалі. Блакитна та жовті зірки
+настільки розділені, що знадобиться 100,000 років для завершення одного оберту
+по орбіті.

@@ -1,5 +1,5 @@
-# Cloroplast
+# Хлоропласт
 
-Cloroplastul este utilizat de catre plante pentru transformarea energiei solare
-în energie chimica, stocata în molecule de glucoza!, Este de asemenea si ce da
-plantelor culoarea verde.
+Рослини використовують хлоропласт, щоб обертати енергію Сонця в хімічну енергію,
+яка зберігається у молекулах глюкози! Хлоропластом також є те, що дає рослинам
+їх зелений колір, тому що у їх мембранах тилакоїда міститься міфічний хлорофіл.

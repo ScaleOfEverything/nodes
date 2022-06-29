@@ -1,5 +1,4 @@
-# 트리톤
+# Triton
 
-트리톤은 해왕성의 위성중 가장 큽니다. 또한, 태양계에서 가장 차가운 천체인데, 그
-온도가 -240℃ 에 달합니다. 트리톤에서는 바람이 굉장히 많이 부는데, 바람의 속도가
-음속에 가까울 정도라고 하네요!
+Triton on Neptuuni suurim kuu. See on ka Päikesesüsteemi külmim objekt oma
+-240°C. Triton on väga tuuline, sest tuulte kiirus läheneb helikiirusele.

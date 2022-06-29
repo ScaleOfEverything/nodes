@@ -1,5 +1,5 @@
-# Alpha Centauri B
+# آلفا قنطورس B
 
-Alpha Centauri B on Alpha Centauri tähesüsteemi suuruselt teine täht. Selle
-läbimõõt on hinnanguliselt üks miljon kilomeetrit ja seega natuke väiksem kui
-Päike. Alpha Centauri A ja B on nii lähestikku, et paistavad meile ühe tähena.
+آلفا قنطورس B دومین ستاره از نظر بزرگی در مجموعه ی ستاره ای آلفا قنطورس است. قطر
+آن به طور تقریبی یک میلیون کیلومتر است، بنابراین کمی از خورشید کوچکتر است. آلفا
+قنطورس A و B آنقدر به یکدیگر نزدیکند که به مانند یک ستاره از زمین دیده می شوند.

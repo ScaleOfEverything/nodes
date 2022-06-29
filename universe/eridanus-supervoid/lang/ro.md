@@ -1,6 +1,5 @@
-# Eridana Supervakuo
+# Eridanus Supervoid
 
-Ci tia estas regiono en la nokta cielo, iom pli malvarmeta ol la normala
-CMB-temperaturo (Cosmic Microwave Background radiation = Kosma Mikroonda Fona
-radiado). Kiu estas je 2.7° K, au -270.5° C. Apenau super la absoluta nulo. Unu
-teorio diras, ke gi alportas al paralela universo. Cu?
+Este o regiune a cerului noptii care este putin mai rece decît restul spatiului.
+La 2,7 ° K, -270.5 ° C este abia putin peste zero absolut. Unele teorii sustin
+ca ar duce la un univers paralel. Uau!

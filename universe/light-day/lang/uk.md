@@ -1,4 +1,5 @@
-# O zi lumina
+# Світлова Доба
 
-În doar douazeci si patru de ore lumina reuseste sa parcurga o distanta de 26 de
-miliarde de kilometri! E mai mult decît orice sonda umana a parcurs pîna acum
+Навіть всього лише за двадцять чотири години, світлу вдається проникнути крізь
+відстань у 26 мільярдів кілометрів. Це є відстань більша, ніж вдалося
+коли-небудь пройти будь-якому людському чи космічному зонду.

@@ -1,5 +1,5 @@
-# 시리우스 A
+# Siirius A
 
-시리우스는 밤하늘에서 가장 밝은 별입니다. 두번째로 밝은 카노푸스보다 두 배 가량
-밝게 보이는데, 사실 시리우스는 그렇게 큰 별은 아니에요. 지구에서 8 광년밖에 떨어
-져있지 않기 때문에 밝게 보이는 것일 뿐이지요.
+Siirius on tähistaeva heledaim täht. See on peaaegu kaks korda heledam kui
+Canopus, heleduselt teine täht. Siirius ei ole suur täht. See ainult näib hele
+kuna asub meie lähedal, ainult kaheksa valgusaasta kaugusel.

@@ -1,5 +1,6 @@
-# Eridanus Supervoid
+# Супервакуум Ерідан
 
-Este o regiune a cerului noptii care este putin mai rece decît restul spatiului.
-La 2,7 ° K, -270.5 ° C este abia putin peste zero absolut. Unele teorii sustin
-ca ar duce la un univers paralel. Uau!
+Це область у нічному небі, яка трохи холодніша, ніж звичайна температура
+реліктового випромінювання. Вона складає 2.7° K, або -270.5° C. Ледь вище
+абсолютного нуля. Одна з теорій стверджує, що вона веде до паралельного
+всесвіту. Уау!

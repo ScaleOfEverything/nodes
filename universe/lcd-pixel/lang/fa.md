@@ -1,6 +1,6 @@
-# LCD piksel
+# پیکسل LCD
 
-Kuigi pikslite suurus varieerub väga palju võib nende keskmiseks võtta umbkaudu
-300 mikromeetrit. Iga piksel sisaldab kolme alampikslit, need on punane,
-roheline ja sinine. Pikslite kõrval on veel ka vokslid mis on veel
-muljetavaldavamad. Need on kolmedimensioonilised pikslid.
+اگرچه اندازه ی پیکسل ها بسیار متفاوتند، اما مقدار متوسط آنها را می توان 033
+میکرو300 در نظر گرفت. پیکسل ها حاوی سه زیر پیکسل قرمز، سبز، و آبی هستند. پیکسل
+ها بسیار عالی هستند، اما بهتر از آنها voxel ها هستند. آنها پیکسل های سه بعدی
+اند.

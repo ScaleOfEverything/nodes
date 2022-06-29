@@ -1,5 +1,5 @@
-# Cheopsi püramiid
+# The Great Pyramid of Giza
 
-See on tegelikult pilt Giza nekropolisest. Cheopsi püramiid on vasakul.
-Egiptlased ehitasid selle vanima püramiidi 2560 eKr. See oli kõrgeim inimehitis
-peaaegu 4000 aastaks.
+This picture is actually of the Giza Necropolis. The Great Pyramid of Giza is
+the pyramid on the left. It is the oldest one, built by the Egyptians in 2560
+BC. It was the tallest man-made structure for almost 4,000 years.

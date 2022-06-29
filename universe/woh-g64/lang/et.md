@@ -1,6 +1,5 @@
 # WOH G64
 
-지금 "우와(WOH)... 이 별 엄청 크잖아!" 라고 생각하고 있나요?! 그 생각이 맞는것같
-네요. 이 행성은 지금까지 발견된 별 중에 두번째로 큰 별이거든요. WOH G64 는 대마
-젤란 운에서 발견되었는데, 그 크기가 반광년 정도 되는 성운이 주위를 둘러싸고 있습
-니다.
+Ma tean... te mõtlete: "Voh..vot see on suur täht!" Teil on tõenäoliselt õigus,
+sest tegemist on praeguseks teise suurima teadaoleva tähega. WOH G64 asub Suure
+Magalheasi pilves. Pilv ümbritseb seda poole valgusaasta suurust tähte.

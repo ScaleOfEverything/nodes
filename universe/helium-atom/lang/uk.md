@@ -1,5 +1,7 @@
-# Atomul de heliu
+# Атом Гелію
 
-Atomii de hidrogen sunt mai mari decît cei de heliu pentru ca protonii din
-nucleul atomului atrag electronii mai aproape. Cel mai mare atom, CS, are cele
-mai multe straturi cu cei mai putini electroni. ( Fr nemasurat)
+Атоми водню більші, ніж атоми гелію, тому що у ядрі атому більшість протонів
+притягуються до себе електрони. Однак, додаткові оболонки як найбільше
+збільшують розмір атомів. Найбільший атом, цезій, має найбільшу кількість
+оболонок з найменшою кількістю електронів. (Елемент францій не був врахований у
+цих вимірах)

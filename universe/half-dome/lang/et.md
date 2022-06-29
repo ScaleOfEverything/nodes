@@ -1,5 +1,6 @@
-# 하프돔
+# Half Dome
 
-하프돔은 미국 요세미티 국립공원에 있는 거대한 돔입니다. 화강암으로 이루어져 있고
-, 이 돔의 가파른 면은 거의 수직에 가깝습니다. 실수가 아닌 이상 저기로 떨어지진마
-세요.
+Half Dome on suur kuppel Yosemite rahvuspargis. See on graniitkalju, mille
+teravam külg on peaaegu vertikaalne. Sealt ei tasu alla kukkuda, kui see just su
+plaan ei ole. Mõnedele inimestele meeldib seal mägironimist harrastada,
+vaatamata sellele, et on tegemist suure väljakutsega.

@@ -1,4 +1,5 @@
-# 수소 원자
+# Vesiniku aatom
 
-수소는 우주에서 가장 풍부한 물질입니다. 보통 양성자와 전자 하나로 구성되어있죠.
-수소 원자는 너무 작아서 육안으로는 아무리 노력해도 볼 수 없어요.
+Vesinik on kõige tüüpilisem element univesumis. See koosneb ühest protonist ja
+elektronist. Vesiniku aatom on nii väike, et seda pole palja silmaga võimalik
+näha isegi kui pingutad kõigest väest.

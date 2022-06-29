@@ -1,5 +1,5 @@
-# Un Inch patrat
+# Квадратний Дюйм
 
-Daca nu esti obisnuit cu sistemul metric, aici e un inch patrat. Sistemul metric
-e însa mult mai popular. Apropo, un inch are 2,5 centimetri, iar suprafata este
-calculata în cm patrati.
+Якщо ви не звикли до метричної системи, ось квадратний дюйм. На жаль для вас,
+майже все інше вимірюється у метричній системі. Також, 2.5 сантиметри - довжина
+однієї сторони, а не площа. (Вона буде у см^2.)

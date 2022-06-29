@@ -1,5 +1,5 @@
-# Leo II Galaxia pitic
+# Карликова Галактика Лео II
 
-Leo II este o galaxie satelit a Caii Lactee, una din cele douazeci si patru de
-galaxii satelit astfel cunoscute. Stele în Leu II sunt sarace în metale; fiind
-de asemenea si foarte vechi.
+Карликова Галактика Лео II – супутник Галактики Чумацький Шлях. Це є один із
+двадцяти чотирьох відомих нам супутників Чумацького Шляху. Зірки у Лео II
+практично не містять металів. Вони також відносно старі.

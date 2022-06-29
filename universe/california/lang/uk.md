@@ -1,4 +1,5 @@
-# California
+# Каліфорнія
 
-California este poreclit statul auriu (Golden State). California gazduieste 37
-de milioane de oameni, mai putin de unu la suta din populatia lumii
+Каліфорнії дали прізвисько "Золотий Штат ". Саме тому вона намальована в золотий
+колір. Каліфорнія є дімом для 37 мільйонів людей, що є меншим за один відсоток
+від світового населення.

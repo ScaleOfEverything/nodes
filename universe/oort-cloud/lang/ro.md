@@ -1,5 +1,5 @@
-# Oorta Nubo
+# Norul Oort
 
-La Oorta Nubo estas la plej ekstera regiono de la sunsistemo. Akvo-glacio,
-amoniako-glacio, metano-glacio kaj kometoj malstrece plenigas la regionon. La
-limo de la Oorta Nubo ankau estas la limo de la Suna gravita altirajo.
+Norul Oort este regiunea exterioara a sistemului nostru solar. Aici sînt doar
+comete, apa, amoniac, metan, toate înghetate si rare. Exteriorul Norului Oort
+este de asemenea si limita fortei gravitationale a Soarelui

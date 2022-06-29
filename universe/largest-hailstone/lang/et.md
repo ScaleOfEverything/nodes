@@ -1,5 +1,4 @@
-# 가장 큰 우박
+# Suurim rahetera
 
-지금까지 미국에서 가장 컸던 우박은 사우스다코타 주에서 발견되었습니다. 하지만,
-거의 모든 우박들이 이 크기까지 커지긴 힘들어요. 우박들은 보통 1 cm 정도의 크기로
-내립니다. 아, 모든 우박들이 여기 보이는 것 처럼 둥글진 않아요.
+Kõige suurem rahetera leiti Ameerikast. Suurem osa raheterasid ei tule
+lähedalegi sellele suurusele - keskmine diameeter on kõigest sentimeeter.

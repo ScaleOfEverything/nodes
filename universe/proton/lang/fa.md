@@ -1,5 +1,5 @@
-# Prooton
+# Proton
 
-Prootoneid leidub aatomite tuumas. Need on tuhandeid kordi väiksemad kui aatom
-ise. Neis on kaks u-kvarki ja üks d-kvark. Seepärast on prootoni laeng
-+2/3+2/3-1/3 = +1.
+Protons are found within an atom's nucleus. They are thousands of times smaller
+than the atom itself. They have two up quarks and one down quark. Therefore, the
+proton's charge is +2/3+2/3-1/3 = +1. ",

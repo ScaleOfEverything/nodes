@@ -1,5 +1,5 @@
-# 우라늄 원자핵
+# Uraani aatomtuum
 
-우라늄은 자연계 원소중에서 가장 큽니다. 핵의 크기도 자연계의 원소중에서 가장 커
-요. 동위원소중 하나인 우라늄-238 은 45 억년의 반감기를 가지고있습니다. 거의 지구
-가 탄생했을 때와 맞먹죠.
+Uraan on suurim looduslik element. Sellel on kõige suurem tuum looduslikult
+esinevate elementide hulgas. Uraan-238 on kõige levinum uraani isotoop, mille
+poolestusaeg on 4,5 miljardit aastat, ligikaudu võrdne Maa eksisteerimise ajaga.

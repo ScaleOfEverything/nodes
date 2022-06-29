@@ -1,5 +1,5 @@
-# Lemlelised
+# Duckweed
 
-Need on lemlelised, mis ulbivad tiikides ja teistes väiksemates veekogudes. Neil
-ei ole varsi ega juuri. Samas nad õitsevad õiega! Nende õied on kõige väiksemad
-Maal.
+These are water lentils that float in ponds and other bodies of water. They
+don't have stems or roots. On the other hand, they do create flowers, which are
+the smallest of any plant on Earth.

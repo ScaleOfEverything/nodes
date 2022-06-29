@@ -1,5 +1,5 @@
 # NGC 3310
 
-NGC 3310 este înca una dintre acele galaxii care s-au ciocnit cu alte galaxii,
-modificîndu-si astfel forma, o galaxie spirala cu brate foarte frumoase situata
-la peste 40 de milioane de ani-lumina.
+NGC 3310 – ще одна з тих галактик, які зіштовхуються з іншими, змінюючи свою
+форму. Це спіральна галактика, яка має дуже красиві рукава і знаходиться більше
+ніж на 40 мільйонів світлових років подалі від нас.

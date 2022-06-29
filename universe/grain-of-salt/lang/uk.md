@@ -1,5 +1,5 @@
-# Bobul de sare
+# Крупинка Солі
 
-Sarea este compusa dintr-un metal reactiv si un gaz toxic Toata lumea stie asta.
-De asemenea, nu mînca prea multa sare, sau ai putea muri. Consumînd dintr-o data
-sare în greutate de o miime din greutatea corpului tau te va omorî!
+Сіль – суміш із реактивного металу та токсичного газу. Про це знає кожен. Також,
+не їжте дуже багато солі, або інакше ви можете загинути. З’ївши одну тисячну
+частину ваги вашого тіла одразу звичайно і стане наслідком цього.

@@ -1,4 +1,4 @@
-# 벌새
+# Koolibri
 
-벌새는 1 초에 12 ~ 80 번 날갯짓을 하는데, 피아노에서 가장 낮은음의 진동수와 같습
-니다. 벌새는 뒤로 날아갈 수도 있고 제자리에 떠있을 수도 있어요. 대단한 기술이죠!
+Koolibrid liigutavad oma tiibu 12-80 korda sekundis. Teistest lindudest
+erinevalt suudavad nad ühe koha peal "hõljuda" ja lennata tagurpidi.

@@ -1,4 +1,4 @@
-# 가크룩스
+# Gacrux
 
-가크룩스는 남십자자리에서 찾을 수 있습니다. 크룩스는 라틴어로 "십자가" 를 뜻한다
-네요. 가크룩스는 쌍성입니다.
+Gacruxi leiab Lõunaristi tähtkujust. Crux tähendab ladina keeles risti. Gacrux
+on kaksiktäht. Kahest tähest suurim on punane hiid.

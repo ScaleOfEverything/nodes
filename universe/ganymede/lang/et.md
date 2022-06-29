@@ -1,4 +1,5 @@
-# 가니메데
+# Ganymedes
 
-갈릴레오가 발견한 가니메데는 태양계에서 가장 큰 위성인데, 목성 주위를 공전합니다
-. 소행성 중 하나인 가니메드와 혼동하지 마세요!
+Ganymedes on Päikesesüsteemi suurim kuu. See tiirleb ümber Jupiteri ja avastati
+Galileo poolt. Seepärast nimetatakse seda Galileo kuuks. Ganymedes't ei tohi
+segamini ajada Ganymed'iga, asteroidiga, mille nime lõpus puudub es.

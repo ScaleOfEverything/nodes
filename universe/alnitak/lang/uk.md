@@ -1,5 +1,5 @@
-# Alnitak
+# Альнітак
 
-Alnitak lumineaza nebuloasa Flacara. Alnitak este, de asemenea, cea mai estica
-stea dintre cele trei stele care formeaza centura lui Orion. Celelalte doua sunt
-Alnilam si Miltaka, si toate trei sunt foarte luminoase
+Альнітак освітлює Туманність Полум’я. Також Альнітак найбільш східна зірка серед
+трьох, що формують пояс Оріона. Інші дві – це Альнілам та Мінтака, всі три
+видаються дуже яскравими із планети Земля.

@@ -1,4 +1,5 @@
-# 자외선 파장
+# Ultraviolettvalguse lainepikkus
 
-자외선은 살을 검게 태웁니다. 전에는 햇빛의 열이 살을 태워서 검게 만드는거라고 생
-각했었어요. 바비큐가 탈 때 처럼요. 근데 이제 그게 사실이 아니란걸 알았네요.
+Ultraviolettvalgus annab sulle päevituse. Ma arvasin kunagi, et päikesevalgus ja
+kuumus kõrvetavad naha pruunimaks nagu grillimisel kõik toit muutub tumedamaks.
+Nüüd ma tean, et see pole tõsi.

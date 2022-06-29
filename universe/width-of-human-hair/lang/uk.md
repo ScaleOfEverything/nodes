@@ -1,6 +1,6 @@
-# Grosimea parului uman
+# Ширина Людської Волосини
 
-Parul uman este uimitor: parul tinut drept este aproape perfect cilindric. Pe de
-alta parte, parul ondulat este plat, care permite sa se îndoaie, ca o panglica.
-Stiai ca ai între 50.000 si 200.000 de fire de par de pe cap? Poti începe
-numaratul!
+Людське волосся дивовижне. Рівне волосся майже бездоганно циліндричне. З іншої
+сторони, курчаве волосся рівніше, що дозволяє йому завиватися, немов стрічка. Ви
+знали про те, що на вашій голові міститься від 50,000 до 200,000 волосин? Можете
+порахувати!

@@ -1,6 +1,6 @@
-# Ikso-Radiada Ondolongo
+# Lungimea de unda a razelor X
 
-Kvankam Ikso-radioj ne havas la plej altan frekvencon, estas ankorau
-nekonsilinde banigi en ili. Ne faru tion! Kutime, vi devus havi plumbsildon. Ju
-pli dika plumbsildo, des pli protekto. Tamen, kelkaj Ikso-radioj povas ciame
-trapasi. Pli dika plumbsildo guste nur malaltigas ci tiun sancon.
+Desi razele X nu au cea mai înalta frecventa, e o idee proasta sa stai în ele!.
+Ar trebui sa ai un scut de plumb, cu cît mai gros, cu atît mai bine. Cu toate
+astea, cîteva raze X vor trece întotdeauna printr-un strat oricît de gros de
+plumb, scade doar cantitatea!

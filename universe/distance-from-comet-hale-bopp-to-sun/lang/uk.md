@@ -1,4 +1,4 @@
-# Distanta de la Cometa Hale-Bopp la Soare (cea mai îndepartata)
+# Відстань від Комети Гейла-Боппа до Сонця (найдовша)
 
-Cometa Hale-Bopp se poate îndeparta foarte mult de Soare, avînd nevoie de 2500
-de ani pentru a completa o orbita
+Комета Гейла-Боппа віддаляється все далі від Сонця. Потрібно 2,500 років для
+проходження однієї повної орбіти навколо.

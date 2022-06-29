@@ -1,5 +1,5 @@
-# Cromozom X
+# Ікс-Хромосома
 
-Cromozomii X sunt absolut minunati! Cei mai multi cromozomi X arata asa, chiar
-daca nu sunt cromozomi sexuali - aceia sunt autozomii. Femeile au doi cromozomi
-X în timp ce masculii au un cromozom X si un cromozom Y.
+Ікс-хромосоми дивовижно чудові. Більшість хромосом виглядаюсть як ікс-, навіть
+якщо це це статеві хромосоми – їх називають аутосомами. У жінок є дві
+ікс-хромосоми, у той час, як у чоловіків – ікс- та ігрек- хромосома.

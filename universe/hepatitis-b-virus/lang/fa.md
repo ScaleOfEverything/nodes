@@ -1,5 +1,5 @@
-# B-hepatiidi viirus
+# Hepatitis B Virus
 
-See viirus põhjustab oksendamist, maksa põletikku ja halvemal korral surma.
-Inimkonna seas on see viirus üsna laialt levinud - umbes kolmandik inimestest on
-elu jooksul olnud nakatunud B-hepatiiti rohkemal või vähemal määral.
+Hepatitis B infects a lot of humans. In fact, almost one third of the world
+population has been infected at some point. This virus causes vomiting, liver
+inflammation, and possibly death.

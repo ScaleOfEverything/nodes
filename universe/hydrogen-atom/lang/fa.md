@@ -1,5 +1,5 @@
-# Vesiniku aatom
+# Hydrogen Atom
 
-Vesinik on kõige tüüpilisem element univesumis. See koosneb ühest protonist ja
-elektronist. Vesiniku aatom on nii väike, et seda pole palja silmaga võimalik
-näha isegi kui pingutad kõigest väest.
+Hydrogen is the most abundant element in the universe. It's usually just a
+proton and a electron! A hydrogen atom is so small you can't even see it with
+your naked eye, even if you try your hardest.

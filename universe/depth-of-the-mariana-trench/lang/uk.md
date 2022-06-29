@@ -1,5 +1,5 @@
-# Adâncimea groapei Marianelor
+# Глибина Маріанського Жолобу
 
-Groapa Marianelor este o fosa adînca în Oceanul Pacific. Stiai ca acesta fosa
-minunata a fost propusa ca depozit pentru deseuri nucleare? Tema e discutabila,
-nu?
+Маріанський Жолоб є доволі глибоким. Він знаходиться у Тихому Океані. Ви знали
+про те, що цей милий жолоб був запропонований як місце для скидання ядерних
+відходів? Це глибока тема!

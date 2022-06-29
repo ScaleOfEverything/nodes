@@ -1,5 +1,5 @@
-# Mariaani süviku sügavus
+# Depth of the Mariana Trench
 
-Mariaani süvik on 11 km veepinnast allpool. Esimest korda käisid inimesed
-Challenger'i tipus (kõige sügavam punkt süvikus) 1960 aastal. Üllatuseks leiti
-isegi nii sügavalt vee alt elu.
+The Mariana Trench is a pretty deep trench. It is in the Pacific Ocean. Did you
+know that this lovely trench has been proposed as a site for dumping nuclear
+waste? That's a deep topic!

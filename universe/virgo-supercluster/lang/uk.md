@@ -1,5 +1,5 @@
-# Supercluster-ul Fecioara
+# Надскупчення Діви
 
-Supercluster-ul Fecioara, unul dintre milioanele de superclustere, contine peste
-100 de clustere galactice. Acestea includ cluster-ul nostru, precum si
-Cluster-ul Fecioara, cel mai mare, fara a fi însa super.
+Надскупчення Діви, одне з мільйонів надскупчень, містить у собі більше 100
+галактичних скупчень. До них входить і наше скупчення, а також найбільше,
+Скупчення Діви (яке не є надскупченням).

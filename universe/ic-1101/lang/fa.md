@@ -1,5 +1,5 @@
 # IC 1101
 
-IC 1101 on teadaolevalt suurim galaktika. See koosneb umbes 100 triljonist
-tähest. Meie galaktika, Linnutee, koosneb ainult 250 miljardist, see tähendab,
-et IC 1101-s on 400 korda rohkem tähti, kui Linnutees.
+IC 1101 is the largest known galaxy. It contains about 100 trillion stars. Our
+galaxy, the Milky Way, has only 250 billion, so IC 1101 has 400 times more stars
+than the Milky Way.

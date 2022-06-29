@@ -1,6 +1,5 @@
-# cuarcul Down
+# Нижній Кварк
 
-Exista sase tipuri de cuarci. Ei sunt up, down, strange, charm, top si bottom.
-Cu cît un cuarc este mai mic, cu atît are mai multa masa. Prin urmare, cuarcii
-up si down sunt de fapt cei mai usori cuarci. Acest cuarc up are o încarcatura
-de -1/3
+Існує шість особливостей кварків. Це верхній, нижній, дивний, чарівний, t-кварк
+та b-кварк. Чем меншим є кварк, тим більша його маса. В результаті, вехній і
+нижній кварки насправді найсвітліші із кварків. Цей нижній кварк має заряд -1/3.

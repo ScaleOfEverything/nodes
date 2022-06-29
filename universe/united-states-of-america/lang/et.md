@@ -1,5 +1,4 @@
-# 미국
+# Ameerika Ühendriigid
 
-알 사람은 다 아는 미국입니다. 왼쪽 위에있는 명왕성이랑 비교해보면 미국이 더 커보
-이긴 하는데, 평평한 땅인 미국에 비해서, 명왕성은 "뒷면" 이 있답니다. 즉 입체적이
-란 거죠!
+See on USA. See võib tunduda suurem kui Pluuto, mille pindala on kera tagakülje
+tõttu suurem.

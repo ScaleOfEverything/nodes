@@ -1,6 +1,6 @@
-# Palm Jebel Ali
+# نخل جبل علی
 
-Palm Jebel Ali on maailma kõige suurem inimeste poolt tehislikult tehtud saar
-(mitte arvestades saari nagu Flevopolder, kus ehitati suur tamm, et maad juurde
-võita). Palm Jebel Ali ehitus pandi seisma 2008 aastal finantskriisi tõttu.
-Plaanide kohaselt pidi saar saama koduks 250 000 inimesele!
+نخل جبل علی بزرگترین جزیره ی ساخته ی دست بشر است )که شامل جزایری مانند
+Flevopolderنمی شود، جائی که قسمتی از هلند خشک شده و به جزیره تبدیل شده است(. نخل
+جبل علی کامل نیست. در واقع این قسمتی از مجمع الجزایر نخلی است که قرار است
+250,000 نفر را در خود مستقر کند

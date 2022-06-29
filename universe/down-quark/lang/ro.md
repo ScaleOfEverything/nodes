@@ -1,5 +1,6 @@
-# D-kvarko
+# cuarcul Down
 
-Estas ses kvark-gustoj. Ili estas U-, D-, S-, C-, T- kaj B-kvarko. Ju pli
-malgranda kvarko estas, des pli da amaso gi havas. Rezulte, la U- kaj D-kvarkoj
-estas fakte la plej malpezaj de la kvarkoj. Ci tiu D-kvarko havas sargon 1/3.
+Exista sase tipuri de cuarci. Ei sunt up, down, strange, charm, top si bottom.
+Cu cît un cuarc este mai mic, cu atît are mai multa masa. Prin urmare, cuarcii
+up si down sunt de fapt cei mai usori cuarci. Acest cuarc up are o încarcatura
+de -1/3

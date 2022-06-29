@@ -1,6 +1,5 @@
-# Krabi udukogu
+# Crab Nebula
 
-Krabi udukogu on üks kuulsamaid udukogusid. See oli ka esimene objekt, mille
-Charles Messier kataloogiseeris (M1)! Krabi udukogu supernoovat nähti 1054 pKr
-ja see oli nii ere, et oli nähtav päise päeva ajal. See pole veel 1000 aastatki
-vana!
+The Crab Nebula is one of the most famous nebulae. It was also the first Messier
+object catalogued (M1)! The Crab Nebula's supernova was seen in 1054 AD and was
+so bright it could be seen during the day. It isn't even 1,000 years old!

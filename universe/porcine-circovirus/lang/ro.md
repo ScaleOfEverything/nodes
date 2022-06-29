@@ -1,6 +1,6 @@
-# Porka Cirkoviruso
+# Circovirusul porcin
 
-La Porka Cirkoviruso estas unu el la plej malgrandaj virusoj. Gi nur postulas
-tri proteinojn por reproduktigi. Se vi konsideras virusojn kiel vivajoj, tial la
-Porka Cirkoviruso estas la plej malgranda viva ajo. Tamen, plejparto da homoj
-konsentas, ke virusoj ne estas vivajoj.
+Circovirusul porcin este unul dintre cele mai mici virusi. Are nevoie de doar
+trei proteine ??de a se înmulti. Daca am considera ca virusii au viata, atunci
+circovirusul porcin este mai mic lucru viu. Cu toate acestea, majoritatea
+oamenilor sunt de acord ca virusii nu sunt vii.

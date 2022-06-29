@@ -1,5 +1,5 @@
-# V354 Cephei
+# V354 Цефея
 
-V354 Cephei este o supergiganta rosie, si este imensa. Daca ar fi în locul
-Soarelui, s-ar întinde dincolo de orbita lui Jupiter! 354 este si anul de
-nastere al lui Augustin de Hippo
+V354 Цефея – це червоний супергігант, і він величезний. Якщо б він розташувався
+у Сонячній системі, його ширина виходила б за межі орбіти Юпітера. 354, на
+додаток до назви цієї зірки, також є роком народження Аврелія Августина.

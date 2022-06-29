@@ -1,4 +1,4 @@
-# 광일
+# Valguspäev
 
-24 시간 동안, 빛은 무려 260 억km 가량을 이동합니다. 아직 어떠한 우주 탐사선도 아
-직 이 거리를 이동하진 못했어요.
+Isegi ainult kahekümne nelja tunniga suudab valgus läbida vahemaa 26 miljardit
+kilomeetrit. See on rohkem kui ükski inimene või kosmosesond kunagi reisinud on.

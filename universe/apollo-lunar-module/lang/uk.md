@@ -1,5 +1,5 @@
-# Modulul Apollo
+# Модуль Аполлон на Місяці
 
-Modulul cîntareste 15.000 de kilograme! De asemenea, a aterizat pe Luna.
-Aterizarea sa a inspirat un joc numit " Lunar Lander ", care nu-i deloc usor. De
-cîte ori îl joc, ramîn fara combustibil!
+Ця штука важить 15,000 кілограм! Це багато! Він також приземлився на Місяці.
+Його приземлення стало натхненням для створення аркадної гри "Місячний
+Приземлювач", яка є нелегкою. Коли я граю, в мене завжди закінчується пальне!

@@ -1,5 +1,5 @@
-# Roseti udukogu
+# Rosette Nebula
 
-Roseti udukogu on väga suur, kuid ka väga tuhm. See sarnaneb leegitsevale
-roosile ja roosilisele lõkkele. See on meist ligikaudu 5000 valgusaasta kaugusel
-ja selle mass on võrdne 10 000 Päikese massiga (3 miljardi Maa massiga).
+The Rosette Nebula is very large, but very faint. It looks like a fiery rose and
+a rosy fire. It's approximately 5,000 light-years away from us and has a mass of
+10,000 Suns. (3 billion Earths)

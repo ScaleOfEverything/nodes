@@ -1,5 +1,5 @@
-# 개미 성운
+# Sipelga udukogu
 
-Mz 3 이라고도 불리는 개미 성운은 시속 180,000 km 의 속도로 퍼져나가고 있습니다.
-개미랑 아주 닮지 않았나요? 개미에 대해 더 알고싶다면, 배율을 10^-2.4 수준까지 확
-대해 보세요.
+Sipelga udukogu, teise nimega Mz 3, paisub 180 000 kilomeetrit tunnis. See
+meenutab sipelgat ja on ka sellest nime saanud. Kui tahad rohkem sipelgate kohta
+teada, suumi 18 suurusjärku sissepoole.

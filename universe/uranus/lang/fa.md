@@ -1,4 +1,5 @@
-# Uraan
+# اورانوس
 
-Uraan ome meie päikesesüsteemi seitsmes planeet. Uraan sai oma nime taevajumal
-Uranuse järgi. Uraan on päikesesüsteemi kõige külmem planeet.
+بسیاری از مردم دوست دارند که فکر کنند "Uranus" شبیه "your anus" تلفظ می شود.
+تلفظ های دیگر و بهتری وجود دارند. اورانوس همچنین می تواند به صورت "Yer-uh-niss"
+یا "Seh-venth-pla-net" تلفظ شود.

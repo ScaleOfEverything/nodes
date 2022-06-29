@@ -1,6 +1,6 @@
-# Cactusul Saguaro
+# Кактус Карнегія
 
-Nu toti cactusii Saguaro cresc la 14 metri, unii din pacate cresc doar cinci.
-Unii cactusi fara crengi sunt numiti sulite. Cactusii saguaro au nevoie de 75 de
-ani pentru a le creste în întregime un brat, în timp ce la oameni e nevoie de
-mai putin de 20.
+На жаль, не всі кактуси Карнегія виростають до 14 метрів у висоту. Деякі можуть
+досягти мізерних п’яти метрів. Деякі не мають гілок – їх називають колючками.
+Кактусу карнегії необхідно 75 років, щоб відростити повну гілку, у той час, як
+людині потрібно лише 20.

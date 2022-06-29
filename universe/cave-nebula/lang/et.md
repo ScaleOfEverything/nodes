@@ -1,4 +1,5 @@
-# 동굴 성운
+# Koopa udukogu
 
-동굴 성운은 산광 성운인데, Sh2-155 나 칼드웰 9 라고도 불립니다. 이와 같이 크기가
-큰 성운들은 대부분 희미해서 보려면 긴 노출시간이 필요합니다.
+Koopa udukogu on väga hajus udukogu. Muidugi on enamus nii suuri udukogusid
+tuhmid ja nende märkamine võtab palju aega. Koopa udukogu nimetatakse ka Sh2-155
+või Caldwell 9-ks.

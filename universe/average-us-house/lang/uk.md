@@ -1,5 +1,5 @@
-# O casa medie în SUA
+# Середній Будинок США
 
-Casele din Statele Unite devenit tot mai mari în ultimii 40 de ani, suprafata
-aproape s-a dublat! Aceste case sunt atît de mari încît ar încapea 1.000 de
-oameni în ele! Destul de inghesuiti, nu?
+Ці будинки Сполучених Штатів ставали більшими. За останні 40 років, середній
+будинок майже збільшився у площині! Ці будинки настільки великі, що ви зможете
+вмістити в них 1,000 людей! Однак, буде доволі тісно.

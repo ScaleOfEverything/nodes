@@ -1,4 +1,4 @@
-# 세페우스자리 V354
+# V354 Cephei
 
-세페우스자리 V354 는 아주 큰 초거성입니다. 만약 태양계의 중심에 갖다놓으면, 목성
-위치까지 덮어버릴 정도에요.
+V354 Cephei on tohutu punane ülihiid. Kui see paigutada Päikese asemele, siis
+ulatuks see kaugemale kui Jupiteri orbiit.

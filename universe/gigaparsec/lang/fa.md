@@ -1,5 +1,5 @@
-# Gigaparsek
+# Gigaparsec
 
-Gigaparsek on miljard parsekit. See on üks suurimaid pikkuse mõõtühikuid.
-Tegelikult ei ole suuremat mõõtühikut tarviski kuna kogu vaadeldava universumi
-raadius on ainult 14 gigaparsekit.
+A gigaparsec is one billion parsecs. It is one of the largest measures of
+distance. There's really no need to have any measure larger, because the radius
+of the observable universe is only 14 gigaparsecs.

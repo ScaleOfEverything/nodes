@@ -1,5 +1,5 @@
-# Cromozomul Y
+# Ігрек-Хромосома
 
-Cromozomul Y, un cromozom de sex, apare doar la masculi Stiati ca prin evolutie
-cromozomul Y scade permanent, si, în final va disparea complet?. Mi se pare a fi
-fascinant!
+Ігрек-хромосома, статева хромосома, з’являється лише у чоловіків. Ви знали про
+те, що ігрек-хромосома продовжує зменшуватися під час еволюціонування, і можливо
+одного дня зовсім зникне? Я вважаю, що це дуже дивовижно!

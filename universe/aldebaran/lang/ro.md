@@ -1,6 +1,6 @@
-# Aldebarano
+# Aldebaran
 
-Oni ne debas konfuzi Aldebaranon kun Alderaano, kiu estas planedo en la filmo
-Star Wars (Stelmilitoj). Alderaano sajnas esti tre simile al la Tero lau
-grandeco, taglongeco kaj akvokovrilo. Tamen, Aldebarano estas 5,000-foje pli
-granda en diametro, turnigas ciu 643 Tertagoj, kaj tute ne havas akvon.
+Aldebaran nu trebuie sa fie confundata cu Alderaan, care este o planeta in
+Razboiul Stelelor. Alderaan e asemanatoare în dimensiuni cu Pamîntul, durata
+zilei, si acoperirea cu apa. Aldebaran în schimb este de 5.000 de ori mai mare
+în diametru, se roteste la fiecare 643 de zile terestre, si nu are apa

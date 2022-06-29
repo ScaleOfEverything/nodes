@@ -1,5 +1,5 @@
-# Enif
+# Еніф
 
-Enif este un supergigant portocaliu. Numele sau înseamna "nas", în araba, pentru
-ca în constelatia Pegasus, ar fi în pozitia botului. Accidental, în engleza,
-cuvântul "Enif" spus invers îneamna "bine"
+Еніф є помаранчевим супергігантом. Його ім’я означає "ніс" в Арабській мові,
+тому що у сузір’ї Пегаса він знаходиться у положенні спереду. Як випадок,
+англійське слово "Enif" навпаки буде читатися як "Fine", що означає "чудово".

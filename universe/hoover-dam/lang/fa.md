@@ -1,5 +1,5 @@
-# Hooveri tamm
+# Hoover Dam
 
-Hooveri tamm, mis ehitati Colorado jõele, hoiab Ameerika Ühendriikide suurimat
-veehoidlat, Meadi järve. Hooveri tamm ei anna ainult vett, vaid selle turbiinid
-toodavad ka elektrit.
+The Hoover Dam, which was built on the Colorado River, holds in the largest
+reservoir in the United States, Lake Mead. Not only does the Hoover Dam provide
+water, but its turbines also generate electricity.

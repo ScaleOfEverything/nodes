@@ -1,6 +1,6 @@
-# Helic-Nebulozo
+# Nebuloasa Helix
 
-La Helica Nebulozo (NGC 7293) estas unu el la plej proksimaj brilantaj planedaj
-nebulozoj al la Tero. Gi estas 400 lum-jaroj for de la Tero! Tio estas nur kvar
-duiliardoj (4,000,000,000,000,000) da kilometroj! (Tio estas proksime,
-astronomie parolante.)
+Nebuloasa Helix este una dintre cele mai luminoase nebuloase planetare în
+apropierea Pamîntului. E la doar 400 de ani-lumina distanta de Pamînt, asta
+însemnînd patru cvadrilioane (4,000,000,000,000,000) de kilometri! Asta
+înseamna, astronomic vorbind, aproape!

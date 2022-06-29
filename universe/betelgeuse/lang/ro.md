@@ -1,6 +1,5 @@
-# Betelgezo
+# Betelguese
 
-La Betelgeza ago estas kalkulebla je kelkmilionoj da jaroj. Betelgezo estas tiel
-malnova, ke oni atendas gi eksplodu en la sekvontaj dek mil jaroj. Pli
-malgrandaj steloj vivas dum duilionoj da jaroj. Betelgezo estas tiel granda, ke
-gi maljunigas rapide.
+Betelguese are o vechime de milioane de ani. E atît de veche, încît se asteapta
+sa explodeze în urmatorii zece mii de ani. Stele mai mici traiesc mii de
+miliarde de ani; Betelguese fiind însa atît de mare a îmbatrînit rapid

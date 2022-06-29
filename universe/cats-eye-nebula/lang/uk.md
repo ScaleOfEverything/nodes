@@ -1,5 +1,6 @@
-# Nebuloasa ochi de pisica
+# Туманність Котяче Око
 
-Nebuloasa ochi de pisica (Cat Eye) este una dintre cele mai complexe nebuloase
-cunoscute. Stiai ca are cam 8.000 ° C? Destul de cald, nu? Halo-ul exterior este
-însa si mai cald, la 15.000 ° C.
+Туманність Котяче Око – одне з найбльших складних туманностей з тих, що були
+відкриті. Ви знали про те, що туманність Котяче Око має температуру в 8,000° C?
+Це доволі гаряче! Зовнішнє гало навіть ще гарячіше, температура там досягає
+15,000° C.

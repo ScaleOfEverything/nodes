@@ -1,5 +1,5 @@
-# Spica
+# Спіка
 
-Spica este dupa stralucire a cinsprezecea stea de pe cerul noptii si se afla în
-constelatia Fecioara. Este de fapt un sistem stelar binar. Cele doua stele sunt
-foarte apropiate, orbiteaza la fiecare patru zile
+Спіка – п’ятнадцята найяскравіша зірка у нічному небі і знаходиться у сузір’ї
+Діви. Насправді вона є подвійною зоряною системою. Дві зірки розташовані дуже
+близько одна до одної, і обертаються навколо орбіти кожні чотири дні.

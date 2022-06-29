@@ -1,4 +1,5 @@
-# Oul de Prepelita
+# Яйце перепелиці
 
-Multi oameni cred ca ouale de prepelita sunt mai bune decît ouale de gaina. Oul
-de prepelita este mai mic si mai putin popular decît oul de gaina
+Багато людей думають, що яйця перепелиці кращі за курячі яйця. Яйце перепелиці
+менше та рідкіше, ніж куряче яйце, але це ніяк не заважає деяким людям їх
+любити!

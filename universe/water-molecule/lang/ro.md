@@ -1,4 +1,3 @@
-# Akva Molekulo
+# Molecula de apa
 
-Mi satas pensi tion ciam, kiam mi trinkas akvon, mi trinkas kapojn de Micjo
-Muso. Cu vi ankau? Bone, vi debu.
+De cîte ori beau apa, parca beau capete de Mickey Mouse. Tu nu?

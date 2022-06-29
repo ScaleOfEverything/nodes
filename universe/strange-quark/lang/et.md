@@ -1,5 +1,5 @@
-# 야릇한 쿼크 (s)
+# S-kvark
 
-야릇한 쿼크는 별난 쿼크라고도 불리우는데, 굉장히 별난 쿼크입니다. 위, 아래 쿼크
-의 질량보다 50 배 가까히 큰데, 위 쿼크보다 크기는 작아요! 무지 별나죠! "야릇한물
-질" 은 위, 아래, 그리고 야릇한 쿼크로 이루어져 있어요!
+S-kvark on oma nime saanud inglisekeelsest sõnast strange (veider). Kuigi need
+on väiksemad kui u-kvargid, on need 50 korda suurema massiga. Kas pole veider?
+Veider, et aine koosneb u-, d,- ja s-kvarkidest.

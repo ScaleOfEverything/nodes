@@ -1,5 +1,5 @@
-# Quaoar
+# Кваоар
 
-Quaoar este foarte densa, deoarece miezul ei este masiv. Se poate ca Quaoar sa
-fi fost mult mai mare cu mult timp în urma, apoi sa fi fost lovita de un obiect
-de marimea lui Pluto, care a deposedat-o de mai multe învelisuri
+Кваоар дуже щільна, бо в неї дуже велике ядро. Колись давно Кваоар могла бути
+набагато більшою. В неї міг влучити об’єкт розміром із Плутон, який ймовірно міг
+знищити зовнішні кільця.

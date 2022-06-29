@@ -1,6 +1,5 @@
-# Paper-Dikeco
+# Grosimea foii de hârtie
 
-Papero estas tre maldika. Estas tiel maldikaj, ke gi povas fari al vi
-papertrancajon. Vi povas fari multajn ajojn kun papero, inkluzive skribi sur
-gin, desegni sur gin, kaj ec faldi gin por fari kvadratojn, triangulojn,
-dekduedrojn kaj aliajn.
+Hîrtia este foarte subtire; atît de subtire încît te poti taia în ea. Pe hîrtie
+putem scrie si desena, dar putem si sa o pliem în superbe forme matematice, cum
+ar fi patrate si triunghiuri si dodecaedroane si multe altele

@@ -1,5 +1,5 @@
-# Angstrom
+# Ангстрем
 
-Un Angstrom, numit dupa fizicianul suedez Anders Jonas Angstrom, este o zecime
-de nanometru. Simbol pentru un Angstrom este Å. Angstromii se folosesc în
-masurarea dimensiunii atomilor.
+Ангстрем, назва якого походить від імені шведського фізика Андерса Йонаса
+Ангстрема, - це одна десята нанометру. Символом ангстрема є літера Е. Ангстрем
+використовується для визначення розміру атомів.

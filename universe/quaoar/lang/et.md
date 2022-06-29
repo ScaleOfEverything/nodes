@@ -1,6 +1,5 @@
-# 콰오아
+# Quaoar
 
-콰오아는 중심부가 매우 큰 탓에, 구조가 꽤나 빽빽한 편입니다. 콰오아는 과거엔 더
-컸지만 지금은 그 크기가 작아졌을 것으로 추측되는데, 그 이유로 과거에 명왕성 크기
-의 물체와 충돌하여 그 이후에 콰오아의 표면층이 날아가버렸을 것이라는 설이 유력합
-니다.
+Quaoar on väga tihe. Selle tiheduse põhjustajaks peetakse suurt tuuma.
+Arvatakse, et Quaoar oli kunagi palju suurem, aga teda tabas Pluuto suurune
+objekt, mis lennutas välimised kihid kosmosesse.

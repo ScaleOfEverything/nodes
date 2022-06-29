@@ -1,4 +1,5 @@
-# Tolmulest
+# Dust mite
 
-Tolmulestad söövad tolmu, mis on lihtsalt surnud naharakud. Paljud inimesed on
-allergilised tolmulestade vastu. Mõned on allergilised nende väljaheite vastu.
+Dust mites like to eat dust, which you probably know is just dead skin cells.
+Many people are allergic to dust mites. Some people are allergic to their poop.
+Either way, almost all people want to get rid of this pesky pest.

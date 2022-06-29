@@ -1,6 +1,6 @@
-# Palmo Jebel Ali
+# Palm Jebel Ali
 
-Palmo Jebel Ali estas la plej granda hom-farita insulo (ne regardante insulojn
-kiel Flevopolder, kie regiono de Nederlando estis drenita pro akiri plian
-teron). Palmo Jebel Ali ankorau ne estas finigita. Gi estas ero de la
-Palm-insuloj kaj estu dononta logejon al 250,000 personoj!
+Palm Jebel Ali este cel mai mare insula creata de om (neincluzând insule precum
+Flevopolder, o regiune a Olandei care a fost drenata astfel încît sa poata avea
+mai mult teren). Palm Jebel Ali nu este completa. Este o parte a Insulelor Palm,
+si în final va gazdui 250.000 de persoane

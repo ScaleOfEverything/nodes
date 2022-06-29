@@ -1,6 +1,7 @@
-# Futbala Kampo
+# Teren de fotbal american
 
-La kampoj de la Usona piedpilko estas 120 jardoj (109.7 m) longa, se inkluzivas
-la ekstremajn areojn. Ciuokaze, futbalkampoj estas ofte uzitaj por mezuri
-grandajn objektojn. Ekzemple, "La Titanic estis tri futbalkampoj longe!"
-Futbalkampoj ankau estas uzitaj por ludi futbalon.
+Un teren de fotbal american are 120 de yarzi (109.7 metri), daca si
+extremitatile sunt incluse. Terenurile de fotbal sunt adesea folosite pentru
+masurarea obiectelor de mari dimensiuni; de exemplu," Titanicul este lung cît
+trei terenuri de fotbal. "Terenurile de fotbal sunt deasemenea folosite si
+pentru fotbal.

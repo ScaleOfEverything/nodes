@@ -1,6 +1,6 @@
-# Rango de la Malforta Nuclea Forto
+# Gama de forta slaba
 
-La malforta forto estas unu el la kvar fundamentaj fortoj de naturo, kaj estas
-la plej malforta el la du nukleaj fortoj. Kiam distancoj pligrandigas, gia
-forteco malgrandigas. Je nur 10 atometroj, la malforta forto estas tiel
-malforta, ke gi estas nemezurebla.
+Forta slaba este una dintre cele patru forte fundamentale ale naturii, si este
+mai slaba dintre cele doua forte nucleare. Cu cresterea distantelor, puterea ei
+scade. La doar 10 attometers, forta slaba devine atît de slaba ca devine de
+nemasurat.

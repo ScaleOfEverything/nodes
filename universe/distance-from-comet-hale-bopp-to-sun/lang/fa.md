@@ -1,4 +1,4 @@
-# Hale'i-Boppi komeedi ja Päikese vaheline kaugus (suurim)
+# Distance from Comet Hale-Bopp to Sun (farthest)
 
-Hale'i-Boppi komeet lendab Päikesest väga kaugele. Sel võtab 2500 aastat ühe
-tiiru tegemiseks.
+The comet Hale-Bopp gets very far from the Sun. It takes 2,500 years to orbit
+once.

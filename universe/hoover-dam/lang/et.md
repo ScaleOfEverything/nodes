@@ -1,4 +1,5 @@
-# 후버 댐
+# Hooveri tamm
 
-콜로라도 강에 지어진 후버 댐은, 미국에서 가장 많은 저수용량을 가지고 있습니다.
-후버 댐은 물을 저장할 뿐 아니라, 터빈을 돌려 전기도 생산해냅니다.
+Hooveri tamm, mis ehitati Colorado jõele, hoiab Ameerika Ühendriikide suurimat
+veehoidlat, Meadi järve. Hooveri tamm ei anna ainult vett, vaid selle turbiinid
+toodavad ka elektrit.

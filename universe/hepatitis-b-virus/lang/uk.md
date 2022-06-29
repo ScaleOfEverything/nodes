@@ -1,5 +1,5 @@
-# Virusul hepatitei B
+# Вірус Гепатиту B
 
-Hepatita B infecteaza o multime de oameni. De fapt aproape o treime din
-populatia lumii a fost la un anumit moment infectata. Acest virus provoaca
-varsaturi, inflamarea ficatului, eventual chiar moartea.
+Гепатит B інфікує багатьох людей. Насправді, майже одна третина світової
+популяції була інфікована у якийсь момент. Цей вірус спричиняє блювоту,
+запалення печінки, і ймовірно смерть.

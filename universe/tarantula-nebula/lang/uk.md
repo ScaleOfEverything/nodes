@@ -1,5 +1,5 @@
-# Nebuloasa Tarantula
+# Туманність Тарантул
 
-Nebuloasa Tarantula este mai mare nebuloasa cunoscuta, situata în norul Magellan
-mare. Este foarte luminosa, cu o marire absoluta este de -11. E si cel mai
-stralucitor obiect non-stelar cunoscut
+Туманність Тарантул – найбільша відома туманність. Її можна знайти у Великій
+Магеллановій хмарі. Вона дуже яскрава, і має абсолютну величину у -11. Це
+найяскравіший незоряний об’єкт, що відомий людству.

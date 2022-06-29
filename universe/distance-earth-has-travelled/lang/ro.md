@@ -1,5 +1,5 @@
-# La Distanco Kiun la Tero jam Trairis (Kompare kun la Suno)
+# distanta strabatuta de Pamînt (relativ la soare)
 
-La Tero jam vojagis dum preskau duonmilionoj da lum-jaroj kompare kun la Suno,
-ekde gia formado. (Tio estas 4.5 miliardoj da jaroj/orbitoj.) La Tero estas
-10,000-oble pli malrapida ol lumo.
+Pamîntul a calatorit aproape o jumatate de milion de ani-lumina fata de Soare de
+la formarea sa. (de acum 4,5 miliarde de ani sau orbite). Pamîntul este de
+10.000 de ori mai lent decît lumina.

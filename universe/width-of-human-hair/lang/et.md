@@ -1,5 +1,5 @@
-# 머리카락의 폭
+# Inimese juuksekarva laius
 
-인간의 머리카락은 굉장합니다. 직모는 거의 완벽한 원통형이고, 곱슬머리는 납작해서
-, 구부러질 수 있게 되어있습니다. 여러분의 머리에 보통 50,000 에서 200,000 가닥정
-도의 머리카락이 있다는 것을 알고 계셨나요? 한 번 세보세요!
+Sirged juuksed on peaaegu täiuslikud silindrid. Lokkis juuksed on lamedamad, mis
+võimaldab juustel ka lokki minna. Kas teadsid, et sul on tõenäoliselt peas 50
+000 kuni 200 000 juuksekarva? Proovi lugeda!

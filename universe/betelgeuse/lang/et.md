@@ -1,5 +1,5 @@
-# 베텔기우스
+# Betelguese
 
-베텔기우스의 나이는 이제 수백만살 정도입니다. 나이를 상당히 먹은 탓에 앞으로 만
-년 이내에 폭발할 거라고 하네요. 작은 별들은 보통 수조년 가량을 살지만, 베텔기우
-스는 크기가 크다보니 나이를 빨리 먹었다고 합니다.
+Betelguese on mitu miljonit aastat vana. See on nii vana, et arvatakase
+plahvatavat lähema kümnetuhande aasta jooksul. Väiksemad tähed eksisteerivad
+miljardeid aastaid, aga Betelguese on nii suur, et vananes ruttu.

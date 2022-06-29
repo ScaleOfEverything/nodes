@@ -1,5 +1,5 @@
-# Nebuloasa Stingray
+# Туманність Ската
 
-Nebuloasa Stingray este o nebuloasa planetara relativ tînara, si în continua
-crestere. Cine a numit aceasta nebuloasa a crezut ca seamana cu o pisica de
-mare. Tu?
+Туманність Ската є туманністю планет. Вона відносно молода, і постійно зростає.
+Хто б не назвав цю туманність саме так, він, мабуть, думав, що вона схожа на
+ската. А ви теж так думаєте?

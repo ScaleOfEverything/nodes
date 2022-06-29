@@ -1,6 +1,5 @@
 # Deimos
 
-Deimos on Marsi kahest kuust väiksem. Sellele kuule saab ringi peale kõndida ühe
-päevaga. Seda muidugi ainult juhul, kui sa kosmose tingimustes kõndida
-suudaksid. Kui teist korda mõelda, siis skafander aeglustaks kõndimise tempot ja
-see võtaks reaalsuses rohkem aega.
+Deimos is one of the smallest moons known. You could walk around it in a day! Of
+course, you'd have to wear a space suit to survive in the vacuum of space. I
+don't think you could walk as fast in a space suit, though.

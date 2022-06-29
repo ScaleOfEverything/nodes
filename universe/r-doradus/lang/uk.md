@@ -1,6 +1,6 @@
-# R Doradus
+# R Золотої Риби
 
-R Doradus este o stea destul de mare, la doar 200 de ani-lumina de Pamînt,
-dimensiunea ei aparenta o fac cel mai mare obiect vizibil de pe cer dupa soare!
-Aceasta este de 0,05 arcseconds; Soarele la 1.920 arcseconds e de 40.000 de ori
-mai mare
+R Золотої Риби відносно велика і знаходиться на відстані лише 200 світлових
+років від Землі, тому її видимий розмір другий найбільший у небі! Вона 0.05
+кутових секунд завширшки. Сонце найбільша зірка, діаметром 1,920 кутових секунд
+– у 40,000 разів більша.

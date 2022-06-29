@@ -1,5 +1,4 @@
-# Strand-Pilko
+# minge de plaja
 
-La strand-pilko estis elpensita en 1938, kio estis antau pli ol 70 jaroj.
-Strand-pilkoj estas ankau kolorplenaj. Krome, ili estas tre amuzaj! La nura
-strand-pilko kiu ne estas amuza estas la strand-pilko de morto." ,
+Mingile de plaja au fost inventate în 1938, deci peste 70 de ani în urma. Mingi
+de plaja sunt frumos colorate si foarte distractive.

@@ -1,5 +1,5 @@
-# Grupul Local
+# Місцева Група
 
-Grupul Local este cluster-ul de galaxii în care traim noi. Contine cam treizeci
-de galaxii si galaxii pitice. Cele mai mari galaxii din el sînt Andromeda si
-galaxia noastra, Calea Lactee.
+Місцева Група – скупчення галактик, у яких ми живемо. Вона містить біля тридцяти
+галактик і карликових галактик. Дві найбільші серед них – це Галактика Андромеди
+та наша власна, Чумацький Шлях.

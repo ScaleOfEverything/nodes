@@ -1,4 +1,4 @@
-# Ameerika Ühendriigid
+# ایاات متحده ی آمریکا
 
-See on USA. See võib tunduda suurem kui Pluuto, mille pindala on kera tagakülje
-tõttu suurem.
+اینجا U.S.A است. گرچه به نظر بزرگتر از پلوتوست، پلوتو چهره ی پشتی دارد، که به
+معنای داشتن مساحت بیشتری است!

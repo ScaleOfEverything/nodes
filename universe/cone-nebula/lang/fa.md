@@ -1,4 +1,5 @@
-# Koonuse udu
+# Cone Nebula
 
-Koonuse udu avastati 1785, Jõuludele järgneval päeval. Kas teadsid, et Koonuse
-udu on tume ja hajus udukogu? See on leitav Betelgeuse ja Prooküoni vahel.
+The Cone Nebula was discovered in 1785, on the day after Christmas. Did you know
+that the Cone Nebula is a dark nebula and a diffuse nebula? You can find it
+between Betelgeuse and Procyon.

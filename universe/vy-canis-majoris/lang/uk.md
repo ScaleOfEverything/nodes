@@ -1,5 +1,5 @@
-# VY Canis Majoris
+# VY Великого Пса
 
-VY Canis Majoris este cea mai mare stea cunoscuta. Este atît de mare ca daca ar
-înlocui Soarele, s-ar întinde dincolo de orbita lui Saturn! Unui avion i-ar lua
-1.200 de ani sa-l înconjoare o singura data
+VY Великого Пса – найбільша відкрита зірка. Вона настільки величезна, що якщо б
+вона знаходилася у Сонячній системі, вона простягалася б за межі орбіти Сатурну!
+Щоб облетіти її на літаку тільки один раз, знадобилося б 1,200 років.

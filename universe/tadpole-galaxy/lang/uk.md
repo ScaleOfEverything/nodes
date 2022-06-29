@@ -1,5 +1,5 @@
-# Tadpole Galaxy
+# Галактика Головастик
 
-Galaxie mormoloc a luat forma ei atunci cînd o alta galaxie s-a ciocnit de ea.
-La fel ca la mormoloci, Galaxy Tadpole îsi vai pierde coada pe masura ce
-înainteaza în vîrsta.
+Галактика Головастик має хвіст із зірок. Ймовірно, він утворився, коли в неї
+врізалася інша галактика. Так само, як і головастики, Галактика Головастик, як
+очікується, загубить свій хвіст, коли постаріє.

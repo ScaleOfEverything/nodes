@@ -1,4 +1,4 @@
-# 비치 볼
+# Rannapall
 
-비치 볼은 1938 년에 발명되었는데, 거의 70 년이 넘었네요. 알록달록한 비치 볼을 가
-지고 친구들과 놀면 재밌죠!
+Rannapallid leiutati 1938. aastal, st juba 70 aastat on nad toonud nii suurtele
+kui väikestele lõbu.

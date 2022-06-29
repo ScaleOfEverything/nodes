@@ -1,5 +1,5 @@
-# Hepatito B-Viruso
+# Virusul hepatitei B
 
-Hepatito B infektas multajn homojn. Fakte, preskau unu triono de la monda
-logantaro estas infektita iufoje. Ci tiuj virusoj okazigas vomon, hepatan
-inflamon kaj eble morton.
+Hepatita B infecteaza o multime de oameni. De fapt aproape o treime din
+populatia lumii a fost la un anumit moment infectata. Acest virus provoaca
+varsaturi, inflamarea ficatului, eventual chiar moartea.

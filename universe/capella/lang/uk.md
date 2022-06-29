@@ -1,4 +1,5 @@
-# Capella
+# Капелла
 
-Capella e de fapt o stea binara; avînd ambele stele de tip G. Cea mai mare e cea
-din stînga. Soarele este tot o stea de tip G
+Капелла насправді є двійковою зіркою. Обидві зірки є гігантськими зірками типу
+G. Ту, що більша, ви можете побачити зліва. Сонце також є зіркою типу G, але
+саме ця належить до головної послідовності.

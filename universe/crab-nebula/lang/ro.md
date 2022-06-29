@@ -1,6 +1,6 @@
-# Krab-Nebulozo
+# Nebuloasa Crab
 
-La Kraba Nebulozo estas unu el la plej famaj nebulozoj. Gi estis ankau la unua
-Messier-objekto katalogita (M1)! La Krab-Nebuloza supernovo estis vidata en 1054
-p. K., kaj estis tiom brila, ke oni povis vidi gin dum la tago. Gi ne agas ec
-1,000 jaroj!
+Nebuloasa Crab este una dintre cele mai renumite nebuloase, fiind si primul
+obiect clasificat Messier (M1)! Supernova Crab a fost vazuta pentru prima data
+în anul 1054; era atît de stralucitoare încît putea fi observata în timpul
+zilei. Nu are nici macar 1000 ani!

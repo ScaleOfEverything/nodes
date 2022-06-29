@@ -1,5 +1,5 @@
-# Rhode Island
+# Род-Айленд
 
-Rhode Island este cel mai mic stat din SUA. Cu toate acestea, în el ar încapea
-întreaga populatie a lumii! Stiai ca Rhode Island, SUA are cel mai lung nume
-oficial? (Statul Rhode Island si Plantatiile Providence)
+Род-Айленд є найменшим штатом у США. Однак, він досі міг би умістити у собі усю
+світову популяцію. Вам відомо про те, що Род-Айленд має найдовшу офіційну назву
+штату? (Штат Род-Айленд і плантації Провіденса)

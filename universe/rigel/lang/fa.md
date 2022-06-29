@@ -1,5 +1,5 @@
-# Rigel
+# پای شکارچی
 
-Rigel on põlev sinine täht. See on kõige eredam täht Orioni tähtkujus. Täht asub
-ekvaatori lähedal, st Rigelit on võimalik näha peaaegu igast vaatluspunktist
-Maal.
+پای شکارچی یک ستاره ی آبی تابناک ، و درخشان ترین ستاره در صورت فلکی شکارچی است.
+در کنار استواست، بنابراین از تقریبا همه جای کره ی زمین قابل دیدن است. بنابراین،
+به آن "wriggle" نگوئید چرا که به صورت "rye-jel" تلفظ می شود.

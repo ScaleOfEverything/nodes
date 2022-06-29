@@ -1,5 +1,5 @@
-# Transistor
+# Transistor Gate
 
-Transistorid arvutites muutuvad järjest väiksemaks ja väiksemaks. 1971. aastal
-nad olid ühe millimeetri suurused. Nüüd on need 25 nanomeetri suurused.
-Tulevikus võivad veelgi väiksemad olla. Huvitav, kui väikseks nad muutuvad?
+Transistors in computers are continuing to get smaller. In 1971, they were 400
+times larger at 10 micrometers. Now we are down to 25 nanometers, but in the
+future, they might be even smaller. How small will they get?

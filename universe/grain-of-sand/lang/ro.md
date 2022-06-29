@@ -1,6 +1,5 @@
-# Sablero
+# Firul de nisip
 
-Kompreneble, ne ciuj grajnoj de sablo havas la saman grandecon. Ili varias
-multe. Sabloamantoj estas tiuj, kiuj kolektas sablajn specimenojn. Ankau, cu vi
-scias, ke la Papakolea-a Plago havas verdan sablon? Tion, car havas kristalojn
-en la sablo. Kiu ajn.
+Desigur, nu toate firele de nisip sunt de aceeasi dimensiune. Pot varia foarte
+mult.. Arenophilii sunt oameni care colecteaza probe de nisip. Stiai ca Plaja
+Papakolea are nisip verde? Acest lucru se datoreaza cristalelor din nisip.

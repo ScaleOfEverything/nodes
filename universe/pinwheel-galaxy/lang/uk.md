@@ -1,4 +1,5 @@
-# Pinwheel Galaxy
+# Галактика Цівочне Колесо
 
-Vazuta prima data, aceasta galaxie a fost confundata cu o nebuloasa. Este însa o
-galaxie, numita Messier 101, al 101-lea obiect clasificat Messier.
+Коли ця галактика була вперше винайдена, вважалося, що це туманність. Але це не
+так; це є галактика. Її також називають Мессьє 101, тому що це був 101-ий об’єкт
+Мессьє, який було занесено в каталог.

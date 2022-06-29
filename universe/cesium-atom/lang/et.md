@@ -1,5 +1,6 @@
-# 세슘 원자
+# Tseesiumi aatom
 
-원자의 크기는 공유결합을 한 원자의 핵까지의 거리로 측정됩니다. 전자껍질이 그림에
-보이는 것처럼 흰 선으로 보이는 건 아니에요. 세슘은 가장 큰 원자이지만, 원자번호
-는 가장 높지 않아요. 왜 그럴까요? 헬륨 원자로 내려가보세요.
+Aatomi suurust mõõdetakse aatomituumade vahelise kaugusena kovalentsete sidemete
+korral. Tegelikult ei näe aatom täpselt selline välja. Tseesiumil on kõige
+suurem aatom, kuigi selle aatomnumber pole kõige suurem. Miks? Uuri heeliumi
+aatomit.

@@ -1,4 +1,4 @@
-# V V Cephei A
+# VV Цефея A
 
-Pentru un timp V V Cephei A fost cea mai mare stea cunoscuta, detronata de V Y
-Canis Majoris. Asta se întîmpla pentru ca stele noi sunt descoperite tot timpul!
+Деякий час VV Цефея A була найбільшою відомою зіркою. Тепер це звання належить
+VY Великого Пса. Це тому що увесь час відкриваються все нові і нові зірки!

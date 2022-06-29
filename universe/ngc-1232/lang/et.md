@@ -1,5 +1,5 @@
 # NGC 1232
 
-NGC 1232 는 꽤 큰 은하입니다. 우리은하보다 크지만, 가장 큰 은하는 아니에요. 덧붙
-여서, IC 1101 이 가장 크다고도 할 수는 없습니다. 그냥 지금까지 발견된 것들 중에
-서 가장 클 뿐이죠. 더 큰 은하들도 얼마든지 많을 수 있어요!
+NGC 1232 on üpris suur galaktika. See on suurem kui meie oma, aga ei ole suurim.
+Muidugi ei ole suurim galaktika ka IC 1101, see on ainult suurim, millest me
+teadlikud oleme. Tõenäoliselt on seal veel palju selliseid!

@@ -1,5 +1,5 @@
-# Înaltimea totala uman
+# Повний Людський Зріст
 
-Daca toate cele 7 miliarde de oameni s-ar aseza unul peste altul, si 6.99
-miliarde de oameni nu i-au strivi pe restul sub greutatea lor, turnul ar fi de
-aproximativ 10 milioane km înaltime.
+Якщо б всі 7 мільярдів людей стали б на плечі один одному, і ті 6.99 мільярдів,
+що стоять унизу, не звалилися б під всію цією масою, стовпчик був би приблизно
+10 мільйонів кілометрів у висоту.

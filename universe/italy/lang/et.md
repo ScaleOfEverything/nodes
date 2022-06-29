@@ -1,5 +1,5 @@
-# 이탈리아
+# Itaalia
 
-이탈리아는 발명가이자, 수학자이자, 기술자에다가 화가였으며, 과학자에 게다가 음악
-가이기까지 했던 레오나르도 다빈치의 출신 국가입니다. 라파엘과 미켈란젤로와 같은
-많은 예술가들 역시 이탈리아에서 태어났습니다.
+Itaalia oli koduks Leonardo Da Vincile, kes oli leiutaja, matemaatik, inseneer,
+kunstnik, skulptor, teadlane, muusik ja palju enamatki. Mitmed teised kunstnikud
+kaasa arvatud Raffael, Michelangelo, on samuti Itaaliast.

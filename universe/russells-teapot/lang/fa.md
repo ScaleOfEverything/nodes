@@ -1,6 +1,5 @@
-# Russelli teekann
+# Russell's Teapot
 
-Bertrand Russell ütles, et ümber päikese tiirleb Maa ja Marsi vahel üks teekann.
-Keegi ei suuda Bertrandile vastupidist tõestada, sest teekann oma väiksuse tõttu
-ei ole nähtav. Sellest loogikast tõmmati analoog jumala olemasolusse... Kui me
-ei näe midagi, siis me ei saa väita, et seda olemas ei ole.
+Bertrand Russell said that there was a teapot orbiting the Sun between Earth and
+Mars. No one could disprove him because such a teapot would not be visible.
+Therefore, no one should ever doubt Russell.

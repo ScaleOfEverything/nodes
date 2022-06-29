@@ -1,6 +1,6 @@
 # NGC 4889
 
-Ci tiu tre granda galaksio, ankau konata kiel Caldwell 35, estas la plej brila
-galaksio en la Berenic-Harara Galaksia Amaso. Gi iras for de ni ce 6,500
-kilometroj en sekundo. Ce tia rapideco gi povus iri cirkau la Tero en malpli ol
-sep sekundoj!
+Aceasta galaxie, cunoscuta si sub numele de Caldwell 35, este cea mai mare si
+stralucitoare galaxie din cluster-ul Coma. Se departeaza de noi cu 6.500 de
+kilometri pe secunda - la asemenea viteza, ar înconjura Pamântului în mai putin
+de sapte secunde!

@@ -1,5 +1,6 @@
-# 알타이르 (견우성)
+# Altair
 
-알타이르는 여름철 대삼각형을 이루는 3 개의 별들 중 하나인데, 나머지 두 별로는 베
-가 (직녀성) 과 데네브가 되겠습니다. 다른 많은 별들처럼, 알타이르는 매우 빨리 자
-전을 하는 탓에 적도 부근이 팽창하고 있지요!",
+Altair on Lõunakolmnurga kolmest tähest üks. Lõunakolmnurk on teravnurkne, sest
+kõik selle nurgad on alla 90°! Teised kaks tähte on Veega ja Deeneb. Altair
+pöörleb väga suure kiirusega, nagu paljud teised tähed, ning seetõttu on see
+keskelt lapikum kui Maa.

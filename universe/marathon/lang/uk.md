@@ -1,6 +1,6 @@
-# Maratonul
+# Марафон
 
-Un maraton are 42,2 km, sau 26,2 mile. Aproximativ o miime dintre americani au
-alergat vreodata un maraton. Legenda spune ca dupa o victorie greceasca în
-Batalia de la Marathon, Pheidippides a fost trimis la Atena pentru a duce vestea
-cea buna, distanta fiind un maraton !
+Марафон складає 42.2 кілометри, або 26.2 мілі. Близько однієї тисячної
+американців пробігли марафон. Віповідно до легенди, після перемоги греків у
+Марафонський Битві, Фідіппіда було відправлено в Афіни, з метою розповісти
+новини. Ця відстань і була названа марафоном!

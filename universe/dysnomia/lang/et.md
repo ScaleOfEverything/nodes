@@ -1,4 +1,4 @@
-# 디스노미아
+# Dysnomia
 
-디스노미아는 에리스의 유일한 위성인데, 크기는 300 ~ 400 km 로 추정됩니다. 2005
-년 9 월 10 일 토요일에 발견되었습니다.
+Dysnomia on Erise ainuke kuu ja avastati laupäeval 10. septembril 2005. Kas
+teadsid, et düsnoomia on õpiraskus nagu düsleksia?

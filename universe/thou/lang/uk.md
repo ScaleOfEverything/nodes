@@ -1,4 +1,6 @@
-# Thou
+# Тисяча
 
-Thou este o unitate de masura egala cu de o miime a unui inchi. Numele vine de
-la THOUsands (miime).
+Хоча англійське слово "thou" найбільше відомо як стара форма слова "you" (ти),
+також слово "thou" означає одиницю виміру. Воно рівне одній тисячній частині
+дюйму; насправді, саме звідти воно отримало свою назву. THOUsandth (ТИСЯЧний).
+Доволі кльово.

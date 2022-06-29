@@ -1,4 +1,5 @@
-# 달걀
+# Kanamuna
 
-달걀에서 병아리가 부화하죠. 많은 사람들이 달걀을 좋아합니다. 사족으로, 맛이나 영
-양면에서 흰 달걀과 갈색 달걀은 차이가 없다고 하네요.
+Kanamuna tuntakse kõige rohkem hommikueinena. Samas õigetel tingimustel võib
+kanamunast ka tibu kooruda. Valgel ja pruunil kanamunal pole peale väljanägemise
+muud erinevust.

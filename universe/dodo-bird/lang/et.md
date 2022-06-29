@@ -1,5 +1,4 @@
-# 도도새
+# Dodo lind
 
-도도새는 1600 년대에 멸종된 새 입니다. 이름은 도도새들이 내는 소리에서 유래했다
-고 하네요 (아니면 이미 멸종되었으니 도도새들이 냈던 소리라고 해야할지도 모르지만
-요). 네, 그래서, 이제 없어요.
+Dodo lind suri välja umbes 1600ndatel. Linnu nimi on pärit häälest, mis need
+teevad (või tegid, sest nad on praegu välja surnud). Nii et jah, nad on läinud.

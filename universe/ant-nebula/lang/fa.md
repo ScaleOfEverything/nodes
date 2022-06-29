@@ -1,5 +1,5 @@
-# Sipelga udukogu
+# Ant Nebula
 
-Sipelga udukogu, teise nimega Mz 3, paisub 180 000 kilomeetrit tunnis. See
-meenutab sipelgat ja on ka sellest nime saanud. Kui tahad rohkem sipelgate kohta
-teada, suumi 18 suurusjärku sissepoole.
+The Ant Nebula, which is also called Mz 3, is expanding 180,000 kilometers per
+hour. It resembles an ant, so much so that it is named after an ant. For more
+about ants, zoom in 18 orders of magnitude.

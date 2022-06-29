@@ -1,6 +1,5 @@
-# Agla-Nebulozo
+# Nebuloasa Eagle
 
-La Agla Nebulozo (M 16) estas grandega stela vartejo. Cu vi povas vidi la
-Kolonojn de Kreado ene de gi? Ankau rimarku, ke ci tiu bildo farigis el
-falsakolora foto. En vera koloro gi estas pli rozkolora (kiel estas la plimulto
-de plej grandaj nebulozoj).
+Nebuloasa Eagle este o adevarata pepiniera stelara. Poti vedea pilonii creatiei?
+De notat ca aceasta imagine are culorile alterate. În realitate, este un pic mai
+roz (precum toate nebuloasele mai mari)

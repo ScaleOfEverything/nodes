@@ -1,5 +1,6 @@
-# Ceainicul lui Russell
+# Чайник Рассела
 
-Bertrand Russell a spus ca un ceainic orbiteaza în jurul Soarelui între Pamînt
-si Marte. Nimeni nu l-a putut vreodata contrazice, deoarece un astfel de obiect
-e prea mic pentru a fi vizibil.
+Бертранд Рассел колись казав, що навколо орбіти Сонця між Землею та Марсом
+кружляє чайник. Ніхто не міг би спростувати це твердження, бо такий чайник не
+був би видимий. Таким чином, ніхто не повинен навіть сумніватися у словах
+Рассела.

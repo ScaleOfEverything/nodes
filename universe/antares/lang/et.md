@@ -1,5 +1,5 @@
-# 안타레스
+# Antares
 
-안타레스는 적색거성이며, 황도 거의 근처를 지나가는 탓에 달에 가리곤 합니다. 질량
-이 10^24 톤 정도 되는데, 태양풍에 의해 그 질량을 서서히 잃고 있으며, 후에 폭발하
-면서 질량이 더 빠른 속도로 줄어들 것으로 추정됩니다.
+Antares on ekliptika lähedal olev punane ülihiid, mida Kuu tihti varjutab.
+Anterese mass on mitu septiljon tonni, aga kaotab päikesetuulega aegalselt oma
+massi. Kiirem moodus oleks plahvatamine, aga see juhtub hiljem.

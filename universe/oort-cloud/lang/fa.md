@@ -1,5 +1,5 @@
-# Öpiku-Oorti pilv
+# Oort Cloud
 
-Öpiku-Oorti pilv on kõige välimine Päikesesüsteemi piirkond. Vee jää, ammoniaagi
-jää, metaani jää ja komeedid täidavad selle piirkonna vabalt. Öpiku-Oorti pilve
-piir on ka Päikese gravitatsioonilise tõmbe piir.
+The Oort Cloud is the outermost region of the solar system. Water ice, ammonia
+ice, methane ice and comets loosely fill the region. The boundary of the Oort
+Cloud is also the boundary of the Sun's gravitational pull.

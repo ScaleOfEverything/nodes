@@ -1,5 +1,5 @@
-# Mulludukogu
+# Bubble Nebula
 
-Mulle meeldib mulle puhuda. Mull, mull, plõks! See udukogu pole mull; see ainult
-tundub meile nii! Selle tekitas kuum päikesetuul. Muide, see ei ole
-planetaarudukogu, vaid emissioon udukogu.
+I love blowing bubbles. Blub-blub, pop! This nebula is not a bubble; it just
+looks like one! It was created by hot stellar wind. Oh, and it's an emission
+nebula, not a planetary nebula.

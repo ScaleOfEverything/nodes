@@ -1,6 +1,6 @@
-# Parsek
+# Parsec
 
-Tänu Maa tiirlemisele ümber Päikese tunduvad lähemal olevad tähed liikuvat ja
-seda nimetatakse parallaksid. Kui lähedal olev täht on risti Päikesesüsteemiga
-ja on täpselt ühe parseki kaugusel, siis on selle parallaks täpselt üks
-kaaresekund (1/3600°). Parallaks+Kaaresekund=Parsek.
+Earth's movement around the Sun causes nearby stars to appear to move, called
+parallax. If a nearby star is perpendicular to the solar system and is exactly
+one parsec away, its parallax will be exactly one arcsecond (1/3600°).
+Parallax + Arcsec = Parsec

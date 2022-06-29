@@ -1,6 +1,6 @@
-# Gama de forta slaba
+# Відстань Слабкої Взаємодії
 
-Forta slaba este una dintre cele patru forte fundamentale ale naturii, si este
-mai slaba dintre cele doua forte nucleare. Cu cresterea distantelor, puterea ei
-scade. La doar 10 attometers, forta slaba devine atît de slaba ca devine de
-nemasurat.
+Слабка Взаємодія – одна з чотирьох фундаментальних сил природи, і вона є слабшою
+з двох ядерних сил. Коли відстані збільшуються, сила зменшується. На відстані
+лише 10 аттометрів, слабка взаємодія стає настільки слабкою, що її майже
+неможливо виміряти.

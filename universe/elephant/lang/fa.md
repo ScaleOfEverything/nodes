@@ -1,5 +1,5 @@
-# Elevant
+# Elephant
 
-Elevant on suurim maismaa loom. Praegu elab veel ainult kolm liiki elevante.
-Elevandid saavad kaaluda isegi kuni 8 tonni. See on sada korda rohkem, kui
-tavaline inimene.
+The elephant is the largest land animal. Only three species of elephants remain.
+They can weigh up to 8 tons, which is about 10 times the weight any human has
+ever achieved!

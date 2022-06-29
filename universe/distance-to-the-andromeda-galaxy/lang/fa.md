@@ -1,5 +1,5 @@
-# Vahemaa Andromeda Galaktikani
+# Distance to the Andromeda Galaxy
 
-Asudes kahe miljoni valgusaasta kaugusel meist, Andromeda Galaktika on kaugeim
-palja silmaga nähtav objekt. Kuigi, ilma binokli või teleskoobita, see näeb
-välja nagu tuhm hägu.
+At two million light-years away, the Andromeda Galaxy is the most distant object
+visible to the naked eye. However, without binoculars or a telescope, it will
+appear as a dim blur. ",

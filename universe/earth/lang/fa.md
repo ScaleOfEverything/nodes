@@ -1,5 +1,5 @@
-# Maa
+# زمین
 
-Maa on meie ainuke kodu. Vaatamata sellele, et see võib meile tunduda väga
-suurena, peame oma elukeskkonna eest hoolitsema. Selle hävimisel, ei ole meil
-kuhugi enam minna.
+زمین تنها خانه ی ماست. هنگامی که روی آن زندگی می کنیم، ممکن است آنرا بزرگ
+ببینیم، اما همچنان مهم است که از آن نگهداری کنیم. اگر آن را از دست بدهیم، جائی
+برای رفتن نداریم.

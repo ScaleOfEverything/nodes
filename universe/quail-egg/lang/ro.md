@@ -1,5 +1,4 @@
-# Koturnovo
+# Oul de Prepelita
 
-Multaj personoj kredas, ke la koturnovoj estas pli bonaj ol kokinovoj. La
-koturnovo estas plej malgranda kaj pli stranga ol la kokinovo, sed tio ne
-sindetenas al iuj ami ilin!
+Multi oameni cred ca ouale de prepelita sunt mai bune decît ouale de gaina. Oul
+de prepelita este mai mic si mai putin popular decît oul de gaina

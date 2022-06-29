@@ -1,5 +1,6 @@
 # Antares
 
-Antares on ekliptika lähedal olev punane ülihiid, mida Kuu tihti varjutab.
-Anterese mass on mitu septiljon tonni, aga kaotab päikesetuulega aegalselt oma
-massi. Kiirem moodus oleks plahvatamine, aga see juhtub hiljem.
+Antares is a red supergiant very near the ecliptic, so it gets occulted by the
+Moon quite often. Also, Antares weighs septillions of tons and is losing weight
+through solar wind, but this method is slow. The fast way is to explode, which
+it'll do later.

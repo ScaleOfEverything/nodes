@@ -1,5 +1,5 @@
 # IC 1101
 
-IC 1101 은 알려진 은하중에서 가장 큰데, 100 조개 가량의 별들을 포함하고 있습니다
-. 우리 은하는 2500 억개의 별들을 가지고 있는데, 그럼 IC 1101 이 우리 은하의 400
-배가 넘는 수의 별들을 포함하고 있는 거겠죠!
+IC 1101 on teadaolevalt suurim galaktika. See koosneb umbes 100 triljonist
+tähest. Meie galaktika, Linnutee, koosneb ainult 250 miljardist, see tähendab,
+et IC 1101-s on 400 korda rohkem tähti, kui Linnutees.

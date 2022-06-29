@@ -1,5 +1,6 @@
-# 인지질 이중층
+# Kahekihilised fosfolipiidid
 
-세포막은 인지질 이중층으로 구성되어 있습니다. 인지질들은 자연적으로 이중층을 형
-성하는데, 머리 부분은 물에 끌려가는 성질이 있으나, 꼬리 부분은 물에서 멀어지려는
-성질이 있어서 그렇습니다.
+Rakumembraanid koosnevad kahekihilistest fosfolipiididest. Fosfolipiidide
+kahekihiline struktuur tekib iseenesest, kuna nende pead tõmbuvad vee poole ja
+sabad tõukuvad veest eemale - ehk on vastavalt hüdrofiilsed ja hüdrofoobsed.
+Selle omaduse tõttu moodustavad nad loomulikult kahekihilist struktuuri.

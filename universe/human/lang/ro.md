@@ -1,6 +1,5 @@
-# Homo
+# Omul
 
-Mi deziras supozi, vi estas homo. Mi ankau estas homo! Cu vi scias, ke estas pli
-ol 7 miliardoj da ni? Tio estas multe. Fakte, se vi renkontigus kun ciu homo dum
-unu sekondo, necesus al vi proksimume 200 jaroj por renkontigi kun ciuj! Pli
-bone ekkomencu nun!
+Presupun ca tu esti un om la fel ca mine! Stiai ca avem peste 7 miliarde de
+semeni? Un numar atît de mare, încît ca sa întîlnesti fiecare persoana o singura
+secunda, ti-ar lua aproximativ 200 de ani! Ar fi bine sa începi chiar acum!

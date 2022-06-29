@@ -1,5 +1,5 @@
-# Lungimea de unda radio FM
+# Довжина Хвилі FM-приймача
 
-F si M sunt a sasea si a treisprezecea litera a alfabetului. Sasele este un
-numar perfect, iar treisprezece nu este. Cu totii avem diferente si trebuie sa
-învatam sa le acceptam. Doar asa putem trai în armonie!
+F та M – шоста та тринадцята літери англійського алфавіту. Шість – прекрасне
+число, але тринадцять – не дуже. У нас у всіх є свої відмінності, і ми повинні
+навчитися їх приймати. Це є єдиний спосіб для нас жити в гармонії.

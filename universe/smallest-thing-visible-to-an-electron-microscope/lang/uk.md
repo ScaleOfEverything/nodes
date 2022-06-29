@@ -1,5 +1,5 @@
-# Cel mai mic lucru vizibil printr-un microscop electronic
+# Найменша Річ, яку Можна Побачити у Електронний Мікроскоп
 
-Microscoapele electronice ne lasa sa vedem lucruri foarte mici (cum ar fi
-atomi), care altfel ar fi invizibile, deoarece sunt mai mici decît lungimea de
-unda a luminii!
+Електронні мікроскопи дозволяють нам побачити дуже маленькі речі (такі, як
+атоми), які інакше стануть невидимі, тому, шо вони менші, ніж довжина хвилі
+видимого світла.

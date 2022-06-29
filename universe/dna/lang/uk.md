@@ -1,5 +1,5 @@
-# ADN-ul
+# ДНК
 
-O singura celula umana contine 3 metri de acid dezoxiribonucleic - ADN. În doar
-cîtiva nanometri, ADN-ul detine circa 25.000 de gene în 3 miliarde de perechi.
-Impresionant!
+Одна клітина людини містить 3 метри дезоксирибонуклеїнової кислоти. Ця ДНК,
+маючи розмір лише кілька нанометрів вздовж, утримує близько 25,000 генів в
+приблизно 3 мільярдах пар основ. Це багато!

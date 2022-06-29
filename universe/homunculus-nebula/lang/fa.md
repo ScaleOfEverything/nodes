@@ -1,5 +1,5 @@
-# Homunculuse udukogu
+# Homunculus Nebula
 
-Homunculuse udukogu keskel asub täht Eta Carinae, mille heledus oli 1841 aastal
--0,8 (tähistaeva heleduselt teine täht). Nüüdseks on see üpris tuhm täht
-heledusastmega kuus.
+At the center of the Homunculus Nebula lies a star. The star, which is Eta
+Carinae, had a magnitude of -0.8 in 1841 (second brightest star in the sky).
+Now, it is a very dim sixth-magnitude star.

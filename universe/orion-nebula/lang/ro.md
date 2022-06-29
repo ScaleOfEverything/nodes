@@ -1,5 +1,4 @@
-# Orion-Nebulozo
+# Nebuloasa Orion
 
-La Nebulozo de Oriono estas unu el la plej videblaj nebulozoj iam ajn! Kiel la
-nomo sugestas, gi lokigas en la konstelacio Oriono. Cu vi scias, ke kugloj de
-gaso ekzistas en ci tia nebulozo?
+Nebuloasa Orion este printre cele mai vizibile nebuloase! Dupa nume, se afla în
+constelatia Orion. Stiai ca exista bule de gaz în aceasta nebuloasa?

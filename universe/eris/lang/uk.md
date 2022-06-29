@@ -1,6 +1,6 @@
-# Eris
+# Еріс
 
-Eris este cea mai mare planeta pitica. E chiar mai mare decît Pluto, care e, de
-asemenea, o planeta pitica. Eris este foarte departat de Soare. Eris are chiar
-si un satelit, numit Dysnomia. Unde e Dysnomia? Este direct sub punctul de la
-sfîrsitul acestei propozitii!
+Еріс є найбільшою карликовою планетою. Вона навіть більша, ніж Плутон, який
+також є карликовою планетою. Еріс знаходиться дуже далеко від Сонця. У Еріса є
+місяць, и це Дисномія. Де знаходиться Дисномія? Вона просто під крапкою у кінці
+цього речення.

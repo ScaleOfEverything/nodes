@@ -1,5 +1,5 @@
-# 국부은하군
+# Kohalik Grupp
 
-국부은하군은 우리가 속해있는 은하단입니다. 국부은하군은 30 여개의 은하와 왜소은
-하를 포함하는데, 그 중에 가장 큰 두 개의 은하가 우리 은하와 안드로메다 은하입니
-다.
+Kohalik Grupp on galaktikate parv, milles me elame. See koosneb umbes 30
+galaktikast ja kääbusgalaktikast. Kaks suurimat galaktikat on Andromeeda
+galaktika ja meie Linnutee.

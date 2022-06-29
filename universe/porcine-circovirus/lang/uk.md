@@ -1,6 +1,6 @@
-# Circovirusul porcin
+# Свиний цирковірус
 
-Circovirusul porcin este unul dintre cele mai mici virusi. Are nevoie de doar
-trei proteine ??de a se înmulti. Daca am considera ca virusii au viata, atunci
-circovirusul porcin este mai mic lucru viu. Cu toate acestea, majoritatea
-oamenilor sunt de acord ca virusii nu sunt vii.
+Свиний цирковірус – один із найменших вірусів. Він потребує лише три протеїни
+для копіювання. Якщо ви вважаєте, що віруси живі, тоді свиний цироковірус – є
+найменшим живим створінням. Однак, більшість людей згодні з твердженням, що
+віруси неживі.

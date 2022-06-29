@@ -1,6 +1,6 @@
-# Liberec-Statuo
+# Statuia Libertatii
 
-Kvankam la Statuo de Libereco estas simbolo de Usono, gi estis fakte konstruita
-en Francio. Gi bazigis sur malnova statuo de la greka Sundio Helioso. La Statuo
-de Libereco estas sufice bela, kvankam la torco estis fermita ekde 1916 car gi
-estas dangera.
+Statuia Libertatii este un simbol al Americii, a fost de fapt construita în
+Franta, bazata pe pe o veche statuie a zeului grec Helios (Soare). Statuia
+Libertatii e interesant de vizitat, chiar daca torta a fost închisa din 1916,
+deoarece este periculos de vizitat.

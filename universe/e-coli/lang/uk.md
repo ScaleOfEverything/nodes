@@ -1,5 +1,5 @@
-# E. coli
+# Кишкова Паличка
 
-E. coli sunt de obicei inofensive, traiesc în intestine si produc vitamina K2.
-Sunt prezente în intestinele tuturor. De fapt, ele colonizeaza intestinele
-sugarilor la doar doua zile dupa nastere! Rapid, nu?!
+Кишкові палички як звичай безпечні і живуть у вашому кишечнику, створюючи
+чудовий вітамін K2. Вони є майже у кожному кишечнику. Насправді, вони
+колонізують дитячі кишки через два дні після їх народження! Це доволі швидко!

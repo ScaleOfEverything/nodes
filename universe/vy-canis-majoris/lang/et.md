@@ -1,5 +1,5 @@
-# 큰개자리 VY
+# VY Canis Majoris
 
-큰개자리 VY 는 지금까지 발견된 가장 큰 별입니다. 만약 태양계의 중심에 갖다놓으면
-, 토성 위치까지 덮어버릴 정도에요! 비행기로 이 별을 한바퀴 돌려면 1,200 년이 걸
-린다고 하네요.
+VY Canis Majoris on suurim teadaolev täht. See on nii suur, et kui paigutada
+Päikese asemele, siis ulatuks see kaugemal kui Saturni orbiit! Lennukil võtaks
+aega 1200 aastat, et teha üks tiir ümber selle.

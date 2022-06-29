@@ -1,5 +1,5 @@
-# 이오
+# Io
 
-이오에는 화산이 아주 많습니다. - 태양계에서 가장 많아요! 이오에 있는 간헐천에서
-는 이산화황을 무려 500 km 밖까지 쏘아버린다고 합니다! 이오의 표면 모양은 계속해
-서 변하고 있는데, 1년 후에 보면 아주 많이 달라져 있을 것입니다.
+Io-l on väga palju vulkaane - kõige rohkem Päikesesüsteemis. Io geisrid
+purskavad külmunud vääveldioksiidi jugasid 500 kilomeetri kaugusele kosmosesse.
+Io maastik muutub pidevalt. Ühe aastaga võib see muutuda tundmatuseni.

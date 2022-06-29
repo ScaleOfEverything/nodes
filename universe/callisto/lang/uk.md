@@ -1,5 +1,5 @@
-# Callisto
+# Каллісто
 
-Callisto este cel mai îndepartat satelit al lui Galilei. Orbitînd în afara
-celorlalti sateliti ai lui Galilei este lovit de cei mai multi meteoriti;
-cauzînd multe cratere
+Каллісто – найбільш віддалена із Галлілеєвих лун. Вона рухається по орбіті з
+зовнішньої сторони від всіх інших Галлілевих лун і отримує удари на себе
+більшості метеорів. Із-за всіх цих ударів виникає багато, дуже багато кратерів.

@@ -1,4 +1,5 @@
-# 오크 나무
+# Tammepuu
 
-오크 나무는 나무입니다. 오크 나무는 굉장히 오래 살수있어요. 인간보다도요! 오크나
-무는 일년에 수천개의 도토리를 생산합니다. 도토리 좋죠.
+Tamm on puu. Need võivad elada väga kaua, kauem kui inimese eluiga. Tammed
+toodavad aastas tuhandeid tõrusid. Tõrud on head, peaaegu sama head kui
+jääkuubikud.

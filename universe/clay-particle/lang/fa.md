@@ -1,5 +1,5 @@
-# Saviosake
+# Clay Particle
 
-Kuna saviosakesed on nii väikesed, siis need saavad paikneda väga tihedalt ja
-veeosakestel on raske nende vahelt läbi voolata. Teisest küljest, liiv on palju
-jämedam ja veel on lihtne sealt vahelt läbi voolata.
+Because clay particles are so small, they become tightly packed, and water
+particles have trouble flowing through it. On the other hand, sand is much more
+coarse. Water just slips right through sand. Easy-peasy.

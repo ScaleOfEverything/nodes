@@ -1,5 +1,4 @@
-# 카펠라
+# Capella
 
-카펠라는 쌍성인데, 쌍성을 이루는 두 별들은 모두 G형 거대 항성입니다. 왼쪽에 보이
-는 별이 둘 중 큰 별입니다. 태양도 G형 항성이지만, 주계열성 이라는게 다른 점이에
-요.
+Capella on tegelikult kaksitäht, mille mõlemad tähed on G tüüpi hiidtähed.
+Suurem neist asub vasakul. Päike on ka G tüüpi täht, aga see on peajada täht.

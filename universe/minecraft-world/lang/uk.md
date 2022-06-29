@@ -1,5 +1,5 @@
-# Lumea Minecraft
+# Світ Minecraft
 
-Întinzîndu-se de la coordonatele 32.000.000 - -32.000.000, lumea Minecraft
-cuprinde 64.000 de kilometri. Aceasta lume are aproximativ 130 cvadrilioane de
-blocuri în ea! O multime!
+Простираючись з координатів у +32,000,000 до -32,000,000, світ Minecraft загалом
+досягає розміру у 64,000 кілометрів. У цьому світі приблизно 130 квадрильйонів
+блоків! Це цілком багато!

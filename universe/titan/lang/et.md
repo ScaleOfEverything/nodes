@@ -1,5 +1,6 @@
-# 타이탄
+# Titan
 
-타이탄은 토성의 유일한 위성입니다. 두꺼운 대기층을 가지고있는데, 거의 질소로 이
-루어져있습니다. 지구의 대기도 대부분 질소로 이루어져있죠. 타이탄은 액체 메테인으
-로 이루어진 바다 (-180 ℃ 정도) 와 제너드라고 불리우는 대륙도 있습니다.
+Titan on Saturni suurim kuu. Sellel on väga tihe atmosfäär, mis koosneb
+põhiliselt lämmastikust. Ka Maa atmosfäär koosneb põhiliselt lämmastikust.
+Titanil on vedela metaani mered. Selle temperatuur on -180 °C. Seal on isegi
+kontinent nimega Xanadu.

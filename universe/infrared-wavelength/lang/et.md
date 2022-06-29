@@ -1,4 +1,5 @@
-# 적외선 파장
+# Infrapuna valguse lainepikkus
 
-가시광선보다 파장이 긴 광선을 적외선 이라고 합니다. 자외선이나 가시광선에 비해서
-강한 열작용을 가지고있어서, 열선이라고도 불려요.
+Infrapunakiirgus ei ole inimsilmale vahetult nähtav. Seda kasutatakse näiteks
+info vahetamiseks TV-, raadio- jms kaugjuhtimispuldi ning -seadme vahel, samuti
+sõjatehnikas ja mujal soojusallikate avastamiseks, ka pimedas nägemiseks.

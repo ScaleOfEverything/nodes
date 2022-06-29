@@ -1,5 +1,5 @@
 # Phobos
 
-Phobos on Marsi kahest kuust suurim. Siiski on ta üpris väike. Phobose
-gravitatsioon on nii väike, et sa oleksid suuteline viskama palli kuu peal nii,
-et see kunagi kuu pinnal ei maanduks.
+Phobos is the larger of the two Martian moons. Still, it is quite small! Did you
+know that if you were standing on Phobos, its gravity would be so weak that you
+could throw a baseball and it wouldn't come back down?

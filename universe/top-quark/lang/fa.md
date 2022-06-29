@@ -1,5 +1,5 @@
-# T-kvark
+# Top Quark
 
-T-kvark on kõige väiksem kvark, mis tähendab, et see on kõige massiivsem. See on
-peaaegu 100 000 korda massiivsem kui u-kvark, mis on kõige kergem kvark.
-T-kvargi mass on 173 miljardit elektronvolti.
+The top quark is the smallest quark, which means it is the most massive. It is
+almost 100,000 times as massive as the up quark, which is the lightest of the
+quarks. The top quark's mass is 173 billion electronvolts!

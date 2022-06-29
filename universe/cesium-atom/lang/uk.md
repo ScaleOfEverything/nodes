@@ -1,4 +1,5 @@
-# Atomului de cesiu
+# Атом Цезію
 
-Cesiu are cel mai mare atom, dar numarul sau atomic nu este cea mai mare. De ce?
-Vezi atomul de heliu.
+Розмір атому вимірюється відстаню ядра в ковалентних зв’язках. Оболонки
+насправді так не виглядають. Цезій є найбільшим атомом, але його атомне число не
+є найвищим. Чому? Подивіться на атом гелію.

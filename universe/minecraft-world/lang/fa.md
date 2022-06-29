@@ -1,5 +1,5 @@
-# Minecrafti maailm
+# Minecraft World
 
-Laiudes koordinaatidist +32 000 000 kuni -32 000 000 on Minecrafti maailma
-pindala 64 000 kilomeetrit. Selles maailmas on ligikaudu 130 kvadriljonit
-kuubikut. Seda on palju!
+Stretching from the coordinates +32,000,000 to -32,000,000, the Minecraft world
+spans a total of 64,000 kilometers. This world has approximately 130 quadrillion
+blocks in it! That sure is a lot!

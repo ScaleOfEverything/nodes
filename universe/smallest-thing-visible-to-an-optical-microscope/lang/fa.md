@@ -1,5 +1,4 @@
-# Kõige väiksem nähtav asi optilises mikroskoobis
+# Smallest Thing Visible to an Optical Microscope
 
-Optilised mikroskoobid ei saa nähe objekte, mis on väiksemad kui 0,2
-mikromeetrit. Seda sellepärast, et nähtava valguse lainepikkusega valgusosakesed
-lähevad neist lihtsalt mööda.
+Optical microscopes cannot see objects smaller than 200 nanometers because the
+wavelengths of visible light will pass right through them.

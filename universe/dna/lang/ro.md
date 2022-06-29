@@ -1,5 +1,5 @@
-# DNA
+# ADN-ul
 
-Unu homa celo enhavas 3 metrojn da desoksiribonuklea acido. Tiu DNA, kiu estas
-nur kelk-nanometre large, enhavas cirkau 25,000 genojn en proksimume 3 miliardoj
-da baz-paroj. Tio ja estas multe!
+O singura celula umana contine 3 metri de acid dezoxiribonucleic - ADN. În doar
+cîtiva nanometri, ADN-ul detine circa 25.000 de gene în 3 miliarde de perechi.
+Impresionant!

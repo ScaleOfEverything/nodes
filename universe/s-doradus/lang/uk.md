@@ -1,5 +1,5 @@
-# S Doradus
+# S Золотої Риби
 
-S Doradus este un hipergigant, precum si una dintre cele mai stralucitoare stele
-din Norul lui Magelan. Pentru a afla mai multe despre norul lui Magelan, da zoom
-out de 8,5 de ori!
+S Золотої Риби є супергігантом, а також однією з найскравіших зірок у Великій
+Магеллановій Хмарі. Щоб дізнатися більше про Велику Магелланову Хмару,
+віддаліться на 8.5 рядків зоряної величини.

@@ -1,5 +1,5 @@
-# Neutron
+# Нейтрон
 
-Neutronii se afla în nucleul unui atom, sunt de mii de ori mai mici decît atomul
-însusi. Au doi cuarci down si unul cuarc up. Prin urmare, sarcina neutronului
-este - ? - ? + ? = 0
+Нейтрони знаходяться у середині ядра атому. Вони у тисячі разів менші, ніж сам
+атом. Вони мають два нижні кварка і один верхній кварк. Таким чином, заряд
+нейтрона буде складати -1/3-1/3+2/3 = 0.

@@ -1,4 +1,5 @@
-# 큰개자리 왜소은하
+# Suure Koera kääbusgalaktika
 
-큰개자리 왜소은하는 우리은하에서 가장 가까운 은하입니다. 우리은하의 나선팔 사이
-에 위치합니다.
+Suure Koera kääbusgalaktika on meile kõige lähedasem galaktika, kui mitte
+arvestada Linnuteed ennast. Ta on nii lähedal, et Linnutee galaktika tõmbab oma
+oluliselt suurema gravitatsiooniga Suure Koera tähti enda ümber.

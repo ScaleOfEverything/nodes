@@ -1,5 +1,5 @@
-# Ceres
+# Церера
 
-Ceres nu e prea primitor pentru oameni. Ceres este de asemenea si cel mai mare
-asteroid, si a declansat dezbaterea "ce este o planeta?". Pentru un timp, Ceres
-a fost considerat planeta
+Церера – не дуже гарне місце для життя людини. Також Церера є найбільшим
+астероїдом, і вже почалися консультації щодо назви її "планета". Деякий час,
+Церера вважалася планетою, але потім вже ні.

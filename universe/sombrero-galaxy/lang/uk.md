@@ -1,5 +1,6 @@
-# Galaxia Sombrero
+# Галактика Сомбреро
 
-Ti se pare ca Galaxia Sombrero arata ca un sombrero? Oh! Stiai ca exista o gaura
-neagra supermasiva în centrul acestei galaxii? Cele mai multe galaxii mari au
-gauri negre în centru, calea lactee cel mai probabil si ea!
+Ви думаєте, що Галактика Сомбреро схожа на сомбреро? Я в цьому не впевнений. О!
+Чи ви знали про те, що у центрі цієї галактики знаходиться надвелика чорна діра?
+Більшість великих галактик містять у собі надвеликі сорні діри. І наш Чумацький
+Шлях міг би!

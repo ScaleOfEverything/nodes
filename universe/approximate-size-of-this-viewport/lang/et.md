@@ -1,4 +1,4 @@
-# 지금 보이는 화면의 대략적인 크기
+# Selle vaateava ligikaudne suurus
 
-모니터마다 픽셀 수가 다르다곤 하지만, 지금 화면에 보이는건 대략적으로 비슷한 크
-기일 겁니다. 이 플래시는 대략 가로로 20 cm 에요!
+Kuigi erinevatel monitoridel on erinev arv piksleid, siis esemed ekraanidel on
+sama suured. See on umbes läbimõõduga 20 sentimeetrit.

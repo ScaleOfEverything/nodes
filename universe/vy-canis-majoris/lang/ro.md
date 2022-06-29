@@ -1,5 +1,5 @@
-# VY Grand-Hunda
+# VY Canis Majoris
 
-VY Grand-Hunda estas la plej granda konata stelo. Gi estas tiel granda, ke se gi
-estus lokigita en la Sunsistemo, estendigus preter la orbito de Saturno! Gi
-necesus 1,200 jarojn por orbiti gin.
+VY Canis Majoris este cea mai mare stea cunoscuta. Este atît de mare ca daca ar
+înlocui Soarele, s-ar întinde dincolo de orbita lui Saturn! Unui avion i-ar lua
+1.200 de ani sa-l înconjoare o singura data

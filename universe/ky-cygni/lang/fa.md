@@ -1,5 +1,6 @@
 # KY Cygni
 
-KY Cygni on 300 000 korda säravam kui Päike ja Päike on üpris särav või mis?
-Päike on nii ere, et seda ei tohiks otse vaadata! KY Cygnit võid aga otse
-vaadata, sest see asub 300 miljonit korda kaugemal.
+KY Cygni is 300,000 times more luminous than the Sun, and the Sun is pretty
+luminous, isn't it? The Sun is so luminous you aren't supposed to look at it!
+However, it's okay to look at KY Cyngi because it is 300 million times farther
+away.

@@ -1,5 +1,4 @@
-# Distanco inter Voyager 1 kaj la Tero
+# Distanta de la Voyager 1 la Pamînt
 
-Dum la lastaj 34 jaroj, Voyager 1 jam trairis la distancon de 17 miliardoj da
-kilometroj, kiu estas la plej malproksima distanco iu ajna homfarita objekto
-atingis iam. Vi ne povas vidi gin, ec se vi fiksrigardas sufice obstine!
+În ultimii 34 de ani, Voyager 1 a traversat 17 de miliarde de kilometri, cel mai
+departe pentru un obiect creat de om. Oricît ai incerca nu-l mai poti vedea!

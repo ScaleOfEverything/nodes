@@ -1,4 +1,5 @@
-# Tollide joonlaud
+# Inch Ruler
 
-Kõigile neile, kes pole harjunud meetermõõdustikuga, on siin tollide joonlaud,
-mis on umbes ühe jala pikkune. Teiste õnneks on kõik ülejäänu meetermõõdustikus.
+For all of you people not accustomed to the metric system, here's an inch ruler,
+which is approximately one foot long. Unfortunately, almost everything else is
+in the metric system.

@@ -1,4 +1,5 @@
-# 농구공
+# Korvpall
 
-이 농구공은 아마 7 호 사이즈일겁니다, 6 호 사이즈는 지름이 23 cm 밖에 안되거든요
-. 우리는 이 둥그런 공을 그물 사이로 던져넣죠.
+See korvpall on suurusega 7. Korvpalli kasutatakse korvpalli mängus, kus mängu
+eesmärgiks on, palli rõngast erinevatelt viskekaugustelt läbides, kõige rohkem
+punkte koguda.

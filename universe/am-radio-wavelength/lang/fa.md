@@ -1,5 +1,5 @@
-# AM raadiolaine lainepikkus
+# AM Radio Wavelength
 
-AM raadiolaine edastab informatsiooni laine amplituudi muutmisega (amplituudi
-modulatsioon). Seda moodust kasutati enne FM (sageduse modulatsioon)
-raadiolainet ja omab veel tänapäevalgi kaugemale levimise eelist.
+A and M are the first and thirteenth letters of the alphabet. One is a perfect
+square, while thirteen is not. We all have our differences, and we have to learn
+to accept them. That's the only way we'll live in harmony.

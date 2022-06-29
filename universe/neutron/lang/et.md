@@ -1,5 +1,5 @@
-# 중성자
+# Neutron
 
-중성자는 원자핵에서 발견되었는데, 원자 자체의 크기보다 1/1000 배 가량 작습니다.
-중성자는 두개의 아래 쿼크와 하나의 위 쿼크로 구성되어있습니다. 따라서, 중성자의
-전하는 -⅓ -⅓ +⅔ = 0 이에요.
+Neutroneid leidub aatomite tuumas. Need on tuhandeid kordi väiksemad kui aatom
+ise. Neis on kaks d-kvarki ja üks u-kvark. Seepärast on neutroni laeng
+-1/3-1/3+2/3 = 0.

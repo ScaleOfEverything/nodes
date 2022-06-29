@@ -1,6 +1,6 @@
-# Marea Piramida de la Giza
+# Піраміда Хеопса
 
-Aceasta imagine este de fapt din Giza Necropolis. Marea Piramida din Giza este
-piramida din stînga; fiind si cea mai veche, construita de egipteni în jur de
-2560 î.Hr.. A fost cea mai înalta structura construita de om pentru aproape
-4.000 de ani!
+Насправда на ція картинці зображений некрополіс у місті Гіза. Піраміда Хеопса –
+це піраміда зліва. Вона найстаріша, побудована єгиптянинами у 2560 році до
+Різдва Христового. Вона була найвищою створеною людиною будівлею майже 4,000
+років.

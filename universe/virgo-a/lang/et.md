@@ -1,5 +1,5 @@
-# 처녀자리 A 은하
+# Virgo A
 
-처녀자리 A 은하는 처녀자리 은하단에서 가장 큰 은하인데, 초거대 타원은하로 분류됩
-니다. 그런데 이 은하 중심부에있는 블랙홀에서 하위원자물질을 5,000 광년 밖까지 내
-뿜고있다는 사실을 알고 계셨나요?
+Virgo A on suurim galaktika Neitsi parves. See on elliptiline ülihiid galaktika.
+Kas teadsid, et must auk selle keskel kiirgab välja 5000 valgusaasta pikkuse joa
+subatomaarset ainet?

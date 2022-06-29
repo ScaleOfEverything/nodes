@@ -1,5 +1,5 @@
-# 리겔
+# Rigel
 
-리겔은 푸른 항성인데, 오리온자리에서 가장 밝습니다. 적도쪽에 위치해서, 지구의 거
-의 모든곳에서 관측이 가능합니다. 아, 미국식 발음으로는 "리겔"이 아니라 "레이젤"
-이라고 한다네요.
+Rigel on põlev sinine täht. See on kõige eredam täht Orioni tähtkujus. Täht asub
+ekvaatori lähedal, st Rigelit on võimalik näha peaaegu igast vaatluspunktist
+Maal.

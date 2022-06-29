@@ -1,5 +1,5 @@
-# Ultraviolettvalguse lainepikkus
+# Ultraviolet Wavelength
 
-Ultraviolettvalgus annab sulle päevituse. Ma arvasin kunagi, et päikesevalgus ja
-kuumus kõrvetavad naha pruunimaks nagu grillimisel kõik toit muutub tumedamaks.
-Nüüd ma tean, et see pole tõsi.
+Ultraviolet light can give you a tan. I used to think the sunlight and heat
+burnt your skin to make it darker, like how a barbecue grill turns all of the
+food black. Now I know that's not true.

@@ -1,4 +1,4 @@
-# 모래시계 성운
+# Liivakella udukogu
 
-모래시계 성운은 모래시계같이 생겼습니다. 보이듯이, 우리가 위에서 내려다볼때의 모
-양을 하고있죠.
+Liivakella udukogu on liivakellakujuline. Nagu näha võib, koosneb see kahest
+anumast. Ülemine anum on kallutatud meie suunas ja alumine meist eemale.

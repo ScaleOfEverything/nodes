@@ -1,5 +1,5 @@
-# 대장균
+# Soolekepike
 
-대장균들은 보통 인체에 큰 영향을 미치지 않는데, 여러분의 장 속에 살면서, 비타민
-K₂를 생산해냅니다. 대장균은 거의 모든 사람들의 장 속에 존재합니다. 사실, 대장균
-들은 갓난아기의 장 속을 태어난지 2 일 만에 점령해버린다고 하는데, 아주 빠르네요!
+Soolekepike elab tavaliselt ohtu tekitamata sinu sooles. Sina saad vastu temalt
+vitamiin K2. Soolekepikesed koloniseerivad vastsündinu soole, kui laps on alles
+2 päeva vana.

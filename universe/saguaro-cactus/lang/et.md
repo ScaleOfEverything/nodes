@@ -1,6 +1,5 @@
-# 사와로 선인장
+# Saguaro kaktus
 
-불행하게도 모든 사와로 선인장들이 14 m 까지 자라는 건 아니에요. 몇몇은 5 m 까지
-밖에 자라지 않기도 하죠. 사와로 선인장 중 몇몇은 팔이 없는 것들이 있는데, 그것들
-을 창 이라고 부릅니다. 인간은 팔이 다 자라는데 20 년밖에 걸리지 않는데 반해서 사
-와로 선인장의 팔이 자라나는데에는 75 년이나 걸린대요.
+Mitte kõik Saguaro kaktused ei kasva 14 meetri kõrguseks. Mõned neist võivad
+ainult hädised viis meetrit kõrged olla. Osadel neist on harud, mida nimetatakse
+odadeks. Saguaro kaktusel võtab üle 75 aasta, et kasvatada haru.

@@ -1,4 +1,5 @@
 # Nix
 
-Nix on kõige väiksem teadaolev Pluto kuu, See on teine lühiduselt kuu nimi,
-lühim on Io. Nimi pärineb Kreeka jumalannalt Nyx, kes oli öö.
+Nix is the smallest known moon of Pluto. Its name is the second shortest name of
+a moon, the shortest being Io. The name comes from the primordial Greek goddess
+Nyx, who was the night.

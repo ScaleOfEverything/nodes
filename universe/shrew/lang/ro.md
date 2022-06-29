@@ -1,5 +1,6 @@
-# Soriko
+# Scorpionul
 
-Sorikoj estas nekredeble malgrandaj ajetoj. Ilia metabola indico estas tiel
-alta, ke ili devas mangi ilian korpan pezon ciutage! Ankau, 10% de ilia korpa
-pezo estas ilia cerbo. Tio estas la plej alta de iu besto, inter ili homoj!
+Scorpionii sunt niste animalute uimitoare! Rata metabolismului lor este atît de
+mare încît trebuie sa-si manînce greutatea lor corporala în fiecare zi! 10% din
+greutatea corpului lor este creier! E cea mai mare proportie la un animal,
+inclusiv la oameni!

@@ -1,3 +1,3 @@
-# Distanco el Proksima Centauro al Alfa Centauro A
+# Distanta de la Proxima Centauri la Alpha Centauri A
 
-Proksima Centauro estas ege malproksima de Alfa Centauroj A kaj B.
+Proxima Centauri este foarte departe de Alpha Centauri, A si B

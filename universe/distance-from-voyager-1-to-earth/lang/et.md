@@ -1,4 +1,5 @@
-# 보이저 1호에서 지구까지의 거리
+# Voyager 1 ja Maa vaheline kaugus
 
-지난 34 년 동안, 보이저 1호는 170억 km 가량을 이동했는데, 인간이 만든 물체가 이
-동한 거리 중에서 가장 멀리 이동했습니다.
+Viimase 34 aastaga on Voyager 1 lennanud 17 miljardi kilomeetri kaugusele, mis
+kaugeim punkt, kuhu tehislik objekt on jõudnud. Seda pole võimalik näha, isegi
+kui väga väga proovid!

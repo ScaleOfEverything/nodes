@@ -1,5 +1,4 @@
-# Dido-Birdo
+# Pasarea Dodo
 
-La dido birdo estis malaperintaj iam dum la 1600-aj jaroj. La nomo venas el la
-sono kiun ili faras (au mi diru, ili devis fari, car jam estis nun
-malaperintaj). Do jes, ili foriris.
+Pasarea dodo a disparut undeva în 1600, Numele vine de la sunetul care-l produc
+(sau îl produceau, deoarece e extincta). Da, nu mai exista!

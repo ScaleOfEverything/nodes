@@ -1,5 +1,5 @@
-# Kalade-Vaala superparve kompleks
+# Pisces-Cetus Supercluster Complex
 
-Me tegelikult paikneme Kalade-Vaala superparve kompleksis. See on teine suurim
-objekt, mida teatakse, kohe Sloani Suure Seina järel. Minu arvates on teine koht
-päris hea.
+We actually live in the Pisces-Cetus Supercluster Complex. It is the second
+largest object known, after the Sloan Great Wall. I guess second place is pretty
+good.

@@ -1,4 +1,5 @@
-# 레드우드
+# Ranniksekvoia
 
-레드우드는 세계에서 가장 큰 나무입니다. 하지만 우주는 아직 이것보다 10^25 배 더
-커요.
+Ranniksekvoia on maailma kõige kõgem puu. Selle kõrgus, võrreldes sipelga
+kõrgusega, on suurem kui ükskõik mis inimese oma! Kuigi, universum on ikka 10^25
+korda suurem.

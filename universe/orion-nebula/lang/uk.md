@@ -1,4 +1,5 @@
-# Nebuloasa Orion
+# Туманність Оріон
 
-Nebuloasa Orion este printre cele mai vizibile nebuloase! Dupa nume, se afla în
-constelatia Orion. Stiai ca exista bule de gaz în aceasta nebuloasa?
+Туманність Оріон – одна з найбільш видимих туманностей за всі часи! Як і
+говорить ім’я, вона знаходиться у сузір’ї Оріон. Ви знали, що у цій туманності
+існують газові кулі?

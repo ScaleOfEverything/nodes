@@ -1,5 +1,5 @@
-# Colliniilo
+# Un liniar în inch
 
-Por ciuj vi ne alkutimitaj al la metra mezursistemo, jen colliniilo, kiu estas
-proksimume unu piedo longa. Bedaurinde, preskau cio alie estas en la metra
-mezursistemo.
+Pentru cei dintre voi nefamiliarizati cu sistemul metric, aici este un liniar în
+inch, aproximativ de un picior lungime. Aproape tot altceva este în sistem
+metric.

@@ -1,6 +1,6 @@
-# Antareso
+# Antares
 
-Antareso estas ruga supergianta stelo, tre apud la ekliptiko, tiel, gi ofte
-estas kasita de Luno. Ankau, Antareso pezas kvarilionoj da tunoj kaj perdas
-pezon pro sia suna (stela) vento, sed ci tiu metodo estas malrapida. La rapida
-vojo estas eksplodo, kiun gi faros poste.
+Antares este un supergigant rosu foarte aproape de ecliptica, astfel încît este
+deseori ascuns de Luna. De asemenea, Antares cîntareste un septillion de tone si
+pierde încet greutate prin vânt stelar. O metoda mai rapida ar fi sa explodeze,
+asta o va face însa mai tîrziu!

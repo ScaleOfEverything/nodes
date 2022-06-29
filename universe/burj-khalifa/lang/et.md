@@ -1,5 +1,5 @@
-# 브루즈 칼리파
+# Burj Khalifah
 
-버즈 두바이라고도 불리는 브루즈 칼리파는, 세계에서 가장 높은 건축물입니다. 아직
-어떠한 건축물도 828,000 mm 보단 작아요. 이 건물의 76 층엔 수영장도 있다고 하네요
-.
+Burj Khalifah, mida alguses nimetati Burj Dubai, on maailma kõrgeim hoone. Mitte
+ükski teine hoone ei ole kõrgem kui 828 000 millimeetrit. Seal on 76. korrusel
+ujumisbassein.

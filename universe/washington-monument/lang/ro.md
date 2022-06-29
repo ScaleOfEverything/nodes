@@ -1,6 +1,5 @@
-# Vasingtona Monumento
+# Monumentul Washington
 
-La Monumento al Vasingtono estas la plej alta obelisko de la mondo, tiel, kiel
-la plej alta stona strukturo de la mondo. Estis la plej alta strukturo de la
-mondo de 1884 gis 1889. Post tio estis la Ejfela Turo, kiu estas la supra
-dekstre.
+Monumentul de la Washington este obelisc-ul cel mai înalt din lume, cea mai
+înalta structura de piatra din lume, precum si cel mai înalt obiect din lume
+între 1884 - 1889. Dupa aceea a fost Turnul Eiffel, în dreapta-sus.

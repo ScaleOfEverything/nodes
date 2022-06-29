@@ -1,5 +1,6 @@
-# HIV
+# Вірус Імунодефіциту Людини
 
-HIV a infectat 0,6% din populatia lumii si provoaca SIDA. Desi un singur virus
-HIV este atît de mic încît nici o fiinta umana nu îl poate vedea cu ochiul lor
-liber, este un virus mortal.
+Вірус Імунодефіциту інфікує 0.6% світового населення і спричиняє СНІД. Хоча один
+єдиний вірус імунодефіциту й дуже малий, насправді, такий малий, жодне людське
+створіння на цій планеті може побачити його неозброєним оком, він все ще може
+вбити.

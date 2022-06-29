@@ -1,4 +1,5 @@
-# Cel mai mic obiect vizibil cu ochiul liber
+# Найменший об’єкт, видимий неозброєному оку
 
-Este aproximativ 100 de micrometri, sau o zecime de milimetru pe ... Stai! Este
-exact o zecime de milimetru. Atît de exact e aproape înfricosator!
+Просто для вашої інформації, 100 мікрометрів – це приблизно те саме, що й одна
+десята міліметру. Зачекайте... це В ТОЧНОСТІ одна десята міліметра. Тепер це
+настільки точно, що аж моторошно!

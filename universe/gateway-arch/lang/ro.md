@@ -1,5 +1,5 @@
-# Gateway-a Arko
+# Arcul Gateway
 
-La Gateway-a Arko estas la plej alta strukturo en Sankta Luiso. Havas videjan
-lokon ce la tre alta supro, kaj de gi, vi povas vidi la Misisipion Riveron. Vi
-debu viziti gin iam baldau!
+Arcul Gateway este cea mai înalta structura din St Louis. Are o platforma de
+observare în partea de sus, de acolo poti vedea râul Mississippi. Ar trebui sa o
+vizitezi cîndva cît de curînd!

@@ -1,5 +1,5 @@
 # Virgo A
 
-Virgo A on suurim galaktika Neitsi parves. See on elliptiline ülihiid galaktika.
-Kas teadsid, et must auk selle keskel kiirgab välja 5000 valgusaasta pikkuse joa
-subatomaarset ainet?
+Virgo A is the largest galaxy in the Virgo Cluster. It's a supergiant elliptical
+galaxy. Did you know that the black hole at its center is flinging out a jet of
+subatomic matter 5,000 light-years long?

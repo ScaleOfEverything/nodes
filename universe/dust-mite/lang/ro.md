@@ -1,6 +1,6 @@
-# Polvaj Akaroj
+# Acarianul de praf
 
-Polvaj akaroj satas mangi polvon, kion vi eble scias, tio nur estas mortitaj
-hautaj celoj. Multaj homoj estas alergiaj al la polvaj akaroj. Iuj estas
-alergiaj al iliaj fekajoj. Tamen, preskau ciuj homoj volas forigi tian tedan
-plagon.
+Acarienilor le place sa manînce praf, alcatuit din celulele moarte ale pielii.
+Multi oameni sunt alergici la acest praf. Apropo, unii oameni sunt alergici la
+propriile materii fecale. Oricum, aproape toti oamenii doresc sa scape de
+aceasta vietate urîta.

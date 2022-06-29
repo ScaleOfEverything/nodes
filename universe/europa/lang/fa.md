@@ -1,4 +1,5 @@
 # Europa
 
-Europa on Galileo kuudest väikseim. See on kaetud jääga ja salapäraste joontega.
-Osa inimesi arvab, et jää all võib eksisteerida vett ja võib olla isegi elu.
+Europa is the puniest of the Galilean moons. It is covered with ice. There are
+mysterious streaks that cover the moon's surface. Some people believe water
+might exist beneath the layer of ice, possibly even holding life.

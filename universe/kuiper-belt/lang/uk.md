@@ -1,5 +1,5 @@
-# Centura Kuiper
+# Пояс Койпера
 
-Centura Kuiper este o regiune a Sistemului Solar în afara orbitei lui Neptun
-unde orbiteaza multe obiecte de mici dimensiuni. Este ca o a doua centura de
-asteroizi (mai larga)
+Пояс Койпера – це область Сонячної системи за межами орбіти Нептуна, де
+рухаються по орбіті невеличкі тіла. Тут існує багато карликових планет. Це схоже
+на великий пояс астероїдів.

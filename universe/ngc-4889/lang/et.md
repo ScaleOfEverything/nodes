@@ -1,5 +1,5 @@
 # NGC 4889
 
-NGC 4889 는 아주 큰 은하입니다. 칼드웰 35 라고도 알려져 있는데, 머리털자리 은하
-단에서 가장 밝은 은하입니다. 우리로부터 초당 6,500 km 의 속도로 멀어지고 있는데,
-이 속도로 지구를 한 바퀴 도는데에는 7 초 밖에 걸리지 않는다고 하네요!
+See väga suur galaktika, teise nimega tuntud kui Caldwell 35, on heledaim
+galaktika Coma parves. See eemaldub meist kiirusega 6500 kilomeetrit sekundis.
+Sellise kiirusega saaks see Maale tiiru teha seitsme sekundiga!.

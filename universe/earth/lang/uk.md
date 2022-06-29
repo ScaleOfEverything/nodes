@@ -1,5 +1,5 @@
-# Pamîntul
+# Земля
 
-Pamîntul este casa noastra si e de neînlocuit. Îl putem considera gigantic, dar
-cîta vreme locuim aici e important sa avem grija de el. Odata distrus, nu avem
-nicaieri altundeva sa mergem.
+Земля – наша єдина домівка. Живучі на ній, ми можемо вважати її величезною,
+проте досі важливо розуміти, що про неї варто піклуватися. Коли вона зникне, не
+буде більше куди подітися.

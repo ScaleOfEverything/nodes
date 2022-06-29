@@ -1,5 +1,5 @@
-# Kassisilma udukogu
+# Cat's Eye Nebula
 
-Kassisilma udukogu on üks kõige keerulisema ehitusega udukogudest. Kas teadsid,
-et Kassisilma udukogus on temperatuur 8000° C? See on päris kuum (vesi keeb 100°
-C)! Udukogu ümbritsev halo on veel kuumem 15000° C.
+The Cat's Eye Nebula is one of the most complex nebulae known. Did you know that
+the Cat's Eye Nebula is 8,000° C? That's pretty hot! The outer halo is even
+hotter, at 15,000° C.

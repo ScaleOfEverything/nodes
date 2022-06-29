@@ -1,6 +1,6 @@
-# Deneb
+# Денеб
 
-Deneb este cea mai stralucitoare stea din constelatia Cygnus. Deneb se afla la
-1.500 de ani-lumina distanta, cea mai îndepartata dintre 25 cele mai
-stralucitoare stele. Daca ati trait pe Marte, Deneb ar aparea deasupra Polului
-Nord - nu Polaris.
+Денеб – найяскравіша зірка в сузір’ї Лебедя. Денеб знаходиться на відстані в
+1,500 світлових років, тому це найвіддаленіша з 25-ти найяскравіших зірок. Якщо
+б ви жили на Марсі, Денеб з’являлася б над Північним Полюсом – а не над Полярною
+зіркою.

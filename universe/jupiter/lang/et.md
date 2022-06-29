@@ -1,5 +1,6 @@
-# 목성
+# Jupiter
 
-목성은 태양계에서 가장 큰 행성인데, 위성이 64 개나 됩니다. 하지만, 우주에서 가장
-큰 행성은 아니에요. 지금까지 알려진 우주에서 가장 큰 행성은 TReS-4 입니다. 목성
-은 기체로 이루어져 있기 때문에, 목성에 착륙하는것은 불가능합니다.
+Jupiter on Päikesesüsteemi suurim planeet, kuid see ei ole suurim teadaolev
+planeet, milleks on TrES-4. Jupiter on suur gaasikera ehk gaasist hiidplaneet ja
+seetõttu puudub sel tahke pind. Jupiteril on ka 64 kuud kaasaarvatud neli
+Galileo kuud.

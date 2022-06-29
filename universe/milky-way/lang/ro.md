@@ -1,5 +1,5 @@
-# Lakta Vojo
+# Calea Lactee
 
-La Lakta Vojo estas la galaksio en kiu ni logas. Vi ne povas vidi gin tute,
-kompreneble, sed dum malluma nokto vi eblus vidi strion, kiu iras trans la tuta
-cielo! Gi sajnas lakteca, tiel gi estas la Lakta Vojo.
+Calea Lactee este galaxia în care traim noi. Desigur ca n-o poti vedea cu totul,
+dar într-o noapte întunecata se poate vedea ca o banda care se întinde pe tot
+cerul. Pare laptoasa, deci se numeste Calea Lactee!

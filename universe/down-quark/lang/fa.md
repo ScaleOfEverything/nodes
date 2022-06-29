@@ -1,5 +1,6 @@
-# D-kvark
+# Down Quark
 
-Kvarke on kuut tüüpi. Need on u-, d-, s-, c-, t- ja b-kvark. Mida väiksema
-kvargiga on tegemist, seda suurem mass sel on. Selle tulemusena on u- ja d-kvark
-kõige kergemad kvargid. D-kvargil on elektrilaeng -1/3.
+There are six flavors of quarks. They are up, down, strange charm, top, and
+bottom. The smaller a quark is, the more mass it has. As a result, the up and
+down quarks are actually the lightest of the quarks. This down quark has a
+charge of -1/3.

@@ -1,5 +1,6 @@
-# 게 성운
+# Krabi udukogu
 
-게 성운은 잘 알려진 성운들 중 하나입니다. 게 성운은 첫번째 메시에 천체 (M1) 으로
-등록 되기도 했어요! 게 성운의 초신성은 서기 1054 년에 관측되었는데, 너무 밝아서
-낮동안에도 보일 정도였다고 하네요. 그러고보니 아직 1,000 살이 채 안 되었네요!
+Krabi udukogu on üks kuulsamaid udukogusid. See oli ka esimene objekt, mille
+Charles Messier kataloogiseeris (M1)! Krabi udukogu supernoovat nähti 1054 pKr
+ja see oli nii ere, et oli nähtav päise päeva ajal. See pole veel 1000 aastatki
+vana!

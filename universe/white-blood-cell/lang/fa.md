@@ -1,5 +1,6 @@
-# Valge verelible
+# White Blood Cell
 
-Need massimõrvarid on tuntud ka kui leukotsüüdid. Neid haiguste hävitajaid on
-mitut tüüpi. Kõige levinumal tüübil, neutrofiilifel, on mitu rakutuuma. Kõige
-suuremate, makrofaagide, läbimõõt ulatub hämmastava 21 mikromeetrini.
+These mass murderers are also known as leukocytes. There are many different
+types of this disease-fighting cell. The most common type, the neutrophil, has
+multiple nuclei. The largest type, the macrophage, has a diameter of a whopping
+21 µm.

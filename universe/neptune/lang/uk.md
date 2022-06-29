@@ -1,6 +1,6 @@
-# Neptun
+# Нептун
 
-În prezent, Neptun este cea mai îndepartata planeta din Sistemul Solar. Neptun
-are nevoie de 164,8 ani pamîntesti pentru a orbita Soarele. În întreaga ta
-viata, Neptun nu va finaliza o orbita completa, asta cîta vreme speranta de
-viata nu creste drastic
+Зараз Нептун є найвіддаленішою від Сонця планетою у Сонячній системі.
+Знадобиться 164.8 земних років для одного оберту її навколо Сонця. Вам ніколи не
+доведеться побачити, як Нептун проходить одне повне коло по орбіті за все ваше
+життя, якщо тільки не збільшиться тривалість життя.

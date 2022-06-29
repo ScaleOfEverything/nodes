@@ -1,5 +1,5 @@
-# Maa ja Päikese vaheline kaugus
+# Distance from Earth to Sun
 
-Päeval ei paistagi Päike nii kaugel olevat. Tegelikult on see 150 miljoni
-kilomeetri kaugusel. Seda vahemaad nimetatakse astronoomiliseks ühikuks ehk
-lühidalt aü.
+During the day, the Sun doesn't seem so far away. It's actually about 150
+million kilometers away. That distance is an Astronomical Unit, which is called
+an AU for short. ",

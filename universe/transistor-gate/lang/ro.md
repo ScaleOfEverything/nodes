@@ -1,5 +1,5 @@
-# Transistor-Pordo
+# Tranzistorul
 
-Transistoroj en komputiloj daure farigas pli malgrandaj. En 1971, ili estis 400
-fojoj pli grandaj, je 10 mikrometroj. Nun ni malgrandigis al 25 nanometroj, sed
-en la estonteco ili povus esti ec pli malgrandaj. Kia malgrandecon atingos?
+Tranzistorii din computere sunt într-un proces constant de micsorare. În 1971
+erau de 400 de ori mai mari, la 10 micrometri. Acum, s-a ajuns la 25 de
+nanometri! Viitorul este deschis - oare cît de mici mai pot deveni?

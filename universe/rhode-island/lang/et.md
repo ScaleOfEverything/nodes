@@ -1,4 +1,5 @@
-# 로드아일랜드 주
+# Rhode Island
 
-로드아일랜드 주는 미국에서 가장 작은 주 입니다. 그런데, 공식적인 이름은 가장 길
-다고 하네요. (The State of Rhode Island and Providence Plantations)
+Rhode Island on USA kõige väiksem osariik, Aga see siiski mahutaks kogu maailma
+elanikkonda! Kas sa teadsid, et Rhode Island on kõige pikema ametliku nimega USA
+osariik? (The State of Rhode Island and Providence Plantations)

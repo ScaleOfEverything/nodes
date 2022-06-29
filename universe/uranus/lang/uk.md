@@ -1,4 +1,5 @@
-# Uranus
+# Уран
 
-În limba engleza "Uranus" suna ca "anus-ul tau". Exista multe alte pronuntii:
-"yer-uh-NISS" sau "SEH-venth-pla-net" (a saptea planeta)
+Багатьом людям подобається думати, що англійське слово "Uranus" звучить як "твій
+анус". Існують також інші, та кращі, фонетичні транскрипції. Уран також може
+промовлятися як "Юр-анн" або "Сьо-ма-пла-не-та".

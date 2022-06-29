@@ -1,4 +1,5 @@
-# 강입자 충돌기
+# Suur osakeste põrguti
 
-강입자 충돌기는 세계에서 가장 큰 고에너지 입자가속기입니다. 이 장치에서 양성자들
-을 서로 충돌시켜요! 학교에서 애들이 싸우는 것처럼요.
+Suur osakeste põrguti on maailma suurim kõrgeima energiaga osakeste kiirendi.
+See põrgatab prootoneid üksteisega! See on väga õel nagu koolikiusaja, kes
+lükkab väiksed lapsi üksteise vastu.

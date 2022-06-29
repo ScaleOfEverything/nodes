@@ -1,5 +1,4 @@
-# Longecoj mallongaj ol ci tio ne estas konfirmitaj.
+# Lungimi mai mici decît acest lucru nu sunt confirmate stiintific.
 
-Ciuj objektoj, kiuj estas pli malgrandaj ol ci tio, estas nemezureblaj. La
-grandecoj kiuj aperas estas nur taksitaj. Iuj ajoj, kiel kvantuma saumo, estas
-nur hipotetaj. Ili ne estas faktoj.
+Toate obiectele care sunt mai mici de atît sunt doar estimari. Unele, cum ar fi
+spuma cuantica, sunt pure presupuneri. Nu sunt confirmate faptic.

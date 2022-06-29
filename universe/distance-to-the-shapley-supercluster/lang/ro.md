@@ -1,4 +1,5 @@
-# Distanco al la Shapley-a Supergalaksiamaso
+# Distanta pâna la super-clusterul Shapley
 
-La Shapley-a Superamaso estas supergalaksiamaso. Gi estas unu el la plej grandaj
-objektoj kiuj disfalis internen; kio ajn grandajo ekspansiigas kun la universo.
+Supercluster-ul Shapley este un supercluster de galaxii, este una dintre cele
+mai mari obiecte care se prabuseste spre interior. Daca ar fi mai mare s-ar
+extinde împreuna cu universul.

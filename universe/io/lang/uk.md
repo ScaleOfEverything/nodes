@@ -1,6 +1,5 @@
-# Io
+# Іо
 
-Io are o multime de vulcani; cei mai multi din întregul Sistemul Solar!
-Gheizere-le de pe Io arunca dioxid de sulf înghetat pîna la 500 de kilometri în
-spatiu! Peisajul lui Io este în continua schimbare. Într-un an, va fi complet
-schimbat
+На Іо багато вулканів – більшість у Сонячній системі! Гейзери на Іо викидують у
+космос заморожений диоксид сірки на висоту до 500 кілометрів! Ландшафт Іо
+постійно змінюється. За один рік він буде виглядати зовсім інакше!

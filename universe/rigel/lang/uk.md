@@ -1,5 +1,5 @@
-# Rigel
+# Ригель
 
-Rigel este o stea albastra aprins, cea mai stralucitoare stea din constelatia
-Orion. Se afla înspre ecuator, astfel încît este vizibila de aproape peste tot
-de pe Pamînt.
+Ригель - палаюча блакитна зірка, і водночас найяскравіша зірка в сузір'ї Оріона.
+Вона лежить біля Екватора, тому її можна побачити майже з будь-якого місця
+Землі. Також, не називайте її"вригель", тому що це вимолвляється як"рий-гель".

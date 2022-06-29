@@ -1,6 +1,6 @@
-# Cel mai mare Virus
+# Найбільший Вірус
 
-Cea mai mare virus cunoscut era Mimivirus-ul, al carui nume îmi place, dar acum
-este Megavirus, al carui nume îmi place si el. Cu toate acestea, nu-mi place de
-virusii propriu-zisi. Stiai ca Megavirus are cea mai lunga secventa a genomiala
-dintre virusi?
+Найбільший відомий вірус має назву Мімівірус, яка мені подобається, але тепер
+він перетворився на Мегавірус, назва якого мені теж подобається. Однак, самі
+віруси мені не подобаються. Ви знали про те, що Мегавірус має найдовший геном з
+вірусів?

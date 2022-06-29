@@ -1,6 +1,4 @@
-# Viola Luma Ondolongo
+# Lungimea de unda a luminii violet
 
-Ankau nomata malva, purpura, au ec rega viokoloro, viola; kiu povas esti nomata
-lavendo, vinko au iriso, kaj foje ec ametisto au melongeno, ankau rilatas al
-fuksio, indigo au lilako, kaj en raraj okazoj, bizancio, kardo, glicinoa,
-fandango kaj heliotropo.
+Violetul, sau mov, regalia, lavanda, ametist sau vinete, e cunoscut si ca
+fucsia, indigo sau liliac, si mai rar Bizant, ciulin si heliotrop.

@@ -1,5 +1,5 @@
-# 쌀 낟알
+# Riisitera
 
-지구에 살고있는 많은 사람들이 밥을 먹습니다. 하루에 한 그릇의 밥을 먹는다고 가정
-하면, 일생동안 3 억톨의 쌀을 먹게된다고 하네요. 미국의 대략적인 인구와 맘먹는 수
-에요!
+Paljud inimesed meie ilusal maakeral söövad riisi. Kui sa sööd ühe kausi riisi
+iga päev, siis oma eluaja jooksul tarbiksid sa ligikaudu 300 miljonit riisitera.
+See on ligikaudu kogu Ameerika Ühendriikides elavate inimeste arv!

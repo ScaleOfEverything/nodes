@@ -1,4 +1,5 @@
-# 맵시 쿼크 (c)
+# C-kvark
 
-맵시 쿼크와 야릇한 쿼크는 제 2세대의 쿼크입니다. 이 제 2세대 쿼크들은 제 1세대쿼
-크인 위, 아래 쿼크로 빠르게 붕괴합니다.
+C-kvark ja s-kvark on teise põlvkonna aineosakesed. Need lagunevad lühikese aja
+jooksul u- ja d-kvargiks, mis on esimese põlvkonna aineosakesed. C-kvark on oma
+nime saanud inglisekeelsest sõnast charm (võlu).

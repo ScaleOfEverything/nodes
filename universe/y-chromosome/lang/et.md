@@ -1,5 +1,3 @@
-# Y 염색체
+# Y-kromosoom
 
-성 염색체인 Y 염색체는, 오직 남성한테만 나타납니다. 진화 할때마다 Y 염색체의 크
-기는 계속해서 줄어들고 있는데, 나중엔 없어져 버릴 수도 있다는 걸 알고 계셨나요?
-상당히 흥미롭네요.
+Y-kromosoom määrab ära soo. Nimelt esineb Y-kromosoom ainult meestel.

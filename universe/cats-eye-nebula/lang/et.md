@@ -1,5 +1,5 @@
-# 고양이 눈 성운
+# Kassisilma udukogu
 
-고양이 눈 성운은 알려진 성운 중에서 가장 복잡한 구조를 이루고 있습니다. 고양이눈
-성운의 온도가 8,000℃ 라는 걸 알고계셨나요? 아주 뜨겁죠! 그런데 바깥쪽은 더 뜨거
-워서, 15,000℃ 에 이른다고 하네요.
+Kassisilma udukogu on üks kõige keerulisema ehitusega udukogudest. Kas teadsid,
+et Kassisilma udukogus on temperatuur 8000° C? See on päris kuum (vesi keeb 100°
+C)! Udukogu ümbritsev halo on veel kuumem 15000° C.

@@ -1,5 +1,5 @@
-# Kvavaro
+# Quaoar
 
-Kvavaro estas tre densa car gia kerno estas tre granda. Kvavaro eble iam estis
-multe pli longa ol larga. Eble gi estis frapita de objekto tiel granda, kiel
-Plutono; kiu povus detiri la eksterajn tavolojn.
+Quaoar este foarte densa, deoarece miezul ei este masiv. Se poate ca Quaoar sa
+fi fost mult mai mare cu mult timp în urma, apoi sa fi fost lovita de un obiect
+de marimea lui Pluto, care a deposedat-o de mai multe învelisuri

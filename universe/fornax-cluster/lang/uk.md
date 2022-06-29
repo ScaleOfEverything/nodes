@@ -1,5 +1,5 @@
-# Cluster-ul Fornax
+# Скупчення Піч
 
-Traim în super-cluster-ul Fecioara. Suntem de fapt parte dintr-un mic filament
-de extindere înafara Cluster-ului Fornax.. În termen de dimensiuni, cu 100 de
-milioane de ani-lumina diametru, acesta este al doilea mare grup!
+Ми живемо у Надскупченні Діви. Насправді ми є частиною маленькой нитки, що
+розширюється із Скупчення Пічі. Це друге найбільше скупчення у межах 100
+мільйонів світлових років!

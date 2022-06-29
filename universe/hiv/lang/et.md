@@ -1,4 +1,5 @@
-# HIV (인간 면역 결핍 바이러스)
+# HIV
 
-HIV 는 세계 인구의 0.6% 를 감염시켜서 에이즈를 유발합니다. HIV 바이러스가 작아서
-우리 눈에 안보이긴 하지만 우릴 사망에까지 이르게 할 수 있어요.
+HIV-sse on haigestunud 0,6% maailma elanikkonnast ja see põhjustab AIDSi. Kuigi
+üksik HIV viirus on nii väike, et ükski inimene terves maailmas ei näeks seda
+palja silmaga, suudab see tappa nii palju.

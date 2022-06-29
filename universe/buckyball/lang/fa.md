@@ -1,5 +1,5 @@
-# Buckminstri fullereen
+# Buckyball
 
-Need molekulid on tehtud 60-st süsiniku aatomist. Süsinikud on paigutatud
-ikosaeedriliselt. Tuttava kujuna on ioksaeedriline jalgpalli pall. Keemiline
-lahus, mis on täilikult tehtud Buckminstri fullereenidest, on lilla.
+Buckyballs, which are also called Buckminsterfullerenes, are made of 60 carbon
+atoms. The shape it forms is a truncated icosahedron, which is also the shape of
+a soccer ball! A solution made completely out of buckyballs is purple.

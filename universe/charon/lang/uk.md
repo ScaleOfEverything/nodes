@@ -1,5 +1,6 @@
-# Charon
+# Харон
 
-Charon este singurul satelit mare al lui Pluto; fiind foarte apropiati în
-marime. Ele sunt atât de aproape, încat unii oameni considera ca Pluto si Charon
-sunt o planeta dubla. Stiati ca Charon si Pluto îsi arata mereu aceeasi fata?
+Харон є єдиним великим місяцем Плутона. Вони дуже близькі за розміром. Вони
+знаходться настільки близько один до одного, що деякі люди вважають Плутон та
+Харон подвійною планетою. Ви знали, що одна й та ж сторона Харона завжди
+повернена до Плутона, а одна й та ж сторона Плутона завжди повернена до Харона?

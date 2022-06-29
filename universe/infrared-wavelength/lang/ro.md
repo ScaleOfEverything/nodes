@@ -1,3 +1,3 @@
-# Infraruga Ondolongo
+# Lungime de unda a luminii infrarosie
 
-Infraruga Ondolongo
+Lungime de unda a luminii infrarosie

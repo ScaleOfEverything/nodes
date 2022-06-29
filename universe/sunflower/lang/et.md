@@ -1,5 +1,5 @@
-# 해바라기
+# Päevalill
 
-사실 해바라기는 단화가 아니라, 그 머리부분 속에 수천개의 작은 꽃들로 이루어진 것
-이라는 걸 알고 계셨나요? 그 작은 꽃들을 낱꽃이라고 합니다. 낱꽃의 중심부분이 해
-바라기 씨가 되는데, 여기선 보이지도 않네요.
+Kas teadsid, et päevalilleõis ei ole ainult üks õis, vaid koosneb tegelikult
+tuhandetest väikestest lilledest? Neid väikeseid lilli kutsutakse õisikuteks.
+Õisikutest saavad lõpuks maitsvad päevalilleseemned.

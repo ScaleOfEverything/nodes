@@ -1,4 +1,5 @@
-# 화로자리 은하단
+# Ahju (Fornax) galaktikaparv
 
-우리는 처녀자리 은하단에 속하는데 사실 화로자리로 뻗어있는 가는 필라멘트에 속해
-있습니다. 화로자리은하는 1 억 광년 안에 있는 은하단 중에서 2 번째로 커요!
+Me elame Neitsi superparves. Me oleme osa väiksest võrgustikust, mis ulatub
+välja Ahju galaktikaparvest. See on suuruselt teine galaktika parv 100 miljoni
+valgusaasta ulatuses.

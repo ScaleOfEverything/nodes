@@ -1,4 +1,5 @@
-# Arktuurus
+# نگهبان شمال
 
-Arktuurus on tähistaevaa heleduselt kolmas täht Siiriuse ja Canopuse järel. See
-on Karjase tähtkuju heledaim täht. Sa leiad selle järgides Suure Vankri aisa.
+نگهبان شمال سومین ستاره ی درخشان در آسمان شب، بعد از شباهنگ و سهیل است. این
+ستاره درخشانترین ستاره در صورت فلکی گاوران است. می توان با دنبال کردن دسته ی خرس
+بزرگ آن را پیدا کرد.

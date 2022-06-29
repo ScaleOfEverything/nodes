@@ -1,6 +1,6 @@
 # Abell 2029
 
-Abell-o 2029 estas galaksia amaso ce unu miliardo da lum-jaroj for, en la
-konstelacio Serpento. Sia centra galaksio, kiu estas IC 1101, estas preskau tiel
-granda, kiel ci tia estas. Gi emisias 2 duilion-foje tiel multe da lumo ol la
-Suno. (Proksimume 10^39 lum-ampoloj)
+Abell 2029 este un cluster galactic la un miliard de ani-lumina, în constelatia
+Serpens. Galaxia sa centrala, IC 1101, este aproape la fel de mare ca întreg
+cluster-ul. Emite de 2 trilioane de ori mai multa lumina decît Soarele. (cam cît
+10 ^ 39 becuri)

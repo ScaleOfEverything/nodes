@@ -1,5 +1,5 @@
-# 르완다
+# Rwanda
 
-르완다는 동부-중앙 아프리카에 있는 나라입니다. 르완다의 영토 크기가 세계에서 148
-번째라는걸 알고 계셨나요? 그럼 나머지 147 개의 나라들은 르완다보다 크다는 거겠죠
-.
+Rwanda on riik Aafrika keskosas ja see on tuntud ka kui "Tuhande künka maa". Kas
+teadsite, et Rwanda on pindalalt 148-s riik? See tähendab, et ainult 147 riiki
+on sellest suuremad.

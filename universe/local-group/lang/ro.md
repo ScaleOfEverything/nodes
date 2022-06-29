@@ -1,5 +1,5 @@
-# Loka Grupo
+# Grupul Local
 
-La Loka Grupo estas la amaso de galaksioj en kiu ni logas. Gi enhavas proksimume
-tridek galaksioj kaj nano-galaksioj. La du plej grandaj galaksioj estas la
-Andromeda Galaksio kaj la nia propra, la Lakta Vojo.
+Grupul Local este cluster-ul de galaxii în care traim noi. Contine cam treizeci
+de galaxii si galaxii pitice. Cele mai mari galaxii din el sînt Andromeda si
+galaxia noastra, Calea Lactee.

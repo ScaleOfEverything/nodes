@@ -1,5 +1,5 @@
-# Korbopilko
+# Mingea de baschet
 
-Ci tiu korbopilko havas versajne la grandecon de 7 korbopilkoj, car grandeco de
-6 korbopilkoj havas la diametron de nur 23 centimetroj. Ci tiu korbopilko, kiu
-estas tre ronda, estas ofte trapusita en la ringon.
+Mingea aceasta este probabil o minge marimea 7, deoarece o minge de marimea 6 de
+baschet are doar 23 de centimetri în diametru. Acesta minge, foarte rotunda, e
+de obicei aruncata la cos.

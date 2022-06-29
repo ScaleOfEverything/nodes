@@ -1,5 +1,5 @@
-# 실트 입자
+# Tolmuosake
 
-어든-웬트워드 입도 구분 척도에 의하면, 실트 입자의 크기는 가장 작은 1/256 mm 에
-서 가장 큰 1/16 mm 까지 다양하다고 합니다. 옆에 보이는 실트입자도 그 사이에 들어
-가요.
+Vastavalt Udden-Wentworthi skaalale varieeruvad tolmuosakesed väikseimast 1/256
+mm kuni suurimateni 1/16 mm. See paremal olev tolmukübe mahub sellesse vahemikku
+väga hästi.

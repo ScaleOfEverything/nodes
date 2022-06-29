@@ -1,5 +1,5 @@
-# Katokul-Nebulozo
+# Nebuloasa ochi de pisica
 
-La Katokula Nebulozo (NGC 6543) estas unu el la plej kompleksa nebulozo konata.
-Cu vi scias, ke la Katokula Nebulozo estas 8,000° C? Tio estas ege varma! La
-ekstera nimbo estas ec pli varmega, ce 15,000° C.
+Nebuloasa ochi de pisica (Cat Eye) este una dintre cele mai complexe nebuloase
+cunoscute. Stiai ca are cam 8.000 ° C? Destul de cald, nu? Halo-ul exterior este
+însa si mai cald, la 15.000 ° C.

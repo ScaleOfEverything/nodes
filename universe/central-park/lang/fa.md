@@ -1,4 +1,5 @@
 # Central Park
 
-Central park on suur roheala keset New Yorki. Ameerikas on see kõige külastatum
-linnapark.
+Central Park, which is in New York City, is the most visited urban park in the
+United States! Did you know that 18 people actually live in Central Park? That's
+pretty cool!

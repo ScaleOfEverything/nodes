@@ -1,5 +1,5 @@
-# Ruando
+# Ruanda
 
-Ruando estas lando en orient-centra Afriko kaj gi estas konata kiel "La Lando de
-la Mil Montetoj". Cu vi scias? Ruando, kiel lando havas la rangon 148an inter la
-diversaj landareoj. Tio signifas, estas nur 147 landoj pli grandaj ol gi.
+Ruanda este o tara în partea central-estica a Africii si este cunoscuta sub
+numele de "Tara celor o mie de dealuri". Stiati ca Ruanda este pe locul 148 ca
+suprafata de teren? Asta înseamna ca exista doar 147 de tari mai mari decît ea

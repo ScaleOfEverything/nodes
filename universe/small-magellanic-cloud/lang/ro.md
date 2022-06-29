@@ -1,6 +1,5 @@
-# Malgranda Magelana Nubo
+# Nor mic Magellan
 
-La Malgranda Magelana Nubo nur estas nomata malgranda, car estas pli malgranda
-ol la galaksio plej proksima al gi, la Granda Magelana Nubo. Se la Granda
-Magelana Nubo estu pli malgranda, la Malgranda Magelana Nubo estus nomata Granda
-Magelana Nubo!
+Nor Magelanic mic este numit asa doar pentru ca este mai mic decît cea mai
+apropiata galaxie, norul Magelan mare. Daca norul Magelan mare ar fi fost mai
+mic, norul Magelan mic ar fi fost numit mare!

@@ -1,5 +1,5 @@
-# 코끼리
+# Elevant
 
-코끼리는 육상동물중에서 가장 큽니다. 남아있는 코끼리의 종은 3 종밖에 남지 않았습
-니다. 무게는 8 톤까지 나갈 수 있는데, 인간이 기록했던 최고의 몸부게보다 10 배나
-커요! (전 누군가가 800 kg 까지 찌웠다는게 더 놀랍네요.)
+Elevant on suurim maismaa loom. Praegu elab veel ainult kolm liiki elevante.
+Elevandid saavad kaaluda isegi kuni 8 tonni. See on sada korda rohkem, kui
+tavaline inimene.

@@ -1,6 +1,6 @@
-# Pistol-Stelo
+# Pistol Star
 
-La Pistol-Stelo estas unu el la plej lumaj steloj gis nun konataj. En dudek
-sekundoj, gi radiadas tiel multe da energio kiel la Suno en unu jaro. La
-Interstela polvo malhelpas al ni vidi gin. Estas nomata Pistol-Stelo, ne pro gia
-lumeco, sed pro tio, ke gi estas en la Pistol-Nebulozo.
+Steaua Pistol este printre cele mai luminoase stele cunoscute. În douazeci de
+secunde, acesta emite energie la fel de mult cît Soarele într-un an. Praful
+interstelar ne împiedica însa sa vedem asta. Se numeste Steaua Pistol nu din
+cauza luminozitatii sale, ci pentru ca se afla în nebuloasa Pistol

@@ -1,5 +1,5 @@
-# 큰신천옹
+# Valgete tiibadega albatrossid
 
-큰신천옹은 조류중 날개폭이 가장 넓습니다! 큰신천옹은 짝짓기 할 때나, 먹을 때를빼
-고는 항상 날아다닌다고 하네요. 큰신천옹의 개체수는 천천히 줄고 있는데, 이제
-26,000 마리밖에 남지 않았어요. 많지만은 않은 수죠.
+Valgete tiibadega albatrossid on kõige suurema tiivaulatusega linnud. Nad
+lendavad peaaegu kogu aeg! Peatuvad ainult söömiseks ja tibude saamiseks. Nad on
+ohustatud liik - ainult 26000 isendit veel liikvel.

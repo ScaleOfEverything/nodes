@@ -1,5 +1,5 @@
-# Forna Galaksia Amaso
+# Cluster-ul Fornax
 
-Ni logas en la Virga Supergalaksia Amaso. Ni ja formas parto de malgranda
-filamento etendanta el la Forna Galaksia Amaso. Ci tia estas la dua plej granda
-galaksia amaso ene de 100 milionoj da lum-jaroj!
+Traim în super-cluster-ul Fecioara. Suntem de fapt parte dintr-un mic filament
+de extindere înafara Cluster-ului Fornax.. În termen de dimensiuni, cu 100 de
+milioane de ani-lumina diametru, acesta este al doilea mare grup!

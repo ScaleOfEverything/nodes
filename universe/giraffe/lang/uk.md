@@ -1,6 +1,5 @@
-# Girafa
+# Жираф
 
-Girafa este cel mai înalt mamifer terestru - 6 metri. Gîtul în ??sine are
-aproape jumatate din înaltimea sa! Girafele adulte sunt atît de înalte încît
-singura modalitate pentru pradatori sa le omoare este sa le împinga într-o
-parte!
+Жираф є найвищим земним ссавцем із висотою у величезні 6 метрів! Сама його шія
+складає майже половину його загальної висоти. Дорослі жирафи настільки високі,
+що єдиним способом для хижаків вбити їх – це штовхнути їх на свою сторону!

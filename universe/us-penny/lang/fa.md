@@ -1,5 +1,5 @@
-# USA sent
+# U.S. Penny
 
-1912. aastal sai selle eest osta sama palju, kui 25 sendi eest saab täna. Sente
-      on võimalik sulatada vaseks ja tsingiks, mille tulemusena nad on veel
-      vähem väärt - see ei ole kasumlik ja on ebaseaduslik.
+Did you know that in 1912, the penny was worth what the quarter is worth now?
+Also, if you melt a penny down into zinc and copper, it would be worth 1.79
+cents. That is illegal, so don't do it.

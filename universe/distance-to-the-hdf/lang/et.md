@@ -1,5 +1,5 @@
-# 허블 딥 필드까지의 거리
+# Kaugus Hubble'i süvavälja pildi tähtedeni
 
-허블 우주 망원경이 밤하늘의 빈 공간을 긴 노출시간을 주어 사진 한 장을 찍었는데,
-그 사진에는 3,000 개가 넘는 물체들이 있었습니다. 멀리 떨어진 은하들이에요. 아직
-은 이 은하들이 어디 있는지 모르지만 일단 우리로부터 127 억 광년 떨어져있습니다.
+Hubble'i süvavälja pilt on pilt tühjast kohast õhtuses taevas, mis tehti 1995.
+aastal. Tegelikult see ei olnudki nii tühi - pildilt leiti peaaegu 3000 objekti,
+mis olid suuremalt jaolt kauged galaktikad.

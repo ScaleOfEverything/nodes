@@ -1,5 +1,5 @@
-# 성냥
+# Tuletikk
 
-성냥은 조그맣고 유용한 도구입니다. 무언가에 마찰을 시키면, 불이 붙어 빛이 납니다
-. 그러니까 그게 바로 성냥이 위험한 이유에요! 그러니까 어린이 여러분은 성냥가지고
-장난치면 안돼요, 알겠죠?
+Tuletikk on väga kasulik pisike tööriist. Kui lüüa vastu midagi, siis tikk võib
+hakata põlema. See omadus teeb nad kasulikuks ja ka ohtlikuks samal ajal! Tikud
+ei ole mänguasjad! Said aru?

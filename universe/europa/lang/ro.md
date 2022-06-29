@@ -1,5 +1,5 @@
-# Europo
+# Europa
 
-Europo estas la plej eta el la Galilejanaj satelitoj. Estas kovrita de glacio.
-Havas strangajn striojn, kiuj kovras la lunan surfacon. Iuj kredas, akvo povus
-ekzisti sub la glacitavolo, eble ec enhavante vivon.
+Europa este cel mai mic dintre satelitii lui Galilei. Este acoperita de gheata.
+Niste crapaturi misterioase acopera suprafata lui Europa. Unii cred ca ar putea
+exista apa lichida sub stratul de gheata, posibil chiar viata!

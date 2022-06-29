@@ -1,5 +1,5 @@
 # Gliese 229A
 
-Gliese 229A on punane kääbustäht. See on natuke väiksem kui Päike. Seda punast
-kääbust nimetatakse ka GJ 229 või GI 229. See on osa kaksiktähesüsteemist, mille
-teine täht on Gliese 229B.
+Gliese 229A is a red dwarf star. It is a bit smaller than the Sun. The red dwarf
+star is also written as GJ 229 or GI 229. It is part of a binary star system,
+the second star being Gliese 229B.

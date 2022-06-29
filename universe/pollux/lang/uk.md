@@ -1,6 +1,6 @@
-# Pollux
+# Поллукс
 
-În mitologia greaca, fratele geaman al lui Pollux este Castor. Ei sunt în
-acelasi timp stele în constelatia Gemini, însemnînd "gemeni". Cu toate acestea,
-în realitate, Pollux este o singura stea, în timp ce Castor este trei stele
-binare, în total deci sase stele. Castor sunt deci sextpleti!
+У Грецькій міфології близнюком Поллукса був Кастор. Також це зірки у сузір’ї
+Близнюків. Однак, у реальності, Поллукс є одинокою зіркою, у той час, як Кастор
+є трьома подвійними зірками, загалом шість зірок. Кастор складається із шости
+компонентів!

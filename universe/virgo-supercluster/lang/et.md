@@ -1,4 +1,4 @@
-# 처녀자리 초은하단
+# Neitsi superparv
 
-처녀자리 초은하단은 100 여개의 은하단을 포함하고 있습니다. 우리는 이 초은하단에
-서 가장 큰 처녀자리 은하단에 속해있습니다.
+Neitsi superparv, mis on üks miljonitest superparvedest, sisaldab üle 100
+galaktikaparve. Sinna kuulub ka meie parv ja samuti suurim parv Neitsi parv.

@@ -1,6 +1,5 @@
-# Urania Kerno
+# Nucleul de uraniu
 
-Uranio estas la plej supera natura elemento. Gi ankau havas la plej grandan
-kernon de ciuj naturaj elementoj. Uranio-238, la plej ofta izotopo de uranio,
-havas duonigtempon de 4.5 miliardoj da jaroj, proksimume la gis nunan Teran
-tempodauron.
+Uraniul are cel mai mare nucleu dintr toate elementele naturale. Uraniul-238,
+izotopul cel mai frecvent de uraniu, are un timp de înjumatatire de 4,5 miliarde
+de ani, aproximativ vîrsta Pamîntului!

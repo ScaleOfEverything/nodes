@@ -1,5 +1,6 @@
-# Naharakk
+# Skin Cell
 
-Naha kõige pealmine kiht koosneb surnud rakkudest. Surnud rakud on tugevamad
-elusrakkudest ja tugevam rakk pakub rohkem kaitset. Tolm koosneb 95% võrra
-surnud naharakkudest!
+The outermost layer of skin, which is also the only visible layer of skin, is
+made up of dead cells. That's because dead cells are the strongest, and stronger
+skin provides more protection! These cells continuously fall off. In fact, dust
+is 95% dead skin cells!

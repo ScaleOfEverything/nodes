@@ -1,6 +1,6 @@
-# Vatikan-Urbo
+# Vatican
 
-Vatikan-Urbo estas la plej malgranda lando. Gi, kvankam tre malgranda, estas pli
-granda ol vi estas. Se vi etendigus vian karnon super Vatikan-Urbo tiel, ke estu
-disvastigita egale, la tavolo havus proksimume 200 nanometrojn dikan, kio estas
-malpli ol ec ununura hautocelo!
+Vaticanul este cea mai mica tara. Desi foarte mica, este mai mare decît tine.
+Daca ti s-ar întinde în mod egal corpul peste întregul Vatican, suprafata de
+acoperire va fi de aproximativ 200 nanometrii grosime, mai putin decît o singura
+celula de piele!

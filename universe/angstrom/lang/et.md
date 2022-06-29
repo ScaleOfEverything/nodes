@@ -1,4 +1,5 @@
-# 옹스트롬
+# Ongström
 
-옹스트롬은 스웨덴의 물리학자인 A. J. Angström 에서 유래했습니다. 그 길이는 1/10
-나노미터입니다. 옹스트롬의 부호는 Å인데, 원자의 크기를 표현하는 데에 쓰입니다.
+Ongström, mis sai nime Rootsi füüsiku Anders Jonas Ångström, on kümnendik
+nanomeetrit. Ongströmi sümbol on Å. Ongströmi kasutatakse väljendamaks aatomite
+suurusi.

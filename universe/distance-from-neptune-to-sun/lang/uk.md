@@ -1,4 +1,4 @@
-# Distanta de la Neptun la Soare
+# Відстань від Нептуна до Сонця
 
-Neptun este cea mai îndepartata planeta din sistemul nostru solar. Distanta de
-la Neptun la soare este mai mare decît diametrul oricarei stele cunoscute
+Нептун є найбільш віддаленою планетою у сонячній системі. Відстань від Нептуна
+до Сонця більша, ніж діаметр будь-якої відкритої зірки!

@@ -1,5 +1,5 @@
-# Turnul Eiffel
+# Ейфелева Вежа
 
-Vreme de 41 de ani, Turnul Eiffel a fost cea mai înalta constructie din lume. În
-total peste 200 de milioane de oameni au vizitat Turnul Eiffel, un numar aproape
-cît toata populatia SUA!
+Впродовж 41 року Ейфелева Вежа була найвищою створеною людиною спорудою у світі.
+200 мільйонів людей побували на Ейфелевій Вежі, що складає майже населеннй
+Сполучених Штатів Америки!

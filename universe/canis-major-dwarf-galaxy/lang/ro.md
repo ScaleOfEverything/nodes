@@ -1,5 +1,5 @@
-# Grand-Hunda Nano-Galaksio
+# Galaxia pitic Canis Major
 
-La Grand-Hunda Nano-Galaksio estas la plej proksima galaksio, se vi ne
-konsideras la Laktan Vojon mem. Gi kusas inter la brakoj de la Lakta Vojo kaj
-estas pusita aparte pro la graveco de la Lakta Vojo.
+Galaxia pitic Canis Major este cea mai apropiata galaxie, daca nu consideram
+Calea Lactee. Se afla între bratele caii Lactee si este dislocata lent de
+gravitatia CaiiLactee.

@@ -1,4 +1,5 @@
-# Vahemaa Great Attractorini
+# Distance to the Great Attractor
 
-Great Attractor tõmbab tuhandeid galaktikaid, kaasa arvatud Linnutee, enda
-poole. Selle mass on tuhandeid kordi suurem kui Linnuteel.
+The Great Attractor is pulling thousands of galaxies, including the Milky Way,
+towards itself. Its mass is tens of thousands of times greater than the Milky
+Way's.

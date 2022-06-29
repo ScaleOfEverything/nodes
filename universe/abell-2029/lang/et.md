@@ -1,5 +1,5 @@
-# 아벨 2029
+# Abell 2029
 
-아벨 2029 는 10 억 광년 떨어진 뱀자리에 있는 은하단입니다. 이 은하단의 중심부엔
-IC 1101이 있는데, 이 은하단의 대부분을 차지하고있습니다. 이 은하단에서 태양이 내
-는 에너지의 2 조배가 넘는 에너지를 방출합니다. (10^39개의 전구와 맞먹어요)
+Abell 2029 on ühe miljardi valgusaasta kaugusel Mao tähtkujus olev galaktikate
+parv. Selle keskmes olev galaktika IC 1101 on peaaegu sama suur. See kiirgab 2
+triljonit korda rohkem valgust kui Päike. (Umbes 10^39 lambipirni)

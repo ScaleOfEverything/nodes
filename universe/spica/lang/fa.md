@@ -1,5 +1,5 @@
-# Spiika
+# سماک اعزل
 
-Spiika on tähistaeva heleduselt viieteistkümnes täht ja asub Neitsi tähtkujus.
-See on tegelikult kaksik tähesüsteem. Kaks tähte asuvad väga lähestikku ja
-teevad ühe tiiru nelja päevaga.
+سماک اعزل پانزدهمین ستاره ی درخشان در آسمان شب است و در صورت فلکی سنبله قرار
+دارد. در واقع سماک اعزل یک سیستم دوتائی است. این دو ستاره بسیار به هم نزدیکند،
+دوره ی تناوب آنها 4 روز است.

@@ -1,5 +1,5 @@
-# crab-ul paianjen japonez
+# Японський Краб-Павук
 
-Crab-ul paianjen japonez este cel mai mare artropod. Nu toti crabii japonezi
-ajung sa fie de atît de mari. Unii au doar peste un metru. Din pacate, pescarii
-au ucis atît de multi!
+Японський краб-павук є найбільшим членистоногім. Однак, не всі японські
+краби-павуки досягаюсть цього розміру. Деякі мають розмір лише один метр
+поперек. На жаль, риболови вбили багатьох із них. Це багато крабового м’яса!

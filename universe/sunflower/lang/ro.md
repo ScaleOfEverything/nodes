@@ -1,6 +1,6 @@
-# Sunfloro
+# Floarea soarelui
 
-Cu vi scias, ke la "floro" de sunfloro ne estas simpla floro, sed fakte flora
-kapo farita de miloj da malgrandaj floroj? Tiaj malgrandaj floroj estas nomita
-infloresko. La infloresko en la centro farigas sunfloraj semoj, kiuj estas fakte
-nevideblaj en ci tia skalo.
+Stiati ca" floarea "de floarea soarelui nu este o floare unica, dar, de fapt un
+cap de flori compus din mii de flori mici dimensiuni, aceste flori mici, sunt
+numite buchetelele.? Cele buchetelele din centrul deveni seminte de floarea
+soarelui, care sunt în prezent invizibil la aceasta scara

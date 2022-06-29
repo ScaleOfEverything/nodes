@@ -1,4 +1,5 @@
-# 칼리스토
+# Kallisto
 
-칼리스토는 목성의 가장 바깥쪽을 도는 위성입니다. 그래서 운석충돌이 많았는데, 표
-면엔 크레이터가 많이, 아주 많이! 있다고하네요.
+Kallisto on kõige kaugem Galileo kuu. See tiirleb kaugemal, kui kõik teised
+Galileo kuud ja seetõttu saab kõige rohkem meteooridega pihta. Kõik need
+kokkupõrked on tekitanud väga-väga palju kraatreid.

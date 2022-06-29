@@ -1,4 +1,4 @@
-# 메추리알
+# Põldvuti muna
 
-메추리알은 달걀보다 구하기도 어렵고 크기도 작습니다. 하지만 그럼에도 불구하고 메
-추리알을 좋아하는 사람들은 꼭 있죠!
+Paljud inimesed arvavad, et põldvuti muna on parem kui kanamuna. Põldvuti muna
+on väiksem ja haruldasem.

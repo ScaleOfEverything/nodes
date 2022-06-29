@@ -1,4 +1,7 @@
-# Ovum (Oul uman)
+# Яйцеклітина
 
-Un ovul este cea mai mare celula din corpul uman. Animalele care se dezvolta în
-oua, în interiorul mamei lor sunt ovovivipare, noi oamenii nu sîntem.
+Яйцеклітина – це найбільша клітина у людському тілі. Тварини, які розвиваються
+усередині яйця у своїй матері - яйцеживородні, у той час, як люди - ні.
+Англійське слово ovoviviparous, що перекладається як живородній, - єдине
+англійське слово, яке починається з "гласної-літери v-гласної-літери
+v-гласної-літери v-гласної".

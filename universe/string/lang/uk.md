@@ -1,6 +1,6 @@
-# String
+# Струна
 
-Conform teoriei string-urilor, ele sunt uni-dimensionale, dar vibreaza în toate
-celelalte dimensiuni. Acest string, cu toate acestea, nu este acelasi string
-(fir) care este folosit pentru zmee. Firul acela este între 10^32 si 10^33 ori
-mai mare.
+У відповідності до теорії струн, струни одновимірні, але вібрують у всіх інших
+вимірах. Однак, ця струна не є тією ж самою, яка використовується для літаючих
+паперових зміїв. Та струна приблизно у 10 в 32-ій ступені або у 10 в 33-ій
+ступені разів більша.

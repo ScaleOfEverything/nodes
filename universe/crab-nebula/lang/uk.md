@@ -1,6 +1,6 @@
-# Nebuloasa Crab
+# Крабоподібна Туманність
 
-Nebuloasa Crab este una dintre cele mai renumite nebuloase, fiind si primul
-obiect clasificat Messier (M1)! Supernova Crab a fost vazuta pentru prima data
-în anul 1054; era atît de stralucitoare încît putea fi observata în timpul
-zilei. Nu are nici macar 1000 ani!
+Крабоподібна Туманність – одна з найбільш відомих туманностей. Вона була також
+першим об’єктом Мессьє, занесеним в каталог (M1)! Наднову Крапоподібної
+Туманності бачили у 1054 році нашої ери, і вона була настільки яскрава, що її
+можна було бачити цілий день. Ій ще не виповнилося навіть 1,000 років!

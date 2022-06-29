@@ -1,5 +1,5 @@
 # Rwanda
 
-Rwanda on riik Aafrika keskosas ja see on tuntud ka kui "Tuhande künka maa". Kas
-teadsite, et Rwanda on pindalalt 148-s riik? See tähendab, et ainult 147 riiki
-on sellest suuremad.
+Rwanda is a country in eastern-central Africa and is known as "The Land of a
+Thousand Hills". Did you know that Rwanda as a country ranks 148th in land area?
+That means there are only 147 countries larger than it.

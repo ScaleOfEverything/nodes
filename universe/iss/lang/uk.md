@@ -1,5 +1,7 @@
-# ISS
+# Міжнародна Космічна Станція
 
-Statia Spatiala Internationala se afla pe o orbita joasa în jurul Pamîntului, si
-o poti vedea de pe Pamînt! ISS a fost locuita continuu de oameni în ultimii
-unsprezece ani, un record pentru o nava spatiala. (N-au fost aceeasi oameni)
+Міжнародна Космічна Станція доволі кльова. Вона вільно коливається навколо
+низької Земної орбіти, і ви навіть можете побачити її з Землі! Усередині
+Міжнародної Космічної Станції безперервно знаходилися люди на протязі останніх
+одинадцяти років, що є рекордом для космічного летального апарату. (Це не були
+одні й ті ж самі люди.)

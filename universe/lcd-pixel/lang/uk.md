@@ -1,5 +1,6 @@
-# Pixel LCD
+# Піксель LCD
 
-Desi dimensiunea unui pixel nu este fixa, 300 de micrometri este media. Pixelii
-contin trei subpixeli; fiecare fiind rosu, verde si albastru. Pixelii sunt
-interesanti, voxelii însa sunt pixeli tridimensionali!
+Незважаючи на те, що розміри пікселів суттєво відрізняються, 300 мікрометрів
+буде якраз середня їх величина. Пікселі містять три субпікселя: червоний,
+зелений та блакитний. Пікселі доволі кльові, проте вокселі навіть кращі. Це
+тривимірні пікселі.

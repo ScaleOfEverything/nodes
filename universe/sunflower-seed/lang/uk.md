@@ -1,6 +1,6 @@
-# Seminte de floarea soarelui
+# Соняшникове Насіння
 
-Semintele de floarea-soarelui sunt delicioase. Cu ele se poate face si pîine de
-seminte de floarea-soarelui. Ele sunt impropriu numite seminte! De fapt ele sunt
-fructe de floarea-soarelui! Sunt doar numite" seminte", deoarece seamana cu alte
-seminte
+Соняшникове насіння освіжаюче і дивовижне на смак. Воно настільки смачне, що
+може бути перероблене в "хліб із соняшникового насіння"! Соняшникове насіння не
+справжнє. Воно є фруктом соняшника! Його називають "насінням" лише тому, що воно
+має схожість до іншого насіння.

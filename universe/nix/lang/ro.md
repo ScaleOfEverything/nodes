@@ -1,6 +1,5 @@
-# Nikso
+# Nix
 
-Nikso (Nix en kelkaj lingvoj) estas la plej malgranda luno konata de Plutono.
-Sia nomo estas la dua plej mallonga nomo de iu luno en aliaj lingvoj, la plej
-mallonga estas Ioo (Io en diversaj lingvoj). La nomo venas el la praa Greka
-diino Nikso, kiu estis La Nokto.
+Nix este cel mai mic satelit al lui Pluto. Numele sau este al doilea cel mai
+scurt nume pentru un satelit, mai scurt fiind Io. Numele vine de la zeita greaca
+Nyx, care era noaptea.

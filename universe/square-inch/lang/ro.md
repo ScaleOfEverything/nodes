@@ -1,6 +1,5 @@
-# Kvadrata Colo
+# Un Inch patrat
 
-Se vi ne estas alkutimita je la metra mezursistemo, jen kvadrata colo.
-Bedaurinde por vi, preskau cio alie estas en la metra sistemo. Ankau 2.5
-centimetroj estas la longeco de unu flanko, ne la areo. (Kiu devas esti en
-cm^2.)
+Daca nu esti obisnuit cu sistemul metric, aici e un inch patrat. Sistemul metric
+e însa mult mai popular. Apropo, un inch are 2,5 centimetri, iar suprafata este
+calculata în cm patrati.

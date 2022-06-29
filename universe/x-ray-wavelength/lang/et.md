@@ -1,6 +1,6 @@
-# X-레이 파장
+# Röntgenkiirte lainepikkus
 
-X-레이의 진동수가 가장 높지는 않다고 하지만, 여전히 쪼이는건 안좋으니까 되도록노
-출되지 마세요! 보통, X-레이를 막는 보호막으로 납을 사용하는데, 두꺼울수록 더차단
-율이 높아요. 그래도, 몇몇 X-레이들은 뚫고 지나갈 수 있어요. 두꺼워질 수록 그기회
-를 줄이는 것일 뿐.
+Kuigi röntgenkiirtel pole kõige kõrgem sagedus, pole siiski kõige parem idee
+päevitada nende ees. Ära seda kodus proovi! Tavaliselt on selleks vaja tinast
+kilpi. Mida paksem tina on, seda parem kaitse. Samas mingi kogus röntgenkiiri
+tuleb ikka läbi.

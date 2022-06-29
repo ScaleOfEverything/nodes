@@ -1,4 +1,5 @@
-# Laguuni udukogu
+# Lagoon Nebula
 
-Laguuni udukogu sai oma nime 1747, kui see avastati. See on meist 5000
-valgusaasta kaugusel ja sisaldab tornaadosid, mis kiirgavad UV-valgust.
+The Lagoon Nebula is a nebula that was named the Lagoon Nebula in 1747, the year
+it was discovered. It is 5,000 light-years away from us and includes tornadoes
+that emit UV light.

@@ -1,5 +1,5 @@
-# Bakteriofago
+# Bacteriofag
 
-La bakteriofago, au simple "fago" por mallongigo, estas tipo de
-bakterio-infektanta viruso. Mi pensas, ke ili aspektas kiel robotoj, ne vivaj
-ajoj. Sed ankau povus esti argumentite, ke virusoj tute ne vivas.
+Bacteriofag, sau doar" fag", pe scurt, este un tip de virus care infecteaza
+bacterii. Par niste roboti, nu forme de viata. Am putea spune însa ca virusii nu
+au viata defel.

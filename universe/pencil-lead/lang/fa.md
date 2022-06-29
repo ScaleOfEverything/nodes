@@ -1,6 +1,6 @@
-# Pliiatsisüsi
+# Pencil Lead
 
-Pliiatsisütt kasutatakse palju. Muide, see on mehaanilise pliiatsi süsi. Suurim
-pliiats maailmas sisaldas 2000 kilogrammi grafiiti. See on kolm korda rohkem kui
-üks inimene ja ühe inimese all pean silmas kõige suuremat inimest, kes kunagi
-elanud.
+People use pencil lead a lot. Oh, by the way, this is mechanical pencil lead. On
+another note, the largest pencil contained 2,000 kilograms of graphite. That's
+about three times heavier than a human! And by human I mean the heaviest human
+ever.

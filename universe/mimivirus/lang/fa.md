@@ -1,5 +1,5 @@
-# Mimiviirus
+# Mimivirus
 
-Väike asjake leiti aastal 1992 ühe amööbi seest. Ta on amööbist 500 korda
-väiksem ja tolajal peeti seda kõige suuremaks teadaolevaks viiruseks. Nüüd kõige
-suurem viirus on megaviirus.
+This little thingy was discovered in 1992 within an amoeba, which is only 500
+times larger. Mimivirus used to be the largest virus known, but now that is the
+Megavirus. ",

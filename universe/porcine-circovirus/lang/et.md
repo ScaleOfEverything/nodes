@@ -1,6 +1,5 @@
-# 돼지 써코바이러스
+# Sigade tsirkoviirus
 
-돼지 써코바이러스는 가장 작은 바이러스들 중 한 종류입니다. 이 바이러스를 복제하
-기 위해서는 3개의 단백질 분자만 있으면 됩니다. 만약 여러분 이 바이러스를 생명체
-라고 간주한다면, 돼지 써코바이러스는 가장 작은 생명체입니다. 하지만, 대부분의 사
-람들은 바이러스가 생명체가 아니라는 데에 동의하죠.
+Sigade tsirkoviirus on üks väiksematest viirustest. Ta vajab ainult kolme valku,
+et ennast kopeerida. Üldiselt sigade tsirkoviirus looma haigestumist ei põhjusta
+(ainult koos võõrutusjärgse multisüsteemse kurnatuse sündroomiga).

@@ -1,5 +1,5 @@
-# Bumerang-Nebulozo
+# .Nebuloasa Bumerang
 
-La Bumeranga Nebulozo estas tre malvarma, nur unu grado super absoluta nulo
-(-272° C)! Tio estas plej malvarma ol la fona radiado. Cu vi scias, ke la
-Bumeranga Nebulozo estas la plej malvarme sciata objekto en la universo?
+Nebuloasa Bumerang este foarte rece, la un singur grad peste zero absolut (-272
+° C); mai rece chiar decît radiatia de fundal. Stiai ca Nebuloasa Bumerang este
+cel mai rece obiect cunoscut din univers?

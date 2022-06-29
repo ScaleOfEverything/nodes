@@ -1,5 +1,5 @@
-# 미국 페니 (센트)
+# USA sent
 
-1912 년에는, 페니의 가치가 쿼터(25 센트)와 맘먹었다는 걸 알고 계셨나요? 그나저나
-, 페니를 녹이면 아연과 구리로 분리되는데, 그 가치는 1.79 센트라네요. 하지만 화폐
-를 고의로 훼손하는 건 불법이니까, 하시면 안돼요.
+1912. aastal sai selle eest osta sama palju, kui 25 sendi eest saab täna. Sente
+      on võimalik sulatada vaseks ja tsingiks, mille tulemusena nad on veel
+      vähem väärt - see ei ole kasumlik ja on ebaseaduslik.

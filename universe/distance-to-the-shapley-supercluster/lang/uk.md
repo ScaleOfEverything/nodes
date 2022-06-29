@@ -1,5 +1,4 @@
-# Distanta pâna la super-clusterul Shapley
+# Відстань до Надскупчення Шеплі
 
-Supercluster-ul Shapley este un supercluster de galaxii, este una dintre cele
-mai mari obiecte care se prabuseste spre interior. Daca ar fi mai mare s-ar
-extinde împreuna cu universul.
+Надскупчення Шеплі – це надскупчення галактик. Це один з найбільших об’єктів, що
+обвалюється усередини; все, що більше за нього, розширюється із Всесвітом.

@@ -1,5 +1,5 @@
-# 모래 알갱이
+# Liivatera
 
-당연히, 모든 모래 알갱이들이 다 같은 크기인 건 아니에요. 모래알의 크기는 매우 다
-양합니다. 아, 혹시 파파콜레아 해변의 모래의 색이 왜 초록색인지 아셨나요? 모래에
-크리스탈이 들어있어서 그렇대요.
+Loomulikult ei ole kõik liivaterad ühe suurused. Suurused varieeruvad palju.
+Arenofiilid on inimesed, kes koguvad liiva näidiseid. Kas teadsid, et Papakolea
+rannas on roheline liiv? See on põhjustatud liivas olevatest kristallidest.

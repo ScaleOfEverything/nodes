@@ -1,6 +1,6 @@
-# Glükoosimolekul
+# Glucose Molecule
 
-Kõige tavalisemat suhkrut nimetatakse glükoosiks. Glükoosi toodavad taimed
-fotosünteesi tulemusena, aga muudavad selle keerulisemale kujule, kui glükoosi
-molekul. Põhiliseks energiaallikaks inimestel on glükoos, mida saame läbi
-taimede ja loomade, kes on taimi söönud.
+Glucose is a simple sugar. Plants make glucose through photosynthesis and turn
+it into complex sugars. When we (as humans) eat plants or animals that have
+eaten plants, we eat complex sugars, which we break down into glucose again,
+which we use for energy. ",

@@ -1,4 +1,5 @@
-# 박테리오파지
+# Bakteriofaagid
 
-짧게 "파지" 라고도 불리우는 박테리오파지는 세균을 녹여먹는 바이러스입니다. 생긴
-것만 보면 꼭 로봇같네요.
+Bakteriofaagid või lihtsalt faagid on viirused, mis suudavad tappa baktereid.
+Üks konkreetne bakteriofaag suudab tappa ühte temale vastavat bakterit, aga tal
+puudub mõju teistele bakteritele.

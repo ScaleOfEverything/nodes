@@ -1,4 +1,4 @@
-# Statele Unite ale Americii
+# Сполучені Штати Америки
 
-Aici sunt Statele Unite ale Americii. Desi pot parea mai mari decît Pluto, Pluto
-nu este plat, si de aceea Pluto are o suprafata mai mare!
+Ось США. Хоч вони можуть здатися більшими за Плутон, у Плутона є невидима
+поверхня, що означає, що у Плутона більша площа поверхні!

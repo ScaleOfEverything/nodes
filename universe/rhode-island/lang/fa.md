@@ -1,5 +1,5 @@
 # Rhode Island
 
-Rhode Island on USA kõige väiksem osariik, Aga see siiski mahutaks kogu maailma
-elanikkonda! Kas sa teadsid, et Rhode Island on kõige pikema ametliku nimega USA
-osariik? (The State of Rhode Island and Providence Plantations)
+Rhode Island is the smallest state in the U. S. A. However, it could still fit
+the world's population on it. Did you know that Rhode Island has the longest
+official state name? (The State of Rhode Island and Providence Plantations)

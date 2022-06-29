@@ -1,5 +1,5 @@
-# Distanco el la Tero al la Suno
+# Distanta de la Pamînt la Soare
 
-Dum tage, la Suno sajne ne estas tre for de ni. Sed fakte estas je 150 milionoj
-da kilometroj for. Tia distanco estas Astronomia Unuo, konata kiel unu AU
-mallonge.
+În timpul zilei, Soarele nu pare atît de departe. Este de fapt la aproximativ
+150 de milioane de kilometri. Aceasta distanta este asa numita unitate
+astronomica, sau UA (AU astronomical unit).

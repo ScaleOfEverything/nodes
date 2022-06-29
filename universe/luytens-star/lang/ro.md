@@ -1,5 +1,5 @@
-# Luyten-a Stelo
+# Steaua lui Luyten
 
-La Luyten-a Stelo estas ruga nana stelo je 12 lum-jaroj for de ni. Gi estas tiel
-proksima al Prociono, ke ci tiu povus esti 10-foje pli hela kompare al la
-Luyten-a Stelo, ol Siriuso, sajnas al ni.
+Star lui Luyten este o pitica rosie la 12 de ani-lumina distanta. Este atat de
+aproape de Procyon încît Procyon este de 10 ori mai stralucitoare pentru Steaua
+Luyten decît pare Sirius la noi.

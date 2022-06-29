@@ -1,5 +1,5 @@
-# Põhja-Ameerika udukogu
+# North America Nebula
 
-Põhja-Ameerika udukogu mõõtmed on väga suured. See paistab olevat neli korda
-suurem kui täiskuu. See on ainult väga tuhm... nii, et... tead küll... sa pead
-pikemat aega seda jälgima, et seda märgata.
+The apparent size of the North America Nebula is very large. It appears almost
+four times as large as a full moon. It's just very dim... so... you know...you
+need longer exposure times to see it.

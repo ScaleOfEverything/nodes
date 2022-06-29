@@ -1,5 +1,5 @@
-# Bumerangi udukogu
+# Boomerang Nebula
 
-Bumerangi udukogu on väga külm koht, ainult üks kraad üle absoluutse nulli (-272
-°C)! See on külmem kui kosmose taustkiirgus. Kas teadsid, et Bumerangi udukogu
-on kõige külmem objekt Universumis?
+The Boomerang Nebula is very cold, only one degree above absolute zero (-272°
+C)! That is colder than background radiation. Did you know the Boomerang Nebula
+is the coldest known object in the universe?

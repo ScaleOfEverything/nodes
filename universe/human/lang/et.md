@@ -1,5 +1,5 @@
-# 인간
+# Inimene
 
-여러분은 사람이겠죠. 저도 사람이에요! 우리의 인구가 70 억이 넘는다는걸 알고 계셨
-나요? 상당히 많죠. 1 초에 한명씩 만난다면, 모두 만나는데 200 년이 걸릴거에요! 그
-러니 지금부터라도 시작하는게 좋지 않을까요?
+Ma eeldan, et sa oled inimene. Ma olen ka inimene! Kas teadsid, et meid on 7
+miljardit? Seda on palju. Muideks, kui sa kohtaksid iga sekund üht inimest, siis
+sul võtaks 200 aastat, et nende kõigiga kohtuda. Nii et alusta varakult!

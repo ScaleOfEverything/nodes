@@ -1,5 +1,5 @@
-# Galaxia Whirlpool
+# Галактика Вир
 
-Bratele spiralate din Galaxia Whirlpool, se crede ca au fost formate într-o
-coliziune cu o galaxie din apropiere. Nu ar fi ciudat daca ti-ar creste brate
-noi de cîte ori s-au te-ai lovi de ceva?
+Спіральні рукава у Галактиці Вир, як вважалося, були сформовані після зіткнення
+з галактикою, що знаходилася неподалік. Чи не було б це странно, якщо б у вас
+виросли нові руки після зіткнення з чимось?

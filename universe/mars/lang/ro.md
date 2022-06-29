@@ -1,5 +1,6 @@
-# Marso
+# Marte
 
-Marso estas konata kiel la Ruga Planedo. gi rugas pro rusto. Multaj personoj
-kredas, ke akvo kaj vivo iam estis sur Marso. Tamen, ec se tio estus vero, la
-vivo ne estus kiel malgrandaj verdaj viroj.
+Marte, sau Planeta Rosie are aceasta culoare, deoarece este în mare parte
+ruginita. Cercetatorii cred ca apa si viata au existat demult pe Marte. Cu toate
+acestea, chiar daca ar fi adevarat, formele de viata nu ar fi niste omuleti
+verzi!

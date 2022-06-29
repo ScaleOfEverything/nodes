@@ -1,5 +1,5 @@
-# B-kvark
+# Bottom Quark
 
-B-kvarki nimetatakse ilu kvargiks, kuna see on veatult ilus. See on kolmanda
-põlvkonna kvark ja laguneb kiirelt esimese põlvkonna kvarkideks u- ja
-d-kvargiks.
+The bottom quark is also called the beauty quark, because it is so flawlessly
+beautiful. It is third generation and quickly decays into first generation
+quarks, like up and down.

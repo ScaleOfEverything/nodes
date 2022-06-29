@@ -1,5 +1,6 @@
-# Ganymede
+# Ганімед
 
-Ganymede este cel mai mare satelit din Sistemul Solar. Acesta orbiteaza în jurul
-lui Jupiter si a fost descoperit de catre Galileo. Ganymede nu trebuie sa fie
-confundat cu Ganymed, care este un asteroid a carui nume nu are în final "e"
+Ганімед – найбільша луна у Сонячній системі. Вона обертається по орбіті навколо
+Юпітера і була винайдена Галілео, тому її називають Галілеєвою луною. Також,
+Ганімед не варто плутати з іншим Ганімедом, який є астероїдом і англійська назва
+якого не містить літери "e" на кінці!

@@ -1,5 +1,5 @@
-# Sagitara Nano-Galaksio
+# Galaxia Pitic Sagetatorul
 
-La Sagitara estas unu el la satelitaj galaksioj de la Lakta Vojo. Gi estas je
-70,000 lum-jaroj fore! Ja estas elipsa kaj nana galaksio. Estis malkovrita
-apenau en 1994.
+Sagetatorul, la doar 70.000 de ani-lumina distanta, este unul dintre galaxiile
+satelit ale Caii Lactee. Este o galaxie eliptica pitica, descoperita doar
+în 1994.

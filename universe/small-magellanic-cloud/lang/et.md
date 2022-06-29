@@ -1,5 +1,5 @@
-# 소 마젤란 운
+# Väike Magalhãesi pilv
 
-소 마젤란 운은 그냥 근처에 있는 은하보다 작기 때문에 소 마젤란 운이 된 것인데,
-만약에 대 마젤란 운이 더 작았더라면, 이 소 마젤란 운이 대 마젤란 운이 되었을 거
-에요.
+Väikest Magalhãesi pilve nimetatakse väikseks ainult seetõttu, et see on väiksem
+kui sellele lähim galaktika Suur Magalhãesi pilv. Kui Suur Magalhãesi pilv oleks
+väiksem, siis nimetataks Väikest Magalhãesi pilve Suureks Magalhãesi pilveks.

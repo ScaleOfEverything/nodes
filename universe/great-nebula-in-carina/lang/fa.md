@@ -1,5 +1,5 @@
-# Kiilu tähtkuju Suur udukogu
+# Great Nebula in Carina
 
-Seda nimetatakse ka Eta Carinae udukoguks, mida ei tohiks segamini ajada Eta
-Carinae Homunculuse udukoguga (mis on tõenäoliselt liiga väike, et praegu näha.
-Selle läbimõõt on 0,002 valgusaastat.).
+This is also called the Eta Carinae Nebula, which is not be confused with Eta
+Carinae's Homunculus Nebula (which is probably too small to see right now. It's
+0.002 light-years across).

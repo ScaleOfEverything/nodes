@@ -1,6 +1,5 @@
-# La Spajro
+# Spirala
 
-Ci tia malgranda ajo estas parto de la multe pli granda Agla Nebulozo. Malgrau
-tio, gi aperas malgranda, kompare al la Agla Nebulozo, tamen gi estas ankorau
-pli granda ol la sunsistemo, preskau 10 - 20,000 foje, lau via difino de nia
-Sunsistemo.
+Doar o mica parte din Nebuloasa Eagle, si chiar daca pare mica în comparatie cu
+Nebuloasa Eagle, e mult mai mare decît sistemul nostru solar, de 10 - 20.000 de
+ori mai mare, în functie de definitia sistemului solar.

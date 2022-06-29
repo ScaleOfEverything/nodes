@@ -1,5 +1,5 @@
-# 태양
+# Päike
 
-해라고도 불리는 태양은, 지구가 살아가는데 필요한 에너지를 제공해줍니다. 지구보다
-지름이 100 배나 큰데, 인류가 사용하는 에너지의 20,000 배에 달하는 에너지가 지구
-에 도달합니다.
+Tänu Päikese energiale saab elu Maal eksisteerida. Päikese läbimõõt on 100 korda
+suurem kui Maa oma ja see annab Maale 20 000 korda rohkem energiat kui inimkond
+praegu kasutada suudab.

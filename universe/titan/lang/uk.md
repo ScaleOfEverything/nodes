@@ -1,5 +1,6 @@
-# Titan
+# Титан
 
-Titan este cel mai mare satelit al lui Saturn. Are o atmosfera foarte densa,
-alcatuita în cea mai mare parte din azot, similar Pamîntului. Titan are mari de
-metan lichid; în jur de -180 ° C. Exista chiar un continent numit "Xanadu"
+Титан – єдина велика луна Сатурна. У неї дуже густа атмосфера, яка складається
+здебільшого з азоту. Атмосфера Землі також здебільшого містить у собі азот. На
+Титані є моря рідкого метану. (Його температура – близько -180° C.) На ній
+навіть є континент під назвою "Ксанаду".

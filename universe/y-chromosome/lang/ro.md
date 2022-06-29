@@ -1,5 +1,5 @@
-# Y-Kromosomo
+# Cromozomul Y
 
-La Y-kromosomo, seksa kromosomo, aperas nur en viroj. Cu vi scias ke la
-Y-kromosomo daure srumpigas dum gi evoluas, kaj eble malaperos tute? Mi trovas
-tion tre fascine!
+Cromozomul Y, un cromozom de sex, apare doar la masculi Stiati ca prin evolutie
+cromozomul Y scade permanent, si, în final va disparea complet?. Mi se pare a fi
+fascinant!

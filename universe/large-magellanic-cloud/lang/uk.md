@@ -1,5 +1,5 @@
-# Norul mare Magelan
+# Велика Магелланова Хмара
 
-Norul Magelanic mare este numit asa doar pentru ca este mai mare decît cea mai
-apropiata galaxie, norul Magelan mic. Daca norul Magellan mic ar fi fost mai
-mare, Norul Magellanic mare ar fi fost numit Norul Magelanic mic!
+Велика Магелланова Хмара лише зветься великою, тому що за розміром вона більша,
+ніж галактика поруч з нею, Мала Магелланова Хмара. Якщо б Мала Магелланова Хмара
+була більшою, Велика Магелланова Хмара називалася б Малою Магеллановою Хмарою!

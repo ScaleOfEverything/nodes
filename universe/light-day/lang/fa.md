@@ -1,4 +1,5 @@
-# Valguspäev
+# Light-Day
 
-Isegi ainult kahekümne nelja tunniga suudab valgus läbida vahemaa 26 miljardit
-kilomeetrit. See on rohkem kui ükski inimene või kosmosesond kunagi reisinud on.
+Even in just twenty-four hours, light manages to zoom across the distance of 26
+billion kilometers. That is distance is further than any human or space probe
+has travelled.

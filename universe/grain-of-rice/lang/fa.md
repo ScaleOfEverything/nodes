@@ -1,5 +1,5 @@
-# Riisitera
+# Grain of Rice
 
-Paljud inimesed meie ilusal maakeral söövad riisi. Kui sa sööd ühe kausi riisi
-iga päev, siis oma eluaja jooksul tarbiksid sa ligikaudu 300 miljonit riisitera.
-See on ligikaudu kogu Ameerika Ühendriikides elavate inimeste arv!
+A lot of people on our beautiful world eat rice. If you eat one bowl of rice per
+day, you will eat an around 300 million grains of rice in your lifetime. That is
+also approximately the population of the United States! ",

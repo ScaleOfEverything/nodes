@@ -1,5 +1,5 @@
-# Saturn
+# Сатурн
 
-Saturn are cel mai largi si vizibile inele din Sistemului Solar. Galileo, prima
-persoana care a vazut aceste inele, a crezut initial ca sînt "urechi". Va puteti
-imagina o planeta Saturn fara inele? Ar fi doar o minge galbena
+Сатурн має найширші, найбільш видимі кільця у Сонячній системі. Галілео, який
+був першим, хто побачив ці кільця, спочатку подумав, що це "вуха". Могли б ви
+собі уявити Сатурн без кілець? Це був би просто жовтий шар.

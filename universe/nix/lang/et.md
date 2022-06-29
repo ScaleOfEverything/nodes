@@ -1,4 +1,4 @@
-# 닉스
+# Nix
 
-닉스는 알려진 수성의 위성 중 가장 작습니다. 사족으로, 위성들의 이름 중에 두번째
-로 짧다고 하네요 (Nix), 첫번째로 짧은건 이오 (Io) 입니다.
+Nix on kõige väiksem teadaolev Pluto kuu, See on teine lühiduselt kuu nimi,
+lühim on Io. Nimi pärineb Kreeka jumalannalt Nyx, kes oli öö.

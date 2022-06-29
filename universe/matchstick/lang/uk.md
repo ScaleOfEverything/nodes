@@ -1,5 +1,5 @@
-# Un bat de chibrit
+# Сірник
 
-Batul de chibrit este mic dar util. Cînd e frecat de o suprafata, se aprinde pe
-loc. Acest lucru îl face foarte periculos! De aceea este bine sa nu te joci cu
-chibriturile. Ai priceput?
+Сірник - це дуже зручний маленький пристрій. Коли його запалюють об щось, він
+може загорітися. Тому це дуже небезпечно! Тому важливо ніколи не гратися із
+сірниками. Зрозуміло?

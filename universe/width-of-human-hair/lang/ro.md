@@ -1,6 +1,6 @@
-# Dikeco de Homa Haro
+# Grosimea parului uman
 
-Homaj haroj estas mirindaj. Rektaj haroj estas preskau perfekte cilindraj.
-Aliflanke, buklaj haroj estaj plej flataj, kion permesas la kurbigon, kiel
-rubando. Cu vi scias, ke vi eble havas el 50.000 al 200.000 fadenharoj sur via
-kapo? Vi povas kalkuli!
+Parul uman este uimitor: parul tinut drept este aproape perfect cilindric. Pe de
+alta parte, parul ondulat este plat, care permite sa se îndoaie, ca o panglica.
+Stiai ca ai între 50.000 si 200.000 de fire de par de pe cap? Poti începe
+numaratul!

@@ -1,5 +1,4 @@
-# 안개 입자
+# Veepiisk udus
 
-안개 입자는 시야를 가리고, 빛을 반사하며, 그 사이를 새어나오는 빛은 때때로 아름
-답기도 하죠. 만약 여러분이 안개를 보고 싶다면, 해안가나 산에 가 보세요. 거기엔안
-개가 참 흔하답니다.
+Udu vähendab nähtavust. Samuti peegeldab udu valguskiiri. Kui tahad leida udu,
+siis otsi rannikuäärest või mägedest - sealt leiad udu suurema tõenäosusega.

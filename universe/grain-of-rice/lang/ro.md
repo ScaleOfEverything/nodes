@@ -1,5 +1,5 @@
-# Riz-Greno
+# Bob de orez
 
-Multaj sur nia bela mondo mangas rizon. Se vi mangas unu bovlon da rizo tage, vi
-mangos cirkau 300 milionoj da rizgrenoj dum via vivdauro. Tio estas ankau
-proksimume la logantaro de Usono!
+Multi oameni în lumea asta frumoasa manînca orez. Daca ai mînca un bol de orez
+pe zi, în total ai mînca aproximativ 300 de milioane de boabe de orez într-o
+viata. Cam tot atît e si populatia Statelor Unite!

@@ -1,5 +1,5 @@
 # Neutron
 
-Neutroneid leidub aatomite tuumas. Need on tuhandeid kordi väiksemad kui aatom
-ise. Neis on kaks d-kvarki ja üks u-kvark. Seepärast on neutroni laeng
--1/3-1/3+2/3 = 0.
+Neutrons are found within an atom's nucleus. They are thousands of times smaller
+than the atom itself. They have two down quarks and one up quark. Therefore, the
+neutron's charge is -1/3-1/3+2/3 = 0. ",

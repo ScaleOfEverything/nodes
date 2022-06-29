@@ -1,6 +1,6 @@
-# 마라톤
+# Maraton
 
-마라톤의 거리는 42.2 km 입니다. 1/1000 에 해당하는 미국인들이 마라톤을 뛴 적이있
-다고 하네요. 전설에 의하면, 그리스가 마라톤 전투에서 승리한 후, 페이디피데스가승
-전보를 알리기 위해 아테네로 뛰어갔는데, 그 거리가 지금의 마라톤의 거리와 거의비
-슷해요!
+Maratoni pikkus on 42 km ja 192 m. Legendi järgi üks kreeklane rõõmust Maratoni
+lahingu võidu üle jooksis Ateenasse võidust teatama. Linn hakkas hõiskama, aga
+jooksnud mees suri pärast pingutust. Tema auks hakati olümpial jooksma tema
+poolt läbitud maad maratoni nime all.

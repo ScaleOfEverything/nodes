@@ -1,5 +1,5 @@
-# Nebuloasa America de Nord
+# Туманність Північна Америка
 
-dimensiunea aparenta a Nebuloasei America de Nord este foarte mare, de aproape
-patru ori mai mare ca o luna plina! E doar foarte difuza, astfel ca e nevoie de
-perioade lungi de expunere pentru a se vedea.
+Видимий розмір Туманності Північна Америка дуже великий. Вона виглядає майже у
+чотири рази більшою за повний місяць. Вона просто дуже тьмяна... тому...
+знаєте...вам знадобляться довший час витримки на фотоапараті, щоб її побачити.

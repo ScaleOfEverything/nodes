@@ -1,5 +1,4 @@
-# 개미
+# Sipelgas
 
-여러분들은 개미를 싫어하시나요? 그거 참 안됐네요. 15 ~ 25% 의 육상동물이 개미에
-요! 와, 개미들이 얼마나 많은지 실감이 오시나요? 모든 사람들한테 개미를 똑같이 나
-누어주면, 그 수가 사람당 100 만 마리가 넘을 거라고 하네요!
+15-25% kõigist maismaa loomadest on sipelgad. Iga inimese kohta eksisteerib üle
+miljoni sipelga.

@@ -1,5 +1,5 @@
-# Parameciul
+# Парамеції
 
-Parameciul variaza destul de mult în dimensiune, dar are, de obicei, cam 200 de
-mircrometrii. Îi place sa înoate în apa. Se poate deplasa doi milimetri pe
-secunda!
+Парамеції дуже сильно відрізняються за розміром, але як звичай вони мають розмір
+близько 200 мікрометрів. Ці маленькі хлопці є найпростішими і їм подобається
+плавати у воді. Вони можуть пересуватися на два міліметри за секунду!

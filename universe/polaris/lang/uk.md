@@ -1,5 +1,6 @@
-# Polaris
+# Полярна зірка
 
-Polaris, sau Steaua Nordului, este foarte aproape de Polul Nord, asa ca daca
-vrei sa stii încotro este nordul, încearca sa gasesti Polaris. Gaseste întîi
-cele doua stele de la baza Carului Mare, si du-te în sus de 5 ori.
+Полярна зірка відома як Північна. Вона знаходиться по сусідству із північним
+полюсом, так що якщо ви бажаєте дізнатися, у якому напрямку знаходиться північ,
+просто спробуйте віднайти Полярну зірку. Знайдіть дві зірки на дальній стороні
+Великої Ведмедиці, і рухайтеся уперед.

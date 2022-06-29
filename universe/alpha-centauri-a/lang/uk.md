@@ -1,5 +1,5 @@
-# Alpha Centauri A
+# Альфа Центавра A
 
-Alpha Centauri A este cea mai mare stea din sistemul stelar Alpha Centauri
-(compus din trei stele), sistemul fiind si cel mai apropiat de noi. De asemenea,
-este si a patra cea mai stralucitoare stea de pe cerul noptii
+Альфа Центавра A є найбільшою зіркою зоряної системи Альфа Центавра (складається
+із трьох зірок), що є найближчою зоряною системою до нас. Вона також є четвертою
+найяскравішою зіркою у зоряному небі.

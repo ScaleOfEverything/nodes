@@ -1,4 +1,5 @@
-# Nucleul de clor
+# Ядро Хлору
 
-Nucleul de clor are 17 de protoni. Exista, si 18 sau 20 de neutroni acolo, mai
-rar 19 de neutroni Habar n-am de ce.Tu stii? Spune-mi!
+У ядрі хлору міститься 17 протонів. Як звичай, у ньому лише 18 або 20 нейтронів!
+Лише дуже рідко там є 19 нейтронів. Я не впевнений, чому це так. А ви знаєте?
+Розкажіть мені якщо так.

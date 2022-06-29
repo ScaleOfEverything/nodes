@@ -1,5 +1,5 @@
-# Europa
+# Європа
 
-Europa este cel mai mic dintre satelitii lui Galilei. Este acoperita de gheata.
-Niste crapaturi misterioase acopera suprafata lui Europa. Unii cred ca ar putea
-exista apa lichida sub stratul de gheata, posibil chiar viata!
+Європа є найменшою з Галілеєвих лун. Вона покрита льодом. Є містичні смужки, що
+вкривають поверхню луни. Деяки люди вірять, що під льодовим платом може існувати
+вода, можливо навіть приховуючи у собі життя.

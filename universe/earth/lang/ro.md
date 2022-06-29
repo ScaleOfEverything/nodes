@@ -1,5 +1,5 @@
-# Tero
+# Pamîntul
 
-La Tero estas nia nura hejmo. Dum ni logas sur gi, ni devas altgrade konsideri
-tion, car ankorau estas plej grave zorgi gin. Kiam gi malaperu, estos nenio alie
-por iri ni.
+Pamîntul este casa noastra si e de neînlocuit. Îl putem considera gigantic, dar
+cîta vreme locuim aici e important sa avem grija de el. Odata distrus, nu avem
+nicaieri altundeva sa mergem.

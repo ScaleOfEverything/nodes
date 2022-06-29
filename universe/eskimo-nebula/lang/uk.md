@@ -1,5 +1,5 @@
-# Nebuloasa Eskimo
+# Туманність Ескімос
 
-Nebuloasa Eskimo a fost descoperita în 1787 si este rezultatul exploziei unei
-stele asemanatoare Soarelui. Se spune ca arata ca un cap într-un hanorac. Un alt
-nume este Nebuloasa cap-de-clown
+Туманність Ескімос була відкрита у 1787 році і є результатом вибуху
+Сонце-подібної зірки. Вона виглядає приблизно як голова у капорі парки. Інше
+ім’я – Туманність Голова Клоуна.

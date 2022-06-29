@@ -1,5 +1,5 @@
-# Distanta de la Sedna la Soare (cea mai îndepartata)
+# Відстань від Седни до Сонця (найдовша)
 
-La distanta maxima de Soare, Sedna este foarte departe! Acest punct se numeste
-"afeliu"! Sedna are nevoie de peste 10.000 de ani terestri pentru a finaliza o
-orbita
+Коли Седна знаходиться найдалі від Сонця, вона дуже далеко. Ця точка отримала
+назву "афелій"! Седні потрібно більше ніж 10,000 Земних років, щоб завершити
+один оберт навколо орбіти.

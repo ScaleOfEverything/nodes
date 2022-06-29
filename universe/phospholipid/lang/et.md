@@ -1,4 +1,5 @@
-# 인지질
+# Fosfolipiidid
 
-인지질은 아름답고 환상적인 분자인데, 여러분들 몸속에 아주, 아주, 아주! 많이 있어
-요. 인지질은 세포막을 형성하는 지질의 특별한 형태입니다.
+Fosfolipiidid on väikesed molekulid. Sinu keha koosneb
+miljonitest-miljonitest-miljonitest fosfolipiididest. Fosfolipiidid on põhilised
+ehituskivid rakkude membraanis.

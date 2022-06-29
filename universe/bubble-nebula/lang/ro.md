@@ -1,5 +1,5 @@
-# Vezik-Nebulozo
+# Nebuloasa Bubble
 
-Mi amas blovi vezikojn. Blov'-blov', kaj iliajn pap-sonojn! Ci tia nebulozo
-(NGC 7635) ne estas veziko; gi nur similas tia! Car gi estis kreita de varma
-stela vento. Ho!, ec gi estas emisia nebulozo, ne planeda nebulozo.
+Îmi place sa fac baloane: BluB-BluB, pop! Aceasta nebuloasa nu este de fapt un
+balon, ci doar arata ca unul! A fost creat de vant stelar fierbinte. Este o
+nebuloasa de emisie, nu o nebuloasa planetara

@@ -1,5 +1,8 @@
-# 국제 우주 정거장
+# Rahvusvaheline kosmosejaam
 
-국제 우주 정거장은 지구 주위를 공전하는데, 지구에서 보이기도 해요! 국제 우주 정
-거장에는 지난 7 년동안 인간들이 계속해서 머물러오고 있습니다. 기록이죠. (똑같은
-사람들이 계속 있었던 건 아니지만요.)
+Rahvusvaheline kosmosejaam on Maa lähisel orbiidil ja kihutab 27 000 km/h.
+Sellise kiiruse juures teeb ta ühes ööpäevas 15,7 tiiru ümber maakera!
+Põhiliselt kasutatakse kosmosejaama mikrogravitatsioonilise keskkonnaga
+uurimislaborina, sh tehakse bioloogia-, keemia-, meditsiini-, psühholoogia- ja
+füüsikaalaseid katseid ning teostatakse astronoomilisi ja meteoroloogilisi
+vaatlusi.

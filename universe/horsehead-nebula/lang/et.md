@@ -1,6 +1,5 @@
-# 말머리 성운
+# Hobusepea udukogu
 
-말머리 성운은 가장 잘 알려진 은하들 중 하나인데, 이러한 이름이 붙은 이유는 뒤쪽
-의 분홍색 가스를 암흑 성운이 가리고 있는 이 모양이 말의 머리 모양을 닮았기 때문
-이라고 합니다. 1888 년에 발견되었는데, 이 8 들.. 웬지 끌리지 않나요?, 전 그런데
-..
+Hobusepea udukogu on hobusepea kuju tõttu üks tuntuim udukogu. See on tume
+udukogu, mis asub helendava roosa gaasi ees. Esimest korda märgati seda 1888.
+Need 8d on toredad. Kas pole?

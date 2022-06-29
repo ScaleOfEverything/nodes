@@ -1,5 +1,5 @@
-# Kokinovo
+# Oul de gaina
 
-La kokinovo estas kie kokidoj kutime elkovigas. Multaj homoj placas mangi
-kokinovojn. Krom la koloro, ne eblas trovi diferencon inter blankaj kaj brunaj
-kokinovoj.
+În ouale de gaina clocesc de obicei puii de gaina. Oamenilor le place sa manînce
+oua de gaina. În pofida aspectului, în realitate nu exista nici o diferenta
+între ouale albe si ouale maro

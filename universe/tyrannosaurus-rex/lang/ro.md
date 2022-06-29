@@ -1,6 +1,6 @@
 # Tyrannosaurus Rex
 
-Ci tiu dinosauro estas nun estingiginta, kvankam gi kutime estis 7 metroj longe.
-Nun ankorau oni debatas cu la T-Rex estis predanto au kadavromanganto. Kvankam
-la T-Rex estis tre granda, ne estis la plej granda! Alzomu iom por vidi la plej
-grandan dinosauron!
+T-Rex este extinct, dar se considera ca avea 7 metri lungime. Nu s-a stabilit
+înca daca T-Rex era un pradator sau se hranea cu hoituri. Desi T-Rex era mare,
+nu a fost cel mai mare dinozaur! Zoomeaza un pic înafara pentru a vedea cel mai
+mare dinozaur!

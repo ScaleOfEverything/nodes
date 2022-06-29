@@ -1,5 +1,6 @@
-# X 염색체
+# X-kromosoom
 
-X 염색체는 더없이 훌륭합니다. 거의 모든 염색체가 X 같이 생겼는데 그게 성 염색체
-는 아니라구요? 그럼 그것들은 상 염색체 입니다. 여성들은 성 염색체로 두개의 X 염
-색체를 가지고, 남성들은 성 염색체로 X 와 Y 염색체를 한개씩 갖습니다.
+X-kromosoom on üks sugu määravarest kromosoomidest. Naistel on kaks X-kromosoomi
+ja meestel üks. See teeb naised resistentsemateks osade haiguste vastu. Näiteks
+kui haigus ründab X-kromosoomi, siis naiste keha hakkab kasutama teist tervet
+X-kromosoomi, aga mehe keha peab hakkama saama ilma, mis ei ole väga lihtne.

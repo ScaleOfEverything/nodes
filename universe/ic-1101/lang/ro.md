@@ -1,5 +1,5 @@
 # IC 1101
 
-IC 1101 estas la plej granda galaksio konata. Gi enhavas proksimume 100
-duilionoj da steloj. Nia galaksio, la Lakta Vojo, havas nur 250 miliardojn, tiel
-IC 1101 havas 400-oble pli da steloj ol la Lakta Vojo.
+IC 1101 este cea mai mare galaxie cunoscuta. Acesta contine aproximativ 100 de
+trilioane de stele. Galaxia noastra, Calea Lactee, are numai 250 miliarde,
+astfel ca IC 1101 are de peste 400 de ori mai multe stele decît Calea Lactee!

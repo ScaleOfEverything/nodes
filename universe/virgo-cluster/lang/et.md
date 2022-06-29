@@ -1,4 +1,4 @@
-# 처녀자리 은하단
+# Neitsi parv
 
-처녀자리 은하단은 처녀자리 초은하단에서 가장 크고, 중심부에 위치하고 있습니다.
-1770 년대에 메시에 천체 (M86) 에 등재되면서 알려졌습니다.
+Neitsi parv on suurim parv Neitsi superparves ja asub selle keskel. See avastati
+hilistel 1770ndatel kui selle galaktikad katalogiseeriti Messieri objektidena.

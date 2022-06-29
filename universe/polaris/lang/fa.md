@@ -1,5 +1,5 @@
-# Põhjanael
+# Polaris
 
-Põhjanaela traditsiooniline ladinakeelne nimi on Stella Polaris ehk Polaris. See
-asub peaaegu põhjapooluse kohal ja seepärast saab selle järgi leida põhjasuuna.
-Põhjanaela enda leidmiseks vaata Suure Vankri tagumistest ratastest ülespoole.
+Polaris is known as the North Star. It is very near the north pole, so if you
+want to know which way is north, just try to find Polaris. Locate the two stars
+on the far side of the Big Dipper, and go upward.

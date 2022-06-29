@@ -1,5 +1,5 @@
-# Burj Khalifah
+# Burj Khalifa
 
-Burj Khalifah, mida alguses nimetati Burj Dubai, on maailma kõrgeim hoone. Mitte
-ükski teine hoone ei ole kõrgem kui 828 000 millimeetrit. Seal on 76. korrusel
-ujumisbassein.
+Burj Khalifa, which used to be called the Burj Dubai, is the tallest building in
+the world. No other building is taller than 828,000 millimeters tall. There's a
+swimming pool on the 76th floor.

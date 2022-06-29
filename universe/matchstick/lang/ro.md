@@ -1,5 +1,5 @@
-# Alumeto
+# Un bat de chibrit
 
-La alumeto estas tre utila malgranda ilo. Kiam oni frapas gin kontrau io ajn, gi
-povas prilumi flamon. Ci tio faras gin tre dangera! Tia estas la kialo, car oni
-neniam devas ludi kun alumetoj. Komprenite?
+Batul de chibrit este mic dar util. Cînd e frecat de o suprafata, se aprinde pe
+loc. Acest lucru îl face foarte periculos! De aceea este bine sa nu te joci cu
+chibriturile. Ai priceput?

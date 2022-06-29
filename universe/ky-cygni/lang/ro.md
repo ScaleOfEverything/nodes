@@ -1,5 +1,6 @@
-# KY Cigna
+# KY Cygni
 
-KY Cygna estas 300,000-oble pli luma ol la Suno, kaj la Suno estas ege luma, cu
-ne? La Suno estas tiel luma, ke vi ne devas rigardi gin! Tamen, estas akcepteble
-rigardi KY Cyngan car estas 300-milionoble pli fore.
+KY Cygni este de 300.000 de ori mai luminoasa decît Soarele, Soarele fiind si el
+destul de luminos, nu? Soarele este atît de luminos încît n-ar trebui sa te uiti
+direct la el! Totusi putem sa ne uitam la KY Cyngi, deoarece e de 300 de
+milioane de ori mai departe decît soarele.

@@ -1,7 +1,7 @@
-# Observebla Universo
+# Universul observabil
 
-La radiuso havas 46 miliardojn da lum-jaroj (la duono de la diametro). Vi povus
-atendi vidi nur 13.7 miliardojn da lum-jarojn for; car lumo havis nur la sancon
-vojagi 13.7 miliardoj da lum-jaroj, sed pro la ekspansio de la spaco, la
-objektoj kiuj iam estis je 13.7 miliardoj da lum-jaroj for, hodiau estas je 46
-miliardoj da lum-jaroj for, kaj ni povas vidi tion.
+Raza sa este de aproximativ 46 miliarde de ani lumina (mAL) (raza fiind jumatate
+din diametru). Te-ai putea astepta sa vezi doar 13,7 mAL departare, deoarece
+lumina a avut doar 13,7 miliarde de ani pentru a calatori de la big bang, dar,
+datorita extinderii spatiului, obiecte care sa par sa fie acum la 13.7 mAL sunt
+acum la 46 mAL

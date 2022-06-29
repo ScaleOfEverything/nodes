@@ -1,5 +1,5 @@
-# Soolatera
+# Grain of Salt
 
-Sool koosneb reaktiivsest metallist (Na) ja mürgisest gaasist (Cl). Soola
-kasutatakse toitude maitsestamisel. Ära liiga palju soola söö - korraga süües
-soola ühe tuhandiku oma kehamassist tõenäoliselt lõpetab inimene oma elupäevi.
+Salt is a compound made of a reactive metal and a toxic gas. Everyone knows
+that. Also, do not eat too much salt, or else you could die. Eating one
+thousandth of your body weight all at once will usually do the trick.

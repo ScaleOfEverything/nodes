@@ -1,4 +1,5 @@
-# 인간 키의 합
+# Kõigi inimeste pikkus kokku
 
-70 억명의 사람들을 일렬로 서로의 위에 세워놓는다고 하고, 밑에 있는 사람들이 위의
-무게에 짓눌리지 않는다고 하면, 그 길이가 1,000만 km에 이를것으로 추정됩니다.
+Kui kõik 7 miljardit inimest seisaksid teineteise peal, ja alumised 6,99
+miljardit inimest ei kuku kokku sellest kaalust, selle virna kõrgus oleks umbes
+10 miljonit kilomeertrit.

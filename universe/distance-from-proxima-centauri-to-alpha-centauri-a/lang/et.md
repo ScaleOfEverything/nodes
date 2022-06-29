@@ -1,3 +1,3 @@
-# 알파 센타우리 A 에서 프록시마 센타우리까지의 거리
+# Proxima Centauri ja Alpha Centauri A vaheline kaugus
 
-알파 센타우리 A, B 에서 프록시마 센타우리까지의 거리는 아주 아아주 멉니다.
+Proxima Centauri on väga kaugel Alpha Centauri A-st ja B-st.

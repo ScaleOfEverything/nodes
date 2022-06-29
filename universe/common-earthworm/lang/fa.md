@@ -1,5 +1,5 @@
-# Vihmauss
+# کرم خاکی معمولی
 
-Räägitakse, et vihmaussi pooleks lõikamisel hakkavad mõlemad osad oma elu elama.
-Tõsi on, et mõnedel vihmaussiliikidel kasvab pea juurde uus saba, aga suurema
-osa ajast nad lihtsalt surevad.
+آیا شما حرکات پیچشی کرم خاکی و لزجی آنرا دوست ندارید؟ عارغم افسانه های شهری،
+بسیاری از گونه های کرم خاکی اگر به دو نیمه شوند می میرند. بعضی وقتها، سر زنده می
+ماند و دم جدیدی در می آورد.

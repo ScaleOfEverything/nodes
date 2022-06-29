@@ -1,5 +1,5 @@
-# Alnitako
+# Alnitak
 
-Alnitako lumigas la Fluorezkan Nebulozon. Alnitako ankau estas la plej orienta
-stelo el la tri steloj kiuj formas la Orionan zonon. La aliaj du estas Alnilamo
-kaj Miltako, ciuj tri ja aperas tre brilaj super la planedo Tero.
+Alnitak lumineaza nebuloasa Flacara. Alnitak este, de asemenea, cea mai estica
+stea dintre cele trei stele care formeaza centura lui Orion. Celelalte doua sunt
+Alnilam si Miltaka, si toate trei sunt foarte luminoase

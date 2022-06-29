@@ -1,5 +1,6 @@
-# Ceval-Kapa Nebulozo
+# Nebuloasa cap de cal
 
-La Ceval-Kapa Nebulozo estas unu el la plej famaj nebulozoj car gi sajnas kiel
-cevala kapo. Gi estas malluma nebulozo antau brilanta rozkolora gaso. Oni
-malkovris gin unufoje en 1888. Cu placas al vi ciuj tiaj 8-oj? Al mi jes.
+Nebuloasa cap de cal (Horsehead) este una dintre cele mai faimoase nebuloase,
+deoarece arata ca un cap de cal. E o nebuloasa întunecata avînd în spate un nor
+de gaz roz stralucitor. Aceasta a fost descoperita în 1888. Îti plac cei trei de
+8? Mie da!

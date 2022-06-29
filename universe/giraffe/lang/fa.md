@@ -1,5 +1,5 @@
-# Kaelkirjak
+# Giraffe
 
-Kaelkirjak on kõige kõrgem imetaja. Tema pikkuseks on 6 meetrit. Ainuüks kael
-moodustab poole tema kehapikkusest. Kas teadsid, et kaelkirjakul on sama palju
-kaelalülisid kui sul, aga nad moodustavad peaaegu 30 korda pikema kaela?
+The giraffe is the tallest land mammal at a mind-boggling 6 meters! Its neck
+alone is almost half of its entire height. Adult giraffes are so tall that the
+only way for predators to kill them is to push them onto their side!

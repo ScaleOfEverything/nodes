@@ -1,5 +1,5 @@
-# Tuletikk
+# چوب کبریت
 
-Tuletikk on väga kasulik pisike tööriist. Kui lüüa vastu midagi, siis tikk võib
-hakata põlema. See omadus teeb nad kasulikuks ja ka ohtlikuks samal ajal! Tikud
-ei ole mänguasjad! Said aru?
+چوب کبریت یک وسیله ی کوچک و مفید است. هنگامی که به چیزی سابیده می شود می تواند
+آتش بگیرد. که این موضوع آن را بسیار خطرناک می کند! به همین دلیل است که نباید با
+آنها بازی کرد. فهمیدید؟

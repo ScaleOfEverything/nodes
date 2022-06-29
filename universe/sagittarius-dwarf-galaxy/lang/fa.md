@@ -1,4 +1,5 @@
-# Sagittariuse kääbusgalaktika
+# Sagittarius Dwarf Galaxy
 
-Sagittarius on Linnutee kaaslane. See on ainult 70 000 valgusaasta kaugusel! See
-on elliptiline galaktika ja kääbus pealekauba. See avastati alles 1994.
+The Sagittarius is one of the Milky Way's satellite galaxies. It is only 70,000
+light-years distant! It is an elliptical galaxy, and a dwarf one as well. It was
+not discovered until 1994.

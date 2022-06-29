@@ -1,6 +1,5 @@
-# Atomul de Carbon
+# Атом Вуглецю
 
-Carbonul este baza tuturor formelor de viata de pe Pamînt. Acest lucru se
-datoreaza faptului ca atomii de carbon pot crea patru legaturi covalente, ceea
-ce înseamna ca se pot lega în mii de feluri, cu oxigen, azot, hidrogen, carbon
-si alte elemente.
+Вуглець є основою життя на планеті Земля. Це тому, що атоми вуглецю можуть
+створювати чотири ковалентні зв’язки, що означає, що він може зв’язуватися у
+тисячі різних способів із киснем, азотом, воднем, вуглецем та іншими елементами.

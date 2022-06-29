@@ -1,5 +1,4 @@
-# Amoeba
+# Амеба
 
-Amoeba este unicelulara, înseamna ca este alcatuita doar dintr-o o singura
-celula! Unele amoebe pot creste pîna la 700 de micrometri, adica aproape un
-milimetru întreg.
+Амеба одноклітинна, що означає, що у ній є лише одна клітина. Деякі амеби можуть
+вирости до неймовірних 700 мікрометрів, що є майже цілим міліметром.

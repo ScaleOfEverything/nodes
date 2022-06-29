@@ -1,6 +1,6 @@
-# Hidro
+# Hydra
 
-Hidro estas unu el la Plutonaj lunoj. Estis nomata kiel la sepkapa serpento de
-la Greka mitologio. Kompreneble, Hidro kreskigus du kapojn se vi trancus unu
-ajn. Se vi volas Hidron havu a-kapojn, kion vi devas fari estas retrancadi
-a-foje la 7 kapojn! Tamen, ci tio tute ne funkcias se vi volas malpli ol sep.
+Hydra este una dintre lunile lui Pluto, numit dupa sarpele cu sapte capete din
+mitologia greaca. Hydra va creste doua capete, daca îi tai unul. Daca vrei ca
+Hydra sa aiba n capete, trebuie sa sa îi tai n-7 capete! Asta însa nu va
+functiona daca în final vrei mai putin de sapte capete.

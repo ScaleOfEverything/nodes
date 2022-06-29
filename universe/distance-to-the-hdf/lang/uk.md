@@ -1,6 +1,6 @@
-# Distanta pâna la HDF
+# Відстань до Області Дальнього Огляду Hubble
 
-Hubble Deep Field este imaginea unui loc gol de pe cerul noptii. S-au gasit
-aproape 3.000 de obiecte în el , în mare parte galaxii îndepartate. Nu se stie
-unde sunt aceste galaxii acum, dar acum 12,7 miliarde de ani, ele se aflau la
-12.7 miliarde de lumina ani distanta.
+Область Дальнього Огляду Hubble – це зображення порожнього місця на нічному
+небі. На зображенні містяться близько 3,000 об’єктів – віддалених галактик.
+Невідомо, де ці галактики зараз, але де вони були 12.7 мільярдів років тому –
+так це на відстані 12.7 мільярдів світлових років від нас.

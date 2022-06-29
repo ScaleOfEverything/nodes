@@ -1,4 +1,4 @@
-# 암피코일리아스 프라길리무스
+# Amphicoelias
 
-암피코일리아스 프라길리무스는 가장 컸던 공룡이었는데, 그 무게가 100 톤에 육박했
-습니다! 원한다면 이 공룡 위에 집을 지어도 될 만큼 아주 큰 공룡이에요!
+Amphicoelias oli kõige suurem dinosaurus. Ta kaalus üle 100 tonni ja oli umbes
+60 meetrit pikk.

@@ -1,5 +1,4 @@
-# 가장 큰 바이러스
+# Suurim viirus
 
-얼마 전 까지 가장 큰 바이러스로 알려져있던 미미바이러스는, 최근에 메가바이러스가
-발견되어 그 자리를 넘겨주게 되었습니다. 혹시 메가바이러스의 유전체가 바이러스중
-에서 가장 길다는 사실을 알고 계셨나요?
+Teadaolevalt suurima viiruse nimi on Megaviirus. Kas teadsid, et Megaviirusel on
+viirustest kõige pikem genoom?

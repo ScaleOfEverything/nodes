@@ -1,5 +1,5 @@
-# Nano-Galaksio Leono II
+# Leo II Galaxia pitic
 
-La Nano-Galaksio Leono II estas satelito de la Lakta Vojo Galaksio. Gi estas unu
-el dudekkvar konataj satelitoj de la Lakta Vojo. La steloj en Leono II estas
-metalmalricaj. Ili estas ankau relative malnovaj.
+Leo II este o galaxie satelit a Caii Lactee, una din cele douazeci si patru de
+galaxii satelit astfel cunoscute. Stele în Leu II sunt sarace în metale; fiind
+de asemenea si foarte vechi.

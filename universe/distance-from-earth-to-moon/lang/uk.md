@@ -1,4 +1,4 @@
-# Distanta de la Pamînt la Luna
+# Відстань від Землі до Місяця
 
-Pamîntul si Luna aici nu sunt la scala. Daca distanta ar fi un metru, Pamîntul
-ar fi dimensiunea unui banut, iar luna ar fi un bob de mazare
+Земля та Місяць тут не зображені в масштабі. Якщо б відстанню був метр, Земля
+була б розміром з монету у 25 центів, а місяць – розміром з горох.

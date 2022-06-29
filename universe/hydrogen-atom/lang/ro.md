@@ -1,5 +1,5 @@
-# Hidrogena Atomo
+# Atomul de hidrogen
 
-Hidrogeno estas la plej abunda elemento en la universo. Gi estas nur protono kaj
-elektrono! Hidrogena atomo estas tiel malgranda, ke vi ne povas ec vidi gin kun
-viaj nudaj okuloj, ec se vi provas fari tion obstine.
+Hidrogenul este cel mai abundent element în univers. Alcatuit doar dintr-un
+proton si un electron, el este atît de mic încît nu-l poti vedea nicicum cu
+ochiul liber, chiar daca încerci din greu.

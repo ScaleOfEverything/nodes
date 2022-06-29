@@ -1,5 +1,6 @@
-# Liivatera
+# Grain of Sand
 
-Loomulikult ei ole kõik liivaterad ühe suurused. Suurused varieeruvad palju.
-Arenofiilid on inimesed, kes koguvad liiva näidiseid. Kas teadsid, et Papakolea
-rannas on roheline liiv? See on põhjustatud liivas olevatest kristallidest.
+Of course, not all grains of sand are the same size. They vary a lot.
+Arenophiles are people who collect sand samples. Also, did you know that
+Papakolea Beach has green sand? This is because of crystals in the sand.
+Whatever.

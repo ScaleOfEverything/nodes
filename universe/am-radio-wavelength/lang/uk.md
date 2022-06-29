@@ -1,5 +1,5 @@
-# Lungime de unda radio AM
+# Довжина Хвилі AM-Приймача
 
-A si M sunt prima si a treisprezecea litera din alfabet. Unu este patrat
-perfect, în timp ce treisprezece nu este. Cu totii avem diferente si trebuie sa
-învatam sa le acceptam. Doar asa putem trai în armonie!
+A та M – перша та тринадцята літери англійського алфавіту. Один є чудовою
+площиною, але тринадцять - не дуже. У нас у всіх є свої відмінності, і ми
+повинні навчитися їх приймати. Це є єдиний спосіб для нас жити в гармонії.

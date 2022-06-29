@@ -1,5 +1,5 @@
-# Sekvojo
+# Copacul Redwood
 
-La sekvojo estas la plej alta arbo en la mondo. Sia alto, kombinita kun tiu de
-formiko, estas pli granda ol iu ajn homo! Tamen, la universo ankorau estas
-10^25-oble pli granda.
+Arbore Redwood este cel mai înalt copac din lume. Înaltimea sa, adunata cu cea a
+unei furnici, este mai mare decît a oricarui om! Universul e însa de 10 ^ 25 ori
+mai mare!

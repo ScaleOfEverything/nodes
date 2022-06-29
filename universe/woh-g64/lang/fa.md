@@ -1,5 +1,6 @@
 # WOH G64
 
-Ma tean... te mõtlete: "Voh..vot see on suur täht!" Teil on tõenäoliselt õigus,
-sest tegemist on praeguseks teise suurima teadaoleva tähega. WOH G64 asub Suure
-Magalheasi pilves. Pilv ümbritseb seda poole valgusaasta suurust tähte.
+I know... you're thinking, "WOH... that's a big star!" Well, I guess you're
+right, because currently it's the second largest known star. WOH G64 is found in
+the Large Magellanic Cloud. There is a cloud surrounding the star that extends
+half of a light-year.

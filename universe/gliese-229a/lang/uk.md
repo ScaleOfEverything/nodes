@@ -1,5 +1,5 @@
-# Gliese 229A
+# Глізе 229A
 
-Gliese 229A este o pitica rosie; cu putin mai mica decît Soarele. Un alt nume ar
-fi GJ 229 sau GI 229. Este parte a unui sistem binar de stele, stele, a doua
-stea fiind Gliese 229B
+Глізе 229A – червона карликова зірка. Вона дещо менша за Сонце. Червона
+карликова зірка також помічається як GJ 229 або GI 229. Вона є частиною
+подвійної зоряної системи, де другою зіркою є Глізе 229B.

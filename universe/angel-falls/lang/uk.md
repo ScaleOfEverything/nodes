@@ -1,5 +1,5 @@
-# Cascada Angel
+# Водоспад Анхель
 
-Cascada Angel este cea mai înalta cascada din lume, si principala atractie
-turistica în Venezuela. Apa se evapora în cea mai mare parte înainte de a atinge
-solul. E rau! Sau bine? E bine!
+Водоспад Анхель – найвищий водоспад у світі. Це найбільш популярний атракціон у
+Венесуелі. Більша частина води випаровується у туман перш, ніж досягає землі. Це
+дуже погано. Чи добре? Це добре.

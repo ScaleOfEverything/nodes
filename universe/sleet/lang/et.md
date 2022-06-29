@@ -1,5 +1,3 @@
-# 진눈깨비
+# Lörts
 
-하늘에서 내리는 진눈깨비는, 얼음 알갱이로 구성되어 있습니다. 왼쪽에 보이는 공 모
-양이 얼음 알갱이입니다. 진눈깨비는 눈과 비슷하지만, 좀 더 빽빽한 구조를 가지고있
-습니다.
+Lörts, erinevalt rahest, koosneb paljudest väikestest jäätükkidest.

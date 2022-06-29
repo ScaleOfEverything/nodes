@@ -1,5 +1,5 @@
 # Amphilicoelias Fragilimus
 
-Amphilicoelias Fragilimus estis la plej granda dinosauro el ciuj iam ajn! Gi
-pezis pli ol 100 tunoj! Estis tiel granda, ke vi povus konstrui vian domon sur
-gi se vi volus!
+Amphilicoelias Fragilimus a fost cel mai mare dinozaur care a existat vreodata.
+Cîntarea peste 100 de tone! Era atît de mare încît ti-ai fi putut construi o
+casa pe el!

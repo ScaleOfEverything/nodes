@@ -1,5 +1,5 @@
-# Virga Super-Galaksia-Amaso
+# Supercluster-ul Fecioara
 
-La Virga Supergalaksia Amaso, unu el milionoj da supergalaksiaj amasoj, enhavas
-pli da 100 galaksiaj amasoj. Kiuj inkluzivas nian galaksian amason, kaj ankau la
-plej granda el tiuj, la Virga Galaksia Amaso ( kiu tute ne estas super).
+Supercluster-ul Fecioara, unul dintre milioanele de superclustere, contine peste
+100 de clustere galactice. Acestea includ cluster-ul nostru, precum si
+Cluster-ul Fecioara, cel mai mare, fara a fi însa super.

@@ -1,5 +1,5 @@
-# Tarantula Nebulozo
+# Nebuloasa Tarantula
 
-La Tarantula Nebulozo estas la plej granda konata nebulozo. Gi povas esti
-trovita en la Granda Magelana Nubo. Estas tre brila, kun absoluta magnitudo de
--11. Gi estas la plej brila nestela objekto konata.
+Nebuloasa Tarantula este mai mare nebuloasa cunoscuta, situata în norul Magellan
+mare. Este foarte luminosa, cu o marire absoluta este de -11. E si cel mai
+stralucitor obiect non-stelar cunoscut

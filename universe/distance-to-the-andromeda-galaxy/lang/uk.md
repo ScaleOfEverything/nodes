@@ -1,5 +1,5 @@
-# Distanta pîna la Galaxy Andromeda
+# Відстань до Галактики Андромеди
 
-La doua milioane de ani-lumina distanta, Galaxia Andromeda este cel mai
-îndepartat obiect vizibil cu ochiul liber. Totusi, fara binoclu sau telescop,
-acesta va aparea ca o pata neclara.
+На відстані у два мільйона світлових років від нас, Галактика Андромеди є
+найбільш віддаленим об’єктом, видимим неозброєним оком. Однак, без бінокля або
+телескопу, вона буде виглядати як темна пляма.

@@ -1,5 +1,6 @@
-# Plej Granda Hajlostono
+# Cel mai mare grindina
 
-La plej granda hajlero estis trovata en Suda Dakoto. Tamen, plej hajleroj ec ne
-alproksimigas al ci tia grandeco. La meznombra diametro estas avareca
-centimetro. Ho, mi ankau volas atentigi, ke ne ciuj hajleroj estas rondaj.
+Cea mai mare grindina a fost gasita în Dakota de Sud Cu toate acestea,
+majoritatea grindinei e mult sub aceasta dimensiune. Diametrul mediu este de un
+centimetru. As dori de asemenea sa subliniez faptul ca nu toata grindina e
+rotunda.

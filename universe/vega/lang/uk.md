@@ -1,5 +1,6 @@
-# Vega
+# Вега
 
-Vega se afla în constelatia Lyra. Ea compune - alaturi de Altair si Deneb -
-Triunghiul de Vara. Vega se învîrte atît de repede încît este bombata! Cu toate
-acestea, noi o vedem de la poli, asa ca pentru noi pare circulara
+Вега знаходиться у сузір’ї Ліра. Вона також є частиною Літнього Трикутнику, що
+складається із Веги, Альтаіра та Денеба. Вега обертається настільки стрімко, що
+деформується. Однак, ми можемо побачити її з полюсу, тому виглядає вона
+округлою.

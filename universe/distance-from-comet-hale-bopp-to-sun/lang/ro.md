@@ -1,4 +1,4 @@
-# Distanco de Kometo Hale-Bopp al Suno (la plej fora)
+# Distanta de la Cometa Hale-Bopp la Soare (cea mai îndepartata)
 
-La kometo Hale-Bopp eblas iri tre for de la Suno. Gi necesas 2,500 jarojn por
-rondiri gin.
+Cometa Hale-Bopp se poate îndeparta foarte mult de Soare, avînd nevoie de 2500
+de ani pentru a completa o orbita

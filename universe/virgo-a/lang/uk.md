@@ -1,5 +1,5 @@
-# Fecioara A
+# Діва A
 
-Fecioara A este cea mai mare galaxie din Cluster-ul Fecioara. Este o galaxie
-supergigant eliptica. Stiai ca din gaura neagra din centrul sau este aruncat un
-jet de materie subatomica la 5.000 de ani-lumina distanta?
+Діва A – це найбільша галактика у Скупченні Діви. Це надгігантська елліптична
+галактика. Ви знали про те, що чорна діра в його центрі викидає потік субатомної
+матерії довжиною у 5,000 світлових років?

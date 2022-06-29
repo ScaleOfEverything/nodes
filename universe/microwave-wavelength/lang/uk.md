@@ -1,5 +1,6 @@
-# Lungimea de unda a microundelor
+# Довжина Хвилі Мікрохвильового Випромінювання
 
-Gama microundelor este destul de mare; variaza de la un milimetru la un metru.
-Prim urmare, aceasta unda electromagnetica, cu o lungime de unda de un
-centimetru, se încadreaza în acest interval si este astfel o microunda!
+Насправді, відстань поширення мікрохвильового випромінювання доволі велика. Вони
+вирізняються від одного міліметра до одного метра. Так що, як ви бачите, ця
+електромагнітна хвиля, із довжиною хвилі у один сантиметр, спокійно вміщується у
+цей простір і таким чином є хвилею мікрохвильового випромінювання!

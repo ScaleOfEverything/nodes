@@ -1,4 +1,5 @@
-# 아메바
+# Amööb
 
-아메바는 단세포 생물입니다. 하나의 세포로 구성된 생물이라는 말이죠. 몇몇 아메바
-들은 최고 700 ㎛까지 자랄 수 있습니다. 거의 1 mm 에 맞먹죠.
+Amööb on üherakuline, mis tähendab, et ta koosneb ainult ühest rakust. Mõned
+amööbid võivad kasvada peaaegu 1 millimeetri suuruseks (0,7mm tegelikult), seega
+on silmaga nähtavad.

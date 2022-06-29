@@ -1,6 +1,4 @@
-# 커피콩
+# Kohviuba
 
-커피콩은 보통 그 크기가 1 cm 정도입니다. 커피콩은 갈색에 줄무늬가 있는데, 콩이랑
-비슷하게 생긴 데다 이름도 커피 "콩" 이지만 과일이라고 합니다. 그리고 가끔 이 커
-피콩을 빤히 쳐다보고있으면, 이 커피콩의 지름이 우주의 크기의 10^-29 라는걸 까먹
-곤 하죠...
+Kohviuba on tegelikult vili, mis meenutab uba. Selle pikkus on umbes üks
+sentimeeter.

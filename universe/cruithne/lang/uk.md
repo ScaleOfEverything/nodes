@@ -1,5 +1,5 @@
-# Cruithne
+# Круітні
 
-Cruithne este cunoscuta ca a doua Luna a Pamîntului. De fapt urmeaza doar o
-orbita eliptica în jurul Soarelui, aproape de orbita Pamîntului, anul acesteia
-fiind de 364 de zile, aproape cît al Pamîntului
+Круітні відомий як другий місяць Землі. Насправді він не є земним місяцем. Він
+просто рухається по елліптичній орбіті навколо Сонця, яке знаходиться біля
+земної орбіти, і його рік складає 364 дні, майже земний рік.

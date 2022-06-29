@@ -1,5 +1,5 @@
-# Oul de gaina
+# Куряче Яйце
 
-În ouale de gaina clocesc de obicei puii de gaina. Oamenilor le place sa manînce
-oua de gaina. În pofida aspectului, în realitate nu exista nici o diferenta
-între ouale albe si ouale maro
+Куряче яйце - це там, де як звичай вилупляються діти курки. Багато людей люблять
+їсти курячи яйця. Окрім зовнішнього виду, немає жодної різниці між білими та
+коричневими курячими яйцями.

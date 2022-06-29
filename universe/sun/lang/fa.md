@@ -1,5 +1,5 @@
-# Päike
+# خورشید
 
-Tänu Päikese energiale saab elu Maal eksisteerida. Päikese läbimõõt on 100 korda
-suurem kui Maa oma ja see annab Maale 20 000 korda rohkem energiat kui inimkond
-praegu kasutada suudab.
+نام دیگر خورشید مهر است، خورشید آن چیزی است که به زمین انرژی برای ادامه ی حیات
+می دهد. قطر خورشید باای 033 برابر قطر زمین است! 20,000 برابر انرژی ای که نژاد
+بشر مصرف می کند به زمین از طرف خورشید برخورد می کند.

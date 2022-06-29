@@ -1,4 +1,4 @@
-# Gomez'i hamburger
+# Gomez's Hamburger
 
-Gomez'i hamburger on 900 valgusaasta kaugusel. Kuklid on moodustunud valgust
-peegeldavast tolmust ja pihviks on tume tolm. See ei kõla väga isuäratavalt.
+Gomez's Hamburger is 900 light-years away! The buns are made of reflective dust,
+and the patty is made of dark dust. That does not sound very appetizing.

@@ -1,5 +1,5 @@
-# Merkuur
+# Mercury
 
-Merkuur on lähim planeet Päikesele. Sellel puudub atmosfäär. Päeval ulatub
-temperatuur 400 °C, aga öösel langeb -180 °C. Üks Merkuuri aasta kestab 88 Maa
-päeva.
+Mercury is the closest planet to the Sun. It has no atmosphere. During the day,
+temperatures reach 400° C, but at night, the temperatures fall to -180° C. One
+Mercurian year is 88 Earth days.

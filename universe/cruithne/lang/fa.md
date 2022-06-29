@@ -1,5 +1,5 @@
 # Cruithne
 
-Cruithne on tuntud kui Maa teine kuu, kuigi see seda tegelikult ei ole. See
-ainult tiirleb ümber Päikese Maa orbiidile sarnasel elliptilisel orbiidil ja
-selle aasta on 364 päeva, mis on peaaegu sama, mis Maal.
+Cruithne is known as Earth's second moon. It actually isn't Earth's moon. It
+just follows an elliptical orbit around the Sun that is near Earth's orbit, and
+its year is 364 days, close to Earth's year.

@@ -1,5 +1,5 @@
-# Proxima Centauri
+# Проксіма Центавра
 
-Proxima Centauri este cea mai apropiata stea de Pamînt dupa Soare. Numele sau
-provine de la cuvântul "proximitate" (apropiere). Proxima Centauri este o stea
-rosie mica, din pacate ai nevoie de un telescop pentru a o vedea
+Проксіма Центавра відома як ближча зірка до Землі, ніж Сонце. Її ім’я походить
+від слова "близькість (proximity)". Проксіма Центавра – маленька червона зірка.
+На жаль, вона настільки неясна, що її можна роздивитися тільки в телескоп.

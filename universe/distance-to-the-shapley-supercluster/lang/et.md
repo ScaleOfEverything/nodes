@@ -1,4 +1,4 @@
-# 섀플리 초은하단까지의 거리
+# Vahemaa Shapley superparveni
 
-섀플리 초은하단은 은하들로 이루어져 있습니다. 중심으로 붕괴중인 가장 큰 물체들중
-하나입니다.
+Shapley superparv on galaktikate superparv. See üks suurimaid objekte, mis
+tõmbub kokku; kõik suuremad objektid tavaliselt eemalduvad universumis.

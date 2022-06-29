@@ -1,5 +1,5 @@
-# Valgusaasta
+# Light-Year
 
-Ühe aastaga läbi valgus ligikaudu 9,46 triljonit kilomeetrit. Seda vahemaad
-tuntakse valgusaastana. Valgusaasta on levinud astronoomiliste vahemaade
-mõõtühik.
+In one year, light travels about 9.46 trillion kilometers. This distance is
+known as a light-year. The light-year is commonly used for measuring
+astronomical distances.

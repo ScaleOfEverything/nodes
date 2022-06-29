@@ -1,5 +1,5 @@
-# 양성자
+# Prooton
 
-양성자는 원자핵에서 발견되었는데, 원자 자체의 크기보다 1/1000 배 가량 작습니다.
-양성자는 두개의 위 쿼크와 하나의 아래 쿼크로 구성되어있습니다. 따라서, 양성자의
-전하는 +⅔ +⅔ -⅓ = +1 이에요.
+Prootoneid leidub aatomite tuumas. Need on tuhandeid kordi väiksemad kui aatom
+ise. Neis on kaks u-kvarki ja üks d-kvark. Seepärast on prootoni laeng
++2/3+2/3-1/3 = +1.

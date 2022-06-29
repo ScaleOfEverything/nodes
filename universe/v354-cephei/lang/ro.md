@@ -1,5 +1,5 @@
-# V354 Cefea
+# V354 Cephei
 
-V354 Cefea estas ruga supergiganta, kaj estas tre grandega. Se estus lokita en
-la Sunsistemo, gi etendigus preter la orbito de Jupitero. La numero 354 en ci
-tiu stela nomo temas pri la jaro kiam Augusteno el Hippo naskigis.
+V354 Cephei este o supergiganta rosie, si este imensa. Daca ar fi în locul
+Soarelui, s-ar întinde dincolo de orbita lui Jupiter! 354 este si anul de
+nastere al lui Augustin de Hippo

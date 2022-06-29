@@ -1,6 +1,6 @@
-# .Altair
+# Альтаір
 
-Altair este una dintre cele trei stele ale Triunghiului de Vara. Triunghiul de
-Vara este un triunghi ascutitunghic, însemnînd ca toate unghiurile sunt mai mici
-de 90 °! Celelalte doua sunt Vega si Deneb. Ca multe alte stele, Altair se
-învîrte foarte repede, si e bombat la centru!
+Альтаір – одна з трьох зірок у Літньому Трикутнику. Літній Трикутник є гострим
+трикутником, що означає, що усі кути у ньому менше 90°! Інші дві – це Вега та
+Денеб. Як і багато інших зірок, Альтаір дуже швидко обертається, видаючись
+уперед у центрі!

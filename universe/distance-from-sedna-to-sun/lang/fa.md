@@ -1,4 +1,5 @@
-# Sedna ja Päikese vaheline kaugus (suurim)
+# Distance from Sedna to Sun (farthest)
 
-Kui Sedna on Päikesest kõige kaugemal, siis see on päris kaugusel. Seda punkti
-nimetatakse afeeliks! Sednal kulub 10 000 Maa aastat, et sooritada üks täisring.
+When Sedna is the farthest from the Sun, it is very far away. This point is
+called the "aphelion"! It takes Sedna over 10,000 Earth years to complete one
+orbit.

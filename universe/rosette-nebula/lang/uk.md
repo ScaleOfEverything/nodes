@@ -1,5 +1,5 @@
-# Nebuloasa Rosette
+# Туманність Розетка
 
-Nebuloasa Rosette este foarte mare, dar difuza. Pare a fi un trandafir de foc. E
-la aproximativ 5000 de ani-lumina distanta de noi si are o masa de 10.000 de
-Sori. (3 miliarde de Pamînturi)
+Туманність Розетка дуже велика, але дуже нечітка. Вона схожа на полум’яну розу
+та на квітучий вогонь. Вона знаходиться на відстані приблизно 5,000 світлових
+років від нас і має масу 10,000 Сонць. (3 мільярда Земель)

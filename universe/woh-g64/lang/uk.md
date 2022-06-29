@@ -1,6 +1,6 @@
 # WOH G64
 
-cred ca stiu ... te gandesti, "WOH ... trebuie sa fie o stea mare!" Ei bine, ai
-dreptate, pentru ca în prezent este a doua cea mai mare stea cunoscuta. WOH G64
-se afla în Norul lui Magelan. În jurul stelei se afla un nor de o jumatate de
-an-lumina!
+Я знаю... ви думаєте, "WOH... це велика зірка!" Ну, я гадаю, ви праві, тому що
+зараз це друга найбільша зірка із тих, що були відкриті. WOH G64 можна знайти у
+Великій Магеллановій хмарі. Також цю зірку огортає ще одна хмара, що
+простягається шириною у півсвітлового року.

@@ -1,4 +1,4 @@
-# Neptuuni ja Päikese vaheline kaugus
+# Distance from Neptune to Sun
 
-Neptuun on kõige kaugem Päikesesüsteemi planeet. Vahemaa Neptuunilt Päikeseni on
-suurem kui ühegi tuntud tähe läbimõõt.
+Neptune is the most distant planet in the solar system. The distance from
+Neptune to the Sun is greater than the diameter of any known star!

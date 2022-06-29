@@ -1,6 +1,5 @@
-# Kingloom
+# Paramecium
 
-Kingloomade suurus võib olla päris erinev, aga harilikult jääb see umbes 200
-mikromeetri juurde. Nendele väikesetele bakteritele meeldib ujuda vees. Vees
-saavad nad ujuda kiirusega 2 millimeetrit sekundis, mis on umbes 10 nende enda
-pikkust ühes sekundis.
+Paramecia vary quite a lot in size, but it's usually around 200 mircrometers.
+These little guys are protists and like to swim in water. They can move two
+millimeters per second!

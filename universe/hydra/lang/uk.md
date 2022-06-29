@@ -1,6 +1,7 @@
-# Hydra
+# Гідра
 
-Hydra este una dintre lunile lui Pluto, numit dupa sarpele cu sapte capete din
-mitologia greaca. Hydra va creste doua capete, daca îi tai unul. Daca vrei ca
-Hydra sa aiba n capete, trebuie sa sa îi tai n-7 capete! Asta însa nu va
-functiona daca în final vrei mai putin de sapte capete.
+Гідра є одним з місяців Плутона. Він отримав назву від семиголової змії із
+грецької міфології. Звичайно, Гідра відростить дві голови, якщо ви відріжете їй
+одну. Якщо ви хочете, щоб у Гідри було n голів, все, що ви повинні зробити, - це
+відрізати n-7 голів! Однак, це не спрацює, якщо ви хочете отримати менше, ніж
+сім голів.

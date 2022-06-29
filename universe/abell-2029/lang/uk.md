@@ -1,6 +1,6 @@
-# Abell 2029
+# Абель 2029
 
-Abell 2029 este un cluster galactic la un miliard de ani-lumina, în constelatia
-Serpens. Galaxia sa centrala, IC 1101, este aproape la fel de mare ca întreg
-cluster-ul. Emite de 2 trilioane de ori mai multa lumina decît Soarele. (cam cît
-10 ^ 39 becuri)
+Абель 2029 – це галактичне скупчення, яке знаходиться на відстані один мільярд
+свтлових років від нас у сузір’ї Змії. Його центральна галатика, якою є IC 1101,
+відповідає своїм великим розмірам. Вона випромінює у 2 трильйони разів більше
+світла, ніж Сонце. (Близько 10 у 39 ступені електричних лампочок)

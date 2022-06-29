@@ -1,4 +1,5 @@
-# Liivakella udukogu
+# Hourglass Nebula
 
-Liivakella udukogu on liivakellakujuline. Nagu näha võib, koosneb see kahest
-anumast. Ülemine anum on kallutatud meie suunas ja alumine meist eemale.
+The Hourglass Nebula is actually shaped like an hourglass. As you can see, there
+are two lobes. The upper lobe is tilited toward us, and the bottom one is tilted
+away.

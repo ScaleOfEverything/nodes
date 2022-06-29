@@ -1,4 +1,5 @@
-# 전자망원경으로 볼 수 있는 가장 작은 크기
+# Väikseim objeks, mida näeb elektronmikroskoobiga
 
-우리는 전자망원경으로 아주 작은 것들 (원자 등) 과 가시광선의 파장보다 작은 물질
-들을 볼 수 있습니다.
+Elektronmikroskoobiga on võimalik vaadelda väga väikesi objekte (nagu näiteks
+aatomid), mida teisiti poleks näha kuna need on väiksemad kui nähtava valguse
+lainepikkus.

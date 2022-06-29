@@ -1,6 +1,6 @@
-# Blank-Sangaj Celoj
+# Celule albe din sînge
 
-Ci tiuj amasmurdintoj ankau estas nomataj leukocitoj. Eblas trovi diversajn
-specojn de ci tiaj kontrau-malsanaj batalantaj celoj. La plej ofta tipo, la
-neutrofila, havas multajn kernojn. La plej granda tipo, la makrofaga, havas la
-gigantan diametron de 21 µm. Kio estas la duobla mezuro de la neutrofila.
+Adevarati ucigasi în masa, celulele albe sînt sunt numite si leucocite. Exista
+mai multe tipuri de acest tip de celula de lupta împotriva bolilor. Tipul cel
+mai comun, neutrofile, au mai multe nuclee. Tipul cel mai mare, macrofage, au un
+diametru de un 21 de microni!

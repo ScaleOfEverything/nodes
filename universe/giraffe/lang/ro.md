@@ -1,6 +1,6 @@
-# Girafo
+# Girafa
 
-La girafo estas la plej alta tera mamulo kun halucinaj 6 metroj! Gia kolo sola
-estas preskau la duono de gia tuta alteco. Plenkreskitaj girafoj estas tiom
-altaj, ke la sola maniero por predantoj mortigi ilin estas pusi sur ilia
-flanko!" ,
+Girafa este cel mai înalt mamifer terestru - 6 metri. Gîtul în ??sine are
+aproape jumatate din înaltimea sa! Girafele adulte sunt atît de înalte încît
+singura modalitate pentru pradatori sa le omoare este sa le împinga într-o
+parte!

@@ -1,5 +1,4 @@
-# Proksimuma mezuro de ci tia vidujo
+# Dimensiunea aproximativa a cadrului
 
-Kvankam malsamaj komputilaj ekranoj havas malsamajn bilderamplekson, la ajoj sur
-la ekrano havas proksimume la saman grandecon. Ci tiu estas proksimume 20
-centimetroj longe!
+Desi monitoarele au dimensiuni diferite pentru fiecare pixeli, lucrurile de pe
+ecran au cam aceeasi marime. Acest cadru are aproximativ 20 de centimetri!

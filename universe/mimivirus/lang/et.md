@@ -1,5 +1,5 @@
-# 미미바이러스
+# Mimiviirus
 
-이 작은 바이러스는 이 바이러스 자체보다 500 배나 큰 아메바 속에서 발견되었습니다
-. 미미바이러스는 최근까지 가장 큰 바이러스였는데, 최근 메가바이러스가 그 자리를
-차지했습니다.
+Väike asjake leiti aastal 1992 ühe amööbi seest. Ta on amööbist 500 korda
+väiksem ja tolajal peeti seda kõige suuremaks teadaolevaks viiruseks. Nüüd kõige
+suurem viirus on megaviirus.

@@ -1,6 +1,5 @@
-# Negakvo
+# Lapovita
 
-Negakvo, kiuj falas de la cielo, estas farita de glaciaj buletoj. Tia pilko de
-maldekstre estas glacia buleto. Negakvo estas simila al la nego, sed gi estas
-multe pli densa. Vi ankau eble rimarkis, ke negakvo estas signife pli malgranda
-ol hajlo." ,
+Lapovita cade din cer si e alcatuita din granule de gheata. Bolul de la stînga
+este o granula de gheata. Lapovita este similara zapezii, dar mult mai densa. Se
+poate observa ca lapovita este cu mult mai mica decît grindina.

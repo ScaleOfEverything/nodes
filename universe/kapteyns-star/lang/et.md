@@ -1,5 +1,5 @@
-# 카프타인의 별
+# Kapteyni täht
 
-카프타인의 별은 지구에서 13 광년밖에 떨어져있지 않습니다. 그렇긴 하지만, 겉보기
-등급이 +9 로 어두워서 보려면 쌍안경 정도는 필요합니다. 10,000 년 전에는 더 가까
-웠는데, 겨우 7 광년밖에 떨어져있지 않았대요!
+Kapteyni täht on ainult kolmeteistkümne valgusaasta kaugusel. Sellegi poolest on
+selle suhteline tähesuurus +9 ja seda näeb ainult binokliga. 10 000 tagasi oli
+Kapteyni täht ainult seitsme valgusaasta kaugusel.

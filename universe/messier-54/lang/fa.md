@@ -1,5 +1,5 @@
 # Messier 54
 
-Messier 54 ehk M54 ehk NGC 6715 on järjekordne kerasparv. See asub Sagittariuse
-kääbusgalaktikas, mis tähendab, et see on esimene kerasparv avastatud väljaspool
-Linnuteed.
+Messier 54, or M54, or NGC 6715, is another globular cluster. It is in the
+Sagittarius Dwarf Galaxy, which would mean it's the first globular cluster
+outside of the Milky Way to be discovered.

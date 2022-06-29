@@ -1,5 +1,5 @@
-# Nucleul celulei
+# Ядро клітини
 
-Nucleul celular este prezent în toate celulele eucariote (celulele umane sunt si
-ele eucariote). Nucleul celulei contine si ADN-ul. În timpul mitozei, ADN-ul se
-va condensa în cromozomi, iar apoi celula se va împarti în doua.
+Ядро доволі кльове, і їх можна знайти у всіх клітинах-еукаріотах. (Людські
+клітини є еукаріотами.) Саме у ядрі зберігається уся ДНК. Під час мітозу, ДНК
+конденсується у хромосоми, а потім клітина розділиться на дві.

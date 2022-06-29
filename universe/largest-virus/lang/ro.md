@@ -1,6 +1,6 @@
-# Plej Granda Viruso
+# Cel mai mare Virus
 
-La plej granda viruso konita, kutime estis la Mimiviruso, kies nomo satas al mi,
-sed estas nun la Megaviruso, kies nomo ankau satas al mi. Tamen, al mi ne satas
-la virusojn mem. Cu vi scias ke la Megaviruso havas la plej longan genomon de
-virusoj?
+Cea mai mare virus cunoscut era Mimivirus-ul, al carui nume îmi place, dar acum
+este Megavirus, al carui nume îmi place si el. Cu toate acestea, nu-mi place de
+virusii propriu-zisi. Stiai ca Megavirus are cea mai lunga secventa a genomiala
+dintre virusi?

@@ -1,5 +1,5 @@
-# Complexul Pestii-Cetus Supercluster
+# Комплекс Надскупчення Риби-Кита
 
-Noi de fapt, traim în Complexul Pestii-Cetus Supercluster. Dupa Marele Zid
-Sloan, ca dimensiuni, acesta este al doilea obiect cunoscut. În acest context
-locul al doilea nici nu pare asa de rau!
+Насправді ми живемо у Комплексі Надскупчення Риби-Кита. Це другий найбільший
+об’єкт з тих, що відомі людству, після Великої Стіни Слоуна. Мені здається,
+друге місце – це дуже добре.

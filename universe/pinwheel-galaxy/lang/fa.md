@@ -1,4 +1,5 @@
-# Pinwheel galaktika
+# Pinwheel Galaxy
 
-Alguses, kui see galaktika avastati, arvati see olevat udukogu. Seda nimetatakse
-ka Messier 101, sest see oli 101. Messieri objekt, mis katalogiseeriti.
+When this galaxy was first discovered, it was believed to be a nebula. It's not;
+it's a galaxy. It's also called Messier 101, because it was the 101st Messier
+object to be catalogued.

@@ -1,5 +1,6 @@
 # Eris
 
-Eris on suurim kääbusplaneet. See on isegi suurem kui Pluuto, mis on samuti
-kääbusplaneet. Ka Eris asub Päikesest väga kaugel. Erisel on kuu nimega
-Dysnomia. Kus on Dysnomia? See on siin all.
+Eris is the largest dwarf planet. It is even bigger than Pluto, which is also a
+dwarf planet. Eris is also very far from the Sun. Eris has a moon, and that's
+Dysnomia. Where's Dysnomia? It's directly beneath the period at the end of this
+last sentence.

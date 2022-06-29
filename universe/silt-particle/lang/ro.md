@@ -1,5 +1,5 @@
-# Slima Partiklo
+# Namolul
 
-Lau la Udden-Wentworth-a skalo, slimaj partikloj varias el la plej malgranda de
-1/256 milimetro al la plej granda de 1/16 milimetro. Ci tia dekstra slima
-partiklo trafas en tiu gamo tre bone.
+Potrivit scarii Udden-Wentworth, particulele de namol variaza de la 1/256 mm la
+cel mai mare de 1/16 mm. Aceasta particula namol de la dreapta se încadreaza în
+aceasta scala destul de bine.

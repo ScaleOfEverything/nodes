@@ -1,5 +1,5 @@
-# 중성자별
+# Neutrontäht
 
-중성자별은 중성자가 매우 밀집된 구조를 띄고 있습니다. 1mm³ 안에 들어있는 중성자
-별을 구성하는 물질의 무게는 5,000억 kg 에 육박한다고 하네요! (이 무게는 지구상의
-인간들의 무게를 모두 합했을때와 맞먹습니다!)
+Neurtontähed koosnevad hästi pakitud neutronitest. Selle tulemusena on nad väga
+tihedad. Ühe milliliitri neutrontähe mass on 500 miljardit kilogrammi! See on
+umbes sama palju, kui kõigi inimeste mass kokku

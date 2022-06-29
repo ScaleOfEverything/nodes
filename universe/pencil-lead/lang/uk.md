@@ -1,5 +1,6 @@
-# Vîrful unui creion
+# Графіт для Олівця
 
-Oamenii folosesc mult creionul. Apropo, aici este vîrful unui creion mecanic.
-Stiai ca cel mai mare creion contine 2.000 de kilograme de grafit, însemnînd de
-trei ori mai mult decît un om! Si prin om ma refer la cel mai greu om!
+Люди багато користуються графітом для олівців. О, і до речі, це графіт для
+механічного олівця. Ще варто зазначити, найбільший олівець містив 2,000 кілограм
+графіту. Це близько у три рази більше, ніж важить людина! І тут під словом
+людина я маю на увазі найважкішу людину, яка коли-небудь існувала на Землі.

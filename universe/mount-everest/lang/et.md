@@ -1,4 +1,4 @@
-# 에베레스트 산
+# Mount Everest
 
-지구에서 가장 높은 산인 에베레스트산은, 그 높이가 8,848 m 에 이릅니다. 그런데 이
-높이는 계속 증가하고 있다고 하네요, 자라나는 아이들마냥요.
+8848 meetriga on Mount Everest kõrgeim mägi Maal. See kasvab pidevalt nagu väike
+laps. Ainult vähesed inimesed suudavad ronida sinna tippu ilma hapnikumaskita.

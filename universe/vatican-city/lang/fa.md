@@ -1,5 +1,6 @@
-# Vatikani linn
+# Vatican City
 
-Vatikani linn on väikseim riik maailmas. Kuigi see on väga väike, on see sinust
-suurem. Kui sinu keha venitada ühtlaselt üle Vatikani, siis selle kihi paksus
-oleks 200 nanomeetrit, mis on vähem kui ühe naharaku läbimõõt.
+Vatican City is the smallest country. It, although very small, is larger than
+you are. If you were to stretch your flesh over Vatican City so that it was
+spread evenly, the coating would be about 200 nanomaters thick, which is less
+than even a single skin cell!

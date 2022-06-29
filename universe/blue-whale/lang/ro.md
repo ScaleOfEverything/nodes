@@ -1,5 +1,5 @@
-# Blua Baleno
+# Balena albastra
 
-La blua baleno estas la ununura plej granda besto. Sia pezo, kiu estas 180
-metraj tunoj, estas pli granda ol iu ajn alia besto. Bedaurinde, balenkaptado
-jam malpliigis la bluan balenan logantaron el 300,000 al 2,000.
+Balena albastra este cel mai mare animal existent. Greutatea ei - 180 de tone -
+este mai mare decît a oricarui alt animal. Din pacate, vînatoarea de balene a
+redus numarul lor de la 300.000 la 2.000.

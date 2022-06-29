@@ -1,4 +1,5 @@
-# Raj-Nebulozo
+# Nebuloasa Stingray
 
-La Pron-Raja Nebulozo estas planeda nebulozo sed iom juna, gi konstante kreskas.
-Kiu ajn nomis ci tiun nebulozon devis pensi, ke gi similas al rajo. Cu ne?
+Nebuloasa Stingray este o nebuloasa planetara relativ tînara, si în continua
+crestere. Cine a numit aceasta nebuloasa a crezut ca seamana cu o pisica de
+mare. Tu?

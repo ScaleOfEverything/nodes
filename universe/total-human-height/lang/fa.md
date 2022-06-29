@@ -1,5 +1,5 @@
-# Kõigi inimeste pikkus kokku
+# Total Human Height
 
-Kui kõik 7 miljardit inimest seisaksid teineteise peal, ja alumised 6,99
-miljardit inimest ei kuku kokku sellest kaalust, selle virna kõrgus oleks umbes
-10 miljonit kilomeertrit.
+If all the 7 billion humans stood on top of one another, and the bottom 6.99
+billion humans didn't crumple under all the weight, the stack would be
+approximately 10 million kilometers tall.

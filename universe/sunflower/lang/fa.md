@@ -1,5 +1,6 @@
-# Päevalill
+# Sunflower
 
-Kas teadsid, et päevalilleõis ei ole ainult üks õis, vaid koosneb tegelikult
-tuhandetest väikestest lilledest? Neid väikeseid lilli kutsutakse õisikuteks.
-Õisikutest saavad lõpuks maitsvad päevalilleseemned.
+Did you know that the "flower" of a sunflower is not a single flower, but
+actually a flower head made up of thousands of small flowers? These small
+flowers are called florets. The florets in the center become sunflower seeds,
+which are currently invisible at this scale.

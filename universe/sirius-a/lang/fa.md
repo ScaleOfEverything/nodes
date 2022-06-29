@@ -1,5 +1,5 @@
-# Siirius A
+# شباهنگ A
 
-Siirius on tähistaeva heledaim täht. See on peaaegu kaks korda heledam kui
-Canopus, heleduselt teine täht. Siirius ei ole suur täht. See ainult näib hele
-kuna asub meie lähedal, ainult kaheksa valgusaasta kaugusel.
+شباهنگ درخشانترین ستاره در آسمان شب است. تقریبا دو برابر درخشان تر از سهیل،
+دومین ستاره ی درخشان است. با اینحال شباهنگ ستاره ی بزرگی نیست. دلیل درخشندگی
+زیاد آن نزدیکی آن به ماست چیزی در حدود 8 سال نوری.

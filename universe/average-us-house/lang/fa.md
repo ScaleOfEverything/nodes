@@ -1,5 +1,5 @@
-# Keskmine maja USA-s
+# Average U.S. House
 
-Keskmine maja USA-s on pindalalt muutunud suuremaks ja suuremaks. Viimase 40
-aasta joooksul on keskmise maja pindala kahekordistunud. Praegu mahub
-keskmisesse majasse üle 1000 inimese!
+These houses of the United States have been getting larger. In the last 40
+years, the average house has almost doubled in area! These houses are so large,
+you could fit 1,000 people in them! It would be pretty cramped, though.

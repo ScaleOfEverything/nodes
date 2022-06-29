@@ -1,5 +1,5 @@
-# Rug-Luma Ondolongo
+# Lungimea de unda a luminii rosie
 
-La ruga estas la unua koloro de la cielarko. Gi stimulas la apetiton. Tia estas
-la kialo, car tre multaj mangajfirmaoj metas rugon en iliaj markemblemoj. Ili
-volas vi mangu! Resume, ili provas trompi vian cerbon.
+Rosul este prima culoare a curcubeului si stimuleaza pofta de mîncare. Acesta
+este si motivul pentru asa de multe companii alimentare au rosu în logo-ul lor.
+Ele te conving sa manînci! Pe scurt, îti pacalesc creierul.

@@ -1,5 +1,6 @@
-# Loomise sambad
+# The Pillars of Creation
 
-Loomise sambad asuvad Kotka udukogus. Kotka udukogu on meist 7000 valgusaasta
-kaugusel. Tõendid näitavad, et Loomise sambad hävinesid supernoova plahvatuses
-6000 aastat tagasi ja meil on nad näha veel 1000 aastat.
+The Pillars of Creation lie within the Eagle Nebula. The Eagle Nebula is 7,000
+light-years away from us. Evidence shows that the Pillars of Creation were
+destroyed by a supernova about 6,000 years ago, so we only have another
+millennium to see it.

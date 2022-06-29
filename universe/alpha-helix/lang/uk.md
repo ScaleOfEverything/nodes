@@ -1,4 +1,5 @@
-# Alpha Helix
+# Альфа-Спіраль
 
-Helix alfa este una dintre structurile secundare ale proteinelor.Hemoglobina si
-mioglobina sunt proteine ??care sunt facute aproximativ 70% din spirale alfa!
+Альфа-спіраль – одна із вторинних структур протеїнів. Багато протеїнів мають
+альфа-спіралі усередині. Гемоглобін та міоглобін – протеїни, які вироблені
+близько з 70% альфа-спіралей!

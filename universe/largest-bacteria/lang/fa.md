@@ -1,5 +1,5 @@
-# Suurim bakter
+# Largest Bacteria
 
-Suurim bakter Thiomargarita namibiensis on peaaegu ühe millimeetri pikkune. Ta
-elab Namiibia ranniku lähedal ookeanis. Suudad sa ette kujutada olukorda, kus
-ujudes vees näed midagi sellest. Nad on täiesti märgatavad.
+The largest bacteria, which is Thiomargarita namibiensis, is almost one
+millimeter in length. It lives in the ocean off the coast of Namibia. Can you
+imagine being in the ocean, and seeing these things? They're very visible!

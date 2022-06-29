@@ -1,6 +1,6 @@
-# 만리장성
+# Suur Hiina müür
 
-만리장성의 길이는 8,850 km 에 이릅니다. 하지만, 이 성이 직선이 아니라 구불구불하
-게 이어져 있기 때문에, 시작점과 끝나는 지점의 거리는 2,900 km 밖에 되지 않습니다
-. 우주에서 만리장성이 보인다는 말이 있는데, 실제로 보이진 않아요. 폭이 10 미터도
-안되잖아요! 보통 집들도 10 미터 보단 넓은데!
+Suur Hiina müür on 8850 km pikk. Selline pikkus tuleb tõusudest, langustest ja
+looklevast rajast. Tegelikult on kaugus linnulennult algpunktist lõpuni vaid
+2900 km. Suurt Hiina müür ei ole kosmosest nähtav, sest ta on vähem kui 10
+meetri lai! Isegi enamik majad on laiemad kui see.

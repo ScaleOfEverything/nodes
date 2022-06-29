@@ -1,5 +1,5 @@
-# Burg Halifa
+# Burj Khalifa
 
-Burg Halifa, kiu iam estis nomita la Burg Dubajo, estas la plej alta konstruajo
-en la mondo. Neniu alia konstruajo estas pli granda ol 828,000 milimetroj alte.
-Estas nagejo sur la 76a etago.
+Burj Khalifa, numit si Burj Dubai, este cea mai înalta cladire din lume. Nici o
+alta cladire nu este mai înalta decît ai ei 828,000 milimetri înaltime. Are si o
+piscina la etajul 76.

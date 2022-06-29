@@ -1,6 +1,5 @@
-# 세레스
+# Ceres
 
-세레스는 인간이 살기에 그렇게 좋은 환경은 아닙니다. 세레스는 가장 큰 소행성인데,
-이것 때문에 세레스를 "행성"으로 정의할 것인가 하는 논쟁이 시작되었죠. 이후 얼마
-동안, 세레스는 행성으로 정의되었지만, 그리고 나서는 명왕성과 함께 나란히 왜행성
-이 되었습니다.
+Ceres ei ole väga hea koht, kus elada. Ceres on suurim asteroid, mis põhjustas
+arutelu planeedi definitsiooni üle. Mõnda aega peeti Cerest isegi planeediks,
+kuid see lõpetati üsna ruttu.

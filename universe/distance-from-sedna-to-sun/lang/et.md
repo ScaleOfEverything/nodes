@@ -1,4 +1,4 @@
-# 세드나에서 태양까지의 거리 (가장 멀 때)
+# Sedna ja Päikese vaheline kaugus (suurim)
 
-세드나가 태양에서 가장 멀어졌을때의 거리는 아주 멉니다. 이 지점을 "원일점" 이라
-고 합니다. 세드나는 한 번 공전하는데 10,000 년이나 걸린다고 하네요!
+Kui Sedna on Päikesest kõige kaugemal, siis see on päris kaugusel. Seda punkti
+nimetatakse afeeliks! Sednal kulub 10 000 Maa aastat, et sooritada üks täisring.

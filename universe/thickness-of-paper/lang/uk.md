@@ -1,5 +1,6 @@
-# Grosimea foii de hârtie
+# Товщина Папіру
 
-Hîrtia este foarte subtire; atît de subtire încît te poti taia în ea. Pe hîrtie
-putem scrie si desena, dar putem si sa o pliem în superbe forme matematice, cum
-ar fi patrate si triunghiuri si dodecaedroane si multe altele
+Папір дуже тонкий. Він настільки тонкий, що ви можете об нього порізатися. Ви
+можете робити багато речей з папіром, а саме писати на ньому, малювати, та
+навіть скручувати його в такі форми, як квадрати, трикутники, додекаедри та
+інші.

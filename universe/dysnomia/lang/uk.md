@@ -1,5 +1,5 @@
-# Dysnomia
+# Дисномія
 
-Dysnomia este singurul satelit al lui Eris si a fost descoperit pe 10 septembrie
-2005, într-o zi de sâmbata. Stiai ca dysnomia este un handicap de învatare,
-similar cu dislexiei?
+Дисномія є єдиним місяцем Еріса і була винайдена 10 вересня 2005 року, у той
+день була субота. Також, чи вам відомо, що слово "Дисномія" також може означати
+нездатність до навчання, що має схожість до дислексії?

@@ -1,5 +1,5 @@
-# Putr-Ova Nebulozo
+# Nebuloasa ou stricat
 
-La Putr-Ova Nebulozo havas sulfuron en gi. Eble tio estas la kialo oni nomas gin
-Putr-Ovan Nebulozon. Lau mi pensas, gi aspektas kiel peco de kruda ovo, kie la
-bluo estas la krakita selo, kaj la flavo estas la ovoflavo elversita for.
+Nebuloasa ou stricat (Rotten Egg) contine sulf; probabil si motivul pentru
+numele ei. Arata aproape ca un ou crud, unde albastrul este coaja crapata si
+galbenul este galbenusul care iese afara

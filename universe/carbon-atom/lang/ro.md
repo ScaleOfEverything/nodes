@@ -1,5 +1,6 @@
-# Karbona Atomo
+# Atomul de Carbon
 
-Karbono estas la bazo de la tuta vivo sur la Tero. Tio ci okazas car la karbonaj
-atomoj povas krei kvar-valenta ligo, tion signifas, ke gi povas ligigi en miloj
-da manieroj kun oksigeno, nitrogeno, hidrogeno, karbono kaj aliaj elementoj.
+Carbonul este baza tuturor formelor de viata de pe Pamînt. Acest lucru se
+datoreaza faptului ca atomii de carbon pot crea patru legaturi covalente, ceea
+ce înseamna ca se pot lega în mii de feluri, cu oxigen, azot, hidrogen, carbon
+si alte elemente.

@@ -1,4 +1,5 @@
-# Pasarea Dodo
+# Птах Дронт
 
-Pasarea dodo a disparut undeva în 1600, Numele vine de la sunetul care-l produc
-(sau îl produceau, deoarece e extincta). Da, nu mai exista!
+Птах дронт був винищений на протязі 1600-их років. Його назва походить від
+звуку, який вони видають (чи я повинен сказати видавали, так як зараз вони
+винищені). Так що, дійсно, вони зникли.

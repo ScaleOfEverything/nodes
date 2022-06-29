@@ -1,6 +1,6 @@
-# Granda Kanjono
+# Marele Canion
 
-La Granda Kanjono estas unu el la plej grandaj kanjonoj sur la Tero. Estis
-skulptita de la Kolorado Rivero. La totala skulptado okazis dum preskau 17
-milionoj da jaroj! La roktavoloj elmontritaj estis ec pli malnovaj, iuj tiel
-malnovaj, kiel 1.8 miliardoj da jaroj!
+Marele Canion, unul dintre cele mai mari canioane de pe Pamînt a fost sapat de
+rîul Colorado. A fost creat pe parcursul a cam 17 milioane de ani! Cele mai
+vechi straturi de roca expusa sunt si mai vechi, unele de chiar 1.8 miliarde de
+ani!

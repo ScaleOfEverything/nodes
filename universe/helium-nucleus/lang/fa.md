@@ -1,6 +1,5 @@
-# Heeliumi tuum
+# Helium Nucleus
 
-Heeliumi tuum on 1000 korda väiksem kui Heeliumi aatom. See suhe on sama nagu
-väike klaaskuulike jalgpalli väljakul. Ainus põhjus, miks aatomid teineteisest
-läbi ei lähe, on nende tõukumine. Kui nad omavahel ei tõukuks, siis ainet ei
-saaks formeeruda.
+The helium nucleus is thousands of times smaller than the atom, like a marble in
+a football field. The only reason matter feels solid is because atoms repel. If
+atoms didn't repel, everything would fall through each other!

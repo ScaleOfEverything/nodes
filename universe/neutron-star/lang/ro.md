@@ -1,5 +1,5 @@
-# Neutrona Stelo
+# Steaua neutronica
 
-Neutronaj steloj estas faritaj el strece pakitaj neutronoj. Rezulte, ili estas
-ekstreme densaj. Unu mililitro de neutrona stela materialo pezas 500 miliardojn
-da kilogramoj! (Tio estas proksimume la pezo de ciuj homoj kune.)
+Stele neutronice sunt stele dense alcatuite din neutroni extrem de compresati.
+Un mililitru din materialul unei stele neutronice cîntareste 500 de miliarde de
+kilograme! (sau greutatea tuturor oamenilor la un loc)

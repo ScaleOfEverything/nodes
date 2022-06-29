@@ -1,4 +1,4 @@
-# 석호 성운
+# Laguuni udukogu
 
-석호 성운은 1747 년 발견될 당시에 지어진 이름입니다. 우리로부터 5,000 광년 떨어
-져있고, 자외선을 내뿜는 소용돌이를 가지고 있습니다.
+Laguuni udukogu sai oma nime 1747, kui see avastati. See on meist 5000
+valgusaasta kaugusel ja sisaldab tornaadosid, mis kiirgavad UV-valgust.

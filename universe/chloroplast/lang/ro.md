@@ -1,6 +1,5 @@
-# Kloroplasto
+# Cloroplast
 
-Plantoj utiligas kloroplastojn por sangi la Sunan energion en kemia energio, kiu
-estas konservita en glukozaj molekuloj! Kloroplastoj ankau estas tio, kio donas
-plantojn ilian verdan koloron, car ili havas fabelan klorofilon ene de iliaj
-tilakoidaj membranoj.
+Cloroplastul este utilizat de catre plante pentru transformarea energiei solare
+în energie chimica, stocata în molecule de glucoza!, Este de asemenea si ce da
+plantelor culoarea verde.

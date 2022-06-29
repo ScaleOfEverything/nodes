@@ -1,5 +1,5 @@
-# cuarcul Strange
+# Дивний Кварк
 
-Cuarcii Strange sunt foarte ciudati. Acestia sunt de 50 de ori mai masivi decît
-cuarcii up, dar sunt mai mici! Nu-i ciudat? " Materia ciudata" este alcatuita
-din cuarci up, down si strange.
+Дивні кварки є дуже дивними. Вони у 50 разів масивніші, ніж верхні кварки, але
+все рівно менші! Невже це не дивно? Так, дуже! "Дивна матерія" складається з
+верхнього, нижнього та дивного кварків!

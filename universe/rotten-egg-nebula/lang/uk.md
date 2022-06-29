@@ -1,5 +1,6 @@
-# Nebuloasa ou stricat
+# Туманність Тухле Яйце
 
-Nebuloasa ou stricat (Rotten Egg) contine sulf; probabil si motivul pentru
-numele ei. Arata aproape ca un ou crud, unde albastrul este coaja crapata si
-galbenul este galbenusul care iese afara
+Туманність Тухле Яйце має сірку у своєму складі. Мабуть, саме тому цю туманність
+називають Туманністю Тухле Яйце. Я гадаю, на вигляд вона трохи схожа на сире
+яйце, де блакитний колір – це тріснута шкаралупа, а жовтий - жовток, що витікає
+назовні.

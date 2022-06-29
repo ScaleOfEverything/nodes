@@ -1,5 +1,7 @@
-# 예상되는 우주의 크기
+# Universum
 
-우주는 우리가 아는 모든 것입니다. 아, 또, 우주는 이것보다 더 클수도 있고, 혹은그
-크기가 무한일수도 있어요! 우주의 크기를 직접적으로 측정할 수 있는 방법은 없습니
-다. 우주에는 또다른 평행우주가 있을 수도 있는데, 우리가 그걸 알 순 없겠죠.
+Suurelt öeldes universum on kõik, mida me teame. Universum võib tegelikult olla
+palju suurem kui siin näidatud - see võib isegi olla lõpmatu! Siiani ei ole
+leitud täpset viisi, kuidas mõõta universumi suurust. Samuti on välja pakutud,
+et olemas võib olla mitu universumit ehk multiversum - seda ei ole küll kuidagi
+tõestada suudetud.

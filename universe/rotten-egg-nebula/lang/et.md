@@ -1,5 +1,5 @@
-# 썩은 달걀 성운
+# Mädamuna udukogu
 
-썩은 달걀 성운에는 황 성분이 있다고 합니다. 그게 아마 이름의 유래가 된 것 같네요
-(난황). 파란색이 껍질이라고 볼 때, 모양이 꼭 날계란이 깨졌을 때 노른자가 흘러나
-오는 것 같지 않나요?
+Mädamuna udukogu sisaldab väävlit. See on tõenäoliselt põhjuseks, miks seda
+nimetatakse Mädamuna udukoguks. Minu arvates meenutab see toorest muna kuna
+sinine on purunenud koor ja kollane on väljavoolav rebu.

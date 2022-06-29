@@ -1,5 +1,5 @@
-# Soolekepike
+# E. coli
 
-Soolekepike elab tavaliselt ohtu tekitamata sinu sooles. Sina saad vastu temalt
-vitamiin K2. Soolekepikesed koloniseerivad vastsündinu soole, kui laps on alles
-2 päeva vana.
+E. coli are usually harmless and live in your intestines, making wonderful
+vitamin K2. They are in almost everyone's intestines. In fact, they colonize in
+babies' intestines just two days after they are born! Now that's pretty fast!

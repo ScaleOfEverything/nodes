@@ -1,3 +1,4 @@
-# 육안으로 볼수있는 가장 작은 크기
+# Väikseim inimsilmaga nähtav objekt
 
-그냥 참고가 되라고 말씀드리는건데, 100 ㎛는 1/10 mm 와 같아요. 1/10 mm!
+Lihtsalt informatsiooniks, 100 mikromeetrit on peaaegu sama palju kui kümnendik
+millimeetrit. Pea kinni... See on TÄPSELT üks kümnendik millimeetrit.

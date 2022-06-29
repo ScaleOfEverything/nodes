@@ -1,5 +1,5 @@
-# Majnkrafta Mondo
+# Lumea Minecraft
 
-Etendigante de la koordinato 32,000,000 al -32,000,000, la Majnkrafta mondo
-havas entute 64,000 kilometrojn. Ci tiu mondo enhavas proksimume 130 duiliardojn
-da blokoj en gi! Tio certe estas multe!
+Întinzîndu-se de la coordonatele 32.000.000 - -32.000.000, lumea Minecraft
+cuprinde 64.000 de kilometri. Aceasta lume are aproximativ 130 cvadrilioane de
+blocuri în ea! O multime!

@@ -1,5 +1,5 @@
 # Ceres
 
-Ceres ei ole väga hea koht, kus elada. Ceres on suurim asteroid, mis põhjustas
-arutelu planeedi definitsiooni üle. Mõnda aega peeti Cerest isegi planeediks,
-kuid see lõpetati üsna ruttu.
+Ceres is not a very good place for humans to live. Ceres is also the largest
+asteroid, and began the debate over the definition of "planet". For a time,
+Ceres was considered a planet, but then it wasn't.

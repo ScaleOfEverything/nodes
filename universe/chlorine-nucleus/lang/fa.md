@@ -1,5 +1,5 @@
-# Kloori aatomtuum
+# Chlorine Nucleus
 
-Kloori tuumas on 17 prootonit. Seal on ka tavaliselt 18 või 20 neutronit! Ainult
-harva on seal 19 neutronit. Ma ei ole kindel miks nii on. Kas sina tead? Anna
-mulle teada kui tead.
+The chlorine nucleus has 17 protons. There are usually 18 or 20 neutrons there
+also! Only rarely are there 19 neutrons. I'm not sure why that is though. Do you
+know? Tell me if you do.

@@ -1,6 +1,6 @@
-# Pluto
+# Плутон
 
-Pluto nu mai e planeta. De ce oamenilor le pasa atît de asta? Pluto nu are
-sentimente! Chiar daca ar avea, de ce i-ar pasa de ce cred oamenii de pe Pamînt?
-Pe de alta parte, numele oficial al lui Pluto este acum "134340 Pluto", pentru
-ca este o planeta pitica
+Плутон більше не являє собою планету. Чому люди співчувають до нього? У нього
+немає відчуттів. Навіть якщо б вони були, невже йому було б не байдуже, про що
+думають люди на Землі? Варто зауважити, офіційним ім’ям Плутона зараз є "Плутон
+134340", тому що він є карликовою планетою.

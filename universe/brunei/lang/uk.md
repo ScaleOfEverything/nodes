@@ -1,5 +1,5 @@
-# Brunei
+# Бруней
 
-Brunei este o tara în sud-estul Asiei, marginita de Malaezia si Marea Chinei de
-Sud. 400.000 de suflete traiesc în aceasta tara. Acolo se conduce pe partea
-stînga a drumului.
+Бруней – країна у Південно-східній Азії. Вона повністю оточена Малайзією та
+Південно-Китайським Морем. 400,000 людей живуть у цій країні. Вони їздять по
+лівій частині дороги.

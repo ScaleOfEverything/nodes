@@ -1,5 +1,6 @@
-# Tranzistorul
+# Затвор у Транзисторній Схемі
 
-Tranzistorii din computere sunt într-un proces constant de micsorare. În 1971
-erau de 400 de ori mai mari, la 10 micrometri. Acum, s-a ajuns la 25 de
-nanometri! Viitorul este deschis - oare cît de mici mai pot deveni?
+Транзистори у комп’ютерах стають все меншими. У 1971 році, вони були у 400 разів
+більшими і мали розмір у 10 мікрометрів. Тепер вони зменшилися до 25 нанометрів,
+але в майбутньому, вони можуть бути навіть меншими. Наскільки маленькими вони
+будуть?

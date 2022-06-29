@@ -1,4 +1,5 @@
-# Uluru
+# Улуру
 
-Uluru, sau stînca Ayers, este o stînca de 348 de metri înaltime si trei
-kilometri în lungime în Australia centrala.
+Улуру, яка також відома як Айєрс-Рок, є скелею. Висотою у 348 метрів, вона
+коротша, ніж багато інших споруд. Однак, вона досягає три кілометри у довжину,
+що робить її довшою, ніж багато інших споруд.

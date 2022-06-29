@@ -1,5 +1,5 @@
 # NGC 3310
 
-NGC 3310 estas alia galaksio el tiuj, kiuj koliziis kun aliaj galaksioj,
-sangante ilian formojn. Ci tia estas spirala galaksio, kiu havas tre belajn
-brakojn kaj estas je pli ol 40 milionoj da lum-jaroj for.
+NGC 3310 este înca una dintre acele galaxii care s-au ciocnit cu alte galaxii,
+modificîndu-si astfel forma, o galaxie spirala cu brate foarte frumoase situata
+la peste 40 de milioane de ani-lumina.

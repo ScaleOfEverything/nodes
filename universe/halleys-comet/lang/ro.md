@@ -1,5 +1,4 @@
-# Halej-Kometo
+# Cometa Halley
 
-La vera amplekso de la Haleja Kometo estas tre malgranda. La vosto kiun faras
-gin povas esti de milionoj da kilometroj longe! La Haleja kometo perdas 10% de
-gia amaso dum ciu mil orbitoj.
+În realitate cometa Halley este destul de mica. Coada ei are însa milioane de
+kilometri! Cometa pierde 10% din masa ei la fiecare o mie de orbite

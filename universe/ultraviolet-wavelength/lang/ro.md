@@ -1,5 +1,4 @@
-# Ultraviola Ondolongo
+# Lungimea de unda a ultravioletelor
 
-Ultraviola lumo povas doni vin hautbrunon. Kutime mi pensis, ke la sunlumo kaj
-varmo brulas vian hauton brunigante gin, ekzemple, kiel kradrostado nigrigas
-ciujn mangajojn. Hodiau mi scias tio ne estas vera.
+Lumina UV te poate bronza! Credeam ca lumina si caldura soarelui ard pielea, la
+fel cum un gratar înegreste mîncarea. Acum stiu ca nu e adevarat.

@@ -1,5 +1,6 @@
-# 에리다누스자리 초공동
+# Eridanuse supertühimik
 
-밤하늘의 한 지역인 에리다누스자리 초공동은 우주 배경 복사의 온도보다도 낮습니다.
-우주 배경 복사의 온도는 2.7 °K 입니다. 어떤 학설에서는 이 초공동이 평행우주로 이
-어진다고 하네요, 우와!
+See on tähistaeva piirkond, mille temperatuur on natuke madalam kui kosmilisel
+mikrolaine-taustkiirgusel. Selle tempratuur on 2,7° K ehk -270,5° C. Natuke üle
+absoluutse nulli. Ühe teooria kohaselt on tegemist väravaga paralleel
+universumisse. Vau!

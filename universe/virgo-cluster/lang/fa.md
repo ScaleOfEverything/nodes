@@ -1,4 +1,5 @@
-# Neitsi parv
+# Virgo Cluster
 
-Neitsi parv on suurim parv Neitsi superparves ja asub selle keskel. See avastati
-hilistel 1770ndatel kui selle galaktikad katalogiseeriti Messieri objektidena.
+The Virgo Cluster is the largest cluster in the Virgo Supercluster, and is at
+its center. It was discovered in the late 1770s when its galaxies were
+catalogued as Messier objects.

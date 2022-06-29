@@ -1,6 +1,6 @@
-# Plutono
+# Pluto
 
-Plutono jam ne estas planedo. Kial homoj havas sentojn pri gi? Gi ne havas
-sentojn. Ec se gi havus, kiel gi povus prizorgi kion homoj pensas en la Tero?
-Pri alia aspekto, Nun la oficiala nomo de Plutono estas "134340 Plutono", car
-oni konsideras gin nanoplanedon.
+Pluto nu mai e planeta. De ce oamenilor le pasa atît de asta? Pluto nu are
+sentimente! Chiar daca ar avea, de ce i-ar pasa de ce cred oamenii de pe Pamînt?
+Pe de alta parte, numele oficial al lui Pluto este acum "134340 Pluto", pentru
+ca este o planeta pitica

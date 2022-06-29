@@ -1,4 +1,5 @@
-# 이 길이보다 더 짧은 길이는 정의되지 않음
+# Sellest suurusjärgust väikseimaid objekte pole teaduslikult kinnitatud
 
-이 길이보다 작은 모든 물체의 길이는 측정되지 않습니다. 표시되는 물체의 길이는 예
-측된 값이에요. 그 중에, 양자 폼 같은 것들은 그냥 가설입니다. 사실이 아니에요.
+Sellest suurusest väiksemaid objekte ei ole suudetud mõõta. Kõik väiksemad
+mõõtmed on hinnangud. Mõned asjad nagu kvantvaht on ainult hüpoteetilised - nad
+ei ole faktid.

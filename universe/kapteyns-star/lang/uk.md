@@ -1,5 +1,6 @@
-# Steaua lui Kapteyn
+# Зірка Каптейна
 
-Steaua lui Kapteyn e la doar treisprezece ani-lumina distanta. Chiar si asa,
-marirea ei e +9, asa ca fara binoclu nu se vede. Acum aproximativ 10.000 de ani,
-Steaua lui Kapteyn a fost la doar sapte ani-lumina distanta!
+Зірка Каптейна розташована на відстані лише тринадцять світлових років від нас.
+Навіть так, її величина - +9, так що вам знадобиться бінокль, щоб її побачити.
+Близько 10,000 років тому, зірка Каптейна була на відстані лише сім світлових
+років!

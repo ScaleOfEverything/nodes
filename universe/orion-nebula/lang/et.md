@@ -1,4 +1,5 @@
-# 오리온 성운
+# Orioni udukogu
 
-오리온 성운은 가장 잘 보이는 성운들 중 하나에요! 이름에서 알 수 있듯이, 오리온자
-리에 위치합니다.
+Orioni udukogu on kõige nähtavam udukogu. See asub Orioni tähtkujus nagu selle
+nimigi vihjab. Kas teadsid, et seal on neli Trapetsi tähte, mis on tekkinud
+udukogus olevast gaasist?

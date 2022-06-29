@@ -1,5 +1,5 @@
-# Ranid-Galaksio
+# Tadpole Galaxy
 
-La Ranida Galaksio havas spuron de steloj. Ili estis versajne formitaj, kiam
-alia galaksio koliziis en gi. Guste kiel ranidoj, oni atendas, ke la Ranida
-Galaksio perdu sian voston kiam gi plimaljunigu.
+Galaxie mormoloc a luat forma ei atunci cînd o alta galaxie s-a ciocnit de ea.
+La fel ca la mormoloci, Galaxy Tadpole îsi vai pierde coada pe masura ce
+înainteaza în vîrsta.

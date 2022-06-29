@@ -1,6 +1,5 @@
-# Karono
+# Charon
 
-Karono estas la ununura granda luno de Plutono. Ili estas tre similaj en
-grandeco. Kaj estas tre proksimaj, iuj konsideras Plutonon kaj Karonon kiel
-duobla planedo. Cu vi scias? La sama flanko de Karono ciame alfrontas Plutonon,
-kaj la sama flanko de Plutono ciame alfrontas Karonon
+Charon este singurul satelit mare al lui Pluto; fiind foarte apropiati în
+marime. Ele sunt atât de aproape, încat unii oameni considera ca Pluto si Charon
+sunt o planeta dubla. Stiati ca Charon si Pluto îsi arata mereu aceeasi fata?

@@ -1,5 +1,4 @@
-# 바람개비 은하
+# Pinwheel galaktika
 
-이 은하가 처음 발견되었을 때, 사람들은 이 천체가 성운인 줄 알았지만, 사실 이것은
-은하입니다. 이 은하는 메시어 101 (M101) 이라고도 불리는데, 메시어 천체에 101 번
-째로 등재되었기 때문이에요.
+Alguses, kui see galaktika avastati, arvati see olevat udukogu. Seda nimetatakse
+ka Messier 101, sest see oli 101. Messieri objekt, mis katalogiseeriti.

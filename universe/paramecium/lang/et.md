@@ -1,4 +1,6 @@
-# 짚신벌레
+# Kingloom
 
-짚신벌레의 크기는 다양하지만, 보통 200 ㎛ 정도 됩니다. 짚신벌레는 원생 생물인데,
-주로 물 속에 떠다닙니다. 1 초에 2 mm 를 이동할 수 있다고 하네요!
+Kingloomade suurus võib olla päris erinev, aga harilikult jääb see umbes 200
+mikromeetri juurde. Nendele väikesetele bakteritele meeldib ujuda vees. Vees
+saavad nad ujuda kiirusega 2 millimeetrit sekundis, mis on umbes 10 nende enda
+pikkust ühes sekundis.

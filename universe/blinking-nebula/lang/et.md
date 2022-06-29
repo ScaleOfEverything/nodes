@@ -1,5 +1,5 @@
-# 깜빡이는 눈
+# Plinkiv udukogu
 
-깜빡이는 눈 성운은 행성상 성운으로, 실제로 깜빡거리지는 않습니다. 그냥 우리가 보
-기에 깜빡거리는 것처럼 보이는 거에요. 깜빡이는 눈 성운에는 양쪽에 붉은 빛을 띄는
-고속도 이온화물질 방출 지역 두 곳이 있습니다.
+Plinkiv udukogu on planetaarudu, mis tegelikult ei plingigi. See tundub ilmuvat
+ja kaduvat vaateväljast. Seal on kaks punast tulukest, kiiret
+madala-ionisatsiooni emissiooni piirkonda, udukogu vastaskülgedel.

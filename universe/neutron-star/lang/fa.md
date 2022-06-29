@@ -1,5 +1,5 @@
-# Neutrontäht
+# Neutron Star
 
-Neurtontähed koosnevad hästi pakitud neutronitest. Selle tulemusena on nad väga
-tihedad. Ühe milliliitri neutrontähe mass on 500 miljardit kilogrammi! See on
-umbes sama palju, kui kõigi inimeste mass kokku
+Neutron stars are made of tightly packed neutrons. As a result, they are
+extremely dense. One milliliter of neutron star material weighs 500 billion
+kilograms! (That's about the weight of all humans combined.)

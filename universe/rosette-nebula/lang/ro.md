@@ -1,5 +1,5 @@
-# Rozeta Nebulozo
+# Nebuloasa Rosette
 
-La Rozeta Nebulozo (NGC 2237) estas tre granda, sed tre malhela. Sajnas esti
-fajra rozo kaj rozkolora fajrego. Gi estas proksimume je 5,000 lum-jaroj for de
-ni; kaj havas amason de 10,000 Sunoj. (3 miliardoj da Teroj)
+Nebuloasa Rosette este foarte mare, dar difuza. Pare a fi un trandafir de foc. E
+la aproximativ 5000 de ani-lumina distanta de noi si are o masa de 10.000 de
+Sori. (3 miliarde de Pamînturi)

@@ -1,5 +1,5 @@
-# Fabrica Boeing Everett
+# Завод Боінг Еверетт
 
-Fabrica Boeing Everett, cu cei 13 de milioane de metri cubi de spatiu
-utilizabil, este cea mai mare cladire din lume. Marele Zid chinezesc si barajul
-Three Gorges nu se califica drept cladiri.
+Завод Боінг Еверетт, із 13 мільйонами кубічних метрів придатного до застосування
+простору, є найбільшим будинком у світі. Велика Кітайська Стіна і гребля Три
+Ущелини не враховуються будинками.

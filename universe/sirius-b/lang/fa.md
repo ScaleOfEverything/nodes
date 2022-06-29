@@ -1,5 +1,5 @@
-# Siirius B
+# شباهنگ B
 
-Siirius B on valge kääbus. See on natuke suurem kui Maa! Tavaliselt on seda
-üpris raske märgata kuna jääb Siirius A pimestava valguse varju. Siirius B-d
-tuntakse ka kui Kutsikas.
+شباهنگ B یک کوتوله ی سفید است. به سختی بزرگتر از زمین است! همچنین رصد آن بسیار
+سخت است چرا که در پس نور خیره کننده ی شباهنگ A پنهان می شود. شباهنگ B به عنوان
+"توله ی سگ" نیز شناخته می شود.

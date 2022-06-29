@@ -1,4 +1,5 @@
-# Gacrux
+# گاکروکس
 
-Gacruxi leiab Lõunaristi tähtkujust. Crux tähendab ladina keeles risti. Gacrux
-on kaksiktäht. Kahest tähest suurim on punane hiid.
+گاکروکس را می توانید در صورت فلکی چلیپا پیدا کنید. چلیپا به معنای صلیب است در
+اتین آنرا به عنوان صلیب جنوبی می شناسند. گاکروکس یه ستاره ی دوتائی است. ستاره ی
+بزرگتر یک غول قرمز است.

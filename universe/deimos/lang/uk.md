@@ -1,5 +1,6 @@
-# Deimos
+# Деймос
 
-Deimos este unul dintre cei mai mici sateliti cunoscuti. Ai putea sa-l înconjori
-pe jos într-o zi! Asta daca ai putea supravietui în spatiul cosmic fara costum,
-pentru ca într-un costum nu cred ca ai putea merge la fel de repede
+Деймос є одним з найменших місяців, що були відкриті. Ви могли обійти його
+навкруги за один день! Звичайно, якщо б ви могли успішно вижити у відкритому
+космосі, або якщо б на вас був космічний костюм. Однак, я не думаю, що ви б
+могли так само швидко рухатися у космічному костюмі.

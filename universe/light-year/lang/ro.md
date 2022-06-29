@@ -1,5 +1,5 @@
-# Lum-Jaro
+# Un An-lumina
 
-En unu jaro, la lumo vojagas proksimume 9.46 duilionoj da kilometroj. Ci tiu
-distanco estas konata kiel lum-jaro. La lum-jaro estas ofte uzata por mezuri
-astronomiajn distancojn.
+Într-un an, lumina calatoreste cam 9,46 trilioane kilometri. Aceasta distanta
+este se considera un an-lumina. Anul-lumina este de obicei folosit pentru
+masurarea distantelor astronomice

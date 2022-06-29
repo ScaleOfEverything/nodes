@@ -1,5 +1,5 @@
-# Laguna Nebulozo
+# Nebuloasa Laguna
 
-La Laguna Nebulozo estas nebulozo kiu estis nomata la Laguna Nebulozo en 1747,
-la jaro kiam gi estis malkovrita. Estas je 5,000 lum-jaroj for de ni, kaj
-inkluzivas tornadojn kiuj emisias UV lumon.
+Nebuloasa Laguna este o nebuloasa care a fost numita Nebuloasa Laguna din 1747.
+E situata la 5.000 de ani-lumina distanta de noi si include tornade care emit
+lumina ultravioleta

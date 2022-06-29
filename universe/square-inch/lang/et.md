@@ -1,4 +1,5 @@
-# 평방 인치
+# Ruut-toll
 
-평방 인치는 북미 등 일부 지역에서 사용하는 넓이단위입니다. 하지만 거의 모든 나라
-는 미터를 단위로 채택하고 있습니다.
+Oled harjunud meetri süsteemiga? Siin on sulle ruut-toll. Ruut-tolli üks külg,,
+loe veel kord "üks külg", on ligilähedane täiskasvanud inimese pöidla laiusega,
+mis on 2,5 sentimeetrit.

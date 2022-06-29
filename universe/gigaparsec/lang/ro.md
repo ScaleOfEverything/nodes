@@ -1,5 +1,5 @@
-# Gigaparseko
+# Gigaparsec
 
-Unu gigaparseko estas unu miliardo da parsekoj. Gi estas unu el la plej grandaj
-mezurunuoj pri distanco. Ja ne estas necese havi iun ajn mezurunuon pli granda,
-car la radiuso de la observebla universo havas nur 14 gigaparsekojn.
+Un gigaparsec cuprinde un miliard de parseci. Este una dintre cele mai mari
+masuratori pentru distanta. Raza universului observabil este de “numai” 14
+gigaparseci

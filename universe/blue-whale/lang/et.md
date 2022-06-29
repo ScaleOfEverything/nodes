@@ -1,5 +1,5 @@
-# 흰긴수염고래
+# Sinivaal
 
-흰긴수염고래는 가장 큰 동물입니다. 이 고래의 무게는 180 톤에 육박하는데, 어떠한
-동물들보다도 무겁습니다. 불행하게도, 포경산업에 의해 흰긴수염고래의 개체수는
-300,000 마리에서 2,000 마리로 줄었어요.
+Sinivaal on kõige suurem loom. Ta kaal (180 tonni) on suurem kui ühegi teise
+looma oma. Kahjuks on vaalapüük vähendanud sinivaalade populatsiooni 300,000-lt
+2000 isendini.

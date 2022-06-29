@@ -1,5 +1,6 @@
-# Electron (clasic)
+# Електрон (Класичний)
 
-Electronii sunt atît de mici ca marimea lor nu poate fi masurata cu precizie.
-Dimensiunea unui electron variaza foarte mult în functie de modul de masurare,
-daca se bazeaza pe modelul cuantic sau - în acest caz - pe modelul clasic.
+Електрони настільки малі, що їх розмір не може бути точно виміряний. Розмір
+електрону суттєво відрізняється, в залежності від того, як він вимірюється, в
+залежності від того, чи його вимірювання базується на квантовій моделі, чи, як в
+цьому випадку, на класичній.

@@ -1,6 +1,7 @@
-# Jupitero
+# Jupiter
 
-Jupitero estas la plej granda planedo de la Sunsistemo. Tamen, ne estas la plej
-granda planedo konata. Tiu estas TReS-4. Jupitero estas gigantgasa, do, gi estas
-nur gaspilko. Vi tute ne povas surterigi en gi. Ankau, Jupitero havas 64 lunojn,
-inkluzive la kvar Galilejaj satelitoj.
+Jupiter este cea mai mare planeta din sistemul nostru solar. Cu toate acestea,
+nu este cea mai mare planeta cunoscuta! Asta ar fi TReS-4. Jupiter este un
+gigant gazos, deci e doar o minge de gaz, nu puteti ateriza niciunde pe el. De
+asemenea, Jupiter are 64 de sateliti, inclusiv cele patru sateliti ai lui
+Galilei

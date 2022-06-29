@@ -1,5 +1,5 @@
-# Bacteriofag
+# Бактеріофаг
 
-Bacteriofag, sau doar" fag", pe scurt, este un tip de virus care infecteaza
-bacterii. Par niste roboti, nu forme de viata. Am putea spune însa ca virusii nu
-au viata defel.
+Бактеріофаг, або просто "фаг" скорочено, є видом заражаючого бактеріями вірусом.
+Я гадаю, вони виглядають як роботи, а не життєві форми. Але також можна
+дискутувати, чи є віруси взагалі живими, чи ні.

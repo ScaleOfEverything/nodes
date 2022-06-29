@@ -1,5 +1,5 @@
-# Musbirdo
+# pasarea Colibri
 
-Kolibroj klape movas iliajn flugilojn 12-80 foje en sekundo, kio temas pri la
-sama ofteco kiel la plej malaltaj notoj sur la piano. Ili povas ankau flugi
-returnite kaj svebi en la mezo de aero. Mirigaj kapabloj!
+Pasarea Colibri da din aripi de 12-80 de ori pe secunda, aproximativ aceeasi
+frecventa ca si cele mai mici note de la pian. Ea poate zbura si înapoi si poate
+pluti în aer. Uimitoare abilitati!

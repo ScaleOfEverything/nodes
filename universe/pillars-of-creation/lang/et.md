@@ -1,5 +1,5 @@
-# 창조의 기둥
+# Loomise sambad
 
-창조의 기둥은 독수리 성운 안에 위치하는데, 독수리 성운은 우리와 7,000 광년 떨어
-져 있습니다. 몇몇 자료들에 의하면 창조의 기둥은 6,000 년 전에 초신성에 의해 없어
-졌다고 하니, 앞으로 1,000 년 동안 밖에 볼 수 없겠네요.
+Loomise sambad asuvad Kotka udukogus. Kotka udukogu on meist 7000 valgusaasta
+kaugusel. Tõendid näitavad, et Loomise sambad hävinesid supernoova plahvatuses
+6000 aastat tagasi ja meil on nad näha veel 1000 aastat.

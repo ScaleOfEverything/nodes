@@ -1,4 +1,5 @@
-# Cometa Halley
+# Комета Галлея
 
-În realitate cometa Halley este destul de mica. Coada ei are însa milioane de
-kilometri! Cometa pierde 10% din masa ei la fiecare o mie de orbite
+Дійсний розмір комети Галлея доволі невеликий. Хвіст, який вона формує, може
+досягати довжини у мільйони кілометрів! Комета Галлея втрачає 10% своєї ваги при
+проходженні кожної наступної тисячі орбіт.

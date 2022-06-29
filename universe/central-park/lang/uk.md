@@ -1,4 +1,5 @@
-# Parcul central NY
+# Центральний Парк
 
-Parcul central din New York City este cel mai vizitat parc urban din Statele
-Unite. Stiai ca 18 de oameni locuiesc propriuzis în Central Park?! Cool, nu?
+Центральний Парк, який знаходиться у місті Нью-Йорку, найбільш відвідуємий
+міський парк у Сполучених Штатах! Ви знали про те, що у Центральному Парку
+направді живуть 18 людей? Це доволі кльово!

@@ -1,5 +1,6 @@
-# Nucleul de heliu
+# Ядро Гелію
 
-Nucleul de heliu este de mii de ori mai mic decît atomul, cît o pietricica
-într-un teren de fotbal. Singurul motiv pentru care masa pare solida este ca
-atomii se resping. Daca atomii nu s-ar respinge, totul ar cadea prin sine!
+Ядро гелію у тисячі разів менше, ніж атом, немов марбл на футбольному полі.
+Єдина причина, чому цей матеріал виглядає твердим, це тому, що атоми
+відштовхуються. Якщо б атоми не відштовхувалися, все б просто провалилося
+усередину!

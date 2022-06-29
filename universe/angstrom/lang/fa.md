@@ -1,5 +1,5 @@
-# Ongström
+# Angstrom
 
-Ongström, mis sai nime Rootsi füüsiku Anders Jonas Ångström, on kümnendik
-nanomeetrit. Ongströmi sümbol on Å. Ongströmi kasutatakse väljendamaks aatomite
-suurusi.
+An angstrom, which is named after Swedish physicist Anders Jonas Ångström, is
+one tenth of a nanometer. The symbol for an angstrom is Å. The angstrom is used
+to express the size of atoms.

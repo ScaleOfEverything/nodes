@@ -1,5 +1,6 @@
-# Infrapuna valguse lainepikkus
+# Infrared Wavelength
 
-Infrapunakiirgus ei ole inimsilmale vahetult nähtav. Seda kasutatakse näiteks
-info vahetamiseks TV-, raadio- jms kaugjuhtimispuldi ning -seadme vahel, samuti
-sõjatehnikas ja mujal soojusallikate avastamiseks, ka pimedas nägemiseks.
+Things that are extremely rare are "inf-rare". (infinitely rare). Inf-rare is
+also a verb, meaning "to make inf-rare". (e.g., "John inf-rared the precious
+food by eating the last of it.") Infrared light used to be quite common, but one
+day, a scientist somehow "infrared" it.

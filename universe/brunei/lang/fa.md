@@ -1,4 +1,5 @@
 # Brunei
 
-Brunei on riik Kagu-Aasias. See on ümbritsetud Malaisia ja Lõuna-Hiina merega.
-Selles riigis on 400 000 elanikku. Seal sõidetakse vasakul pool teed.
+Brunei is a country in Southeast Asia. It is surrounded completely by Malaysia
+and the South China Sea. 400,000 people live in this country. They drive on the
+left side of the road.

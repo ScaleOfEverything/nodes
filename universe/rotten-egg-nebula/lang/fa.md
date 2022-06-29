@@ -1,5 +1,5 @@
-# Mädamuna udukogu
+# Rotten Egg Nebula
 
-Mädamuna udukogu sisaldab väävlit. See on tõenäoliselt põhjuseks, miks seda
-nimetatakse Mädamuna udukoguks. Minu arvates meenutab see toorest muna kuna
-sinine on purunenud koor ja kollane on väljavoolav rebu.
+The Rotten Egg Nebula has sulfur in it. That's probably why this nebula is
+called the Rotten Egg Nebula. I think it looks a bit like a raw egg, where the
+blue is the cracked shell and the yellow is the yolk spilling out.

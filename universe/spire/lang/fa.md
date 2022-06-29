@@ -1,5 +1,6 @@
-# Torn
+# The Spire
 
-See väike teravik on osa palju suuremast Kotka udukogust. Kuigi see tundub väike
-võrreldes Kotka udukoguga, on see siiski, sõltuvalt Päikesesüsteemi
-definitsioonist, oma 10-2000 korda suurem kui Päikesesüsteem.
+This little thingy is a part of the much larger Eagle Nebula. Even though it
+appears small in comparison to the Eagle Nebula, it's still larger than the
+solar system, by 10 - 20,000 times, depending on your definition of our Solar
+System.

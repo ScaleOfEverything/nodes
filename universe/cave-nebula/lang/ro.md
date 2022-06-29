@@ -1,5 +1,5 @@
-# Kaverna Nebulozo
+# Nebuloasa Pestera
 
-La Kaverna Nebulozo estas tre disigita nebulozo. Kompreneble, multaj nebulozoj
-tiel grandaj kiel ci tia, estas malhelaj, tiel vi bezonas longan ekspontempon
-por vidi ilin. La Kaverna Nebulozo ankau estas nomita Sh2-155 au Caldwell 9.
+Nebuloasa Pestera este o nebuloasa foarte difuza. Cele mai multe nebuloase de
+mari dimensiuni sunt asa difuze, ai nevoie de timpi de expunere mari pentru a le
+vedea. Nebuloasa Pestera este numita si SH2-155 sau Caldwell 9

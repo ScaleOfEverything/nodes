@@ -1,4 +1,4 @@
-# Distanco el Neptuno al la Suno
+# Distanta de la Neptun la Soare
 
-Neptuno estas la planedo plej malproksima de la Sunsistemo. La distanco el
-Neptuno al la Suno estas plej granda ol la diametro de iu ajna konata stelo!
+Neptun este cea mai îndepartata planeta din sistemul nostru solar. Distanta de
+la Neptun la soare este mai mare decît diametrul oricarei stele cunoscute

@@ -1,4 +1,5 @@
-# 용골 성운
+# Kiilu tähtkuju Suur udukogu
 
-용골 성운은 용골자리 에타 성운이라고도 불리는데, 밝기가 무려 1.0 등급으로 맨눈으
-로도 볼 수 있습니다. 우리은하에서 가장 큰 성운이라고 하네요.
+Seda nimetatakse ka Eta Carinae udukoguks, mida ei tohiks segamini ajada Eta
+Carinae Homunculuse udukoguga (mis on tõenäoliselt liiga väike, et praegu näha.
+Selle läbimõõt on 0,002 valgusaastat.).

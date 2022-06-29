@@ -1,4 +1,5 @@
-# 시리우스 B
+# Siirius B
 
-시리우스 B는 백색왜성입니다. 지구보다 약간 큰 정도지요! 평소에는 시리우스 A 의밝
-은 빛에 가려져있는 탓에 찾기 어렵습니다.
+Siirius B on valge kääbus. See on natuke suurem kui Maa! Tavaliselt on seda
+üpris raske märgata kuna jääb Siirius A pimestava valguse varju. Siirius B-d
+tuntakse ka kui Kutsikas.

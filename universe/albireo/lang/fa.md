@@ -1,6 +1,6 @@
 # Albireo
 
-Albireo koosneb kolmest tähest, aga siin näitame ainult suurimat. Kaks kolmest
-asuvad nii lähestikku, et moodustavad kollase täpi. Kolmas on sinine ja
-kaugemal. Sinise tähe ja kollaste vaheline vahemaa on nii suur, et neil võtab
-100 000 aastat ühe täisringi tegemine.
+Albireo is made up of three stars total. Here we are just showing the largest
+one. Two of the stars are close, and form a yellow dot. The third is blue and
+further away. The blue star and yellow stars are so far apart it takes them
+100,000 years to complete one orbit.

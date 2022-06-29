@@ -1,5 +1,5 @@
-# 화성
+# Marss
 
-화성은 붉은 행성으로 알려져있는데, 그 이유는 화성 표면의 철 성분이 녹슬었기 때문
-입니다. 많은 사람들이 화성에 한때 물과 생명체가 존재 했을 거라고 믿는데, 존재 했
-다고 하더라도 그 생명체가 초록색 난쟁이같이 생기진 않았을거에요.
+Marssi tuntakse punase planeedina. See on punane tänu roostele. Paljud usuvad,
+et kunagi eksisteeris Marsil vesi ja elu. Isegi, kui see on tõsi, siis ei
+meenutaks Marsi elanikud väikseid rohelisi mehikesi.

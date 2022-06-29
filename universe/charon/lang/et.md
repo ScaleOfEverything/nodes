@@ -1,5 +1,5 @@
-# 카론
+# Charon
 
-카론은 명왕성의 유일한 위성입니다. 둘은 매우 가까이 위치하는데, 몇몇 사람들은 이
-것 때문에 명왕성과 카론을 쌍성으로 봐야한다는 사람들도 있습니다. 아, 여러분은 카
-론과 명왕성이 항상 같은 면으로만 마주본다는 사실을 아시나요?
+Charon on Pluuto ainuke suur kuu. Need on suuruselt peaaegu võrdsed. Need on nii
+lähestikku, et inimesed arvavad, et tegemist kaksikplaneediga. Kas teadsid, et
+Charon on alati Pluuto poole ühe küljega ja Pluuto Charoni poole samuti?

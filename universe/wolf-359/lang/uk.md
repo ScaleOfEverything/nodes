@@ -1,5 +1,5 @@
-# Wolf 359
+# Вовк 359
 
-Wolf 359 este o pitica mica rosie, eclipsata de alte stele. Este a sasea cea mai
-apropiata stea de Pamînt, dupa Soare, Proxima Centauri, Alpha Centauri, A & B si
-steaua lui Barnard. Cu toate acestea, marirea sa este doar +13.5
+Вовк 359 – маленький червоний карлик, ставший карликом за допомогою звичайних
+зірок. Це шоста найближча до Землі зірка, після Сонця, Проксіма Центавра, Альфа
+Центавра А та Б та зірки Барнард. Тим не менш, її величина – затемнені +13.5.

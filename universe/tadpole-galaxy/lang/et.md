@@ -1,5 +1,5 @@
-# 올챙이 은하
+# Tadpole galaktika
 
-올챙이 은하는 별들로 이뤄진 긴 꼬리를 가지고있는데, 다른 은하와 충돌했을때 생긴
-걸로 추측됩니다. 실제 올챙이처럼, 시간이 지나면 올챙이 은하의 꼬리는 사라질 거라
-고 하네요.
+Tadpole galaktikal on tähtedest saba. See tekkis tõenäoliselt kui teine
+galaktika põrkus Tadpole galaktikaga. Täpselt nagu kullesed ikka Tadpole
+galaktika tõenäoliselt kaotab oma saba kui see vananeb.

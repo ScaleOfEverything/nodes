@@ -1,6 +1,6 @@
 # La Superba
 
-La Superba este una dintre cele mai rosii stele de pe cerul noptii. Este atât de
-rosie din cauza carbonului 13 pe care-l creaza atunci cînd fuzioneaza heliu.
-(Carbonul obisnuit este carbon-12). La Superba are doar 2500 ° C, unul dintre
-cele mai reci stele cunoscute
+La Superba – одна з найчервоніших зірок у нічному небі. Вона настільки червона
+із-за вуглецю-13, який вона створює при розплавленні гелію. (Звичайний вуглець –
+це вуглець-12.) Температура La Superba – всього 2500° C, що робить її однією з
+найпрохолодніших зірок.

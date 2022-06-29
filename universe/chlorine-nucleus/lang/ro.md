@@ -1,5 +1,4 @@
-# Klora Kerno
+# Nucleul de clor
 
-La Klora Kerno havas 17 protonojn. Estas kutime 18 au 20 neutronoj tie ankau!
-Nur malofte estas 19 neutronoj. Kvankam mi ne certas kial okazas tio. Cu vi
-scias? Diru al mi se vi scias.
+Nucleul de clor are 17 de protoni. Exista, si 18 sau 20 de neutroni acolo, mai
+rar 19 de neutroni Habar n-am de ce.Tu stii? Spune-mi!

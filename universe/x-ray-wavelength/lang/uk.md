@@ -1,6 +1,7 @@
-# Lungimea de unda a razelor X
+# Довжина Хвилі Рентгенівського Випромінювання
 
-Desi razele X nu au cea mai înalta frecventa, e o idee proasta sa stai în ele!.
-Ar trebui sa ai un scut de plumb, cu cît mai gros, cu atît mai bine. Cu toate
-astea, cîteva raze X vor trece întotdeauna printr-un strat oricît de gros de
-plumb, scade doar cantitatea!
+Хоча рентгенівське випромінювання і не має найвищої частоти, все рівно це погана
+ідея грітися ними. Не робіть цього! Як звичай, у вас повинен бути свинцевий щит.
+Чим товщий свинець, тим більша защита. Однак, декілька рентгенівських променів
+все рівно пройдуть крізь нього. Якомога товщий свинець лише знижує цю
+можливість.

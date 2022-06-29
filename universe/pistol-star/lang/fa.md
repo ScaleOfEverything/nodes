@@ -1,6 +1,6 @@
-# Püstol täht
+# Pistol Star
 
-Püstol täht on teadaolevatest tähtedest üks säravamaid. Kahekümne sekundiga
-kiirgab see sama palju energiat kui Päike ühe aastaga. Tähtedevaheline tolm
-takistab meil seda nägemast. Täht sai nime oma asukoha järgi Püstoli udukogus,
-mitte oma sära tõttu.
+The Pistol Star is one of the most luminous stars known. In twenty seconds, it
+radiates as much energy as the Sun does in a year. Interstellar dust prevents us
+from seeing it. It's called the Pistol Star not because of its luminosity, but
+because it's in the Pistol Nebula.

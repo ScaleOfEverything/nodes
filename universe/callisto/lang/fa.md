@@ -1,5 +1,5 @@
-# Kallisto
+# Callisto
 
-Kallisto on kõige kaugem Galileo kuu. See tiirleb kaugemal, kui kõik teised
-Galileo kuud ja seetõttu saab kõige rohkem meteooridega pihta. Kõik need
-kokkupõrked on tekitanud väga-väga palju kraatreid.
+Callisto is the most distant of the Gallilean moons. It orbits outside all the
+other Gallilean moons and gets hit with the most meteors. All these impacts
+create many, many craters.

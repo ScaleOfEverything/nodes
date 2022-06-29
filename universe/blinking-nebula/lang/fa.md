@@ -1,5 +1,5 @@
-# Plinkiv udukogu
+# Blinking Nebula
 
-Plinkiv udukogu on planetaarudu, mis tegelikult ei plingigi. See tundub ilmuvat
-ja kaduvat vaateväljast. Seal on kaks punast tulukest, kiiret
-madala-ionisatsiooni emissiooni piirkonda, udukogu vastaskülgedel.
+The Blinking Nebula is a planetary nebula that doesn't actually blink. It just
+seems to appear and disappear from view. There are two red FLIERs (Fast
+Low-Ionization Emission Regions) on opposite side of the nebula.

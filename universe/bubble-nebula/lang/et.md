@@ -1,4 +1,5 @@
-# 거품 성운
+# Mulludukogu
 
-거품 성운은 거품같이 생기긴 했는데, 거품은 아니에요! 항성풍에 의해서 만들어졌다
-고 합니다. 아, 그리고 이건 발광 성운이지, 행성상 성운이 아니에요.
+Mulle meeldib mulle puhuda. Mull, mull, plõks! See udukogu pole mull; see ainult
+tundub meile nii! Selle tekitas kuum päikesetuul. Muide, see ei ole
+planetaarudukogu, vaid emissioon udukogu.

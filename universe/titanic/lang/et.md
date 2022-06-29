@@ -1,6 +1,5 @@
-# 타이타닉 호
+# Titanic
 
-타이타닉 호는 빙산과 충돌해서 침몰했습니다. 침몰 당시 타이타닉 호에는 1,000 여명
-이 사용할 수 있는 구명보트를 탑재했었음에도 불구하고, 구조된 사람은 700 여명에지
-나지 않았다고 합니다. 그리고 침몰 당시에 타이타닉에는 2,208 명이 타고 있었습니다
-.
+Titanic uppus kokkupõrkel jäemäega. Kuigi seal oli ruumi päästeparvedele
+kogumahtuvusega 4000 inimest, otsustati, et neid ei ole rohkem vaja kui 1178
+inimesele. Titanicul oli aga 2228 reisijat.

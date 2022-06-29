@@ -1,5 +1,5 @@
-# Bob de orez
+# Крупинка Рису
 
-Multi oameni în lumea asta frumoasa manînca orez. Daca ai mînca un bol de orez
-pe zi, în total ai mînca aproximativ 300 de milioane de boabe de orez într-o
-viata. Cam tot atît e si populatia Statelor Unite!
+Багато людей у нашому прекрасному світі їдять рис. Якщо ви будете з’їдати одну
+миску рису за день, ви з’їжте близько 300 мільйонів крупинок рису за все життя.
+Це також приблизно є кількістю населення Сполучених Штатів!

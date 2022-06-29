@@ -1,5 +1,6 @@
-# Bobul de cafea
+# Кавове Зерня
 
-Bobul de cafea are o lungime de aproximativ un centimetru - e de fapt un fruct
-care seamana cu o fasole. Este maro si are dungi, si uneori, cînd te uiti la el,
-uiti ca diametrul sau este de 10 la puterea -29 din întreg universul cunoscut
+Кавове зерня біля одного сантиметру завширшки - і насправді це фрукт, що схожий
+на квасолю. Він коричневий і має смуги, і подекуди коли ви роздивляєтесь на
+нього, ви просто забуваєте, що його діаметр у 10^-29 менший за розмір відомого
+нам всесвіту.

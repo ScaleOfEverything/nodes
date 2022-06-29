@@ -1,6 +1,5 @@
-# Rod-Insulo
+# Rhode Island
 
-Rod-Insulo estas la plej malgranda stato en Usono. Tamen, eblus lokigi la tutan
-mondan logantaron en gi. Cu vi scias, ke Rod-Insulo havas la plej longan
-oficialan nomon de iu ajna usona stato? (La Stato de Rod-Insulo kaj la Plantejo
-Providenco)
+Rhode Island este cel mai mic stat din SUA. Cu toate acestea, în el ar încapea
+întreaga populatie a lumii! Stiai ca Rhode Island, SUA are cel mai lung nume
+oficial? (Statul Rhode Island si Plantatiile Providence)

@@ -1,6 +1,5 @@
-# IKS
+# ISS
 
-La Internacia Kosmostacio estas sufice bona. Gi flosas cirkaue en malalta tera
-orbito, kaj vi povas ec vidi gin de la Tero! La IKS havas homojn en gi sencese
-por la lastaj dek jaroj, kio estas rekordo por kosmosipo. (Ili ne ciuj estis la
-samaj homoj.) ",
+Statia Spatiala Internationala se afla pe o orbita joasa în jurul Pamîntului, si
+o poti vedea de pe Pamînt! ISS a fost locuita continuu de oameni în ultimii
+unsprezece ani, un record pentru o nava spatiala. (N-au fost aceeasi oameni)

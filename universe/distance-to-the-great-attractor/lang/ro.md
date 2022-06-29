@@ -1,4 +1,4 @@
-# Distanco al la Granda Allogajo
+# Distanta pâna la marele atractor
 
-La Granda Allogajo estas altirante al si milojn da galaksioj, inter ili la Lakta
-Vojo. Sia amaso estas kelkdekmil-foje pli granda ol tiu de la Lakta Vojo.
+Atractor-ul mare atrage mii de galaxii, printre care si Calea Lactee, spre sine;
+masa sa fiind de zeci de mii de ori mai mare decît a Caii Lactee.

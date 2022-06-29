@@ -1,5 +1,6 @@
-# 적혈구
+# Punane verelible
 
-인간 세포의 ¼ 은 적혈구가 차지하고 있습니다. 20 초에 한번씩 몸을 순환하는데, 수
-명은 4 달 입니다. 적혈구의 가운데는 움푹 파여있어서 산소를 옮기기 쉽도록 되어있
-는데, 적혈구는 핵이 없습니다.
+Umbes ühe neljandiku inimrakkudest moodustavad punased verelibled. Ühe tsükli
+pikkus inimkehas on nende jaoks 20 sekundit ja nad elavad ligikaudu neli kuud.
+Keskmine lohk suurendab nende pindala ja võimaldab lihtsamini hapnikku
+transportida. Muide, neil ei ole rakutuuma.

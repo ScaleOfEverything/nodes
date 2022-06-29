@@ -1,5 +1,5 @@
-# Altenergia Neutrino
+# Neutrinii de înalta energie
 
-La altenergiaj neutrinoj estas pli grandaj. Por pli pri neutrinoj, iru je
-neutrino, kiu montras la ordinaran grandecon. Proksimume 15,000-oble pli
-malgranda!
+Neutrinii de înalta energie sunt mai mari. Pentru a afla mai multe despre
+neutrini, du-te la neutrini, unde poti vedea dimensiunea lor aproximativa. Sunt
+de 15.000 de ori mai mici!

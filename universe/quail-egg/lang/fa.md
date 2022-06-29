@@ -1,4 +1,5 @@
-# Põldvuti muna
+# تخم بلدرچین
 
-Paljud inimesed arvavad, et põldvuti muna on parem kui kanamuna. Põldvuti muna
-on väiksem ja haruldasem.
+بسیاری از مردم بر این باورند که تخم بلدرچین از تخم مرغ بهتر است. تخم بلدرچین
+کوچکتر و همچنین کمیاب تر از تخم مرغ است، اما این دلیلی بر توقف دوست داشتن بعضی
+مردم از آن نمی شود!

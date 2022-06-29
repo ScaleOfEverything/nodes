@@ -1,5 +1,5 @@
-# Virgo Cluster
+# Скупчення Діви
 
-Cluster Fecioara este în centrul si cel mai mare cluster din supercluster-ul
-Fecioara. A fost descoperit în 1770, cînd galaxiile sale au fost catalogate ca
-obiecte Messier.
+Скупчення Діви – найбільше скупчення у Надскупченні Діви, і знаходиться у його
+центрі. Воно було винайдене у кінці 1770-их, коли його галактики були занесені у
+каталог Мессьє.

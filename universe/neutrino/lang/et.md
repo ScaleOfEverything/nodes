@@ -1,5 +1,7 @@
-# 중성미자
+# Neutriino
 
-중성미자는 물체를 통과해 지나갑니다. 언제 지나가냐면.. 사실 지금도 지나가고 있죠
-! 중성미자는 전하가 없기 때문에, 중력과 약력에 대해서만 영향을 받습니다. 하지만,
-크기가 워낙 작다보니 거의 영향을 받지 않습니다.
+Neutriinod läbivad tavalisesest ainest koosnevaid esemeid, ka sind ja mind,
+pidevalt! Nad teevad seda ka praegusel hetkel! Neutriinodel ei ole laengut ja
+sellepärast mõjutab nende trajektori ainult gravitatsiooniline ja nõrk
+vastastikmõju. Kuna nad on väga-väga väiksed, siis isegi need jõud mõjutavad
+neid väga vähe.

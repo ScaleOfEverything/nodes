@@ -1,4 +1,5 @@
-# 바닥 쿼크 (b)
+# B-kvark
 
-바닥 쿼크는 뷰티 쿼크라고도 불리는데, 흠이 없이 아름다워서 그렇다고 하네요. 바닥
-쿼크는 제 3 세대 쿼크인데, 제 1 세대 쿼크로 빠르게 붕괴합니다.
+B-kvarki nimetatakse ilu kvargiks, kuna see on veatult ilus. See on kolmanda
+põlvkonna kvark ja laguneb kiirelt esimese põlvkonna kvarkideks u- ja
+d-kvargiks.

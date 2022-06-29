@@ -1,5 +1,5 @@
-# Paramecio
+# Parameciul
 
-Paramecio varias tre multe en grandeco, sed gi estas kutime cirkau 200
-mikrometroj. Tiaj malgrandajoj estas protistoj kaj satas nagi en akvo. Ili povas
-movigi du milimetroj en sekundo!
+Parameciul variaza destul de mult în dimensiune, dar are, de obicei, cam 200 de
+mircrometrii. Îi place sa înoate în apa. Se poate deplasa doi milimetri pe
+secunda!

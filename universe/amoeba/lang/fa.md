@@ -1,5 +1,4 @@
-# Amööb
+# Amoeba
 
-Amööb on üherakuline, mis tähendab, et ta koosneb ainult ühest rakust. Mõned
-amööbid võivad kasvada peaaegu 1 millimeetri suuruseks (0,7mm tegelikult), seega
-on silmaga nähtavad.
+Amoeba are unicellular, which means there is only one cell. Some amoebae can
+grow to an incredible 700 micrometers, which is almost an entire millimeter.

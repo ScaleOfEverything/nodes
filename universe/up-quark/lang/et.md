@@ -1,5 +1,5 @@
-# 위 쿼크 (u)
+# U-kvark
 
-쿼크에는 위 쿼크, 아래 쿼크, 야릇한 쿼크, 맵시 쿼크, 꼭대기 쿼크, 바닥 쿼크의 여
-섯가지 맛깔이 있습니다. 쿼크는 작을수록 더 질량이 큽니다. 그렇기 때문에, 사실 제
-일 가벼운 쿼크들은 위, 아래 쿼크에요. 이 위 쿼크는 +⅔ 의 전하를 가지고 있습니다.
+Kvarke on kuut tüüpi. Need on u-, d-, s-, c-, t- ja b-kvark. Mida väiksema
+kvargiga on tegemist, seda suurem mass sel on. Selle tulemusena on u- ja d-kvark
+kõige kergemad kvargid. U-kvargil on elektrilaeng +2/3.

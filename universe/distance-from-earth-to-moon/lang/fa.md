@@ -1,4 +1,4 @@
-# Maa ja Kuu vaheline kaugus
+# Distance from Earth to Moon
 
-Maa ja Kuu ei ole siin mõõtkavas. Kui see vahemaa oleks üks meeter, siis Maa
-oleks mündi suurune ja Kuu oleks hernes.
+The Earth and the Moon here are not to scale. If the distance were a meter,
+Earth would be the size of a quarter, and the moon would be a pea.

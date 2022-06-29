@@ -1,6 +1,6 @@
 # WOH G64
 
-Mi scias... vi pensas, "WOH... (Ho, ve) gi estas granda stelo!" Bone, sajne vi
-pravas, car aktuale estas la dua plej granda konata stelo. WOH G64 troveblas en
-la Granda Magelana Nubo. Kie estas nubo cirkauigante la stelon, kiu etendigas je
-la duono de lum-jaro.
+cred ca stiu ... te gandesti, "WOH ... trebuie sa fie o stea mare!" Ei bine, ai
+dreptate, pentru ca în prezent este a doua cea mai mare stea cunoscuta. WOH G64
+se afla în Norul lui Magelan. În jurul stelei se afla un nor de o jumatate de
+an-lumina!

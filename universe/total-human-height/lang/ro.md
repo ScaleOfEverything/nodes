@@ -1,5 +1,5 @@
-# Totala Alteco de Homaro
+# Înaltimea totala uman
 
-Se ciuj la 7 miliardoj da homoj staru unu sur la alia, kaj la malsupraj 6.99
-miliardoj da homoj ne subpremigu sub ciuj pezo, la staplo estus proksimume 10
-milionoj da kilometroj alta.
+Daca toate cele 7 miliarde de oameni s-ar aseza unul peste altul, si 6.99
+miliarde de oameni nu i-au strivi pe restul sub greutatea lor, turnul ar fi de
+aproximativ 10 milioane km înaltime.

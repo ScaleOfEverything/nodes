@@ -1,5 +1,5 @@
-# Boeing-Everett-a Fabriko
+# Fabrica Boeing Everett
 
-La Boeing-Everett-a Fabriko, kun 13 milionoj da kubaj metroj de uzebla spaco,
-estas la plej granda konstruajo en la mondo. La Granda Muro de Cinio kaj la
-Barajo Tri Gorgojn ne estas konsiderataj kiel konstruajoj.
+Fabrica Boeing Everett, cu cei 13 de milioane de metri cubi de spatiu
+utilizabil, este cea mai mare cladire din lume. Marele Zid chinezesc si barajul
+Three Gorges nu se califica drept cladiri.

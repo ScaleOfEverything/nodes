@@ -1,4 +1,4 @@
-# Sablohorlog-Nebulozo
+# Nebuloasa Clepsidra
 
-La Sablohorloga Nebulozo sajnas esti sablohorlogo. Kiel vi povas vidi, estas du
-loboj. La supra lobo estas klinita al ni, kaj la malsupra estas klinita foren
+Nebuloasa Clepsidra are forma unei clepsidre. Dupa cum poti vedea, are doi lobi.
+Lobul superior este înclinat spre noi

@@ -1,5 +1,6 @@
-# Omul
+# Людина
 
-Presupun ca tu esti un om la fel ca mine! Stiai ca avem peste 7 miliarde de
-semeni? Un numar atît de mare, încît ca sa întîlnesti fiecare persoana o singura
-secunda, ti-ar lua aproximativ 200 de ani! Ar fi bine sa începi chiar acum!
+Я збираюся припустити, що ви є людина. Я теж людина! Ви знали, у всьому світі
+нас більш ніж 7 мільярдів? Це доволі багато. Насправді, якщо ви зустрінетесь з
+кожною людиною лише на одну секунду, вам знадобиться близько 200 років, щоб
+зустрітися з ними всіма! То ж краще починати зараз!

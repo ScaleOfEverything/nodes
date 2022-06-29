@@ -1,6 +1,5 @@
 # E. coli
 
-Escherichia coli estas kutime sendangeraj kaj vivas en viaj intestoj, farante
-mirindan vitaminon K2. Ili estas en preskau cies intestoj. Fakte, ili kolonias
-la bebajn intestojn nur du tagoj post kiam ili naskigas! Ja tio estas sufice
-rapide!
+E. coli sunt de obicei inofensive, traiesc în intestine si produc vitamina K2.
+Sunt prezente în intestinele tuturor. De fapt, ele colonizeaza intestinele
+sugarilor la doar doua zile dupa nastere! Rapid, nu?!

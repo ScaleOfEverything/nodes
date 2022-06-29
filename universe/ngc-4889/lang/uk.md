@@ -1,6 +1,6 @@
 # NGC 4889
 
-Aceasta galaxie, cunoscuta si sub numele de Caldwell 35, este cea mai mare si
-stralucitoare galaxie din cluster-ul Coma. Se departeaza de noi cu 6.500 de
-kilometri pe secunda - la asemenea viteza, ar înconjura Pamântului în mai putin
-de sapte secunde!
+Ця дуже велика галактика, яка також відома як Колдуелл 35, є найяскравішою
+галактикою у скупченні Волосся Вероніки. Вона віддаляється від нас зі швидкістю
+6,500 кілометрів за секунду. З цією швидкістю, вона могла б облетіти навколо
+Землі менше, ніж за сім секунд!

@@ -1,4 +1,4 @@
-# V V Cefea A
+# V V Cephei A
 
-Dum kelka tempo V V Cefea A estis la plej granda konata stelo. Tamen, nuntempe
-estas VY Granda Hundo. La kialo: novaj steloj estas sinsekve malkovritaj!
+Pentru un timp V V Cephei A fost cea mai mare stea cunoscuta, detronata de V Y
+Canis Majoris. Asta se întîmpla pentru ca stele noi sunt descoperite tot timpul!

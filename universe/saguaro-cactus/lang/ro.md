@@ -1,6 +1,6 @@
-# Saguar-Kakto
+# Cactusul Saguaro
 
-Bedaurinde ne ciuj Saguar-kaktoj kreskas gis 14 metroj alte. Iuj povus sole
-avarece mezuri kvin metrojn alte. Iuj estas senbrakaj - tiuj estas nomataj
-lancoj. La saguaroj necesas 75 jarojn por plene disvolvigi brakon, dum la homo
-necesas malpli ol 20.
+Nu toti cactusii Saguaro cresc la 14 metri, unii din pacate cresc doar cinci.
+Unii cactusi fara crengi sunt numiti sulite. Cactusii saguaro au nevoie de 75 de
+ani pentru a le creste în întregime un brat, în timp ce la oameni e nevoie de
+mai putin de 20.

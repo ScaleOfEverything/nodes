@@ -1,3 +1,4 @@
-# 헤일-밥 혜성에서 태양까지의 거리 (가장 멀 때)
+# Hale'i-Boppi komeedi ja Päikese vaheline kaugus (suurim)
 
-헤일-밥 혜성은 태양에서 아주 멀리까지 이동하는데, 2,500 년에 한 번 공전합니다.
+Hale'i-Boppi komeet lendab Päikesest väga kaugele. Sel võtab 2500 aastat ühe
+tiiru tegemiseks.

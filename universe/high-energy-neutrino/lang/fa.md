@@ -1,4 +1,5 @@
-# Kõrge energiaga neutriino
+# نوترینوی انرژی باا
 
-Suurema energiaga neutriinod on suured. Võrreldes keskmise neutriinoga on nad 15
-000 korda suuremad.
+نوترینوی های انرژی باا بزرگترند. برای کسب اطاعات بیشتر در مورد نوترینوها به
+نوترینو بروید، و اندازه ی متوسط آنرا ببینید. بزرگترین آنها 15,000 بار کوچکتر
+است!

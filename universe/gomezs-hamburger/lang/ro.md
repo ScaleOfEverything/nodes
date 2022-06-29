@@ -1,5 +1,5 @@
-# Gómez-Hamburgero
+# Hamburger-ul lui Gomez
 
-La Gómez-Hamburgero estas je 900 lum-jaroj for! La bulkoj estas faritaj el
-reflektanta polvo, kaj la enhavo el malluma polvo. Certe tion ne sajnas esti
-sufice mangebla.
+Hamburger-ul lui Gomez se afla la 900 de ani-lumina distanta! Chiflele sunt
+alcatuite din praf reflectorizant, iar miezul este praf închis la culoare. Nu-i
+prea apetisant, nu?

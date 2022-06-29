@@ -1,6 +1,5 @@
-# Tseesiumi aatom
+# Cesium Atom
 
-Aatomi suurust mõõdetakse aatomituumade vahelise kaugusena kovalentsete sidemete
-korral. Tegelikult ei näe aatom täpselt selline välja. Tseesiumil on kõige
-suurem aatom, kuigi selle aatomnumber pole kõige suurem. Miks? Uuri heeliumi
-aatomit.
+Atom size is measured by the distance of the nuclei in covalent bonds. The
+shells don't look actually like this. Cesium is the largest atom, but its atomic
+number is not the highest. Why? See Helium Atom.

@@ -1,5 +1,5 @@
-# Fobo
+# Phobos
 
-Fobo estas la plej granda de la du Marsaj lunoj. Tamen, gi ankorau estas tre
-malgranda! Cu vi scias, ke se vi estus sur Fobo, gia graveco estus tiel malforta
-ke vi povus jeti basbalan pilkon sen reveni el malsupre?
+Phobos este satelitul cel mai mare al planetei Marte, fiind totusi destul de
+mic! Stiai ca, daca ai fi în picioare pe Phobos, gravitatia sa ar fi atît de
+slaba încît daca ai arunca o minge de baseball în sus, ea nu ar mai veni înapoi?

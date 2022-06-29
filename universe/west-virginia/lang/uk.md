@@ -1,5 +1,5 @@
-# Virginia de Vest
+# Західна Вірджинія
 
-Virginia de vest a fost o parte din statul Virginia. S-a despartit în 1863 din
-cauza razboiului civil si acum e stat separat! Bilele de sticla sunt produse în
-Virginia de Vest
+Західна Вірджинія колись була частиною Вірджинії. Вони розділилися в 1863 році
+із-за Громадянської війни. У наші часи Західна Вірджинія досі є штатом! Зараз
+багато виробів зі скляного мармуру виробляються у Західній Вірджинії.

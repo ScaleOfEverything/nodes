@@ -1,5 +1,5 @@
-# Alnitak
+# نطاق
 
-Alnitak valgustab Tuleleegi udukogu. Alnitak on Orioni vöö kolmest tähest kõige
-idapoolsem. Teised kaks on Alnilam ja Miltaka. Kõik kolm paistavad planeet Maalt
-väga heledad.
+نطاق نور چشم سحابی شعله است. نطاق همچنین شرقی ترین ستاره از سه ستاره ای است که
+کمربند شکارچی را تشکیل می دهند. دو تای دیگر روجینه و منطقه هستند، هر سه از زمین
+بسیار درخشان دیده می شوند.

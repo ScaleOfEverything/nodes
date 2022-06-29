@@ -1,6 +1,6 @@
-# Antares
+# Антарес
 
-Antares este un supergigant rosu foarte aproape de ecliptica, astfel încît este
-deseori ascuns de Luna. De asemenea, Antares cîntareste un septillion de tone si
-pierde încet greutate prin vânt stelar. O metoda mai rapida ar fi sa explodeze,
-asta o va face însa mai tîrziu!
+Антарес – червоний супергігант, дуже близький до екліптики, тому він дуже часто
+загороджується Місяцем. Також, Антарес важить септилліони тон та втрачає вагу
+через сонячний вітер, проте цей метод доволі повільний. Швидкий спосіб – це
+вибух, який він зробить пізніше.

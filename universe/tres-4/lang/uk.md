@@ -1,6 +1,6 @@
-# TReS-4
+# Трес-4
 
-TRES-4 este cea mai mare planeta descoperita vreodata. Este la 1400 de
-ani-lumina de noi. Nici un telescop din lume nu poate vedea de fapt TReS-4. Noi
-stim doar ca exista, deoarece la tranzitul lui TReS-4 prin fata stele pe care o
-orbiteaza, stralucirea ei se diminueaza un pic
+Трес-4 – найбільша планета, яка була відкрита. Вона знаходиться на відстані
+1,400 світлових років. Жоден телескоп насправді не може побачити Трес-4. Людям
+відомо, що вона існує, бо Трес-4 проходить попереду зірки, навколо якої вона
+обертається, тому світло від неї трохи тьмяніє.

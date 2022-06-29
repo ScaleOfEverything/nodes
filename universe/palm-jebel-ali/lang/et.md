@@ -1,5 +1,6 @@
-# 팜 제벨 알리
+# Palm Jebel Ali
 
-팜 제벨 알리는 인공섬 중 가장 큽니다 (네덜란드의 플레보폴더와 같이 물을 빼내어만
-들어진 섬은 제외합니다). 팜 제벨 알리는 아직 공사중인데, 25 만명이 이 곳에 살게
-될거라고 하네요.
+Palm Jebel Ali on maailma kõige suurem inimeste poolt tehislikult tehtud saar
+(mitte arvestades saari nagu Flevopolder, kus ehitati suur tamm, et maad juurde
+võita). Palm Jebel Ali ehitus pandi seisma 2008 aastal finantskriisi tõttu.
+Plaanide kohaselt pidi saar saama koduks 250 000 inimesele!

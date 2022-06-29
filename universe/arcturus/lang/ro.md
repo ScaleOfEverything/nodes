@@ -1,5 +1,5 @@
-# Arkturo
+# Arcturus
 
-Arkturo estas la tria plej brila stelo en la nokta cielo, post Siriuso kaj
-Kanopo. Gi estas la plej brila stelo en la konstelacio Bovisto. Trovu gin lau la
-direkto montranta de la Magranda Ursino.
+Arcturus este - dupa Sirius si Canopus - a treia cea mai stralucitoare stea de
+pe cerul noptii. Este cea mai stralucitoare stea din constelatia Boötes. Îl poti
+gasi urmînd Carul Mare

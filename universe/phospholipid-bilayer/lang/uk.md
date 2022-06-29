@@ -1,5 +1,5 @@
-# Fosfolipidele bistratificate
+# Фосфоліпідний Бішар
 
-Membranele celulare sunt realizate din fosfolipide bistratificate. Ele se pot
-forma în mod natural, deoarece capetele sunt atrase de apa si cozile lor resping
-apa. Ca rezultat, cozile se strîng împreuna, formînd straturile.
+Кліткові мембрани вироблені із фосфоліпідних бішарів. Фосфоліпідні бішари можуть
+формуватися природньо, тому що головки притягуються до води, а хвости
+відштовхують воду. В результаті, хвости збираються в групу, формуючи бішар.

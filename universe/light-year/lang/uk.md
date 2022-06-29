@@ -1,5 +1,5 @@
-# Un An-lumina
+# Світловий рік
 
-Într-un an, lumina calatoreste cam 9,46 trilioane kilometri. Aceasta distanta
-este se considera un an-lumina. Anul-lumina este de obicei folosit pentru
-masurarea distantelor astronomice
+За один рік, світло проходить відстань біля 9.46 трильйону кілометрів. Ця
+відстань відома як світловий рік. Світловий рік як правило використовується для
+вимірювання астрономічних відстаней.

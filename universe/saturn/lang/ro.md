@@ -1,6 +1,5 @@
-# Saturno
+# Saturn
 
-Saturno havas la plej larga, plej videblaj ringoj de la Sunsistemo. Galilejo
-estis la unua persono kiu vidis ci tiujn ringojn, unue kredis, ke ili estis
-"oreloj". cu vi povas imagi al Saturno sen ringoj? Gi ja nur sajnus esti flava
-pilko.
+Saturn are cel mai largi si vizibile inele din Sistemului Solar. Galileo, prima
+persoana care a vazut aceste inele, a crezut initial ca sînt "urechi". Va puteti
+imagina o planeta Saturn fara inele? Ar fi doar o minge galbena

@@ -1,4 +1,5 @@
-# 아시아
+# Aasia
 
-아시아는 지구에서 가장 큰 대륙인데, 세계 인구의 절반인 약 40 억명이 살고있습니다
-. 아프리카는 두번째로 인구가 많은 대륙인데, 약 10 억명이 살고있습니다.
+Aasia on suurim maailmajagu, kus elab üle nelja miljardi inimese ehk üle poole
+inimkonna. Aafrika on asustatuse poolest teine maailmajagu, aga seal elab ainult
+üks miljard inimest.

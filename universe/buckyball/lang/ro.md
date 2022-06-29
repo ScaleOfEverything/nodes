@@ -1,6 +1,6 @@
-# Buck-a Pilko
+# Buckyball
 
-Buck-aj pilkoj, kiuj estas ankau nomataj Buckminsterfulerenoj (el la inventisto
-Buckminster Fuller), konsistas de 60 karbonatomoj. La formon kiun gi faras,
-sajne estas senpintigita dudekedro, kiu ankau sajnas pilkon de futbalo! Solvajo
-farita tute el buck-aj pilkoj, estas purpura.
+Buckyballs, care sunt, de asemenea, numite Buckminsterfullerenes, sunt facute
+din atomi de carbon de 60 de forma pe care o face este un icosaedru trunchiat,
+care este, de asemenea, forma de minge de fotbal! O solutie facute complet din
+buckyballs este violet.

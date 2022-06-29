@@ -1,5 +1,5 @@
-# Whirlpool galaktika
+# Whirlpool Galaxy
 
-Whirlpool galaktika spiraalharud usutakse olevat tekkinud kokkupõrkest lähedal
-oleva galaktikaga. Kas poleks kummaline kui sul kasvaks uued käed igakord kui sa
-põrkud millegagi?
+The spiral arms in the Whirlpool Galaxy were believed to have been formed from a
+collision of a nearby galaxy. Wouldn't it be odd if you grew new arms whenever
+you collided into something?

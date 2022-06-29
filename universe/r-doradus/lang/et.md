@@ -1,5 +1,5 @@
-# 황새치자리 R
+# R Doradus
 
-황새치자리 R 은 그 크기가 비교적 크고, 200 광년 밖에 떨어져있지 않기 때문에 밤하
-늘에서 두번째로 크다고 합니다! 지구에서 볼때, 천체의 겉보기 지름의 크기는 0.05
-초각 정도입니다. 태양이 가장 큰데, 1,920 초각으로 40,000 만배 큽니다.
+R Doradus on suhteliselt suur ja kõigest 200 valgusaasta kaugusel Maast,
+seetõttu näiva suuruse on järgi see taevas teisel kohal. Selle läbimõõt on 0,05
+kaaresekundit. Päike on suurim oma 1920 kaaresekundiga st. 40 000 korda suurem.

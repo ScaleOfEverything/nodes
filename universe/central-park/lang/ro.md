@@ -1,5 +1,4 @@
-# Centra Parko
+# Parcul central NY
 
-La Centra Parko, kiu lokigas en Nov-Jorko, estas la plej vizitata urba parko en
-Usono! Cu vi scias, ke 18 homoj reale vivas en la Centra Parko? Tio estas tre
-bone!
+Parcul central din New York City este cel mai vizitat parc urban din Statele
+Unite. Stiai ca 18 de oameni locuiesc propriuzis în Central Park?! Cool, nu?

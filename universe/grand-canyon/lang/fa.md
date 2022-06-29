@@ -1,5 +1,5 @@
-# Suur kanjon
+# Grand Canyon
 
-Suur kanjon on üks suurimaid kanjone Maal. Selle uuristas Colorado jõgi. Kõik
-see uuristamine võttis aega umbes 17 miljonit aastat! Kivimikihid, mis avanesid
-on aga veel vanemad, kuni 1,8 miljardit aastat.
+The Grand Canyon is one of the largest canyons on Earth. It was carved by the
+Colorado River. All that carving took around 17 million years! The layers of
+rock exposed were even older, some as old as 1.8 billion years old!

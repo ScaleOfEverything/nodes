@@ -1,5 +1,6 @@
-# Firul de nisip
+# Піщина Піску
 
-Desigur, nu toate firele de nisip sunt de aceeasi dimensiune. Pot varia foarte
-mult.. Arenophilii sunt oameni care colecteaza probe de nisip. Stiai ca Plaja
-Papakolea are nisip verde? Acest lucru se datoreaza cristalelor din nisip.
+Звичайно, невсі піщини піску однакового розміру. Вони багато чим вирізняються.
+Коллекціонери піску – це люди, які збирають та колекціонують зразки піску.
+Також, ви знали про те, що на узбережжі Папаколеа є зелений пісок? Це тому, що у
+цьому піску містяться кристали. Але як завгодно.

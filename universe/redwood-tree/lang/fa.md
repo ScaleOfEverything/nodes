@@ -1,5 +1,5 @@
-# Ranniksekvoia
+# Redwood Tree
 
-Ranniksekvoia on maailma kõige kõgem puu. Selle kõrgus, võrreldes sipelga
-kõrgusega, on suurem kui ükskõik mis inimese oma! Kuigi, universum on ikka 10^25
-korda suurem.
+The redwood tree is the tallest tree in the world. Its height, combined with
+that of an ant's, is greater than any human's! However, the universe is still
+10^25 times larger.

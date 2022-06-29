@@ -1,6 +1,7 @@
-# Sedna
+# Седна
 
-Sedna are o orbita deosebit de eliptica. Este atît de departe încît are nevoie
-de 10.000 de ani pamîntesti pentru a completa o orbita. Stiai ca "Sedna" spus
-invers este "Andes" (Anzi), cel mai lung lant muntos din lume (în America de
-Sud.)? Amîndoua par dintr-o alta lume!
+Орбіта Седни має дуже значну схожість до еліпсу. Вона настільки далеко, що
+знадобиться 10,000 земних років, щоб завершити один оберт навколо неї. Ви
+імовірно зрозуміли, що "Седна" навпаки читається як "Андес", що по-англійськи
+утворює назву найдовшої горної ряди. (Вона знаходиться у Південній Америці.)
+Обидві можуть здатися неземними!

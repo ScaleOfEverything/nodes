@@ -1,5 +1,5 @@
-# Argila/lutul
+# Гранула Глини
 
-Deoarece particulele de argila sunt atît de mici, ele se comprima foarte bine si
-apa nu poate trece usor prin ea. Pe de alta parte, nisipul este mult mai aspru,
-si apa trece usor prin nisip.
+Тому що гранули глини настільки малі, вони стають тісно сжатими, і часточкам
+води важко текти крізь них. З іншої сторони, пісок – набагато більш крупний
+матеріал. Вода просто проскальзує просто крізь пісок. Легше простого.

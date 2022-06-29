@@ -1,5 +1,5 @@
-# Mitokondrio
+# Mitochondrion
 
-Ci tiuj organetoj povas turni la kemian energion de glukozo en ATP, kiu facile
-povas esti uzaqta kiel energio. Proksimume 120,000,000,000,000,000,000,000,000
-ATP-aj molekuloj estas kreitaj ciu tage en via korpo, de mitokondrioj.
+Aceste organite pot transforma energia chimica din glucoza în ATP, care poate
+genera usor energie. Cam 120.000.000.000.000.000.000.000.000 moleculele de ATP
+sunt create în fiecare zi în corpul tau de catre mitocondrii.

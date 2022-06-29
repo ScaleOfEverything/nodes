@@ -1,5 +1,5 @@
-# Veega
+# نسر واقع
 
-Veega asub Lüüra tähtkujus. See on samuti osa Lõunakolmnurgast, mis koosneb
-Veegast, Altairist ja Deenebist. Veega on kumerdunud oma kiire pöörlemise tõttu,
-aga me näeme seda kerakujulisena, sest selle poolus on suunatud meie poole.
+نسر واقع در صورت فلکی شلیاق قرار دارد. همچنین قسمتی از مثلث تابستانی متشکل از
+نسر واقع ، نسر طائر، و دنب است. نسر واقع آنقدر سریع به دور خود می چرخد که ورم می
+کند. گرچه ما آنرا از طرف قطبش مشاهده می کنیم و به نظر دایروی می رسد.

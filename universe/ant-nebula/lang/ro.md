@@ -1,5 +1,5 @@
-# Formik-Nebulozo
+# Nebuloasa Furnicii
 
-La Formika Nebulozo, kiu ankau estas nomata Mz 3, estas vastigante je 180,000
-kilometroj po hore. Gi similas formikon, tiom, ke estas nomita kiel formiko. Pli
-pri formikoj, zomi en 18 ordoj de grandeco.
+Nebuloasa Furnicii (Ant Nebula), numita si Mz 3, se extinde cu 180.000 de
+kilometri pe ora.Seamana cu o furnica, de aici si numele. Pentru mai multe
+despre furnici, mareste cu 18 ordine de marime!

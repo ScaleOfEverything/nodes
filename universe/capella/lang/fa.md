@@ -1,4 +1,5 @@
 # Capella
 
-Capella on tegelikult kaksitäht, mille mõlemad tähed on G tüüpi hiidtähed.
-Suurem neist asub vasakul. Päike on ka G tüüpi täht, aga see on peajada täht.
+Capella is actually a binary star. Both stars are type-G giant stars. The larger
+one is the one you see to the left. The Sun is also a type-G star, but it's a
+main-sequence one.

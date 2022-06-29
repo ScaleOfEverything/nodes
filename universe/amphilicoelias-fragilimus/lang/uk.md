@@ -1,5 +1,5 @@
-# Amphilicoelias Fragilimus
+# Амфіцелія
 
-Amphilicoelias Fragilimus a fost cel mai mare dinozaur care a existat vreodata.
-Cîntarea peste 100 de tone! Era atît de mare încît ti-ai fi putut construi o
-casa pe el!
+Амфіцелія був найбільшим динозавром із всіх, які коли-небудь існували! Він важив
+більше 100 тонн! Він настільки великий, що ви могли б побудувати свій будинок на
+його вершині, якщо б захотіли!

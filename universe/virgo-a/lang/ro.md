@@ -1,5 +1,5 @@
-# Virgo A
+# Fecioara A
 
-Virgo A estas la plej granda galaksio en la Virga Galaksia Amaso. Ci tia estas
-supergiganta elipsa galaksio. Cu vi scias, ke la nigra truo ce sia centro estas
-eljetante sprucajon de subatoma materio 5,000 lum-jaroj longe?
+Fecioara A este cea mai mare galaxie din Cluster-ul Fecioara. Este o galaxie
+supergigant eliptica. Stiai ca din gaura neagra din centrul sau este aruncat un
+jet de materie subatomica la 5.000 de ani-lumina distanta?

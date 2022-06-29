@@ -1,5 +1,5 @@
-# Gacrux
+# Гакрукс
 
-Gacrux se afla în constelatia Crux ("cruce" în latina), este cunoscut si sub
-numele de Crucea de Sud . Gacrux este o stea binara; cea mai mare dintre cele
-doua este o giganta rosie.
+Гакрукс можна знайти у сузір’ї Південного Хреста. Крукс, що означає "хрест"
+по-латині, відома як Південний Хрест. Гакрукс є подвійною зіркою. Найбільша з
+двох є червоним гігантом.

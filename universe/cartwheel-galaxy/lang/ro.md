@@ -1,6 +1,6 @@
-# Carrada Galaksio
+# Cartwheel Galaxy
 
-Astronomoj pensas, ke la "Carrada Galaksio" havis kolizion kun du proksimaj
-galaksioj 200 milionoj da jaroj antaue. Lau ni, 700 milionoj da jaroj antaue,
-car la Carrada Galaksio estas je 500 milionoj da lum-jaroj for, do, kion ni
-vidas pri gi okazis antau 500 milionoj da jaroj.
+Astronomii cred Galaxy Cartwheel a avut o coliziune cu doua galaxii din
+apropierea ei acum 200 de milioane de ani. De fapt 700 de milioane de ani,
+pentru ca Galaxy Cartwheel este la 500 de milioane de ani-lumina distanta,
+astfel încît ceea ce vedem acum s-a petrecut deja acum 500 de milioane de ani.

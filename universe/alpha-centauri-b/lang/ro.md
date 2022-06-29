@@ -1,6 +1,6 @@
-# Alfa Centauro B
+# Alpha Centauri B
 
-Alfa Centauro B estas la dua plej granda stelo de la stela sistemo Alfa
-Centauro. Sia diametro estas proksimume unu miliono da kilometroj, tiel gi estas
-iomete pli malgranda ol la Suno. Alfa Centuro A kaj B estas tre proksimaj, pro
-tio ili aspektas kiel ununura stelo al ni Teranoj.
+Alpha Centauri B este dupa marime a doua stea din sistemul de stele Alpha
+Centauri. Diametrul sau este de aproximativ un milion de kilometri, deci putin
+mai mica decît Soarele. Alpha Centuari A si B sunt atît de aproape una de alta
+încît par a fi o singura stea.

@@ -1,5 +1,5 @@
 # NGC 3310
 
-NGC 3310 on üks neist galaktikates, mis on põrkunud teise galaktikaga ja tänu
-sellele oma kuju muutnud. See on ilusate harudega spiraalgalaktika ja asub üle
-40 miljoni valgusaasta kaugusel.
+NGC 3310 is another one of those galaxies that have collided with other
+galaxies, altering their shape. It is a spiral galaxy that has very beautiful
+arms and is over 40 million light-years away.

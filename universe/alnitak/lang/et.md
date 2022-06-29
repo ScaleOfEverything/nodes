@@ -1,5 +1,5 @@
-# 알니타크
+# Alnitak
 
-알니타크는 불꽃 성운을 밝혀주는 역할을 합니다. 알타니크는 오리온자리의 세 별 중
-에서 동쪽 끝에 위치하는데, 나머지 두개의 별은 알니람과 민타카 라고 하는 별입니다
-. 세 별들은 모두 지구에서 밝게 보입니다.
+Alnitak valgustab Tuleleegi udukogu. Alnitak on Orioni vöö kolmest tähest kõige
+idapoolsem. Teised kaks on Alnilam ja Miltaka. Kõik kolm paistavad planeet Maalt
+väga heledad.

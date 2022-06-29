@@ -1,5 +1,5 @@
-# B-kvarko
+# Cuarc bottom
 
-La B-kvarko ankau nomigas bela kvarko, car gi estas vere perfekte bela. Gi estas
-la tria generacio kaj rapide malintegrigas en la unua generacio de kvarkoj, kiel
-U kaj D." ,
+cuarcul bottom este numi si cuarcul frumusetii, pentru ca este atît de perfect!
+Este a treia generatie si se dezintegreaza rapid în cuarci din prima generatie,
+ca up si down.

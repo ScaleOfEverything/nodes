@@ -1,6 +1,5 @@
-# Eridanuse supertühimik
+# Eridanus Supervoid
 
-See on tähistaeva piirkond, mille temperatuur on natuke madalam kui kosmilisel
-mikrolaine-taustkiirgusel. Selle tempratuur on 2,7° K ehk -270,5° C. Natuke üle
-absoluutse nulli. Ühe teooria kohaselt on tegemist väravaga paralleel
-universumisse. Vau!
+It's a region in the night sky that's slightly cooler than the normal CMB
+temperature. It's 2.7° K, or -270.5° C. Barely above absolute zero. One theory
+says it leads to a parallel universe. Whoa!

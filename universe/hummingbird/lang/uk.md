@@ -1,5 +1,5 @@
-# pasarea Colibri
+# Колібрі
 
-Pasarea Colibri da din aripi de 12-80 de ori pe secunda, aproximativ aceeasi
-frecventa ca si cele mai mici note de la pian. Ea poate zbura si înapoi si poate
-pluti în aer. Uimitoare abilitati!
+Колібрі машуть крилами 12-80 разів за секунду, що буде складати ту ж саму
+частоту, що й найнижчі ноти на піаніно. Вони також можуть летіти назад і
+завмирати у повітрі. Вражаючі уміння!

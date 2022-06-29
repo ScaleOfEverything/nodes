@@ -1,5 +1,6 @@
-# 거대지렁이
+# Hiidvihmauss
 
-거대지렁이는 3 미터까지 자랄 수 있습니다. 거대지렁이가 번데기에서 갓 나왔을 때는
-, 그 길이가 20 cm 밖에 되지 않는대요. 다 자라려면 3 년 정도가 걸린다고 하는데,
-땅 속에 살면서 소리를 낸다고 합니다.
+Hiidvihmauss võib kasvada kuni kolme meetri pikkuseks. Kui väike hiidvihmauss
+oma kookonmunast koorub, on ta ainult 20 sentimeetri pikkune. Täispikkuse
+saavutamiseks kulub neil viis aastat. Nad uuristavad käike maa-all ja tekitavad
+krudisevat heli.

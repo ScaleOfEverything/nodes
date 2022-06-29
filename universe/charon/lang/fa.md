@@ -1,5 +1,6 @@
 # Charon
 
-Charon on Pluuto ainuke suur kuu. Need on suuruselt peaaegu võrdsed. Need on nii
-lähestikku, et inimesed arvavad, et tegemist kaksikplaneediga. Kas teadsid, et
-Charon on alati Pluuto poole ühe küljega ja Pluuto Charoni poole samuti?
+Charon is Pluto's only large moon. They are very close in size. They are so
+close, some people consider Pluto and Charon to be a double planet. Did you know
+the same side of Charon always faces Pluto, and the same side of Pluto always
+faces Charon?

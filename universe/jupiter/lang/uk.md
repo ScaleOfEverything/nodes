@@ -1,7 +1,6 @@
-# Jupiter
+# Юпітер
 
-Jupiter este cea mai mare planeta din sistemul nostru solar. Cu toate acestea,
-nu este cea mai mare planeta cunoscuta! Asta ar fi TReS-4. Jupiter este un
-gigant gazos, deci e doar o minge de gaz, nu puteti ateriza niciunde pe el. De
-asemenea, Jupiter are 64 de sateliti, inclusiv cele patru sateliti ai lui
-Galilei
+Юпітер – найбільша планета у Сонячній системі. Однак, це не найбільша відома
+планета. Є ще Трес-4. Юпітер є газовою планетою, тому це просто шар газу. Ви
+ніде на ній не можете приземлитися. Також, у Юпітера є 64 місяця, включаючи
+чотири Галілейських місяця.

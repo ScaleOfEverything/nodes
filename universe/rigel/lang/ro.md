@@ -1,5 +1,5 @@
-# Rigelo
+# Rigel
 
-Rigelo estas flamanta blua stelo, kaj la plej brila en la konstelacio Oriono. Gi
-estas proksime al la ekvatoro, pro tio gi estas videbla de preskau ie ajn sur la
-Tero.
+Rigel este o stea albastra aprins, cea mai stralucitoare stea din constelatia
+Orion. Se afla înspre ecuator, astfel încît este vizibila de aproape peste tot
+de pe Pamînt.

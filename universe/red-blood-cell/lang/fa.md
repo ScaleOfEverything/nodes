@@ -1,6 +1,6 @@
-# Punane verelible
+# Red Blood Cell
 
-Umbes ühe neljandiku inimrakkudest moodustavad punased verelibled. Ühe tsükli
-pikkus inimkehas on nende jaoks 20 sekundit ja nad elavad ligikaudu neli kuud.
-Keskmine lohk suurendab nende pindala ja võimaldab lihtsamini hapnikku
-transportida. Muide, neil ei ole rakutuuma.
+Around one quarter of all human cells are red blood cells. They circulate
+through one cycle every 20 seconds, and only live around four months. The dent
+allows for more surface area, which means it's easier to transport oxygen. Oh,
+and they have no nucleus.

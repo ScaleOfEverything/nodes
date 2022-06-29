@@ -1,4 +1,5 @@
-# 마리아나 해구의 깊이
+# Mariaani süviku sügavus
 
-마리아나 해구는 아주 깊은 해구인데, 태평양에 있습니다. 아, 혹시 마리아나 해구가
-방사성 폐기물을 버리게 될 장소로 제안된 걸 아시나요? 굉장히 심각한 문제에요!
+Mariaani süvik on 11 km veepinnast allpool. Esimest korda käisid inimesed
+Challenger'i tipus (kõige sügavam punkt süvikus) 1960 aastal. Üllatuseks leiti
+isegi nii sügavalt vee alt elu.

@@ -1,6 +1,5 @@
-# Giganta Lumbriko
+# Viermele de pamînt gigantic
 
-La giganta lumbriko povas kreski gis tri metroj longe. Dum beboj, la gigantaj
-lumbrikoj estas nur dukek centimetraj longe, kiam elkovigas de iliaj kokonoj.
-Estas necese kvin jaroj por ke ili atingu sian kompletan longecon. Ili tunelas
-subtere kaj faras murmuretadajn bruojn.
+Viermele gigant poate creste pîna la trei metri. Atunci când ies din coconi lor,
+au doar douazeci de centimetri. Abia în cinci ani ajung la lungimea lor
+completa. Locuiesc subteran si fac zgomote ciudate: susura.

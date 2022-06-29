@@ -1,6 +1,4 @@
-# 천왕성
+# Uraan
 
-천왕성은 태양계의 7 번째 행성입니다. 대기가 섭씨 -216℃ 로 엄청나게 추운데다, 핵
-은 얼음으로 구성되어 있기까지 한 행성이지요! 사족으로, 천체의 이름은 대개 신화의
-등장인물이나 신의 이름을 붙이는 게 관례였지만, 예외적으로 천왕성의 위성에는 셰익
-스피어 작품 등장인물의 이름을 붙인다고 하네요!
+Uraan ome meie päikesesüsteemi seitsmes planeet. Uraan sai oma nime taevajumal
+Uranuse järgi. Uraan on päikesesüsteemi kõige külmem planeet.

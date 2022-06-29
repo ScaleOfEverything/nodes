@@ -1,5 +1,5 @@
-# 메시에 54
+# Messier 54
 
-NGC 6715, 또는 M54 라고 불리우는 메시에 54 는 구상성단입니다. 궁수자리 왜소 은하
-에 속해 있는데, 그럼 우리 은하 밖에 있는 구상성단으로서는 처음으로 발견된 것이겠
-죠.
+Messier 54 ehk M54 ehk NGC 6715 on järjekordne kerasparv. See asub Sagittariuse
+kääbusgalaktikas, mis tähendab, et see on esimene kerasparv avastatud väljaspool
+Linnuteed.

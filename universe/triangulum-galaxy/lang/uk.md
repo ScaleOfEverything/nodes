@@ -1,5 +1,5 @@
-# Galaxia Triunghi
+# Галактика Трикутника
 
-Aceasta galaxie nu are forma unui triunghi, este doar numit asa pentru ca se
-gaseste în constelatia Triangulum. Îtii dai seama ca oricare trei stele formeaza
-o "Constelatie triunghi"; am putea avea milioane de constelatii triunghi!?
+Ця галактика за формою не виглядає як трикутник; вона називається так лише тому,
+що її можна знайти у сузір’ї Трикутника. Ви зрозуміли, що будь які три зірки
+формують "трикутне сузір’я"? У нас могли б бути мільйони трикутних сузір’їв!

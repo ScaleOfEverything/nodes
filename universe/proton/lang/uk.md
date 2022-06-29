@@ -1,5 +1,5 @@
-# Proton
+# Протон
 
-Protonii se afla în nucleul atomic, sunt de mii de ori mai mici decît atomul
-însusi. Au doi cuarci up si un cuarc down. Prin urmare, sarcina protonului este
-de +? + ? - ? = +1.
+Протони знаходяться у середині ядра атому. Вони у тисячі разів менші, ніж сам
+атом. Вони мають два верхні кварка і один нижній кварк. Таким чином, заряд
+протона буде +2/3+2/3-1/3 = +1.

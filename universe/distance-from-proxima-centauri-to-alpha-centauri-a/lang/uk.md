@@ -1,3 +1,3 @@
-# Distanta de la Proxima Centauri la Alpha Centauri A
+# Відстань від Проксима Центавра до Альфа Центавра A
 
-Proxima Centauri este foarte departe de Alpha Centauri, A si B
+Проксима Центавра розташована дуже далеко від Альфа Центавра A та B.

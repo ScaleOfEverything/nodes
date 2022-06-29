@@ -1,5 +1,4 @@
-# 핼리혜성
+# Halley komeet
 
-헬리혜성의 본래 크기는 작은 편이지만, 혜성의 꼬리는 그 길이가 수백만 킬로미터에
-달한다고 합니다! 그런데, 헬리혜성은 1,000 번 공전할 때마다 본래 질량의 10%를 잃
-어버린다고 합니다.
+Halley komeedi tegelik suurus on üpris väike. Moodustuva saba pikkus võib olla
+aga miljoneid kilomeetreid! Halley komeedi mass väheneb 10% iga tuhande tiiruga.

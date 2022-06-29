@@ -1,5 +1,5 @@
-# R Doradus
+# ماهی زرین R
 
-R Doradus on suhteliselt suur ja kõigest 200 valgusaasta kaugusel Maast,
-seetõttu näiva suuruse on järgi see taevas teisel kohal. Selle läbimõõt on 0,05
-kaaresekundit. Päike on suurim oma 1920 kaaresekundiga st. 40 000 korda suurem.
+ماهی زرین R تقریبا بزرگ است و تنها 233 سال نوری از زمین فاصله دارد، بنابراین
+اندازه ی ظاهری آن از لحاظ بزرگی دومین در آسمان است! پهنای آن 3.32 ثانیه ی قوسی
+است. خورشید بزرگترین است با 1,920 ثانیه ی قوسی پهنا – 40,000 بار بزرگتر

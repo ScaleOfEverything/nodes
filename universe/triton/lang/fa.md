@@ -1,4 +1,5 @@
 # Triton
 
-Triton on Neptuuni suurim kuu. See on ka Päikesesüsteemi külmim objekt oma
--240°C. Triton on väga tuuline, sest tuulte kiirus läheneb helikiirusele.
+Triton is Neptune's largest moon. It is also the coldest object in the Solar
+System, at -240° C. Triton is also a very windy place, with winds going at
+almost the speed of sound!

@@ -1,5 +1,5 @@
-# Ángel-Akvofalo
+# Cascada Angel
 
-La Angelo Falo estas la plej alta akvofalo en la mondo. Gi estas la plej grava
-Venezuela turisma vidindajo. La plimulto de la akvo forvaporigas en nebulo antau
-ol frapi la teron. Tio estas tro malbone. Au gi estas bone? Estas bone.
+Cascada Angel este cea mai înalta cascada din lume, si principala atractie
+turistica în Venezuela. Apa se evapora în cea mai mare parte înainte de a atinge
+solul. E rau! Sau bine? E bine!

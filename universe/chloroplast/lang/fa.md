@@ -1,7 +1,5 @@
-# Kloroplast
+# Chloroplast
 
-Kloroplastid on taimede organellid, mis võimaldavad päikese valguse energiat
-muuta keemiliseks energiaks. Saadud energiat salvestatakse glükoosi molekulides.
-Kloroplastid annavad ka taimedele nende rohelise värvuse. Kas teadsid, et
-kevadel on päriselt ka taimed rohelisemad, kuna siis taimed teiste ensüümide
-tööd ei ole vaja?
+Plant use chloroplasts to turn the Sun's energy into chemical energy, which is
+stored in glucose molecules! Chloroplasts are also what give plants their green
+color, because they have fabulous chlorophyll inside their thylakoid membranes.

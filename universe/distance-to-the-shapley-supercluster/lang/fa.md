@@ -1,4 +1,4 @@
-# Vahemaa Shapley superparveni
+# Distance to the Shapley Supercluster
 
-Shapley superparv on galaktikate superparv. See üks suurimaid objekte, mis
-tõmbub kokku; kõik suuremad objektid tavaliselt eemalduvad universumis.
+The Shapley Supercluster is a supercluster of galaxies. It is one of the largest
+objects that collapses inward; anything larger expands with the universe.

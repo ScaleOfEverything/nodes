@@ -1,5 +1,5 @@
-# Dutavolaj Fosfolipidoj
+# Fosfolipidele bistratificate
 
-Celaj membranoj estas faritaj el dutavolaj fosfolipidoj. Dutavolaj Fosfolipidoj
-povas farigi nature, car la kapoj altiras la akvon kaj la vostoj estas
-forpusitaj de akvo. Rezulte, vostoj kunigas, formante la dutavolon.
+Membranele celulare sunt realizate din fosfolipide bistratificate. Ele se pot
+forma în mod natural, deoarece capetele sunt atrase de apa si cozile lor resping
+apa. Ca rezultat, cozile se strîng împreuna, formînd straturile.

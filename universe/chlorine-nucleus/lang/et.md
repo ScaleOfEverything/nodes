@@ -1,4 +1,5 @@
-# 염소 원자핵
+# Kloori aatomtuum
 
-염소 원자핵에는 17 개의 양성자가 들어있습니다. 중성자는 보통 18 개나 20 개가 들
-어있는데, 가끔 19 개로 존재하기도 합니다.
+Kloori tuumas on 17 prootonit. Seal on ka tavaliselt 18 või 20 neutronit! Ainult
+harva on seal 19 neutronit. Ma ei ole kindel miks nii on. Kas sina tead? Anna
+mulle teada kui tead.

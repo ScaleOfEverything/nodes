@@ -1,4 +1,5 @@
-# Dodo lind
+# Dodo Bird
 
-Dodo lind suri välja umbes 1600ndatel. Linnu nimi on pärit häälest, mis need
-teevad (või tegid, sest nad on praegu välja surnud). Nii et jah, nad on läinud.
+The dodo bird went extinct sometime during the 1600s. The name comes from the
+sound they make (or should I say used to make since they're now extinct). So
+yeah, they're gone.

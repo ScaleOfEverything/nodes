@@ -1,5 +1,6 @@
-# Türannosaurus
+# Tyrannosaurus Rex
 
-Praeguseks juba väljasurnud. Ta oli 7 meetrit pikk, aga see ei anna talle kõige
-pikema dinosauruse tiitlit - suurenda välja, siis näed kõige suuremat
-dinosaurust!
+This dinosaur is now extinct, but it used to be to 7 meters long. It is still
+being debated whether the T-Rex was a predator or a scavenger. Although the
+T-Rex was very large, it was not the largest! Zoom out a bit to see the largest
+dinosaur!

@@ -1,6 +1,5 @@
-# La Luno
+# Luna
 
-La Luno, ankau nomata (latine) "Luna", estas la plej brila objekto en la nokta
-cielo. Gi cirkauas la Teron ciu 27 tagoj, 7 horoj kaj 43 minutoj. Al mi placas
-imagi, ke mi vidas kelkajn lunojn disigitajn trans la nokta cielo. Tiu ja estus
-mirige!
+Luna este cel mai stralucitor obiect de pe cerul al noptii. Luna orbiteaza
+Pamîntul la fiecare 27 zile, 7 ore si 43 minute. N-ar fi uimitor sa vedem mai
+multe luni împrastiate pe cerul noptii?

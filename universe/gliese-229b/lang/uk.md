@@ -1,5 +1,6 @@
-# Gliese 229B
+# Глізе 229B
 
-Gliese 229B este o pitica maro. Aceasta orbiteaza o pitica mai mare, Gliese
-229A. Gliese 229B ar fi clasificata ca o planeta, dar este mult mai densa decît
-Jupiter, deci masa ei prea mare o transforma dintr-o planeta într-o stea.
+Глізе 229B – зірка-коричневий карлик. Вона рухається по орбіті навколо більшої
+зірки-карлика, а саме навколо Глізе 229A. Глізе 229B можна було б класифікувати
+як планету, проте вона набагато щільніша, ніж Юпітер, з масою забагато більшою,
+щоб вважати її планетою.

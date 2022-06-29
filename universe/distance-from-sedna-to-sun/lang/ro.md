@@ -1,4 +1,5 @@
-# Distanco el Sedno al la Suno (La plej fora)
+# Distanta de la Sedna la Soare (cea mai îndepartata)
 
-Kiam Sedno estas la plej fora el la Suno, estas vere for. Ci tiu punkto nomigas
-"afelio"! Sedna necesas pli ol 10,000 Teraj jaroj por kompletigi unu orbiton.
+La distanta maxima de Soare, Sedna este foarte departe! Acest punct se numeste
+"afeliu"! Sedna are nevoie de peste 10.000 de ani terestri pentru a finaliza o
+orbita

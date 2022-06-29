@@ -1,5 +1,5 @@
-# Korvpall
+# Basketball
 
-See korvpall on suurusega 7. Korvpalli kasutatakse korvpalli mängus, kus mängu
-eesmärgiks on, palli rõngast erinevatelt viskekaugustelt läbides, kõige rohkem
-punkte koguda.
+This basketball is probably a size 7 basketball, because a size 6 basketball is
+only 23 centimeters in diameter. This basketball, which is very round, is often
+pushed through a hoop.

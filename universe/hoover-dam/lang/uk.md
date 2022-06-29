@@ -1,5 +1,5 @@
-# Barajul Hoover
+# Плотина Гувера
 
-Barajul Hoover, construit pe râul Colorado tine cel mai mare rezervor de apa din
-Statele Unite: Lacul Mead. Barajul Hoover nu furnizeaza doar apa, turbinele sale
-genereaza de asemenea si electricitate.
+Плотина Гувера, яка була побудована на річці Колорадо, утримує найбільший
+резервуар у Сполучених Штатах, а саме водосховище Мід. Забезпечує воду не сама
+плотина Гувера, але її турбіни, які також генерують електричну енергію.

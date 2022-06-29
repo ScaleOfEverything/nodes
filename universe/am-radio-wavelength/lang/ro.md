@@ -1,5 +1,5 @@
-# AM-Radia Ondolongo
+# Lungime de unda radio AM
 
-A kaj M estas la unua kaj dektriaj literoj de la (angla) alfabeto. Unu estas
-perfekte kvadrata, dum dek tri ne. Ni ciuj havas niajn diferencojn, kaj ni devas
-lerni por akcepti ilin. Tia estas la nura vojo por ke ni kunvivu harmonie.
+A si M sunt prima si a treisprezecea litera din alfabet. Unu este patrat
+perfect, în timp ce treisprezece nu este. Cu totii avem diferente si trebuie sa
+învatam sa le acceptam. Doar asa putem trai în armonie!

@@ -1,5 +1,6 @@
-# picatura de ceata
+# Крапелька Туману
 
-Ceata reduce vizibilitatea si reflecta de asemenea, lumina. Astfel încît se pot
-vedea razele de lumina care trec prin ea. Cool, nu?. Ceata apare de regula pe
-coaste sau la munte.
+Туман може дещо зменшити видимість. Також він може відбивати світло, так що ви
+зможете побачити лучі світла, що світять крізь нього. Це доволі кльово. Якщо ви
+бажаєте знайти туман, йдіть на узбережжя чи в гори. Туман там більш
+розповсюджене явище.

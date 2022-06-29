@@ -1,7 +1,7 @@
-# Teren de fotbal american
+# Футбольне Поле
 
-Un teren de fotbal american are 120 de yarzi (109.7 metri), daca si
-extremitatile sunt incluse. Terenurile de fotbal sunt adesea folosite pentru
-masurarea obiectelor de mari dimensiuni; de exemplu," Titanicul este lung cît
-trei terenuri de fotbal. "Terenurile de fotbal sunt deasemenea folosite si
-pentru fotbal.
+Американські футбольні поля складають 120 ярдів (109.7 метрів) у довжину, якщо
+включати кінцеві (залікові) зони. У будь-якому випадку, футбольні поля часто
+використовуються для вимірювання великих об’єктів. Наприклад, "Титанік був
+довжиною у три футбольні поля!" Футбольні поля часто використовуються для гри у
+футбол.

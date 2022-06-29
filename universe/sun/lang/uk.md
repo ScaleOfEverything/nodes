@@ -1,6 +1,5 @@
-# Soarele
+# Сонце
 
-Soarele, sau Sol, este steaua care da Pamîntului energia necesara vietii.
-Soarele este în diametru de peste 100 de ori mai mare decît Pamîntul! Soarele
-trimite pe an de 20.000 de ori mai multa energie solara Pamîntului decît are
-nevoie omenirea
+Також відоме як Сол, Сонце є тим, що дає Землі життєдайну енергію. Сонце більш
+ніж у 100 разів більше за діаметром, ніж Земля! Зараз у 20,000 разів більше
+сонячної енергії влучає у Землю, ніж використовує людська раса.

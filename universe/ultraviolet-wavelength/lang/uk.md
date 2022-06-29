@@ -1,4 +1,5 @@
-# Lungimea de unda a ultravioletelor
+# Довжина Ультрафіолетової Хвилі
 
-Lumina UV te poate bronza! Credeam ca lumina si caldura soarelui ard pielea, la
-fel cum un gratar înegreste mîncarea. Acum stiu ca nu e adevarat.
+Ультрафіолетове світло може подарувати вам засмагу. Колись я думав, що сонячне
+світло та спека випалює вашу шкіру, щоб вона була темніша, так само, як гриль
+для барбекю перетворює усю їжу на чорний колір. Тепер я знаю, що це не так.

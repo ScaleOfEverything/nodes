@@ -1,4 +1,6 @@
-# 우리 은하
+# Linnutee
 
-우리는 우리 은하 안에 살고있습니다. 지구에서 우리은하의 전체모습을 볼 수는 없겠
-지만, 밤하늘을 가로지르는 물줄기같은걸 볼 순 있을거에요. 그게 바로 은하수에요.
+Meie planeet Maa asub Linnutee galaktikas. Kuna me ise asume selle sees, siis ei
+ole meil võimalik tervikuna Linnuteed näha. Aga kui piilud õhtul tähistaevasse,
+siis võid märgata tihedamat riba tähtedest, mis ulatub üle terve tähistaeva -
+see ongi Linnutee!

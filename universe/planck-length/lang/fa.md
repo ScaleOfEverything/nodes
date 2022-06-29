@@ -1,4 +1,5 @@
-# Plancki pikkus
+# Planck Length
 
-Plancki pikkus on pikkuse mõõtühik. Olemas on ka plancki aeg, ajahulk, mis kulub
-valgusel ühe plancki pikkuse läbimiseks vaakumis. (Ülilühike!)
+The planck length (lp) is a unit of length. There is also a planck time, which
+is the amount of time it takes light to travel one planck length in a vacuum.
+(Super short!)

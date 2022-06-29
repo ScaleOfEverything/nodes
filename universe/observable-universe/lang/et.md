@@ -1,6 +1,7 @@
-# 관측 가능한 우주
+# Jälgitav universum
 
-반지름은 460 억 광년입니다. 빛이 여행한 거리가 137 억년이기 때문에 137 억 광년까
-지만 볼 수 있을거라고 생각할 지 모르지만, 우주의 팽창 때문에 원래 거리가 137 억
-광년이었던 물체가, 지금은 460 억 광년 떨어져 있게 됩니다. 그리고 우린 이 물체들
-을 볼 수 있죠.
+Jälgitava universumi raadius on 46 miljardit valgusaastat. Kuna universumi vanus
+on 13,7 miljardit aastat, võiks arvata, et me ei saa näha kaugemale kui 13,7
+valgusaastat. Aga olemasolev ruum ka laieneb, sellest tingituna on meil võimalik
+näha tähti ja galaktikaid, mis on meist tegelikult 46 miljardi valgusaasta
+kaugusel.

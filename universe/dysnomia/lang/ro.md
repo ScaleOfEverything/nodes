@@ -1,5 +1,5 @@
-# Disnomio
+# Dysnomia
 
-Disnomio estas la nura luno de Eriso kiu estis malkovrita je la 10a de septembro
-2005, sabate. Cu vi scias, ke "Disnomio" ankau temas pri lernmalsano, kiu estas
-simile al disleksio?
+Dysnomia este singurul satelit al lui Eris si a fost descoperit pe 10 septembrie
+2005, într-o zi de sâmbata. Stiai ca dysnomia este un handicap de învatare,
+similar cu dislexiei?

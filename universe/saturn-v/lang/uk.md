@@ -1,5 +1,6 @@
-# Saturn V
+# Сатурн V
 
-Saturn V este cea mai grea si mai înalta racheta produsa vreodata! Ardea 20 de
-tone de combustibil pe secunda! Folosita între 1968-1972, a fost singura racheta
-care a dus vreun om departe de Pamînt, pe Luna.
+Сатурн V є найвищою і найважкішою ракетою із коли-небудь існувавших! Це доволі
+кльово. Вона використовувалася у 1968-1972 роках і була єдиним транспортним
+засобом, що використовується для запуску людини подалі від Землі, на такі місця,
+як Місяць.

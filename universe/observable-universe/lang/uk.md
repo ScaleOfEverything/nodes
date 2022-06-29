@@ -1,7 +1,8 @@
-# Universul observabil
+# Видимий Всесвіт
 
-Raza sa este de aproximativ 46 miliarde de ani lumina (mAL) (raza fiind jumatate
-din diametru). Te-ai putea astepta sa vezi doar 13,7 mAL departare, deoarece
-lumina a avut doar 13,7 miliarde de ani pentru a calatori de la big bang, dar,
-datorita extinderii spatiului, obiecte care sa par sa fie acum la 13.7 mAL sunt
-acum la 46 mAL
+Радіус складає 46 мільярдів світлових років (половина діаметру). Ви можете
+очікувати побачити лише 13.7 мільярдів світлових років, тому що світлу вдалося
+пройти відстань лише у 13.7 мільярдів світлових років, але в результаті
+розширення космосу, об’єкти, які знаходилися на відстані 13.7 мільярдів
+світлових років, тепер віддалилися до вістані у 46 сітлових років, і ми їх
+можемо бачити.

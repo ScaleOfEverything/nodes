@@ -1,5 +1,5 @@
-# Lapovita
+# Дощ зі Снігом
 
-Lapovita cade din cer si e alcatuita din granule de gheata. Bolul de la stînga
-este o granula de gheata. Lapovita este similara zapezii, dar mult mai densa. Se
-poate observa ca lapovita este cu mult mai mica decît grindina.
+Дощ зі снігом, який падає з неба, вироблений із льодяних гранул. Цей шарик зліва
+є льодяною гранулою. Ця ожеледь схожа на сніг, але набагато густіша. Ви також
+могли помітити, що дощ зі снігом значно менший за град.

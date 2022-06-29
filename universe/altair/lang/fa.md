@@ -1,6 +1,6 @@
 # Altair
 
-Altair on Lõunakolmnurga kolmest tähest üks. Lõunakolmnurk on teravnurkne, sest
-kõik selle nurgad on alla 90°! Teised kaks tähte on Veega ja Deeneb. Altair
-pöörleb väga suure kiirusega, nagu paljud teised tähed, ning seetõttu on see
-keskelt lapikum kui Maa.
+Altair is one of the three stars in the Summer Triangle. The Summer Triangle is
+an acute triangle, which means that all the angles are less than 90°! The other
+two are Vega and Deneb. Like many other stars, Altair spins very quickly,
+bulging at the center!

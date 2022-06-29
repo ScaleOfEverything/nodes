@@ -1,5 +1,5 @@
-# S-kvarko
+# cuarcul Strange
 
-S-kvarkoj estas tre strangaj. Ili estas 50-foje amasa kiel U-kvarkoj, sed estas
-ankorau pli malgrandaj! Cu ne estas strange? Ja tre multe! "Stranga materio"
-estas farita de U-, D- kaj S-kvarkoj!
+Cuarcii Strange sunt foarte ciudati. Acestia sunt de 50 de ori mai masivi decît
+cuarcii up, dar sunt mai mici! Nu-i ciudat? " Materia ciudata" este alcatuita
+din cuarci up, down si strange.

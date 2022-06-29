@@ -1,6 +1,4 @@
 # Twip
 
-Twip-o (el la angla) estas dudekono de tipografia punkto. Tio signifas ke
-12-punkta tiparo estas proksimume 240 twip-oj longe. Ankau, TUIP estas
-"Tut-Universa Ideo Perspektive", malnova nomo por la Skalo de la Universo 2.
-TUIP kaj twip prononcigas same.
+Un twip este 1/20 dintr-un punct de tipar care înseamna un caracter de 12-pixeli
+are aproximativ 240 de twips.

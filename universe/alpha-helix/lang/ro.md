@@ -1,5 +1,4 @@
-# Alfa Helico
+# Alpha Helix
 
-La alfa helico estas unu el la duvicaj strukturoj de proteinoj. Multaj proteinoj
-havas alfa-helicojn ene de ili. Hemoglobino kaj Mioglobino estas proteinoj
-faritaj de cirkau 70% da alfa-helicoj!
+Helix alfa este una dintre structurile secundare ale proteinelor.Hemoglobina si
+mioglobina sunt proteine ??care sunt facute aproximativ 70% din spirale alfa!

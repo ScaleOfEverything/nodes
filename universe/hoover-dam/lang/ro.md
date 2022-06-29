@@ -1,5 +1,5 @@
-# Hoover-Akvoreservejo
+# Barajul Hoover
 
-La Hoover-a Akvoreservejo, kiu estis konstruita sur la Kolorado Rivero, enhavas
-la plej grandan akvorezervujon en Usono, la Lago Mead. Ne nur la Hoover-a
-Akvobarajo provizias per akvo, sed siaj turbinoj ankau produktas elektron.
+Barajul Hoover, construit pe râul Colorado tine cel mai mare rezervor de apa din
+Statele Unite: Lacul Mead. Barajul Hoover nu furnizeaza doar apa, turbinele sale
+genereaza de asemenea si electricitate.

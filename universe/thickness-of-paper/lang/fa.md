@@ -1,5 +1,5 @@
-# Paberi paksus
+# Thickness of Paper
 
-Paber on väga õhuke - isegi nii õhuke, et sellega on võimalik haav saada.
-Paberiga saab igasugu asju teha: kirjutada, joonistada, rebida, voltida ja
-joonestada.
+Paper is very thin. It's so thin it can give you a paper cut. You can do a lot
+of things with paper, including writing on it, drawing on it, and even folding
+it into shapes like squares and triangles and dodecahedrons and others.

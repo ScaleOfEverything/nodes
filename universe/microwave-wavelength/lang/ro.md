@@ -1,5 +1,5 @@
-# Mikroonda Ondolongo
+# Lungimea de unda a microundelor
 
-Fakte, la gamo de mikroondoj estas ege granda. Ili etendigas el unu milimetro al
-unu metro. Do, vidu ci tia elektromagneta ondo, kun ondolonga amplekso de unu
-centimetro, komforte integrigas en ci tia gamo kaj ankoraufoje estas mikroondo!
+Gama microundelor este destul de mare; variaza de la un milimetru la un metru.
+Prim urmare, aceasta unda electromagnetica, cu o lungime de unda de un
+centimetru, se încadreaza în acest interval si este astfel o microunda!

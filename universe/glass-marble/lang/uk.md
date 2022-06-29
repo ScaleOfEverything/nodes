@@ -1,5 +1,5 @@
-# o bila de sticla
+# Скляний Марбл
 
-Bilele de sticla par rotunde pîna cînd te uiti la ele cu un microscop. Aceasta
-sticla este un exemplu de marmura pasta de dinti. Alte bile pot fi facute din
-lemn, plastic, metal, sau chiar praf.
+Скляні марбли круглі, але насправді вони доволі нерівні, якщо роздивитися на них
+крізь мікроскоп. Цей марбл є прикладом марбла із зубної пасти. Інші марбли
+можуть бути вироблені із дерева, пластика, металу або навіть бруду.

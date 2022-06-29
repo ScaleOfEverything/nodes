@@ -1,5 +1,5 @@
-# Galaxia Pitic Sagetatorul
+# Карликова Галактика у Стрільці
 
-Sagetatorul, la doar 70.000 de ani-lumina distanta, este unul dintre galaxiile
-satelit ale Caii Lactee. Este o galaxie eliptica pitica, descoperita doar
-în 1994.
+Стрілець – одна з супутникових галактик Чумацького Шляху. Вона віддалена від нас
+лише на 70,000 світлових років! Це елліптична галактика, і водноча карликова.
+Вона не була відомою нам до 1994 року.

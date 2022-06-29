@@ -1,3 +1,3 @@
-# Proxima Centauri ja Alpha Centauri A vaheline kaugus
+# Distance from Proxima Centauri to Alpha Centauri A
 
-Proxima Centauri on väga kaugel Alpha Centauri A-st ja B-st.
+Proxima Centauri is very far away from Alpha Centauri A & B.

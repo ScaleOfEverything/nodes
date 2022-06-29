@@ -1,4 +1,5 @@
-# 물고기-고래자리간 초은하 집단 집합체
+# Kalade-Vaala superparve kompleks
 
-우리는 물고기-고래자리간 초은하 집단 집합체에 속합니다. 알려진 물체중에서 두번째
-로 큽니다, 슬론 장성 다음으로요.
+Me tegelikult paikneme Kalade-Vaala superparve kompleksis. See on teine suurim
+objekt, mida teatakse, kohe Sloani Suure Seina järel. Minu arvates on teine koht
+päris hea.

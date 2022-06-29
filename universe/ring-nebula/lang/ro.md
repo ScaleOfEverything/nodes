@@ -1,5 +1,5 @@
-# Ring-Nebulozo
+# Nebuloasa Inel
 
-La Ringa Nebulozo (M57) aspektas tre multe kiel ringo. La malnova kredo estis,
-ke ciuj planedaj nebulozoj estis ringoformaj kiel ci tia, sed nun ni scias, tio
-ne estas vero. Eblas trovi diversformajn planedajn nebulozojn.
+Nebuloasa Inel (Ring Nebula) seamana foarte mult cu un inel. Se credea mai
+demult ca toate nebuloasele planetare au o forma similara, între timp însa s-a
+dovedit ca nu e asa.

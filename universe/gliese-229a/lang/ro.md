@@ -1,5 +1,5 @@
 # Gliese 229A
 
-Gliese 229A estas ruga nanstelo. Gi estas iomete malpli granda ol la Suno. La
-ruga nanstelo ankau estas konata kiel GJ 229 au GI 229. Gi estas parto de binara
-stelsistemo, la dua stelo estas Gliese 229B.
+Gliese 229A este o pitica rosie; cu putin mai mica decît Soarele. Un alt nume ar
+fi GJ 229 sau GI 229. Este parte a unui sistem binar de stele, stele, a doua
+stea fiind Gliese 229B

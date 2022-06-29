@@ -1,5 +1,6 @@
-# Ce mai mare bacterie
+# Найбільша Бактерія
 
-Cea mai mare bacterie este Namibiensis Thiomargarita, are aproape un milimetru
-lungime Traieste în ocean, pe coasta Namibiei. Te imaginezi înnotînd în ocean,
-si vazînd aceste lucruri? Sunt foarte vizibile!
+Найбільша бактерія, яка є сірковою перлиною Намібії, має довжину майже в один
+міліметр. Вона живе в океані близько до берега Намібії. Ви можете уявити собі,
+як це: знаходитися в океані і бачити всі ці речі? Їх можна дуже добре
+розгледіти!

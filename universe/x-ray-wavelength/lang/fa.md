@@ -1,6 +1,6 @@
-# Röntgenkiirte lainepikkus
+# X-Ray Wavelength
 
-Kuigi röntgenkiirtel pole kõige kõrgem sagedus, pole siiski kõige parem idee
-päevitada nende ees. Ära seda kodus proovi! Tavaliselt on selleks vaja tinast
-kilpi. Mida paksem tina on, seda parem kaitse. Samas mingi kogus röntgenkiiri
-tuleb ikka läbi.
+Although X-rays do not have the highest frequency, it's still a bad idea to bask
+in them. Don't do it! Usually, you should have a lead shield. The thicker the
+lead is, the more protection. However, a few X-rays will always get through.
+Thicker lead just lowers this chance.

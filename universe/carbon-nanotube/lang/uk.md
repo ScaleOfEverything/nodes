@@ -1,5 +1,6 @@
-# Nanotub-ul de carbon
+# Нанотрубка Вуглецю
 
-Nanotuburile de carbon sunt cel mai puternic material descoperit vreodata, în
-plus sunt si usoare! Ca rezultat, nanotuburile au o multime de potentiale
-aplicatii, inclusiv cladiril, panouri solare, eventual chiar si un lift spatial.
+Нанотрубки вуглецю – найміцніший матеріал, який поки що винайдений. Як ще один
+бонус, вони дуже легкі. В результаті, нанотрубки мають багато потенційних
+застосувань, включаючи споруди, батареї, сонячні панелі, і можливо навіть
+космічний ліфт.

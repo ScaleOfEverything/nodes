@@ -1,4 +1,4 @@
-# Nano Galaksio I ce Cashundoj
+# Canes Venatici Dwarf Galaxy I
 
-La Cashunda Nano Galaksio I estas 720,000 lum-jaroj for de ni. Se vi zomas en
-direkto al tiu skalo, ci tia galaksio mezuros paron da bilderoj.
+Canes Venatici Dwarf Galaxy I este la 720.000 de ani-lumina distanta de noi Daca
+ai zooma la aceasta scara, galaxia ar fi abia cîtiva pixeli.

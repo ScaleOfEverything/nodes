@@ -1,5 +1,5 @@
-# Atomul de hidrogen
+# Атом Водню
 
-Hidrogenul este cel mai abundent element în univers. Alcatuit doar dintr-un
-proton si un electron, el este atît de mic încît nu-l poti vedea nicicum cu
-ochiul liber, chiar daca încerci din greu.
+Водень - найбільш розповсюджений елемент у Всесвіті. Як звичайно, це просто
+протон та електрон! Атом водню настільки малий, що ви навіть не можете його
+побачити неозброєним оком, навіть якщо будете дуже сильно намагатися.

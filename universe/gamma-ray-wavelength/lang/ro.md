@@ -1,4 +1,5 @@
-# Gama Radiada Ondolongo
+# lungimea de unda a razelor Gamma
 
-Gamaj radioj estas tre altfrekvencaj. Ili povas veni el radioaktiva atoma
-malintegrigo. Ho, kaj parenteze, ne estas helblua kiel sajnas maldekstre.
+Desi razele gamma nu o frecventa foarte înalta, provin de obicei din
+dezintegrare radioactiva. Apropo, nu sunt de fapt albastre, asa cum par a fi în
+stînga.

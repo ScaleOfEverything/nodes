@@ -1,4 +1,4 @@
-# 에니프
+# Enif
 
-에니프는 초거성입니다. 에니프 라는 이름은 아랍어로 "코"를 뜻하는데, 그 이유는 페
-가수스자리에서 이 별이 코 부분에 위치하기 때문이라네요.
+Enif on oranž ülihiid. Enif tähendan araabia keeles nina ja tuleneb sellest, et
+täht asub Pegasuse tähtkuju vastavas piirkonnas.

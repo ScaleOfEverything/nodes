@@ -1,5 +1,5 @@
-# Râma
+# Простий Хробак
 
-Îti plac râmele scîrboase? În ciuda ceea ce se crede, marea majoritate a
-speciilor de râme vor muri daca le tai în jumatate. Uneori însa, capul
-supravietuieste si îi va creste o noua coada
+Невже ви просто не любите слизьких хробаків, що звиваються? Незважаючи на міські
+легенди, більшість видів хробаків помре, якщо розрізати їх навпіл. Інколи,
+голова виживає и вирощує новий хвіст.

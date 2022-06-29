@@ -1,5 +1,7 @@
-# Steaua lui Luyten
+# Зірка Лейтена
 
-Star lui Luyten este o pitica rosie la 12 de ani-lumina distanta. Este atat de
-aproape de Procyon încît Procyon este de 10 ori mai stralucitoare pentru Steaua
-Luyten decît pare Sirius la noi.
+Зірка Лейтена – червона карликова зірка, що знаходиться на відстані лише 12
+світлових років від нас. Вона знаходиться так близько до Проціону, що Проціон
+здавався б у 10 разів яскравішим зірці Лейтена, ніж Сіріус видається нам. Також,
+я не знаю як її правильно вимовляти англійською мовою. Здається, "Люві-тен", чи
+"Лой-тен", або "Лу-тен"? Я просто не знаю! Допоможіть, будь ласка!

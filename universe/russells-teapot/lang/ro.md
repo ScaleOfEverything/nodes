@@ -1,5 +1,5 @@
-# Tekruco de Russell
+# Ceainicul lui Russell
 
-Bertrand Russell diris, ke estis tekruco orbitante la Sunon inter Tero kaj
-Marso. Neniu povus refuti lin, car tia tekruco ne estis videbla. Sekve, neniu
-senescepte dubus pri Russell.
+Bertrand Russell a spus ca un ceainic orbiteaza în jurul Soarelui între Pamînt
+si Marte. Nimeni nu l-a putut vreodata contrazice, deoarece un astfel de obiect
+e prea mic pentru a fi vizibil.

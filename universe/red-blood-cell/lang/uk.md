@@ -1,5 +1,6 @@
-# Celula rosiei din sînge
+# Червона Кров’яна Клітина
 
-Aproximativ un sfert dintre toate celulele umane sunt celule rosii. Circula
-într-un ciclu de 20 de secunde si traiesc cam patru luni. Au o suprafata mare
-pentru transportul oxigenului. Nu au nucleu!
+Близько однієї чверті всіх людських клітин – це червоні кров’яні клітини. Вони
+циркулюють по колу кожні 20 секунд, і живуть лише близько чотирьох місяців. Їх
+недостача дає більшу площу поверхні, що означає, що стає легше транспортувати
+кисень. О, і ще в них немає ядра.

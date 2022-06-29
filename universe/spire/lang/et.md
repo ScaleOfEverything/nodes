@@ -1,5 +1,5 @@
-# 스파이어
+# Torn
 
-스파이어는 독수리 성운의 일부입니다. 독수리 성운과 비교했을 때 작긴 하지만, 태양
-계보다 10 ~ 20,000 배 큽니다. 태양계의 범위를 어디까지 정의하느냐에 따라 달라지
-긴 하지만요.
+See väike teravik on osa palju suuremast Kotka udukogust. Kuigi see tundub väike
+võrreldes Kotka udukoguga, on see siiski, sõltuvalt Päikesesüsteemi
+definitsioonist, oma 10-2000 korda suurem kui Päikesesüsteem.

@@ -1,4 +1,5 @@
-# 부메랑 성운
+# Bumerangi udukogu
 
-부메랑 성운은 매우 차갑습니다. 절대온도 0 도에서 1도 높아요 (-272℃)! 우주 배경복
-사보다도 온도가 낮은데, 우주에서 지금까지 알려진 가장 차가운 물체라고 하네요.
+Bumerangi udukogu on väga külm koht, ainult üks kraad üle absoluutse nulli (-272
+°C)! See on külmem kui kosmose taustkiirgus. Kas teadsid, et Bumerangi udukogu
+on kõige külmem objekt Universumis?

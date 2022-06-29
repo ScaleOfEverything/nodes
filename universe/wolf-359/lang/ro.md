@@ -1,5 +1,5 @@
-# Lupo 359
+# Wolf 359
 
-Lupo 359 estas malgranda ruga nanstelo, gi nanigis el normala stelo. Estas la
-sesa plej proksima stelo al la Tero, post Suno, Proksima Centauro, Alfa Centauro
-A kaj B, kaj la Barnarda stelo. Tamen, sia brileco estas malhela +13.5.
+Wolf 359 este o pitica mica rosie, eclipsata de alte stele. Este a sasea cea mai
+apropiata stea de Pamînt, dupa Soare, Proxima Centauri, Alpha Centauri, A & B si
+steaua lui Barnard. Cu toate acestea, marirea sa este doar +13.5

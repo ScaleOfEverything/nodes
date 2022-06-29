@@ -1,5 +1,4 @@
-# 약력의 작용범위
+# Nõrga vastastikmõju mõjuraadius
 
-약력은 네가지 기본 상호 작용중 하나인데, 두가지 핵력보다 그 세기가 약합니다. 거
-리가 멀어질수록 약력은 약해지는데, 10 아토미터 이상 벗어나면 힘이 너무 약해지기
-에 약력은 측정되지 않습니다.
+Nõrk vastastikmõju on üks neljast fundamentaalsest jõust looduses. Juba 10
+attomeetri kaugusel (see on 0,0000000000000001 meetrit) muutub ta mõõdetamatuks.

@@ -1,6 +1,5 @@
-# Buckyball
+# Фулерен
 
-Buckyballs, care sunt, de asemenea, numite Buckminsterfullerenes, sunt facute
-din atomi de carbon de 60 de forma pe care o face este un icosaedru trunchiat,
-care este, de asemenea, forma de minge de fotbal! O solutie facute complet din
-buckyballs este violet.
+Фулерени, які також називають бакиболами, вироблені із 60 атомів вуглецю. Форма,
+яку він утворює є зрізаним двадцятигранником, таку ж саме форму має футбольний
+м’яч! Рішення, яке цілком вироблене із фулеренів, фіолетове.

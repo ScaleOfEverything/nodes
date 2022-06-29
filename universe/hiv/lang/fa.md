@@ -1,5 +1,5 @@
 # HIV
 
-HIV-sse on haigestunud 0,6% maailma elanikkonnast ja see põhjustab AIDSi. Kuigi
-üksik HIV viirus on nii väike, et ükski inimene terves maailmas ei näeks seda
-palja silmaga, suudab see tappa nii palju.
+HIV infects 0.6% of the world's population and causes AIDS. Although a single
+HIV virus is very small, in fact, so small that not a single human being on the
+face of this planet can see it with their naked eye, it can still kill.

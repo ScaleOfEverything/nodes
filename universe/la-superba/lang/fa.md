@@ -1,5 +1,5 @@
 # La Superba
 
-La Superba on öise taeva punaseim täht. See on nii punane tänu süsinik-13-le,
-mis tekib heeliumi sünteesireaktsioonis. Tavaline süsinik on massiarvuga 12. La
-Superba temperatuur 2500 °C teeb sellest ühe külmematest tähtedest.
+La Superba is one of the reddest stars in the night sky. It is so red because of
+all the carbon-13 it creates when fusing helium. (Normal carbon is carbon-12.)
+La Superba is only 2500° C, making it one of the coldest stars.

@@ -1,5 +1,5 @@
-# Ruut-toll
+# اینچ مربع
 
-Oled harjunud meetri süsteemiga? Siin on sulle ruut-toll. Ruut-tolli üks külg,,
-loe veel kord "üks külg", on ligilähedane täiskasvanud inimese pöidla laiusega,
-mis on 2,5 sentimeetrit.
+اگر به سیستم متریک عادت ندارید، این اینچ مربع است. متأسفانه برای شما، تقریبا
+تمامی چیزهای دیگر در سیستم متریک نوشته شده اند. همچنین، 2.2 سانتیمتر واحد طول
+است، نه مساحت. )در این مورد cm^2 به کار می رود.(

@@ -1,5 +1,6 @@
-# Nucleul de uraniu
+# Ядро Урану
 
-Uraniul are cel mai mare nucleu dintr toate elementele naturale. Uraniul-238,
-izotopul cel mai frecvent de uraniu, are un timp de înjumatatire de 4,5 miliarde
-de ani, aproximativ vîrsta Pamîntului!
+Уран – найвищий натуральний елемент. Він також має найбільше ядро із всіх
+натуральних елементів. Уран-238, найбільш поширений ізотоп урану, має період
+напіврозпаду у 4.5 мільярдів років, приблизно той період часу, скільки існує
+Земля.

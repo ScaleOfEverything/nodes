@@ -1,6 +1,6 @@
-# Aldebaran
+# دبران
 
-Aldebarani ei tohi segi ajad Alderaaniga, Star Warsi fiktiivse planeediga.
-Alderaan on väga sarnane Maale oma suuruse, päevapikkuse ja veega kaetuse tõttu.
-See-eest Aldebaran on 5000 korda suurema läbimõõduga täht, teeb ühe pöörde 643
-Maa päevaga ja sellel ei leidu vett.
+Aldebaran را نباید با Alderaan اشتباه گرفت، که یک سیاره در جنگ ستارگان است.
+Alderaan بسیار به زمین شبیه است از لحاظ اندازه، طول روز، و پوشش آبی. گرچه، دبران
+5,000 بار قطرش بزرگتر است، هر 340 روز زمینی یک دور می زند، و آبی در آن وجود
+ندارد.

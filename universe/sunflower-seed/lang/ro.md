@@ -1,6 +1,6 @@
-# Sunflora Semo
+# Seminte de floarea soarelui
 
-Sunfloraj semoj estas viglige bongustegaj. Estas tiel plezurigaj, ke ili povas
-esti faritaj kiel "sunflora sema pano"! Sunfloraj semoj ne estas vere semoj. Sed
-la fruktoj de la sunfloro! Ili estas nomataj nur "semojn" car ili similas al
-aliaj semoj.
+Semintele de floarea-soarelui sunt delicioase. Cu ele se poate face si pîine de
+seminte de floarea-soarelui. Ele sunt impropriu numite seminte! De fapt ele sunt
+fructe de floarea-soarelui! Sunt doar numite" seminte", deoarece seamana cu alte
+seminte

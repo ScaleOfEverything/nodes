@@ -1,6 +1,6 @@
-# Palm Jebel Ali
+# Пальма Джебель Алі
 
-Palm Jebel Ali este cel mai mare insula creata de om (neincluzând insule precum
-Flevopolder, o regiune a Olandei care a fost drenata astfel încît sa poata avea
-mai mult teren). Palm Jebel Ali nu este completa. Este o parte a Insulelor Palm,
-si în final va gazdui 250.000 de persoane
+Пальма Джебель Алі - це найбільший створений людиною острів (не враховуючи такі
+острови, як Флевополдер, де була осушена місцевість Нідерландів, так що там
+виникло більше землі). Пальма джебель Алі не завершений. Це частина Пальмових
+островів і туди планується заселити 250,000 людей!

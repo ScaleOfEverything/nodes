@@ -1,5 +1,4 @@
-# Mimiviruso
+# Mimivirus
 
-Ci tia malgranda ajeto estis malkovrita en 1992 ene de amebo, kiu estas nur 500
-foje pli granda. Mimiviruso kutime estis la plej granda viruso konata, sed nun
-estas la Megaviruso.
+Acest virus a fost descoperit în 1992 într-o amiba, doar de 500 de ori mai mare
+decît el. Mimivirus-ul era cel mai mare virus cunoscut, acum e Megavirusul.

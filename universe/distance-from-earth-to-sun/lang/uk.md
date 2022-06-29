@@ -1,5 +1,5 @@
-# Distanta de la Pamînt la Soare
+# Відстань від Землі до Сонця
 
-În timpul zilei, Soarele nu pare atît de departe. Este de fapt la aproximativ
-150 de milioane de kilometri. Aceasta distanta este asa numita unitate
-astronomica, sau UA (AU astronomical unit).
+Удень Сонце не видається таким далеким. Насправді, воно віддалене від нас десь
+на 150 мільйонів километрів. Ця відстань є астрономічною одиницею, яку скорочено
+називають а.о.

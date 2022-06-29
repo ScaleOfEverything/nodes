@@ -1,6 +1,6 @@
-# Neptuno
+# Neptun
 
-Nuntempe Neptuno estas la plej malproksima planedo de la Sunsistemo el la Suno.
-gi necesas 164.8 Terjaroj por cirkauiri la sunon. Certe vi neniam vidos al
-Neptuno kompletigi almenau unu orbiton dum via tuta vivo, krom se homa vivo
-plilargigas.
+În prezent, Neptun este cea mai îndepartata planeta din Sistemul Solar. Neptun
+are nevoie de 164,8 ani pamîntesti pentru a orbita Soarele. În întreaga ta
+viata, Neptun nu va finaliza o orbita completa, asta cîta vreme speranta de
+viata nu creste drastic

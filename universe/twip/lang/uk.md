@@ -1,4 +1,6 @@
-# Twip
+# Твіп
 
-Un twip este 1/20 dintr-un punct de tipar care înseamna un caracter de 12-pixeli
-are aproximativ 240 de twips.
+Твіп є однією двадцятою частиною типографічного пункту. Це означає, що
+12-пунктовий шрифт має розмір приблизно 240 твіпів вздовж. Також англійська
+назва TUIP може означати "The Universe in Perspective" (Всесвіт у Перспективі),
+стара назва Масштабу Всесвіту 2. TUIP та твіп вимовляються однаково.

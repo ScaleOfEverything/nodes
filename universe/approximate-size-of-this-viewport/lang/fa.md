@@ -1,4 +1,4 @@
-# Selle vaateava ligikaudne suurus
+# Approximate size of this viewport
 
-Kuigi erinevatel monitoridel on erinev arv piksleid, siis esemed ekraanidel on
-sama suured. See on umbes läbimõõduga 20 sentimeetrit.
+Although different monitors have different pixel sizes, things on the screen are
+approximately the same size. This is approximately 20 centimeters across!

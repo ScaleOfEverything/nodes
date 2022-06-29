@@ -1,5 +1,5 @@
-# Kalistoo
+# Callisto
 
-Kalistoo estas la plej fora el la Galilejanaj satelitoj. Gi orbitas ekster ciuj
-aliaj Galilejanaj satelitoj kaj estas trafita de multaj meteoroj. Ciuj tiaj
-impaktoj kreas grandan kvanton da krateroj.
+Callisto este cel mai îndepartat satelit al lui Galilei. Orbitînd în afara
+celorlalti sateliti ai lui Galilei este lovit de cei mai multi meteoriti;
+cauzînd multe cratere

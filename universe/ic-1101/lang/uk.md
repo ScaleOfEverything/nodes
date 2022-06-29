@@ -1,5 +1,5 @@
 # IC 1101
 
-IC 1101 este cea mai mare galaxie cunoscuta. Acesta contine aproximativ 100 de
-trilioane de stele. Galaxia noastra, Calea Lactee, are numai 250 miliarde,
-astfel ca IC 1101 are de peste 400 de ori mai multe stele decît Calea Lactee!
+IC 1101 – найбільша відкрита галактика. Вона містить близько 100 трильйонів
+зірок. Наша галактика, Чумацький Шлях, має лише 250 мільярдів, тому IC 1101 має
+у 400 разів більше зірок, ніж Чумацький Шлях.

@@ -1,4 +1,5 @@
-# Lungimi mai mici decît acest lucru nu sunt confirmate stiintific.
+# Довжини менші, ніж ця, не підтверджуються.
 
-Toate obiectele care sunt mai mici de atît sunt doar estimari. Unele, cum ar fi
-spuma cuantica, sunt pure presupuneri. Nu sunt confirmate faptic.
+Всі об’єкти, які менші, за цей, невиміряні. Розміри, які видаються, є лише
+приблизними. Деякі речі, такі, як квантова піна, лише гіпотетичні. Вони не є
+фактичними.

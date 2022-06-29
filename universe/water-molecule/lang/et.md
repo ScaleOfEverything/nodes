@@ -1,4 +1,4 @@
-# 물 분자
+# Veemolekul
 
-물을 마실때 마다 미키 마우스를 마신다고 생각하면 재밌네요. 여러분도 그래요? 아니
-에요? 재밌을텐데.
+Mulle meeldib mõelda, et iga kord kui ma joon vett, siis ma joon Miki Hiire
+päid.

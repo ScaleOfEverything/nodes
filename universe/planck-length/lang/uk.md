@@ -1,5 +1,5 @@
-# Lungimea lui Planck
+# Довжина Планка
 
-Lungimea lui Planck (lp) este o unitate de lungime. Exista si un timp Planck,
-care este necesarul de timp pentru ca lumina sa calatoreasca o lungime Planck în
-vid. (scurt, nu?)
+Довжина Планка (lp) – це одиниця виміру довжини. Є також час Планка, який є
+кількістю часу, яка потрібна для переходу світла на одну одиницю довжини Планка
+у вакуумі. (Надмала величина!)

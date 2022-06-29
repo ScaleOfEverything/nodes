@@ -1,6 +1,5 @@
-# 고니자리 KY
+# KY Cygni
 
-고니자리 KY 는 태양보다 300,000 배 나 밝습니다. 태양도 아주 밝은 편인데, 안 그래
-요? 태양조차도 너무 밝아서 제대로 보지도 못하니까요! 하지만 고니자리 KY는 지구로
-부터 태양까지의 거리의 30 억배나 멀리 떨어져 있기 때문에 맨눈으로 봐도 상관없어
-요.
+KY Cygni on 300 000 korda säravam kui Päike ja Päike on üpris särav või mis?
+Päike on nii ere, et seda ei tohiks otse vaadata! KY Cygnit võid aga otse
+vaadata, sest see asub 300 miljonit korda kaugemal.

@@ -1,5 +1,5 @@
-# Nebuloasa Furnicii
+# Туманність Мурахи
 
-Nebuloasa Furnicii (Ant Nebula), numita si Mz 3, se extinde cu 180.000 de
-kilometri pe ora.Seamana cu o furnica, de aici si numele. Pentru mai multe
-despre furnici, mareste cu 18 ordine de marime!
+Туманність Мурахи, яку також називають Mz 3, розширюється зі швидкістю 180,000
+кілометрів за годину. Вона настільки схожа на мураху, що отримало таку само
+назву. Щоб дізнатися більше про мурах, наблизьтеся на 18 порядків величини.

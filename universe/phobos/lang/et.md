@@ -1,5 +1,5 @@
-# 포보스
+# Phobos
 
-포보스는 화성의 두개의 위성 중 큰 위성입니다. 하지만, 우리가 보기엔 작죠! 포보스
-는 중력이 워낙 작기 때문에 이 위에 서서 야구공을 던지면 야구공이 우주 밖으로 나
-가버릴 정도라고 하네요.
+Phobos on Marsi kahest kuust suurim. Siiski on ta üpris väike. Phobose
+gravitatsioon on nii väike, et sa oleksid suuteline viskama palli kuu peal nii,
+et see kunagi kuu pinnal ei maanduks.

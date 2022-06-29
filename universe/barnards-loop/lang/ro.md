@@ -1,6 +1,6 @@
-# Barnarda Maso
+# Bucla lui Barnard
 
-La Barnarda Maso estas grandega nebulozo kaj lokigas ce nur 1,600 lum-jaroj for.
-Gi kovras 10 gradojn de la cielo (kio estas sufice multe). Gi etendigas sur la
-plej granda parto de konstelacio Oriono! Tamen, gi estas tiel malhela, ke vi
-povas vidi gin nur dum mallumaj noktoj, au kun longa ekspondauro. Bedaure.
+Bucla lui Barnard este o nebuloasa gigantica la doar 1600 de ani-lumina
+distanta. Acopera 10 grade pe cer, ceea ce este foarte mult, întinzîndu-se peste
+constelatia Orion! Cu toate acestea, este atît de difuza încît din pacate se
+poate vedea doar în noptile întunecate, cu timpi lungi de expunere

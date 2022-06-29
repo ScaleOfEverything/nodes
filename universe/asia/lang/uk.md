@@ -1,5 +1,5 @@
-# Asia
+# Азія
 
-Asia este cel mai mare continent de pe Pamînt, avînd peste patru miliarde de
-oameni, mai mult decît jumatate din populatia lumii. Africa este al doilea, cu
-doar un miliard de oameni
+Азія – найбільший континент на Землі, де проживають більше чотирьох мільярдів
+людей – більше половини населення світу. Африка – другий найбільш заселений
+континент, але він містить лише один мільярд людей.

@@ -1,5 +1,6 @@
-# Half Dome
+# Хаф-Доум
 
-Half Dome este o forma naturala masiva, din granit, aflata în parcul national
-Yosemite. Partea abrupta este aproape verticala. Încearca sa nu cazi pe aceasta
-parte. Unora le place sa se catere, chiar daca e foarte solicitant!
+Хаф-Доум – величезний купол, який знаходиться у національному парку "Йосеміті".
+Він вироблений із граніту. Крута сторона купола майже вертикальна. Не падайте з
+цієї сторони, не маючи на те власного бажання. Деяким людям подобається
+взбиратися на неї, хоча це й дуже рисковано!

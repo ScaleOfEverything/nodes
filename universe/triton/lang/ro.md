@@ -1,5 +1,5 @@
-# Tritono
+# Triton
 
-Tritono estas la plej granda Neptuna satelito. gi estas ankau la objekto plej
-malvarma en la Sunsistemo, havas -240° C. Tritono ankau estas tre ventoza loko,
-kun ventoj trairante je sonrapideco!
+Triton este cel mai mare satelit al lui Neptun. La -240 ° C este, de asemenea si
+cel mai rece obiect din Sistemul Solar. Triton este extrem de vîntos, unele
+vînturi sînt aproape de viteza sunetului

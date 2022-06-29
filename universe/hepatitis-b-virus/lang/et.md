@@ -1,5 +1,5 @@
-# B형 간염바이러스
+# B-hepatiidi viirus
 
-B형 간염바이러스는 많은 사람들을 감염시킵니다. 사실, 거의 세계 인구의 1/3 은 몇
-몇 부분에 감염되어 있답니다. 이 바이러스는 구토, 간염, 그리고 죽음까지도 유발할
-수 있습니다.
+See viirus põhjustab oksendamist, maksa põletikku ja halvemal korral surma.
+Inimkonna seas on see viirus üsna laialt levinud - umbes kolmandik inimestest on
+elu jooksul olnud nakatunud B-hepatiiti rohkemal või vähemal määral.

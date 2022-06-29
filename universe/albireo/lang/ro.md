@@ -1,6 +1,6 @@
 # Albireo
 
-Albireo konsistigas entute el tri steloj. Jen, ni guste montras la plej grandan.
-Du el la steloj estas proksimaj unu la alian, kaj aperas kiel flava punkto. La
-tria estas blua kaj pli fore. La blua kaj la flavaj steloj estas tre
-malproksimaj do, ili necesas 100,000 jarojn por kompletigi unu orbiton.
+Albireo este format în total din trei stele; aici e cea mai mare. Doua stele
+sunt apropiate si formeaza un punct galben. A treia este albastra si e ceva mai
+departe. Stelele sunt atît de departate încît le ia 100.000 de ani sa finalizeze
+o orbita

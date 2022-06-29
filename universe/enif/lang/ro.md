@@ -1,4 +1,5 @@
-# Enifo
+# Enif
 
-Enifo estas oranga supergiganta, Sia nomo signifas "nazo" Arablingve, car en la
-konstelacio Pegazo, estas en la pozicio de la buso.
+Enif este un supergigant portocaliu. Numele sau înseamna "nas", în araba, pentru
+ca în constelatia Pegasus, ar fi în pozitia botului. Accidental, în engleza,
+cuvântul "Enif" spus invers îneamna "bine"

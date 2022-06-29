@@ -1,4 +1,4 @@
-# Veemolekul
+# Water Molecule
 
-Mulle meeldib mõelda, et iga kord kui ma joon vett, siis ma joon Miki Hiire
-päid.
+I like to think that whenever I drink water, I drink Mickey Mouse heads. Do you,
+too? Oh, you don't? Well, you should.

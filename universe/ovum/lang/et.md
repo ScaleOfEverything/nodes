@@ -1,4 +1,4 @@
-# 난자
+# Munarakk (inimese)
 
-난자는 인간의 세포중에서 가장 큽니다. 알에서 성장해서 부화하는 동물들을 난태생이
-라고 하는데, 인간은 아니죠.
+Munarakk on suurim rakk inimkehas. Loomad, kes arenevad ema sees olevas munas,
+nimetatakse ovovivipaarseteks. Inimesed ei kuulu nende hulka.

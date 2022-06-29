@@ -1,5 +1,5 @@
-# distanta strabatuta de Pamînt (relativ la soare)
+# Відстань, яку пройшла Земля (відносно Сонця)
 
-Pamîntul a calatorit aproape o jumatate de milion de ani-lumina fata de Soare de
-la formarea sa. (de acum 4,5 miliarde de ani sau orbite). Pamîntul este de
-10.000 de ori mai lent decît lumina.
+Земля пройшла відстань у майже півмільйона світлових років відносно Сонця з часу
+свого утворення. (Це буде 4.5 мільярдів років/обертів.) Земля у 10,000 разів
+повільніша, ніж світло.

@@ -1,6 +1,6 @@
-# Denebo
+# Deneb
 
-Denebo estas la plej brila stelo de la konstelacio Cigno. Denebo estas 1,500 da
-lum-jaroj for, pro tio gi estas la plej malproksima el la 25 plej brilantaj
-steloj. Se vi logus en Marso, Denebo estus super la Norda Poluso, ne la Polusa
-stelo.
+Deneb este cea mai stralucitoare stea din constelatia Cygnus. Deneb se afla la
+1.500 de ani-lumina distanta, cea mai îndepartata dintre 25 cele mai
+stralucitoare stele. Daca ati trait pe Marte, Deneb ar aparea deasupra Polului
+Nord - nu Polaris.

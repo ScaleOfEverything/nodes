@@ -1,6 +1,5 @@
-# Granda Koliziigilo de Hadronoj
+# Large Hadron Collider
 
-La Granda Koliziigilo de Hadronoj estas la plej granda de la mondo kaj la
-akcelilo de partikloj kun la plej alta energio. Gi frakasigas protonojn unu
-kontrau la alian! Tio vere signifas, kiel la cikanuloj ce lernejo, kiuj
-koliziigas la infanetojn kune.
+Large Hadron Collider este cel mai mare accelerator de particule din lume.
+Arunca protoni unul în celalalt!. Seamana cumva cu copiii rai de la scoala, care
+lovesc copiii mai mici unul de altul.

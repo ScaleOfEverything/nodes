@@ -1,5 +1,5 @@
-# Heliuma Kerno
+# Nucleul de heliu
 
-La heliuma kerno estas miloj da fojoj pli malgranda ol la atomo, kiel rulglobeto
-en usona piedpilka kampo. La sola kialo pri kiu materion ni sentas solida estas
-car atomoj faras mallogon. Se atomoj ne mallogus, cio falus tra cio!
+Nucleul de heliu este de mii de ori mai mic decît atomul, cît o pietricica
+într-un teren de fotbal. Singurul motiv pentru care masa pare solida este ca
+atomii se resping. Daca atomii nu s-ar respinge, totul ar cadea prin sine!

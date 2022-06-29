@@ -1,5 +1,6 @@
 # TrES-4
 
-TrES-4 on suurim avastatud planeet. See on 1400 valgusaasta kaugusel. Seda ei
-ole võimalik näha ühegi teleskoobiga. Me oleme TrES-4 olemasolust teadlikud
-ainult seetõttu, et see tiirleb ümber tähe põhjustades tähe heleduse muutumist.
+TrES-4 is the largest planet discovered. No telescope can actually see TrES-4,
+but there are ways to prove its existence indirectly. TrES-4's gravity causes
+the star it orbits to wobble slightly. Also, whenever TrES-4 goes in front of
+the star, the shine of the star dims a little.

@@ -1,5 +1,5 @@
-# Elefantul
+# Слон
 
-Elefantul este cel mai mare animal terestru. Se cunosc doar trei specii de
-elefanti. Cîntaresc pîna la 8 tone, aproximativ de 10 ori greutatea atinsa de
-vreun om!
+Слон – найбільша земна тварина. До нашого часу лишилися три види слонів. Їх вага
+може досягати 8 тон, що приблизно у 10 разів більше ваги, якої коли-небудь
+досягала будь-яка людина!

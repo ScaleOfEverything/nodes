@@ -1,6 +1,6 @@
-# Hiidvihmauss
+# Giant Earthworm
 
-Hiidvihmauss võib kasvada kuni kolme meetri pikkuseks. Kui väike hiidvihmauss
-oma kookonmunast koorub, on ta ainult 20 sentimeetri pikkune. Täispikkuse
-saavutamiseks kulub neil viis aastat. Nad uuristavad käike maa-all ja tekitavad
-krudisevat heli.
+The giant earthworm can grow up to three meters long. When baby giant earthworms
+hatch from their cocoons, they are only twenty centimeters long. They take five
+years to reach their full length. They burrow underground and make gurgling
+noises.

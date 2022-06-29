@@ -1,7 +1,5 @@
-# Ganimedo
+# Ganymede
 
-Ganimedo estas la plej granda luno en la Sunsistemo. Gi cirkauiras Jupiteron kaj
-estis malkovrita de Galilejo, pro tio gi estas Galilejana satelito. Ankau,
-Ganimedo ne devas esti konfuzita kun (1036)-Ganimedo, kiu estas asteroido, kies
-nomo similas al tiu de la Jupitera satelito! Ec en kelkaj lingvoj gi ne havas
-vokalan finajon!
+Ganymede este cel mai mare satelit din Sistemul Solar. Acesta orbiteaza în jurul
+lui Jupiter si a fost descoperit de catre Galileo. Ganymede nu trebuie sa fie
+confundat cu Ganymed, care este un asteroid a carui nume nu are în final "e"

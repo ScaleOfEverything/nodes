@@ -1,5 +1,5 @@
-# Sellest suurusjärgust väikseimaid objekte pole teaduslikult kinnitatud
+# Lengths shorter than this are not confirmed.
 
-Sellest suurusest väiksemaid objekte ei ole suudetud mõõta. Kõik väiksemad
-mõõtmed on hinnangud. Mõned asjad nagu kvantvaht on ainult hüpoteetilised - nad
-ei ole faktid.
+All the objects that are smaller than this are unmeasured. The sizes that they
+appear are only estimates. Some things, like quantum foam, are just
+hypothesized. They aren't fact.

@@ -1,6 +1,6 @@
-# Acarianul de praf
+# Пиловий Кліщ
 
-Acarienilor le place sa manînce praf, alcatuit din celulele moarte ale pielii.
-Multi oameni sunt alergici la acest praf. Apropo, unii oameni sunt alergici la
-propriile materii fecale. Oricum, aproape toti oamenii doresc sa scape de
-aceasta vietate urîta.
+Пиловим Кліщам подобається їсти пил, який є, як вам ймовірно відомо, просто
+відмерлими кожними клітинами. Багато людей мають алергію до пилових кліщів. У
+деяких людей алергія на їхні какашки. Інакше кажучи, майже всі люди бажають
+позбавитися від цього набридливого паразита.

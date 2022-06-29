@@ -1,6 +1,5 @@
-# Granda Magelana Nubo
+# Norul mare Magelan
 
-La Granda Magelana Nubo nur estas nomata granda, car estas pli granda ol la
-galaksio plej proksima al gi, la Malgranda Magelana Nubo. Se la Malgranda
-Magelana Nubo estu pli granda, la Granda Magelana Nubo estus nomata Malgranda
-Magelana Nubo!
+Norul Magelanic mare este numit asa doar pentru ca este mai mare decît cea mai
+apropiata galaxie, norul Magelan mic. Daca norul Magellan mic ar fi fost mai
+mare, Norul Magellanic mare ar fi fost numit Norul Magelanic mic!

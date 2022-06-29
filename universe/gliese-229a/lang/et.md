@@ -1,4 +1,5 @@
-# 글리제 229A
+# Gliese 229A
 
-글리제 229A 는 적색왜성입니다. 태양보다 약간 작은 크기에요. GJ 229 혹은 GI 229
-라고도 쓰이는데, 글리제 229 B와 쌍성을 이룹니다.
+Gliese 229A on punane kääbustäht. See on natuke väiksem kui Päike. Seda punast
+kääbust nimetatakse ka GJ 229 või GI 229. See on osa kaksiktähesüsteemist, mille
+teine täht on Gliese 229B.

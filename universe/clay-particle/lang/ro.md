@@ -1,5 +1,5 @@
-# Argila Partiklo
+# Argila/lutul
 
-Car argilaj partikloj estas tre malgrandaj, ili estas strece kunpremigitaj, kaj
-akvo partikloj havas problemojn por flui tra gi. Aliflanke, la sablo estas multe
-pli kruda. Akvo glitas guste tra sablo senprobleme. Facile.
+Deoarece particulele de argila sunt atît de mici, ele se comprima foarte bine si
+apa nu poate trece usor prin ea. Pe de alta parte, nisipul este mult mai aspru,
+si apa trece usor prin nisip.

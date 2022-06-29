@@ -1,6 +1,5 @@
-# Polusa Stelo
+# Polaris
 
-La Polusa Stelo estas konata kiel la Norda Stelo. Estas tre apud la norda
-poluso, tiel, se vi volas scii kien estas nordo, nur provu trovi la Polusan
-Stelon. Lokalizu la du steloj sur la malproksima flanko de la Malgranda Ursino,
-kaj iru supren
+Polaris, sau Steaua Nordului, este foarte aproape de Polul Nord, asa ca daca
+vrei sa stii încotro este nordul, încearca sa gasesti Polaris. Gaseste întîi
+cele doua stele de la baza Carului Mare, si du-te în sus de 5 ori.

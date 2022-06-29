@@ -1,5 +1,6 @@
-# Marele zid al lui Sloan
+# Велика Стіна Слоуна
 
-Marele zid al lui Sloan este o banda verzuie; cel mai mare obiect cunoscut din
-univers. Este un filament Galactic, alcatuit din galaxii. Noi nu nu aflam în el,
-el se afla la aproximativ un miliard de ani-lumina departare
+Велика Стіна Слоуна зображується у вигляді товстої зеленої смуги. Це найбільший
+об’єкт у всесвіті, який було відкрито. Він створений із галактик, і зветься
+галактичною ниткою. Ми знаходимося поза її межами. Насправді, вона знаходиться
+на відстані приблизно одного мільярда світлових років від нас.

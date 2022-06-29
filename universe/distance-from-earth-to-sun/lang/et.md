@@ -1,4 +1,5 @@
-# 지구에서 태양까지의 거리
+# Maa ja Päikese vaheline kaugus
 
-낮동안 태양이 그렇게 멀리 있는것 같이 보이진 않지만, 사실은 15 억km 정도 떨어져
-있습니다. 이 거리를 천문 단위 (AU) 라고 합니다.
+Päeval ei paistagi Päike nii kaugel olevat. Tegelikult on see 150 miljoni
+kilomeetri kaugusel. Seda vahemaad nimetatakse astronoomiliseks ühikuks ehk
+lühidalt aü.

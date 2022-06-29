@@ -1,5 +1,5 @@
-# 마인크래프트 월드
+# Minecrafti maailm
 
-좌표 +32,000,000 부터 -32,000,000 까지 뻗어있는 마인크래프트 월드는, 그 한 변의
-길이가 64,000 km 에 이릅니다. 대략적으로 1,000 조 개의 블럭들이 들어있는데, 엄청
-나게 많네요!
+Laiudes koordinaatidist +32 000 000 kuni -32 000 000 on Minecrafti maailma
+pindala 64 000 kilomeetrit. Selles maailmas on ligikaudu 130 kvadriljonit
+kuubikut. Seda on palju!

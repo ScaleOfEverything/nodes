@@ -1,4 +1,4 @@
-# Dimensiunea aproximativa a cadrului
+# Приблизний розмір цього оглядового вікна
 
-Desi monitoarele au dimensiuni diferite pentru fiecare pixeli, lucrurile de pe
-ecran au cam aceeasi marime. Acest cadru are aproximativ 20 de centimetri!
+Хоча різні монітори мають різні розміри пікселів, усі речі на екрані мають
+приблизно один і той самий розмір. Це буде приблизно 20 сантиметрів вздовж!

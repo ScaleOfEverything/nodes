@@ -1,5 +1,5 @@
-# Ejfel-Turo
+# Turnul Eiffel
 
-Dum 41 jaroj, la Ejfelturo estis la plej alta homfarita strukturo en la mondo.
-200 milionoj da homoj estis en la Ejfelturo, kio estas preskau la logantaro de
-Usono!
+Vreme de 41 de ani, Turnul Eiffel a fost cea mai înalta constructie din lume. În
+total peste 200 de milioane de oameni au vizitat Turnul Eiffel, un numar aproape
+cît toata populatia SUA!

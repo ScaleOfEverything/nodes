@@ -1,4 +1,5 @@
-# Päikese ja Proxima Centauri vaheline kaugus
+# Distance from the Sun to Proxima Centauri
 
-Proxima Centauri on Päikesele lähim täht. Samas on see ikkagi üpris kaugel. 30
-miljonit Päikest mahuks Proxima Centauri ja Päikese vahele.
+Proxima Centauri is the closest star to the Sun. However, it is still quite far
+away. 30 million Suns could fit between Proxima Centauri and the Sun in a
+straight line.

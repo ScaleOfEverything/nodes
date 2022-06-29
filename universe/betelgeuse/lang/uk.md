@@ -1,5 +1,5 @@
-# Betelguese
+# Бетельгейзе
 
-Betelguese are o vechime de milioane de ani. E atît de veche, încît se asteapta
-sa explodeze în urmatorii zece mii de ani. Stele mai mici traiesc mii de
-miliarde de ani; Betelguese fiind însa atît de mare a îmbatrînit rapid
+Вік Бетельгейзе вимірюється у мільйонах років. Бетельгейзе настільки стара, що у
+найближчі десять тисяч років очікується її вибух. Менші зірки живуть трильйони
+років. Бетельгейзе постаріла так швидко, тому що така велика.

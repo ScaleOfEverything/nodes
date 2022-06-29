@@ -1,5 +1,4 @@
-# Muntele Everest
+# Височина Еверест
 
-Muntele Everest este cu cei 8,848 m cel mai înalt munte de pe Pamînt. Este în
-continua crestere, la fel ca si copiii. Foare putini îl pot urca fara a utiliza
-un rezervor de oxigen
+Височина Еверест – найвища гора на Землі висотою у 8,848 метрів. Вона постійно
+зростає, як діти. Небагато людей зможуть піднятися на неї без кисневого балону.

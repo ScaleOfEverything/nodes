@@ -1,6 +1,5 @@
-# Japana Aranea Krabo
+# crab-ul paianjen japonez
 
-La Japana Aranea Krabo estas la plej granda artropodo. Tamen, ne ciuj Japanaj
-Araneaj Kraboj povas atingi ci tian grandon. Iuj havas la amplekson de unu
-metro. Bedaurinde, fiskaptistoj jam mortigis multajn el ili. Tio estas multe da
-krabo-viando!
+Crab-ul paianjen japonez este cel mai mare artropod. Nu toti crabii japonezi
+ajung sa fie de atît de mari. Unii au doar peste un metru. Din pacate, pescarii
+au ucis atît de multi!

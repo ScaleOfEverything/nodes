@@ -1,5 +1,4 @@
-# 아르크투루스
+# Arktuurus
 
-아르크투루스는 밤하늘에서 시리우스와 카노푸스에 이어서 세번째로 밝은 별입니다.
-목자자리에서 가장 밝은 별인데, 북두칠성의 손잡이 부분을 따라가다보면 찾을 수 있
-어요.
+Arktuurus on tähistaevaa heleduselt kolmas täht Siiriuse ja Canopuse järel. See
+on Karjase tähtkuju heledaim täht. Sa leiad selle järgides Suure Vankri aisa.

@@ -1,5 +1,6 @@
-# 수레바퀴 은하
+# Cartwheel galaktika
 
-천문학자들은 수레바퀴 은하가 2 억년 전에 다른 은하와 충돌했을 것이라고 추측합니
-다. 사실, 7 억년 전이죠. 우리와 수레바퀴 은하 사이의 거리가 5 억 광년이기 때문입
-니다. 그러니까 사실상 우리가 보고있는 모습은 5 억년 전의 모습인거죠.
+Astronoomid arvavad, Cartwheel galaktika põrkus kahe lähedase galaktikaga 200
+miljonit aastat tagasi. Tegelikult 700 miljonit aastat tagasi, sest Cartwheel
+galaktika on 500 miljoni valgusaasta kaugusel nii, et mida me sellest näeme on
+juba 500 miljonit aastat vana.

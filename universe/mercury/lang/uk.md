@@ -1,5 +1,5 @@
-# Mercur
+# Меркурій
 
-Mercur este planeta cea mai apropiata de Soare. Ea nu are atmosfera. În timpul
-zilei, temperatura ajunge la 400 ° C, dar pe timp de noapte, temperaturile scad
-pîna la -180 ° C. Un an pe Mercur are 88 de zile terestre
+Меркурій – найближча планета до Сонця. На ній немає атмосфери. Удень температура
+досягає 400° C, але вночі падає до -180° C. Один Меркуріанський рік
+продовжується 88 Земних дні.

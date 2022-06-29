@@ -1,4 +1,4 @@
-# 인치 자
+# Tollide joonlaud
 
-인치는 북미 등 일부 지역에서 사용하는 길이단위입니다. 하지만 거의 모든 나라는 미
-터를 길이단위로 채택하고 있습니다.
+Kõigile neile, kes pole harjunud meetermõõdustikuga, on siin tollide joonlaud,
+mis on umbes ühe jala pikkune. Teiste õnneks on kõik ülejäänu meetermõõdustikus.

@@ -1,5 +1,5 @@
-# Plej Granda Bakterio
+# Ce mai mare bacterie
 
-La plej grandaj bakterioj, Thiomargarita namibiensis, estas preskau unu
-milimetro longe. Gi logas en la oceano proksime de la marbordo de Namibio. Ci vi
-imagas vin en la oceano kaj vidi ci tiajn ajojn? Ili estas tre videblaj!
+Cea mai mare bacterie este Namibiensis Thiomargarita, are aproape un milimetru
+lungime Traieste în ocean, pe coasta Namibiei. Te imaginezi înnotînd în ocean,
+si vazînd aceste lucruri? Sunt foarte vizibile!

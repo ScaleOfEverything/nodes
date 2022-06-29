@@ -1,5 +1,5 @@
-# Punase valguse lainepikkus
+# Red Light Wavelength
 
-Punane on vikerkaare esimene värv. See tekitab isu. Seepärast on punast paljude
-toidukompaniide logodes. Nende eesmärk on sind sööma panna. Lühidalt, nad
-üritavad mõjutada sinu aju.
+Red is the first color of the rainbow. It stimulates appetite. That's why so
+many food companies have red in their logo. They want you to eat! In short,
+they're trying to fool your brain.

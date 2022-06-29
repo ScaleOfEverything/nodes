@@ -1,5 +1,5 @@
-# Gigaparsec
+# Гігапарсек
 
-Un gigaparsec cuprinde un miliard de parseci. Este una dintre cele mai mari
-masuratori pentru distanta. Raza universului observabil este de “numai” 14
-gigaparseci
+Гігапарсек – це один мільярд парсек. Це один з найбільших вимірів відстані. І
+насправді немає потреби у ще більших одиницях виміру, тому що радіус видимого
+всесвіту складає всього 14 гігапарсек.

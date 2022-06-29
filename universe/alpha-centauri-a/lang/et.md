@@ -1,4 +1,5 @@
-# 알파 센타우리 A
+# Alpha Centauri A
 
-알파 센타우리 A 는 지구에서 가장 가까운 항성계인 알파 센타우리 항성계에서 가장큰
-별입니다. 이 별은 밤하늘에서 네번째로 밝은 별이기도 해요.
+Alpha Centauri A on Alpha Centauri tähesüsteemi, mis koosneb kolmest tähest,
+suurim täht. See on meile lähim tähesüsteem. Alpha Centauri A on ka tähistaevaa
+heleduselt neljas täht.

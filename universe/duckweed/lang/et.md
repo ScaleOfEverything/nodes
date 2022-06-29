@@ -1,4 +1,5 @@
-# 좀개구리밥
+# Lemlelised
 
-좀개구리밥은 보통 호수 등에 떠있는 부유성 수초입니다. 좀개구리밥은 줄기나 뿌리가
-없습니다. 하지만, 지구에서 가장 작은 꽃을 꽃피운다고 하네요.
+Need on lemlelised, mis ulbivad tiikides ja teistes väiksemates veekogudes. Neil
+ei ole varsi ega juuri. Samas nad õitsevad õiega! Nende õied on kõige väiksemad
+Maal.

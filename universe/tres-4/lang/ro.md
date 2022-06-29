@@ -1,6 +1,6 @@
 # TReS-4
 
-TReS-4 estas la plej granda planedo iam malkovrita. Trovigas je 1,400 lum-jaroj
-for. Neniu teleskopo atingas nuntempe al TReS-4. Al ni eblas scii pri gia
-ekzisto, car TReS-4 iras antau la stelo kiun gi cirkauiras, tiel, la helo de la
-stelo malheligas gin iomete.
+TRES-4 este cea mai mare planeta descoperita vreodata. Este la 1400 de
+ani-lumina de noi. Nici un telescop din lume nu poate vedea de fapt TReS-4. Noi
+stim doar ca exista, deoarece la tranzitul lui TReS-4 prin fata stele pe care o
+orbiteaza, stralucirea ei se diminueaza un pic

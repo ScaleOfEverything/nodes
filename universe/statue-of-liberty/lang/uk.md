@@ -1,6 +1,6 @@
-# Statuia Libertatii
+# Статуя Свободи
 
-Statuia Libertatii este un simbol al Americii, a fost de fapt construita în
-Franta, bazata pe pe o veche statuie a zeului grec Helios (Soare). Statuia
-Libertatii e interesant de vizitat, chiar daca torta a fost închisa din 1916,
-deoarece este periculos de vizitat.
+Хоча Статуя Свободи і є символом Америки, насправді побудована вона була у
+Франції. Вона була заснована на древній статуї грецького бога Сонця Геліоса.
+Статуя Свободи доволі прикольна, незважаючи на те, що факел був закритий з 1916
+року тому, що виявився небезпечним.

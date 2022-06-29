@@ -1,5 +1,5 @@
-# Proksima Centauro
+# Proxima Centauri
 
-Proksima Centauro estas konata kiel la plej proksima stelo al Tero krom la Suno.
-Sia nomo venas el la vorto "proksimeco". Proksima Centauro estas malgranda ruga
-stelo. Bedaurinde, gi estas tre malhela, vi bezonas teleskopon por vidi gin.
+Proxima Centauri este cea mai apropiata stea de Pamînt dupa Soare. Numele sau
+provine de la cuvântul "proximitate" (apropiere). Proxima Centauri este o stea
+rosie mica, din pacate ai nevoie de un telescop pentru a o vedea

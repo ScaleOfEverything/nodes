@@ -1,5 +1,5 @@
-# 울루루
+# Uluru
 
-에어즈 락이라고도 알려진 울루루는 하나의 암석입니다. 높이가 348 m 인데, 다른 건
-물들 보다는 많이 짧은 편이죠. 하지만, 너비는 3 km 에 육박해서 어떠한 건물들 보다
-긴 게 되겠죠.
+Uluru ehk endise nimega Ayers Rock on kalju. Oma 348 meetriga on see madalam kui
+paljud ehitised. Samas on see kolm kilomeetrit pikk ja seega pikem kõigist
+hoonetest.

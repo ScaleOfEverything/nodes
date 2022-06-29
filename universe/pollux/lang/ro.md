@@ -1,6 +1,6 @@
-# Polukso
+# Pollux
 
-En la Greka mitologio, la gemelo de Polukso estas Kastoro. Ili ankau estas
-steloj en la konstelacio Gemeloj, Tamen, verdire, Polukso estas ununura stelo,
-dum Kastoro estas tri binaraj steloj, entute, do, ses steloj. Kastoro estas aro
-da sesnaskitoj!
+În mitologia greaca, fratele geaman al lui Pollux este Castor. Ei sunt în
+acelasi timp stele în constelatia Gemini, însemnînd "gemeni". Cu toate acestea,
+în realitate, Pollux este o singura stea, în timp ce Castor este trei stele
+binare, în total deci sase stele. Castor sunt deci sextpleti!

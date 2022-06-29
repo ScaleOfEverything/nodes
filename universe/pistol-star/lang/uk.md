@@ -1,6 +1,6 @@
-# Pistol Star
+# Зірка Пістолет
 
-Steaua Pistol este printre cele mai luminoase stele cunoscute. În douazeci de
-secunde, acesta emite energie la fel de mult cît Soarele într-un an. Praful
-interstelar ne împiedica însa sa vedem asta. Se numeste Steaua Pistol nu din
-cauza luminozitatii sale, ci pentru ca se afla în nebuloasa Pistol
+Зірка Пістолет – одна з найбільш яскравих зірок, що відомі. За двадцять секунд
+вона випромінює стільки енергії, скільки Сонцю вдається за рік. Міжзоряний пил
+не дозволяє нам її побачити. Її назвали зіркою Пістолетом не тільки із-за її
+яскравості, але тому, що вона знаходиться у Туманності Пістолет.

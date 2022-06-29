@@ -1,5 +1,5 @@
-# Formiko
+# Furnicile
 
-Eble vi ne satas formikojn. Tio estas bedaurinde. 15-25% de ciuj terbestoj estas
-formikoj! Ho! Tio estas multe da formikoj! Por ciu homo sur la Tero, ekzistas
-pli ol unu miliono da formikoj!
+Probabil ca nici tie nu-ti prea plac furnicile. Destul de rau, avînd în vedere
+ca 15-25% din toate animalele terestre sunt furnici! Fiecarui om îi corespund
+mai mult de un milion de furnici!

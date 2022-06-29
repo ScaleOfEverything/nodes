@@ -1,5 +1,5 @@
-# Kohalik Grupp
+# Local Group
 
-Kohalik Grupp on galaktikate parv, milles me elame. See koosneb umbes 30
-galaktikast ja kääbusgalaktikast. Kaks suurimat galaktikat on Andromeeda
-galaktika ja meie Linnutee.
+The Local Group is the cluster of galaxies that we live in. It contains about
+thirty galaxies and dwarf galaxies. The two largest galaxies are the Andromeda
+Galaxy and our own, the Milky Way.

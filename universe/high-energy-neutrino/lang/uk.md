@@ -1,5 +1,5 @@
-# Neutrinii de înalta energie
+# Високоенергетичний Нейтріно
 
-Neutrinii de înalta energie sunt mai mari. Pentru a afla mai multe despre
-neutrini, du-te la neutrini, unde poti vedea dimensiunea lor aproximativa. Sunt
-de 15.000 de ori mai mici!
+Нейтріно з більшим рівнем енергії більші за розміром. Щоб дізнатися більше про
+нейтріно, перейдіть до нейтріно, що показує мередній розмір. Він аж в страшенні
+15,000 разів менший!

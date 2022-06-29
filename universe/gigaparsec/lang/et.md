@@ -1,4 +1,5 @@
-# 기가파섹
+# Gigaparsek
 
-기가파섹은 10 억 파섹과 같습니다. 가장 큰 길이단위 중 하나에요. 이것보다 더 큰단
-위가 필요할리가 없는게, 관측 가능한 우주의 크기가 14 기가파섹입니다.
+Gigaparsek on miljard parsekit. See on üks suurimaid pikkuse mõõtühikuid.
+Tegelikult ei ole suuremat mõõtühikut tarviski kuna kogu vaadeldava universumi
+raadius on ainult 14 gigaparsekit.

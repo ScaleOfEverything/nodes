@@ -1,5 +1,6 @@
-# Viermele de pamînt gigantic
+# Гігантський Земляний Хробак
 
-Viermele gigant poate creste pîna la trei metri. Atunci când ies din coconi lor,
-au doar douazeci de centimetri. Abia în cinci ani ajung la lungimea lor
-completa. Locuiesc subteran si fac zgomote ciudate: susura.
+Гігантський земляний хробак може досягти довжини у три метри. Коли малюк
+гігантського земляного хробака вилупляється із свого кокону, його довжина
+складає лише двадцять сантиметрів. Мине п’ять років, доки вони досягнуть своєї
+повної довжини. Вони ховаються під землею та виголошують булькаючи звуки.

@@ -1,5 +1,4 @@
-# 유로파
+# Europa
 
-유로파는 목성의 위성중에서 가장 왜소합니다. 얼음으로 뒤덮여 있는데, 표면에 신비
-스러운 줄무늬가 많이 있습니다. 몇몇 사람들은 얼음층 밑에 물이 존재할 거라고 하네
-요, 심지어 생명체 까지도요.
+Europa on Galileo kuudest väikseim. See on kaetud jääga ja salapäraste joontega.
+Osa inimesi arvab, et jää all võib eksisteerida vett ja võib olla isegi elu.
