@@ -1,10 +1,4 @@
-const propertyOrder = [
-  'id',
-  'type',
-  'x',
-  'y',
-  'size',
-]
+const propertyOrder = ["id", "type", "x", "y", "size"];
 
 function escapeString(str) {
   return str.replace(/[\\"]/g, "\\$&");
@@ -26,12 +20,12 @@ function sortKeys(keys) {
   });
 }
 
-export function stringify(value, k = undefined) {
+export function customStringify(value, k = undefined) {
   if (typeof value === "object" && !Array.isArray(value)) {
     return (
       "{" +
       sortKeys(Object.keys(value))
-        .map((k) => `"${escapeString(k)}":${stringify(value[k], k)}`)
+        .map((k) => `"${escapeString(k)}":${customStringify(value[k], k)}`)
         .join(",") +
       "}"
     );
@@ -49,15 +43,18 @@ export function stringify(value, k = undefined) {
   return JSON.stringify(value);
 }
 
-export function stringifyPretty(value, k = undefined) {
+export function customStringifyPretty(value, k = undefined) {
   if (typeof value === "object" && !Array.isArray(value)) {
     return (
       "{\n" +
       sortKeys(Object.keys(value))
-        .map((k) => `  "${escapeString(k)}": ${stringifyPretty(value[k], k).replace(
-          /\n/g,
-          "\n  "
-        )}`)
+        .map(
+          (k) =>
+            `  "${escapeString(k)}": ${customStringifyPretty(
+              value[k],
+              k
+            ).replace(/\n/g, "\n  ")}`
+        )
         .join(",\n") +
       "\n}"
     );

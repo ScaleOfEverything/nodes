@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "checkJs": true,
+    "isolatedModules": true,
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "target": "ESNext",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["./build/**/*.ts", "./build/**/*.js"]
+}
