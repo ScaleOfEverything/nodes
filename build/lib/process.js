@@ -37,9 +37,7 @@ export async function processNodeCategory(category) {
   bar.start(nodeList.length, 0);
 
   // Kick off all hashes in parallel
-  await Promise.all(
-    nodeList.map((node) => hashDirectory(path.join(dataRoot, node)))
-  );
+  nodeList.forEach((node) => hashDirectory(path.join(dataRoot, node)));
 
   // Run node processing in sequence
   for (const id of nodeList) {
