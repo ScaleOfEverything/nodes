@@ -1,7 +1,7 @@
 import { readdir, readFile } from "fs/promises";
 import * as path from "path";
 import sharp from "sharp";
-import { doCachedAction } from "./cache.js";
+import { doCachedAction, hashDirectory } from "./cache.js";
 import { ensureDir, pathExists, readJSON, writeJSON } from "./fs.js";
 import { CACHE_ROOT, DIST_ROOT, ROOT } from "./paths.js";
 import { asyncMap } from "@davecode/utils";
@@ -27,7 +27,7 @@ export async function processNodeCategory(category) {
   console.log(`Processing ${nodeList.length} nodes from ${category.name}`);
   const bar = new SingleBar(
     {
-      fps: 5,
+      fps: 10,
       format: `${chalk.cyanBright("[{bar}]")} ${chalk.greenBright(
         `{value}/{total} ({percentage}%)`
       )} | ${chalk.yellowBright(category.name)}/${chalk.redBright(`{id}`)}`,
@@ -36,6 +36,12 @@ export async function processNodeCategory(category) {
   );
   bar.start(nodeList.length, 0);
 
+  // Kick off all hashes in parallel
+  await Promise.all(
+    nodeList.map((node) => hashDirectory(path.join(dataRoot, node)))
+  );
+
+  // Run node processing in sequence
   for (const id of nodeList) {
     const nodeRoot = path.resolve(dataRoot, id);
     bar.increment(1, { id });

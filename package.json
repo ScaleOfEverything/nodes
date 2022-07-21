@@ -6,7 +6,8 @@
     "node": ">=16.0.0"
   },
   "scripts": {
-    "dev": "node build/server.js"
+    "dev": "node build/server.js",
+    "build": "node build/index.js"
   },
   "dependencies": {
     "@davecode/types": "^1.0.3",
@@ -20,5 +21,8 @@
     "fs-extra": "^10.0.1",
     "prettier": "^2.6.2",
     "sharp": "^0.30.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
   }
 }

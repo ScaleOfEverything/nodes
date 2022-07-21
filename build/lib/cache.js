@@ -5,17 +5,39 @@ import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "fs";
 import * as path from "path";
 import { CACHE_ROOT, DIST_ROOT, ROOT } from "./paths.js";
 
+const cachedHashes = new Map();
+
 /**
  * @param {string} root
+ * @param {boolean} force if true ignores cache
  */
-export async function hashDirectory(root) {
-  const sha1 = createHash("sha1");
+export async function hashDirectory(root, force = false) {
+  if (!cachedHashes.has(root) || force) {
+    cachedHashes.set(
+      root,
+      (async () => {
+        const sha1 = createHash("sha1");
+        sha1.setEncoding("base64");
 
-  for await (const file of walk(root, { directories: false })) {
-    sha1.update(await readFile(file));
+        /** @type {Promise<Buffer>[]} */
+        const blobs = [];
+
+        for await (const file of walk(root, { directories: false })) {
+          blobs.push(readFile(file));
+        }
+
+        for (const blob of await Promise.all(blobs)) {
+          sha1.update(blob);
+        }
+
+        const result = sha1.digest("base64");
+        cachedHashes.set(root, result);
+        return result;
+      })()
+    );
   }
 
-  return sha1.digest("base64");
+  return cachedHashes.get(root);
 }
 
 const cacheMetadata = new Map(
@@ -26,7 +48,7 @@ const cacheMetadata = new Map(
   )
 );
 
-const version = await hashDirectory(path.join(ROOT, "build"));
+const version = await hashDirectory(path.join(ROOT, "build/category"));
 if (cacheMetadata.get("version") !== version) {
   if (cacheMetadata.get("version")) {
     console.log(`build code was modified, throwing away cache`);
