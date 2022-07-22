@@ -1,12 +1,29 @@
 import { createCategory } from "../lib/util.js";
 
+/**
+ * @typedef RawUniverseNode
+ * @prop {number} x - visual offset
+ * @prop {number} y - visual offset
+ * @prop {number} size - in meters, use exponent notation like `4.3e7`
+ * @prop {number[]} measurePoints - [x1, y1, x2, y2] marking where the measurement is
+ *
+ * @typedef UniverseNode
+ * @prop {number} x - visual offset
+ * @prop {number} y - visual offset
+ * @prop {number} size - in meters, use exponent notation like `4.3e7`
+ * @prop {number[]} measurePoints
+ * @prop {number} width - calculated image width
+ * @prop {number} height - calculated image height
+ * @prop {number} c - image color
+ */
+
 export default createCategory({
   // Folder name
   name: "universe",
   // URL to where we actually consume the data
   projectURL: "https://scaleofeverything.com",
 
-  // Transform one node
+  /** @param {RawUniverseNode} node */
   async transformNode(node, ctx) {
     const img = await ctx.readImage();
     const stats = await img.stats();

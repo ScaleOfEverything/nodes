@@ -1,0 +1,7 @@
+# All Alone in the Night: Timelapse Footage of the Earth as seen from the ISS
+
+Inspired by a version of the opening sequence of this clip called ‘What does it feel like to fly over planet Earth?', I tracked down the original time-lapse sequence taken on the International Space Station (ISS) via NASA, found some additional ones there, including the spectacular Aurora Australis sequences, and set it to a soundtrack that almost matches the awe and wonder I feel when I see our home from above.
+
+Featured on NASA's Astronomy Picture of the Day http://apod.nasa.gov/apod/ap120305.html
+
+Explanation from NASA: Many wonders are visible when flying over the Earth at night. A compilation of such visual spectacles was captured recently from the International Space Station (ISS) and set to rousing music. Passing below are white clouds, orange city lights, lightning flashes in thunderstorms, and dark blue seas. On the horizon is the golden haze of Earth's thin atmosphere, frequently decorated by dancing auroras as the video progresses. The green parts of auroras typically remain below the space station, but the station flies right through the red and purple auroral peaks. Solar panels of the ISS are seen around the frame edges. The ominous wave of approaching brightness at the end of each sequence is just the dawn of the sunlit half of Earth, a dawn that occurs every 90 minutes.

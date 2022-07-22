@@ -1,7 +1,7 @@
 import { Awaitable } from "@davecode/types";
 import { Sharp } from "sharp";
 
-export interface NodeCategory<RawNode> {
+interface NodeCategory<RawNode> {
   name: string;
   projectURL: string;
 
@@ -10,7 +10,7 @@ export interface NodeCategory<RawNode> {
   processLangMarkdown?(md: string, ctx: BuildContext): Awaitable<any>;
 }
 
-export interface BuildContext {
+interface BuildContext {
   /** Pass a string of an image id, essentially the path without the `.extension` */
   readImage(id?: string): Promise<Sharp>;
   /** Pass an id and a sharp to write it to the build output. ID defaults to `node` if not given */
