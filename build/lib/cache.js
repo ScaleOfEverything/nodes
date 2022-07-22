@@ -12,6 +12,7 @@ const cachedHashes = new Map();
  * @param {boolean} force if true ignores cache
  */
 export async function hashDirectory(root, force = false) {
+  root = path.resolve(root);
   if (!cachedHashes.has(root) || force) {
     cachedHashes.set(
       root,
@@ -85,3 +86,8 @@ process.on("exit", () => {
     JSON.stringify(Object.fromEntries(cacheMetadata.entries()))
   );
 });
+
+export function removeHashCacheOn(root) {
+  root = path.resolve(root);
+  cachedHashes.delete(root);
+}

@@ -5,13 +5,18 @@ import { doCachedAction, hashDirectory } from "./cache.js";
 import { ensureDir, pathExists, readJSON, writeJSON } from "./fs.js";
 import { CACHE_ROOT, DIST_ROOT, ROOT } from "./paths.js";
 import { asyncMap } from "@davecode/utils";
-import { Presets, SingleBar } from "cli-progress";
-import chalk from "chalk";
+import { SingleBar } from "cli-progress";
+import { format } from "./progress.js";
+
+export const processedNodes = new Map();
+export const processedLangNodes = new Map();
+export const rawNodes = new Map();
+export const nodeLists = new Map();
 
 /**
  * @param {import("./types").NodeCategory} category
  */
-export async function processNodeCategory(category) {
+export async function processNodeCategory(category, log = true) {
   const dataRoot = path.resolve(ROOT, category.name);
   const distRoot = path.resolve(DIST_ROOT, category.name);
   const cacheJSON = path.resolve(CACHE_ROOT, `category-${category.name}.json`);
@@ -24,17 +29,16 @@ export async function processNodeCategory(category) {
 
   const nodeList = await readdir(dataRoot);
 
-  console.log(`Processing ${nodeList.length} nodes from ${category.name}`);
-  const bar = new SingleBar(
-    {
-      fps: 10,
-      format: `${chalk.cyanBright("[{bar}]")} ${chalk.greenBright(
-        `{value}/{total} ({percentage}%)`
-      )} | ${chalk.yellowBright(category.name)}/${chalk.redBright(`{id}`)}`,
-    },
-    Presets.legacy
-  );
-  bar.start(nodeList.length, 0);
+  nodeLists.set(category.name, nodeList);
+  rawNodes.set(category.name, {});
+
+  const bar = log
+    ? new SingleBar({
+        fps: 10,
+        format,
+      })
+    : null;
+  bar?.start(nodeList.length, 0, { category: category.name });
 
   // Kick off all hashes in parallel
   nodeList.forEach((node) => hashDirectory(path.join(dataRoot, node)));
@@ -42,7 +46,7 @@ export async function processNodeCategory(category) {
   // Run node processing in sequence
   for (const id of nodeList) {
     const nodeRoot = path.resolve(dataRoot, id);
-    bar.increment(1, { id });
+    bar?.increment(1, { id });
 
     await doCachedAction("transform-node", nodeRoot, async () => {
       const filesInNodeRoot = await readdir(nodeRoot);
@@ -78,6 +82,7 @@ export async function processNodeCategory(category) {
       };
 
       const nodeJSON = await readJSON(path.join(nodeRoot, "node.json"));
+      rawNodes.get(category.name)[id] = nodeJSON;
 
       // mmmmm concurrency
       await Promise.all([
@@ -115,7 +120,8 @@ export async function processNodeCategory(category) {
       ]);
     });
   }
-  bar.stop();
+  bar?.update(nodeList.length, { done: true });
+  bar?.stop();
 
   await writeJSON(cacheJSON, Array.from(cache.entries()));
 
@@ -133,6 +139,9 @@ export async function processNodeCategory(category) {
   }
 
   await ensureDir(path.join(distRoot, "lang"));
+
+  processedNodes.set(category.name, nodes);
+  processedLangNodes.set(category.name, langs);
 
   await Promise.all([
     writeJSON(
@@ -152,4 +161,23 @@ export async function processNodeCategory(category) {
       })
     ),
   ]);
+}
+
+/** @param {string} id */
+export async function getRawNodes(id) {
+  const dataRoot = path.resolve(ROOT, id);
+  const nodes = rawNodes.get(id) ?? {};
+  const keys = Object.keys(nodes);
+
+  await Promise.all(
+    nodeLists
+      .get(id)
+      .filter((key) => !keys.includes(key))
+      .map(async (key) => {
+        nodes[key] = await readJSON(path.join(dataRoot, key, "node.json"));
+      })
+  );
+
+  rawNodes.set(id, nodes);
+  return nodes;
 }

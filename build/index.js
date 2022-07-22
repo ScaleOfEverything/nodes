@@ -26,3 +26,8 @@ await copyFile(
   path.join(ROOT, "build/static/index.html"),
   path.join(DIST_ROOT, "index.html")
 );
+
+await copyFile(
+  path.join(ROOT, "build/static/robots.txt"),
+  path.join(DIST_ROOT, "robots.txt")
+);
