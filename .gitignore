@@ -3,3 +3,8 @@ node_modules
 dist
 .cache
 yarn.lock
+bun.lockb
+pnpm-lock.json
+.DS_Store
+*.env
+.env
