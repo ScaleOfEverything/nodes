@@ -4,21 +4,155 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow" />
     <title>SOE Data Viewer</title>
+    <style>
+      body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        background-color: #fafafa;
+      }
+      main {
+        max-width: 750px;
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+      a {
+        color: #0066cc;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      code {
+        font-family: "Consolas", "Bitstream Vera Sans Mono", "Courier New",
+          monospace;
+        background-color: #101010;
+        color: #fff;
+        border-radius: 6px;
+        padding: 1px 3px;
+      }
+
+      h1 {
+        margin-top: 2rem;
+      }
+      h2 {
+        margin-top: 3rem;
+      }
+
+      .method {
+        color: #ffbd5b;
+      }
+      .token {
+        color: #ffb2d8;
+      }
+    </style>
   </head>
   <body>
-    <h1>Scale of Everything Data Source</h1>
-    <p>Version ID: <span id="version"></span></p>
-    <p>Built on: <span id="build-date"></span></p>
-
+    <main>
+      <h1>Scale of Everything Data Source</h1>
+      <p>
+        For more information on what this is, please visit
+        <a href="https://github.com/ScaleOfEverything/nodes"
+          >ScaleOfEverything/nodes</a
+        >
+        on GitHub. This is a deployment of the processed data, as well as this
+        metadata page. In the future, this page will also serve as a full data
+        explorer.
+      </p>
+      <p>Version ID: <code id="version"></code></p>
+      <p>Built on: <code id="build-date"></code></p>
+      <p id="editable">
+        <strong>This data source is editable.</strong>
+      </p>
+      <h2>Node Categories</h2>
+      <ul id="categories"></ul>
+      <h2>API Docs</h2>
+      <p>
+        You can use <code>GET</code> methods to read the data. In the future,
+        there will be a npm package to interface for you. The following
+        endpoints exist.
+      </p>
+      <!--  -->
+      <h3>
+        <code
+          ><span class="method">GET</span> /<span class="token">{category}</span
+          >/nodes.json</code
+        >
+      </h3>
+      <p>
+        JSON response for all nodes, in the format of an object mapping node ids
+        to their transformed data. If running in the development server, you
+        will get an extra <code>devServer</code> property that contains a
+        <code>rawNodes</code> object maps node ids to the raw source data.
+      </p>
+      <h4>Examples</h4>
+      <ul>
+        <li>
+          <a href="/universe/nodes.json"
+            >all universe nodes <code>/universe/nodes.json</code></a
+          >
+        </li>
+      </ul>
+      <!--  -->
+      <h3>
+        <code
+          ><span class="method">GET</span> /<span class="token">{category}</span
+          >/lang/<span class="token">{lang-code}</span>.json</code
+        >
+      </h3>
+      <p>
+        JSON response for all nodes's localized data in the specified language.
+        A "language node" by default contains a <code>name</code> and
+        <code>desc</code> properties, but some nodes may have additional data.
+      </p>
+      <h4>Examples</h4>
+      <ul>
+        <li>
+          <a href="/universe/lang/en-us.json"
+            >universe nodes in United States English
+            <code>/universe/lang/en-us.json</code></a
+          >
+        </li>
+      </ul>
+      <!--  -->
+      <h3>
+        <code
+          ><span class="method">GET</span> /<span class="token">{category}</span
+          >/assets/<span class="token">{node.id}</span>.png</code
+        >
+      </h3>
+      <p>
+        PNG image for a node. you can append <code>-lq</code> before the
+        extension to get a lower quality image. In the future, we will serve
+        <code>webp</code> and <code>avif</code> images, as well as options for
+        getting sprite sheets instead of single images per request.
+      </p>
+      <h4>Examples</h4>
+      <ul>
+        <li>
+          <a href="/universe/assets/ant.png"
+            >universe ant image <code>/universe/assets/ant.png</code></a
+          >
+        </li>
+      </ul>
+      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    </main>
     <script>
       async function main() {
         const data = await fetch("/build.json").then((r) => r.json());
         document.getElementById("version").textContent = data.id;
         document.getElementById("build-date").textContent = data.timestamp;
 
-        for (const type of data.nodeTypes) {
-          console.log(type);
+        if (!data.editable) {
+          document.getElementById("editable").remove();
+        }
+
+        for (const c of data.categories) {
+          const li = document.createElement("li");
+          li.innerHTML = `${c.name} (<a href="${
+            c.projectURL
+          }?data=${encodeURIComponent(location.origin)}">launch</a>)`;
+          document.getElementById("categories").appendChild(li);
         }
       }
       main();
